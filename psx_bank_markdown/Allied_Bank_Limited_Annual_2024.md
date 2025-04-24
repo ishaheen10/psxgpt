@@ -1,0 +1,11460 @@
+# Allied Bank
+
+# Corporate Affairs Group
+
+HO/cAG/RAU/2025/55
+
+March 03, 2025
+
+# The General Manager
+
+Pakistan Stock Exchange Limited
+
+Stock Exchange Building
+
+Stock Exchange Road
+
+Karachi
+
+# Sub: Transmission of Annual Report for the Year Ended December 31, 2024
+
+Dear Sir,
+
+We have to inform you that the Annual Report of Allied Bank Limited for the year ended December 31, 2024 have been transmitted through PUCARS and is also available on Bank's Website.
+
+You may please inform the TRE Certificate Holders of the Exchange accordingly.
+
+Yours Sincerely,
+
+Adeel Javaid
+
+Company Secretary & Chief Corporate Affairs Group
+
+# Encl:
+
+As above
+
+Allied Bank Limited, Head Office and Registered Office, 3-4 Tipu Block; Main Boulevard, New Garden Town, Lahore. Tel: +92-423-5880043 Website: WWW.abl.com
+
+# AlliedBank
+
+# Scaling New Heights
+
+# Twenty Years of Transformation
+
+# Annual Report 2024
+
+# AlliedBank
+
+# DIGITAL TRANSFORMATION JOURNEY
+
+# myABL Wallet
+
+Branchless Banking Virtual Touchpoint in Metaverse Revamp of myABL
+
+# Mobile Banking Unit (MBU)
+
+# Voice Assisted Banking
+
+# Cash Recycler ATM
+
+# Enterprise Loyalty Program (myABL Coins)
+
+|Allied Direct|Allied|Branch POS Machines|Digital Lending Platform|Second Hackathon|
+|---|---|---|---|---|
+|Online ATM|Internet Banking|Live Chat|Digital Lockers|Digital On-boarding Platform|
+|FCY Debit Cards|Coins| | |Third Hackathon|
+
+|1993|2005|2008|2017|2019|2021|2023|Virtual Debit Card|
+|---|---|---|---|---|---|---|---|
+|2001|2006|2012|2018|2020|2022|2024| |
+
+# Standalone ATM
+
+# Call Center
+
+# Offsite ATM
+
+# myABL
+
+# Self Service Kiosks (SSK)
+
+# FX Facilitation Portal
+
+# Allied Pay
+
+# Co-Badged Debit Cards
+
+# WhatsApp Banking
+
+# Merchant Acquiring
+
+# Interactive Teller Machine (ITM)
+
+# Open Banking Platform
+
+# First Hackathon
+
+# Big Data Analytics / AI Use Cases
+
+# Digital Account Opening
+
+# Digital Banking
+
+# Digital Signage
+
+# Self Services
+
+# Branches
+
+# PayPak
+
+# Debit card
+
+# OUR VISION
+
+To become a dynamic and efficient Bank providing integrated solutions in order to be the first choice bank for the customers
+
+# OUR MISSION
+
+- To provide value added services to our customers
+- To provide high tech innovative solutions to meet customers’ requirements
+- To create sustainable value through growth, efficiency and diversity for all stakeholders
+- To provide a challenging work environment and reward dedicated team members according to their abilities and performance
+- To play a proactive role in contributing towards the society
+
+# CORE VALUES
+
+- Integrity
+- High Performance
+- Excellence in Service
+- Innovation and Growth
+
+# SCALING NEW HEIGHTS: TWENTY YEARS OF TRANSFORMATION
+
+The theme of this year’s Annual Report, Scaling New Heights: 20 Years of Transformation, draws inspiration from the Bank’s recent K2 Base Camp trek—a journey that mirrors our two-decade-long commitment to sustainability, resilience and growth.
+
+During the expedition, our team collected 1,200 kgs of trash, underscoring our dedication to environmental stewardship. This effort was complemented by awareness sessions held for the local communities to promote awareness about sustainability and proper waste disposal—a reflection of our belief in empowering communities and fostering long-term change.
+
+As we celebrate 20 years of transformation, this Annual Report reflects on the milestones we’ve achieved, the challenges we’ve overcome and the future we are building. We have scaled new heights in financial innovation, customer-centric solutions and sustainable practices, all while maintaining a steadfast commitment to the communities we serve.
+
+Our theme encapsulates this journey of growth and transformation. It highlights our ability to navigate complex terrains, adapt to evolving landscapes, and emerge stronger, just as the K2 team did. It also serves as a reminder that true success lies not only in reaching the summit but in the legacy we leave behind—whether it’s through sustainable practices, community engagement or transformative financial solutions.
+
+# ABOUT THIS REPORT
+
+This Annual Report is prepared in accordance with the following regulations, frameworks and guidelines:
+
+- The International Integrated Reporting <IR> Framework issued in December 2014 by the International Integrated Reporting Council.
+- The Banking Companies Ordinance, 1962
+- The Companies Act, 2017
+- The Listed Companies (Code of Corporate Governance) Regulations, 2019 issued by the Securities and Exchange Commission of Pakistan.
+- International Financial Reporting Standards and Interpretations issued by the International Accounting Standards Board.
+- Islamic Financial Accounting Standards issued by the Institute of Chartered Accountants of Pakistan.
+- Directives issued by the State Bank of Pakistan and the Securities and Exchange Commission of Pakistan.
+
+This report is published within three months of the date of the Statement of Financial Position and is available in two mediums to cater the need of our various readers.
+
+- A limited number of printed reports have been produced to be dispatched to those who have requested for the same.
+- Readers can view and download our report through following weblink / QR Code: https://www.abl.com/investor-relations/financials/financial-reports/?consumernumber=
+
+# PRESERVING HERITAGE AND CULTURE
+
+# CONTENTS
+
+# IT Governance
+
+142 IT Governance and Cybersecurity Policy & Framework
+
+# Overview
+
+14 Integrated Reporting Framework and Cybersecurity
+
+143 Management of Cybersecurity Risks and Incidents
+
+This section provides information covering overview of the Bank and also contains message from the Chairman of the Board of Directors, CEO’s Review, Directors’ Report and our Products and Services.
+
+# About Allied Bank
+
+16 Corporate Information
+
+17 Network Outreach
+
+20 Journey Through Time
+
+22 Awards and Recognition
+
+# Performance
+
+148 Highlights of 2024
+
+149 Non-Financial Information
+
+and Position
+
+152 Analysis of Non-Financial Performance
+
+This section presents our analysis of financial and non financial information.
+
+153 Six years Vertical Analysis
+
+154 Six years Horizontal Analysis
+
+155 Statement of Financial Position
+
+158 Profit and Loss Account
+
+160 Financial Ratios
+
+161 Graphical Presentation of Financial Ratios
+
+162 Value Creation for Shareholders
+
+163 Sensitivity Analysis
+
+164 Economic Value Added
+
+165 Quarterly Performance
+
+166 Quarterly Performance Graphical Presentation
+
+167 Segment Analysis
+
+168 Cash Flow Statement
+
+170 Other Information
+
+# Outlook
+
+171 Group Reviews
+
+184 Forward Looking Statement
+
+185 Performance Meeting the Forward Looking Disclosures
+
+This section details the challenges and uncertainties that we are likely to face in the future and our strategies in place to overcome those challenges.
+
+187 Status of Major Projects
+
+187 Source of Information and Assumptions used for Projections and Forecasts
+
+187 Bank’s Future Research and Development Initiatives
+
+187 Bank’s Response to Critical Challenges and Uncertainties
+
+# Sustainability and Corporate Social Responsibility
+
+190 Corporate Sustainability
+
+193 Corporate Social Responsibility Report
+
+202 Adoption of International Standards for Corporate Responsibility
+
+# Financial Statements and Other Reports
+
+204 Unconsolidated Financial Statements
+
+312 Consolidated Financial Statements
+
+411 Pattern of Shareholding
+
+413 Notice of 79th Annual General Meeting
+
+416 Glossary
+
+419 Form of Proxy
+
+# ADOPTION OF INTERNATIONAL INTEGRATED REPORTING FRAMEWORK
+
+# ABOUT ALLIED BANK
+
+Allied Bank Limited was the first bank to be established in Pakistan. The Bank started its operations in Lahore by the name Australasia Bank before independence in 1942; upon nationalization in 1974, it was merged with 3 other banks and the name was changed to Allied Bank of Pakistan Limited. In August 2004, SBP under Scheme of Reconstruction transferred its ownership to a consortium of Ibrahim Group; consequently, the new management renamed the entity as Allied Bank Limited in 2005.
+
+The Bank offers full suite of banking products and services through a large network of 1,510 (Conventional: 1,348; Islamic: 160; Overseas: 1; EPZ: 1) online branches in over 601 cities and towns. The Bank also has a vast network of 1,604 ATMs across Pakistan.
+
+While holding on to its rich legacy, the Bank embarked on a transformation journey, with a focus on digitization to improve productivity and customer convenience.
+
+The Bank is forging new frontiers in creating sustainable value through high standards of corporate governance, digitization and superior asset quality, consequently, maintaining robust financial position with stable profitability.
+
+# Scope
+
+- Outlook
+- Basis of Preparation and Presentation
+
+Adoption of International Integrated Reporting Framework assists our readers in assessing our business by providing information about the state of affairs, connection between its financial and non-financial information, overall performance and outlook of the Bank in the form of a detailed qualitative and quantitative analysis. It fairly addresses the material matters pertaining to sustainability of the Bank and its integrated performance and describes the value creation process concisely including the business model, strategies, governance, processes, risks and opportunities. Integrated report benefits all stakeholders interested in the Bank’s ability to create value over time, including employees, customers, suppliers, business partners, local communities, legislators, regulators and policy makers. The report provides an overview of the Bank’s philosophy and value creation business model which enhances the user’s understanding as to how the Bank is working to improve its performance keeping in view the stakeholders’ interest.
+
+The Bank has fully adopted the International Integrated Reporting Framework and is providing the information in the annual report based on the fundamental concepts and guiding principles of the framework. There are three fundamental concepts underpinning Integrated Reporting:
+
+- Value creation, preservation or erosion for the Bank and for others.
+- The capitals, which are identified in the Framework as financial, manufactured, intellectual, human, social and relationship and natural capital.
+- Process through which value is created, preserved or eroded.
+
+# Contents
+
+The Bank has disclosed following key categories of information as required to be included in the Integrated Report under the Framework:
+
+- Organizational overview and external environment
+- Strategy and Resource Allocation
+- Risks and Opportunities
+- Business Model
+- Governance
+- Performance
+
+# Credit Rating
+
+The Bank is among the league of selected few, which have been awarded highest long-term and short-term entity credit ratings of AAA (Triple A) and A1+ (A One Plus) respectively by PACRA.
+
+# Corporate Governance Rating
+
+VIS Credit Rating Company Limited (VIS) has reaffirmed Corporate Governance Rating of Allied Bank Limited (ABL) at “CGR-9++” out of maximum scale of 10. This Corporate Governance Rating of CGR-9++ signifies very high level of Corporate Governance and indicates strong commitment of the Bank towards Governance Framework.
+
+# Parent Company
+
+Ibrahim Holdings (Private) Limited is the parent company of the Bank and its registered office is in Pakistan.
+
+# Subsidiary Companies
+
+The Bank holds 100% shareholding of ABL Asset Management Company Limited (ABL-AMC) and ABL Exchange (Private) Limited.
+
+Independent External Auditors, M/s EY Ford Rhodes Chartered Accountants have provided assurance on the Bank’s financial statements and their report is included in the Annual Report.
+
+# CORPORATE INFORMATION
+
+# Board of Directors
+
+Mohammad Naeem Mukhtar (Chairman)
+
+Sheikh Mukhtar Ahmad
+
+Muhammad Waseem Mukhtar
+
+Zafar Iqbal
+
+Nazrat Bashir
+
+Muhammad Kamran Shehzad
+
+Mian Ikram Ul Haq
+
+Aizid Razzaq Gill (Chief Executive Officer)
+
+# Shariah Board
+
+*Mufti Muhammad Iftikhar Baig (Chairman)
+
+Mufti Mahmood Ahmad
+
+Mufti Tayyab Amin
+
+*Mufti Muhammad Iftikhar Baig (Late) was Chairman Shariah Board as of 31st December 2024. However, he passed away on January 11, 2025.
+
+# Chief Financial Officer
+
+Muhammad Atif Mirza
+
+# Company Secretary
+
+Adeel Javaid
+
+# Auditors
+
+EY Ford Rhodes Chartered Accountants
+
+# Legal Advisor
+
+Mandviwalla & Zafar Advocates
+
+# Share Registrar
+
+CDC Share Registrar Services Limited (CDCSRSL)
+
+www.abl.com
+
+info@abl.com
+
+(+92-42) 35880043
+
+UAN: 111-225-225
+
+# Registered and Head Office
+
+Allied Bank Limited
+
+3 Tipu Block, New Garden Town
+
+Lahore 54000
+
+Pakistan
+
+# Network Outreach
+
+|Onsite ATMs|Overseas Representative Offices|Rural Branches|Offsite ATMs|
+|---|---|---|---|
+|316|243|1348|04|
+|Domestic Branches|Management Development Centres|Urban Branches|Mobile Banking Units|
+|1194|05|308|Islamic Banking Windows|
+|1419|Digital Touchpoints|Banked Branches|08|
+|Overseas Branches|91|Un-Banked Digital Branches|Self Service Branches|
+|37| | | |
+
+Annual Report 2024
+
+# TWENTY YEARS OF TRUST, GROWTH EXCELLENCE
+
+2024 marks the Twenty (20) Years milestone of recapitalization of Allied Bank Limited by the Ibrahim Group. The journey from its recapitalization in 2004 to becoming one of the leading banks in Pakistan in 2024 is a story of strategic vision, robust management and consistent performance.
+
+The year 2004 marked a turning point for Allied Bank. Facing financial distress, the State Bank of Pakistan undertook the reconstruction of the capital of the Allied Bank under the instructions of the Privatisation Commission of Pakistan whereby Ibrahim Group took over the control of the Bank. This not only stabilized the Bank’s financial position but also led to a change in ownership and management. Subsequently, the Bank was renamed Allied Bank Limited in 2005, heralding a new era of growth and transformation with a Vision “To become a dynamic and efficient Bank providing integrated solutions in order to be the first-choice Bank for customers”.
+
+Under the stewardship of the new Board and Management, Allied Bank embarked on a journey of rapid expansion and technological advancement. The Bank invested heavily in modernizing its infrastructure, introducing state-of-the-art banking technologies and expanding its branch network. The Bank’s focus on digital transformation not only enhanced customer experience but also improved operational efficiency.
+
+Building on the foundations, the Bank continued to strengthen its market position characterized by impressive financial performance. Allied Bank consistently posted strong financial results, with significant growth in deposits, advances and profitability. The Bank’s prudent risk management practices, combined with a diversified product portfolio, contributed to its robust performance.
+
+In the last few years, Allied Bank has placed a strong emphasis on sustainability and corporate social responsibility (CSR). The Bank has undertaken numerous initiatives aimed at promoting financial inclusion, supporting education and contributing to environmental sustainability. The Bank’s commitment to CSR is reflected in its various programs, including scholarships for underprivileged students, support for healthcare initiatives and efforts to reduce its carbon footprint. Allied Bank’s focus on sustainability is not only aligned with global best practices but also resonates with the Bank’s vision of creating long-term value for its stakeholders.
+
+During the year 2024, Allied Bank celebrated its rich history and transformation journey by holding events in Lahore, Karachi, Islamabad and Multan. These celebrations were a testament to the dedication and hard work of the Bank’s employees, who have played a pivotal role in the Bank’s success over the past two decades. The events provided an opportunity to reflect on the Bank’s achievements, recognize the contributions of its employees and envision the future with renewed enthusiasm.
+
+Today, the Bank stands as a financially robust institution with a deposit base of over Rs. 2 trillion, total asset base exceeding Rs. 2.8 trillion and a diverse portfolio of advances supplemented by industry’s lowest NPL and highest Capital Adequacy Ratio. The branch network of the Bank has grown to over 1,500 branches across the country, offering a wide range of products and services to cater to the diverse needs of its customers.
+
+As Allied Bank Limited celebrates its 20-year journey since recapitalization, it stands as a testament to the power of strategic vision, effective management, and unwavering commitment to excellence. The Bank’s transformation from a financially distressed entity to a market leader is a story of resilience, innovation and growth.
+
+With a strong foundation and a clear vision for the future, Allied Bank is well-positioned to continue its legacy of excellence and contribute to the economic development of Pakistan. The Bank has been honoured multiple times on international platforms by world-renowned organizations, including The Banker (Financial Times Group, U.K.), FinanceAsia and Euromoney – a true testament to Allied Bank’s achievements.
+
+# JOURNEY THROUGH TIME
+
+# 2006
+
+Bank of the year - Pakistan Award by “The Banker”
+
+Implementation of Oracle Financials Enterprise General Ledger
+
+# 1974
+
+Agreement with Temenos for acquisition of T-24 Core Banking solution
+
+# 2004
+
+Recapitalization of Allied Bank Limited and handing over of Management to Ibrahim Group
+
+# 2008
+
+Merger of First Allied Bank Modaraba with Allied Bank Limited
+
+ATM Network surpassed 500 (Largest ATM Network)
+
+1st Offsite ATM installed in Karachi
+
+# 1990-99
+
+26% shares of the Bank disinvested by the Government
+
+Management control and administration transferred to employees backed Allied Management Group (AMG) in 1991
+
+# 1971
+
+Separation of East Pakistan (now Bangladesh) resulted in loss of 51 branches
+
+# 1947
+
+Independence of Pakistan (Branches in areas partitioned to India closed down)
+
+# 1942
+
+Establishment of Australasia Bank at Lahore (First Bank in Subcontinent Owned by a Muslim Family), with Rs. 0.12 million Share Capital
+
+Branch network grew to 186 branches by the end of 1973
+
+# 1972-73
+
+The Bank commenced operation in United Kingdom and opened 4 branches in 1980s
+
+# 1975-89
+
+Branch network and Deposits grew steadily over time
+
+# 1943-46
+
+Annual Report 2024
+
+# 2014
+
+Achieved milestone of opening 1000th branch
+
+# 2018
+
+Achieved highest credit rating of “AAA” by PACRA
+
+# 2016
+
+Core banking application Temenos T-24 upgraded to R-16
+
+# 2020
+
+Deposits of the Bank surpassed Rs. 1.5 Trillion.
+
+Gross Advances surpassed Rs. 1 Trillion
+
+# 2010
+
+Implementation of Loan Origination System
+
+# 2012
+
+Established Islamic Banking Group
+
+Debit Cards issuance surpassed 1 million cards in circulation
+
+# 2015
+
+Achieved milestone of installing 1000th ATM
+
+# 2017
+
+Achieved milestone of installing 1500th ATM
+
+# 2023
+
+Launched myABL WhatsApp Banking
+
+# 2021
+
+Launched “my Pakistan Digital Account”
+
+# 2022
+
+Awarded Best Digital Bank and Best Domestic Islamic Bank by Euromoney
+
+# AWARDS AND RECOGNITION
+
+# AWARDS
+
+|Euromoney 2024|Euromoney Islamic Finance Awards 2024|Finance Asia Awards 2024|
+|---|---|---|
+|Best Digital Bank|Pakistan’s Best Digital Bank|Best Domestic Bank|
+| |Most DEI Progressive Bank|Most DEI Progressive Banks|
+
+# RAMKINGZFINANCE
+
+|Gender Diversity|The Pakistan Business Council (PBC), along with the World Bank Group’s International Finance Corporation (IFC)|
+|---|---|
+|GDEIB Awards 2025|ABF Corporate & Investment Banking Awards 2024|
+| |Finance Asia Awards 2024|
+|Employer of Choice Award - Employer of Choice|Recruitment, DEI Learning and Development|
+|Syndicated Loan of the Year|Best Bank for Financial Inclusion|
+| |Best Sustainable Bank|
+
+22 Annual Report 2024
+
+23
+
+# AWARDS AND RECOGNITION
+
+# Euromoney Awards
+
+FinanceAsia
+
+- Best Domestic Bank
+- Pakistan’s Best Digital Bank
+- Most Diversity Equity Inclusion
+- Progressive Bank
+- Most Innovative use of Technology
+
+# Euromoney Islamic Finance Awards
+
+- Best Bank for Financial Inclusion
+- Pakistan’s Best Domestic Islamic Bank
+- Best Sustainable Bank
+
+# Global Diversity & Inclusion Benchmarks (GDIB)
+
+- ‘Best Practice in Industry Bank’ in RECRUITMENT category
+- ‘Best Practice in Industry Bank’ in DEI LEARNING AND DEVELOPMENT category
+
+# The Asset Triple A Awards
+
+For Sustainable Finance 2024
+
+# Best Deals
+
+Significant Deals of the Year
+
+# Pakistan Digital Awards
+
+- Best Customer Relationship Management (CRM) Technology Award
+- Best Augmented & Virtual Reality – ABL Metaverse Branch 2024
+
+# VISA Incorporation
+
+- Excellence in Card Issuance in Pakistan
+
+# Future Banking and Summit at Expo 2024
+
+- Best Bank for Startup Support 2023-24
+
+# CFA Society Pakistan
+
+- Runner-Up in Best ESG Bank Category
+
+# SBP - Excellence in Financial Literacy Awards
+
+- 2nd Runner-Up - Financial Literacy Champion Bank 2024
+
+# National Forum for Environment and Health (NFEH)
+
+- Corporate Governance
+- Technology, Innovation and Inventions
+- Women Welfare, Empowerment and Development
+- Green Energy Initiatives
+
+# BOARD OF DIRECTORS
+
+|Sheikh Mukhtar Ahmad|Mohammad Naeem Mukhtar|Muhammad Waseem Mukhtar|
+|---|---|---|
+|Non-Executive Sponsor Director|Chairman / Non-Executive Sponsor Director|Non-Executive Sponsor Director|
+
+Sheikh Mukhtar Ahmad instituted his business career immediately after migrating from the India at the time of independence of Pakistan in 1947 and has contributed to the industrial and business growth of Pakistan through his entrepreneurship skills and business acumen. He has over sixty-three years of experience in establishing and successfully managing various industrial and financial companies. He has been on the Board of Directors of Allied Bank Limited since 2005 and is a “Certified Director” from Pakistan Institute of Corporate Governance. He is Chairman on the Board of Directors of Ibrahim Fibres Limited, Ibrahim Holdings (Private) Limited and Ibrahim Welfare Foundation.
+
+Mr. Mohammad Naeem Mukhtar is the Chairman of Board of Directors of the Bank since 2004. He has a Master of Business Administration degree from Cardiff Business School United Kingdom, Post Graduate diploma in Textiles from United Kingdom and Chartered Textile Engineer (CText ATI) certification from The Textile Institute in Manchester, United Kingdom. He has over thirty-nine years of experience of Finance and Industrial Manufacturing. He is Chief Executive Officer of Ibrahim Fibres Limited, Ibrahim Holdings (Private) Limited and Ibrahim Welfare Foundation. In addition, he is also on the Board of Directors of Ibrahim Agencies (Private) Limited, ABL Asset Management Company Limited, Karachi Education Initiative and Pakistan German Business Forum. He is member of the Board of Governors of National Management Foundation, the parent body of Lahore University of Management Sciences (LUMS).
+
+He is also representing the Bank at Pakistan Business Council and is Industry Co-Chair Banking Sector of National University of Sciences and Technology (NUST) Corporate Advisory Council as well as Senior Fellow at Global Think Tank Network (GTTN).
+
+Mian Ikram Ul Haq
+
+Aizid Razzaq Gill
+
+# Board of Directors
+
+| | |Muhammad Kamran|Zafar Iqbal|Nazrat Bashir|Shehzad|Mian Ikram Ul Haq|Aizid Razzaq Gill|
+|---|---|---|---|---|---|---|---|
+|Non-Executive Director|Independent Director|Independent Director|Independent Director|Chief Executive Officer| | | |
+
+Mr. Zafar Iqbal is a Fellow member of Institute of Chartered Accountants in England & Wales (ICAEW) and the Institute of Chartered Accountants of Pakistan (ICAP). He has thirty-nine years of experience in senior management positions in financial and power generation sectors. He was the Managing Director and Chief Executive Officer of Pak Oman Investment Company Limited, a Development Finance Institution owned jointly by the Governments of Pakistan and Sultanate of Oman. During his eight years stay at Pak Oman Investment Company Limited, he led the company in becoming the leading Development Financial Institution in its peer group. Over the past twenty-three years, he has served as member of the Board of Directors of number of listed and non-listed companies and financial institutions. He is a “Certified Director” from Pakistan Institute of Corporate Governance. He specializes in Investment Banking, Corporate Finance, Capital Markets, Leasing, Aircraft Financing and Energy and Power Generation.
+
+Ms. Nazrat Bashir belongs to Pakistan Administrative Service. She retired in BPS-22 from the Government service. Her academic qualifications are Master’s in Economics from New York University, United States of America and Master’s in Psychology from University of Peshawar. She is a “Certified Director” from the Pakistan Institute of Corporate Governance. She has over thirty-six years of diversified civil service experience to her credit. During her career in different ministries, she served as Additional Finance Secretary, Finance Division, Government of Pakistan; Managing Director, Public Procurement Regulatory Authority and Senior Advisor, Wafaqi Mohtasib Secretariat. She also held directorship in various Government and Semi Government Organizations and has attended numerous conferences, workshops, seminars in Pakistan and abroad. Presently, she is member of Certification Panel of Pakistan Centre for Philanthropy. She is on the Board of Directors of the Bank since August 2015.
+
+Mr. Muhammad Kamran Shehzad has over forty-nine years of diverse experience in banking, finance, and accounting. He possesses more than thirty-six years of experience in senior leadership roles within both commercial banks and the State Bank of Pakistan (SBP), where he notably served as a Deputy Governor and Managing Director of the SBP Banking Services Corporation. He also served as Banking Mohtasib Pakistan, where he was instrumental in resolving complex banking disputes. His academic qualifications include an MBA degree with specialization in Finance. As an Independent Director, Mr. Kamran chairs the Audit Committee of the Board.
+
+Mian Ikram Ul Haq career spans over five decades in banking and finance. His extensive experience includes important roles across major financial institutions in Pakistan and abroad. He has served on the Board of Ibrahim Fibres Limited and Industrial Development Bank of Pakistan. A strong academic background complements his professional expertise, with an MBA degree in International Business and Finance from the University of Hartford, United States of America, Bachelor of Laws from Punjab University and specialized training programs from prestigious institutions worldwide. He is a “Certified Director” from The Institute of Chartered Accountants of Pakistan.
+
+Mr. Aizid Razzaq Gill is a seasoned banker with twenty-eight years of experience in Financial Management, Risk Analysis & Research and Portfolio Management in Corporate and Commercial Banking. Since joining the Bank in 2005 as Regional Corporate Head, he has held senior roles, including Head-Commercial Assets, Head of Commercial & Retail Risk, Group Head Corporate & Financial Institutions Risk and Group Head Liabilities. Before becoming CEO, he served as Chief Risk Officer of the Bank. Mr. Gill serves as a Director at ABL Asset Management Company and represents the Bank at MAP and PBC. He is a Certified Director from the Pakistan Institute of Corporate Governance.
+
+# CHAIRMAN’S MESSAGE
+
+# Mohammad Naeem Mukhtar
+
+# Chairman Board of Directors
+
+# Global and National Economic Overview
+
+The global economy demonstrated notable resilience in 2024, achieving moderate growth despite challenging conditions. Central banks’ monetary policy measures successfully began to curb inflationary pressures worldwide. While we’re witnessing encouraging signs of stabilization, potential risks remain due to ongoing geopolitical tensions and trade disputes. The International Monetary Fund (IMF) forecasts global GDP growth at 3.2% for 2024–a moderate figure compared to the pre-pandemic average of 3.7%. Global inflation projections have been slightly revised downward from 5.8% to 5.7%, according to the October 2024 World Economic Outlook.
+
+Pakistan’s economy showed resilience and positive momentum throughout 2024, with improving macroeconomic fundamentals. Tightened monetary policy effectively eased inflationary pressures, while disciplined fiscal management facilitated a shift toward fiscal surplus. Improved export performance and increased remittance inflows strengthened our current account position, reflecting a more stable external sector. The IMF revised Pakistan’s GDP growth forecast to 2.5% for 2024–slightly higher than its earlier 2.4% estimate–marking a significant turnaround from the 0.2% contraction recorded in 2023. The State Bank of Pakistan (SBP) similarly projects 2.5% economic growth.
+
+Against this backdrop, the domestic banking sector delivered strong performance in 2024, with increases in total assets, investments, and deposits.
+
+# Digital Transformation in Banking
+
+The banking industry has undergone a profound transformation with the adoption of digital technologies, driven by customer demand for convenience, speed, and personalized experiences. Competition from fintech firms and evolving regulatory requirements have further accelerated innovation. In response, the banking sector has strategically integrated technological advancements including:
+
+- Artificial Intelligence: AI utilizes algorithms and neural networks to process vast data amounts, enabling more informed decisions. AI-driven machine learning models continuously improve fraud detection, credit scoring, and customer segmentation. AI-powered chatbots and virtual assistants efficiently handle customer queries, reducing reliance on human agents while improving service quality.
+- Quantum Computing: By processing data significantly faster than classical systems and analysing millions of market variables in real-time, quantum computing enables advanced solutions for complex calculations, precise investment recommendations, and enhanced portfolio management.
+- Cryptography: Banks extensively use cryptography to secure transactions, protect customer data, and authenticate users. It forms the foundation for technologies such as blockchain and tokenization, ensuring secure and transparent financial operations.
+- Blockchain and Distributed Ledger Technology (DLT): These enhance data transparency, immutability, and decentralization, addressing inefficiencies in traditional banking. They enable cost-effective cross-border payments and streamline global trade through smart contracts. Central Bank Digital Currencies (CBDCs) built on DLT offer secure, efficient transactions, accelerating remittances and digital payments in underserved regions.
+- Regulatory Technology (RegTech): To mitigate compliance risks, banks leverage RegTech innovations to automate processes, reduce costs, and ensure adherence to legal standards. These technologies streamline KYC procedures using AI for identity validation and enhance anti-money laundering efforts through real-time detection of suspicious transactions.
+- Green Fintech: This focuses on technologies promoting environmental sustainability and aligning financial practices with Environmental, Social, and Governance (ESG) goals. Platforms like Stripe Climate help assess carbon footprints of financed projects, while AI algorithms evaluate and prioritize funding for renewable energy initiatives.
+
+# National Payment Ecosystem Advancements
+
+The national payment ecosystem has experienced significant advancements, with continued growth in digital payments driven by increasing accessibility and adoption. Electronic Money Institutions (EMIs) and Branchless Banking (BB) providers are introducing innovative products and services that pave the way for a more digitalized economy. The introduction of QR-based payments through Raast is reducing transaction costs for merchants while contributing to broader adoption of digital payments.
+
+The SBP has initiated several measures to accelerate economic digitization, including:
+
+- Onboarding various private and public sector entities onto the Raast platform
+- Integrating Raast-Buna for cross-border payment settlement in the Arab region
+- Launching interoperable Raast P2M (Person to Merchant) services to facilitate digital payment acceptance through QR codes, Raast Alias, IBAN, and Request to Pay (RTP)
+
+The myABL Coins loyalty program incentivizes customer engagement by allowing users to earn points for transactions made through ABL Debit and Credit Cards, both locally and internationally.
+
+# Allied Bank’s Digital Innovations
+
+Recognizing AI’s transformative potential, Allied Bank has developed a Large Language Model (LLM) using the OpenAI ChatGPT platform. By integrating Account Retrieval Augmented Generation (RAG), this initiative enables Generative AI solutions for various applications. We’ve introduced an AI-powered chatbot, ABL - اع�و�ن (ABL Assistant), which provides precise, up-to-date information by referencing the Bank’s instruction circulars, HR policies, procedure manuals, and related documents–generating responses automatically without human intervention.
+
+The implementation of hybrid and smart branches, along with the successful onboarding of over 2 million registered myABL users, has optimized our Digital-to-Counter Transaction Mix, maintaining an impressive ratio of 85:15 as of December 31, 2024.
+
+# Financial Strength and Recognition
+
+Allied Bank has maintained prudent stewardship of its strong capital position by consistently growing low and no-cost deposits while optimizing funding structure through reduction in high-cost deposits. This approach is reinforced by our commitment to maintaining a high-quality asset portfolio. Our low infection ratio, strong coverage ratio, and resilient Capital Adequacy Ratio collectively highlight our robust risk management framework.
+
+The Pakistan Credit Rating Agency (PACRA) has reaffirmed Allied Bank’s Long-Term and Short-Term credit ratings at the highest levels of “AAA” (Triple A) and “A1+” (A One Plus), respectively. This recognition places us among an exclusive group of financial institutions consistently maintaining the highest entity credit ratings.
+
+VIS Credit Rating Company Limited has reaffirmed our Corporate Governance Rating at ‘CGR-9++’, reflecting the Board and management’s commitment to maintaining strong and effective governance structures.
+
+# Corporate Social Responsibility
+
+Allied Bank remains committed to meaningful societal contributions through comprehensive Corporate Social Responsibility (CSR) initiatives. With a focus on fostering an agile and professionally enriching work environment, we prioritize gender diversity and uphold principles of equitable opportunity. We reinforce our commitment to environmental sustainability through eco-friendly operational practices and extensive tree plantation programs. Additionally, we engage stakeholders through customer awareness sessions, organize cleanliness campaigns in public spaces, and actively invest in academic collaborations and sponsorship ventures.
+
+# Acknowledgments
+
+On behalf of the Board of Directors, I extend profound gratitude to the regulatory authorities, including the State Bank of Pakistan, Securities and Exchange Commission of Pakistan, and Federal Board of Revenue, for their guidance and support. Their collaborative engagement remains integral to our adherence to excellence in governance and compliance.
+
+I convey my deepest appreciation to our valued shareholders for their enduring trust and unwavering confidence in the Bank’s long-term strategic aspirations. Finally, I acknowledge the leadership of Allied Bank’s management team and the dedication of our more than 13,000 Allied Bankers. Their efforts, unwavering commitment, and invaluable contributions have been instrumental in strengthening Allied Bank’s resilience and enhancing its stature as a technologically advanced financial institution.
+
+# FUTURE OUTLOOK
+
+The IMF expects global economic growth to remain stable despite ongoing macroeconomic challenges, projecting global GDP growth at 3.3% for both 2025 and 2026. Domestically, the IMF has revised Pakistan’s GDP growth projection for 2025 to 3.0%, a slight downward adjustment from its earlier 3.2% estimate. The SBP’s Monetary Policy Committee expects GDP growth for FY25 to remain between 2.5% and 3.5%. For 2026, the IMF maintains its growth forecast at 4.0%.
+
+The future of banking relies on a platform-based operating model integrating advanced technologies with core systems. This approach seamlessly connects financing, payments.
+
+Mohammad Naeem Mukhtar
+Chairman Board of Directors
+February 04, 2025
+
+# CEO’S REVIEW
+
+# Aizid Razzaq Gill
+
+# Chief Executive Officer
+
+# Global and National Economic Overview
+
+The global economy is on a path of gradual recovery, experiencing moderate growth in 2024. Inflation continues to cool down as most of the world’s major central banks have initiated rate-cutting cycles. However, growth remains uneven across different regions, with emerging markets and developing economies generally outpacing advanced economies. The International Monetary Fund (IMF), in its January 2025 World Economic Outlook (WEO), has maintained its global growth estimate at 3.2% for 2024.
+
+In 2024, Pakistan’s economy exhibited a modest recovery, with GDP growth estimated at 2.5%. Inflationary pressure has eased significantly after peaking at 38.0% in May 2023, due to tightened fiscal and monetary policies. CPI inflation decreased to 4.1% on a year-on-year basis in December 2024, compared to 29.7% in December 2023. Pakistan’s banking industry demonstrated strong performance, with total assets expanding 16% to Rs. 52,285 billion. This growth was augmented by a 15% increase in net investments and a 30% escalation in gross advances, reflecting enhanced credit deployment. Concurrently, deposits registered a 9% expansion, reaching Rs. 30,283 billion, underscoring liquidity resilience. These financial indicators affirm the sector’s stability and sustained growth.
+
+# Allied Bank’s Financial Performance
+
+The year 2024 marked another successful period for Allied Bank, showcasing noteworthy performance across key metrics:
+
+- Total assets expanded by 21% to reach Rs. 2,817 billion, demonstrating prudent management and strategic asset allocation.
+- Gross advances surged by 34%, complemented by a reduction in infection ratio to 1.22%, reflecting a fortified credit portfolio and robust risk management framework.
+- Net markup income rose to Rs. 115 billion, driven by optimized fund deployment and a disciplined investment strategy.
+- Non-markup income witnessed substantial growth, with capital gains up by 308% and fee income increasing significantly.
+
+# Service Excellence
+
+Allied Bank prioritizes service quality as a core strategic pillar, ensuring customer satisfaction, loyalty, and operational efficiency. We continuously enhance customer experience through technology-driven solutions and personalized services. Key initiatives include:
+
+- Highly Skilled Workforce: Trained staff with in-depth product knowledge for swift and effective customer support.
+- Efficient & Seamless Service: Investments in technology to enhance transaction processing and reduce wait times.
+- Customer Support Officers: Deployed in high-traffic branches to ensure consistent service excellence.
+- Queue Management & Self-Service Kiosks: Optimized branch operations with faster and more convenient service.
+- Digital Banking Leadership: myABL Digital Banking and WhatsApp Banking offer 24/7 accessibility.
+- Customer-Centric Enhancements: Feedback-driven improvements through mystery shopping and satisfaction surveys.
+- Commitment to Continuous Growth: Service Quality & Complaint Management (SQ&CM) framework ensures ongoing enhancements.
+
+# Corporate Social Responsibility
+
+Allied Bank remains committed to Corporate Social Responsibility as a cornerstone of its long-term strategic vision. Upholding principles of meritocracy and inclusivity, the Bank fosters a progressive work environment while advancing sustainable and socially responsible initiatives. Demonstrating environmental stewardship, we integrate eco-conscious operational frameworks, drive large-scale tree plantation campaigns, and promote sustainability awareness. Under our “Green Initiatives” campaign, the Bank launched a nationwide cleanliness drive, “Mil Kay Lagaen Gay Jaan – To Hoga Saaf Pakistan.” Notably, Team ABL executed a Cleanliness Drive at K2 Base Camp (5,200 meters above sea level) in collaboration with Central Karakoram National Park (CKNP).
+
+# Risk Management
+
+Allied Bank’s Risk Management function remains committed to fortifying resilience through a dynamic risk framework, integrating robust assessment models, automated monitoring systems, and a structured governance approach. Key risk functions—including Corporate and Financial Institutions Risk, SME and Consumer Risk, Credit Administration, and Enterprise Risk—operate in unison to uphold superior asset quality and optimize capital efficiency. The Bank has developed an advanced Risk Assessment and Management System (RAMS) to streamline credit risk evaluation and ensure one of the industry’s lowest infection ratios. Cybersecurity remained a priority, with significant investments in:
+
+- Security Operations Center (SOC) upgrades.
+- Compliance with PCI DSS and Swift CSP standards.
+- Implementation of ISO 27001:2022 standards.
+
+We strengthened fraud prevention mechanisms, conducted extensive vulnerability assessments, and deployed behaviour-based threat detection tools to safeguard information assets.
+
+# Subsidiaries’ Performance
+
+ABL Exchange (Private) Limited, a wholly owned subsidiary of Allied Bank, was incorporated in Pakistan on December 15, 2023, with a paid-up capital of Rs. 1 billion.
+
+# K2 EXPEDITION 2024
+
+capital of Rs. 1 billion. The Company commenced operations on May 24, 2024, engaging in foreign exchange business. As of December 31, 2024, ABL Exchange (Private) Limited has established a network of 21 booths across the country. ABL Asset Management Company Limited (ABL Funds) continues to be one of the fastest-growing Asset Management Companies in Pakistan. ABL Funds holds the distinction of the highest Asset Manager Rating of AM1, reaffirmed by PACRA. In 2024, ABL Funds achieved historic growth with total Assets Under Management reaching Rs. 367 billion as of December 31, 2024.
+
+# FUTURE OUTLOOK
+
+The IMF projects global economic growth to stabilize despite persistent inflation, geopolitical uncertainties, and monetary policy adjustments. Global GDP growth is forecasted at 3.3% for both 2025 and 2026. Domestically, Pakistan’s GDP growth is projected at 3.0% for 2025, revised down from 3.2%, while the 2026 forecast remains at 4.0%. The SBP’s Monetary Policy Committee anticipates GDP growth between 2.5% and 3.5% for FY’25, with inflation averaging between 5.5% and 7.5%.
+
+Looking ahead, Allied Bank remains committed to driving sustainable growth, strengthening financial resilience, and enhancing digital transformation to meet evolving market dynamics. With a strategic focus on innovation, risk management, and customer-centric solutions, we aim to expand our market presence while maintaining operational excellence.
+
+# Awards and Recognition
+
+Allied Bank’s commitment to providing global standard uninterrupted services to customers with ease and convenience has been acknowledged at international and domestic forums. During the period, the Bank received several recognitions, including:
+
+- FinanceAsia awards in the following categories:
+- Best Domestic Bank
+- Best Bank for Financial Inclusion
+- Best Sustainable Bank
+- Most DEI Progressive Bank
+- Most Innovative Technology
+- Pakistan’s Best Digital Bank 2024 - Euromoney Awards for Excellence
+- Pakistan’s Best Domestic Islamic Bank 2024 - Euromoney Islamic Finance Awards
+- Employer of Choice Award - Gender Diversity & Inclusion by The Pakistan Business Council along with the World Bank Group’s International Finance Corporation (IFC)
+- Global Diversity & Inclusion Benchmarks:
+- ‘Best Practice in Industry Bank’ in RECRUITMENT category
+- ‘Best Practice in Industry Bank’ in DEI LEARNING AND DEVELOPMENT category
+
+# Credit Ratings
+
+Allied Bank’s strong and resilient financial position, adept at navigating economic cycles and mitigating unforeseen shocks, has consistently delivered stable results. This financial strength led the Pakistan Credit Rating Agency Limited (PACRA) to reaffirm the Bank’s highest long-term and short-term entity credit ratings of AAA (Triple A) and A1+ (A One Plus), underscoring the organization’s exceptional credit quality and financial stability. To uphold the highest governance standards, the Bank undergoes an annual independent evaluation of its corporate governance practices. VIS Credit Rating Company Limited has reaffirmed the Bank’s Corporate Governance Rating at ‘CGR-9++,’ signifying a high level of corporate governance. This rating reflects the Board and management’s strong commitment to maintaining a robust governance framework.
+
+# Acknowledgments
+
+I would like to convey my profound appreciation to the esteemed Board of Directors for their exemplary leadership and strategic foresight. I also acknowledge that the expertise, unwavering dedication, and professionalism of our team members serve as the cornerstone of our collective success in realizing our Bank’s vision. My sincere gratitude extends to our highly valued customers for their continued trust and confidence in our products and services. Furthermore, I extend my deepest appreciation to the State Bank of Pakistan, Securities and Exchange Commission of Pakistan, and other regulatory authorities for their invaluable guidance and unwavering support.
+
+Aizid Razzaq Gill
+Chief Executive Officer
+February 04, 2025
+
+# CELEBRATED PERFORMANCE AWARDS 2024
+
+# OUR
+
+# Employee of the Year 2024
+
+|1st position|Bank Level|JR walmdl WNcith|
+|---|---|---|
+|2nd position|(No 3l0)|Z,DH|
+| |Lal|m|
+| |Ibic|iag_|
+| |kingl| |
+
+38 Annual Report 2024
+
+39
+
+# DIRECTORS’ REPORT
+
+Dear Shareholders,
+
+On behalf of the Board of Directors, we are pleased to present the Annual Report of Your Bank for the year ended December 31, 2024.
+
+The operating results and appropriations, as recommended by the Board of Directors are included in the appended table:
+
+|Year ended December 31,|2024|2023|Growth|
+|---|---|---|---|
+|Profit after tax for the year|43,116|40,683|6|
+|Accumulated profits brought forward|100,767|79,653|27|
+|Transferred from surplus on revaluation of non-banking assets to un-appropriated profit – net of tax|3|1|133|
+|Transferred from surplus on revaluation of fixed assets to un-appropriated profit – net of tax|174|69|152|
+|Transfer of surplus on account of disposal of equity investment - net of tax|1,330|-|100|
+|Re-measurement on defined benefit obligation - net of tax|604|488|24|
+|Profit available for appropriation|145,994|120,894|21|
+|Final cash dividend for the year ended December 31, 2023: Rs. 4.00 per share|(4,580)|(2,863)|60|
+|First interim cash dividend for the year ending at December 31, 2024: Rs. 4.00 per share|(4,580)|(2,863)|60|
+|Second interim cash dividend for the year ending at December 31, 2024: Rs. 4.00 per share|(4,580)|(2,863)|60|
+|Third interim cash dividend for the year ended December 31, 2024: Rs. 4.00 per share|(4,580)|(3,435)|33|
+|Transfer to Statutory Reserves|(4,312)|(4,068)|6|
+|Accumulated profits carried forward|123,362|104,802|18|
+|Earnings Per Share (EPS) (Rs.)|37.65|35.53|6|
+
+The Board of Directors has proposed a final cash dividend of Rs. 4.00 per share (aggregate cash dividend of Rs. 16.00 per share including interim dividends). This, together with the interim cash dividends declared during 2024, will be approved in the forthcoming Annual General Meeting.
+
+# Macroeconomic Developments
+
+The year 2024 began with uncertain expectations regarding economic recovery. However, the global economy showed signs of stabilization in both advanced and emerging markets as inflationary pressures, high policy rates and lingering post-pandemic effects gradually subsided. In the medium term, geopolitical tensions, such as trade disputes and ongoing geographic conflicts may continue to challenge macroeconomic stability. International Monetary Fund (IMF), in its January 2025 World Economic Outlook (WEO), has maintained global growth forecast of 3.2% for 2024, aligning with its projection from January 2024 WEO.
+
+As a result of monetary tightening measures implemented by central banks worldwide, the global economy is emerging from one of the most significant inflation surges in recent years. Consequently, the IMF, in its January 2025 WEO, has revised its global inflation forecast, projecting a decline to 5.7% in 2024 slightly lower than its earlier projection of 5.8% in the October 2024 publication.
+
+Pakistan’s economy demonstrated positive progress in 2024, with key macroeconomic indicators showing improvement. Inflation has slowed due to monetary policy measures, effective fiscal consolidation has led to a fiscal surplus, and rising exports and remittances have contributed to a surplus in the current account.
+
+The agriculture sector has also shown improvements, supported by the timely availability of essential farm inputs, agricultural credit, quality seeds, fertilizers, and mechanization support. Agriculture credit disbursement increased by 8.5% reaching Rs. 925.7 billion during Jul-Nov FY’25, compared to Rs. 853.0 billion during Jul-Nov FY’24.
+
+The Large-Scale Manufacturing (LSM) sector experienced a decline of 1.25% during Jul-Nov FY’25, compared to contraction of 1.9% during Jul-Nov FY’24. The auto industry achieved a major milestone with the commencement of electric vehicle production in Pakistan. This sector saw a 28.3% increase in production, while sales grew by 28.2%.
+
+On the domestic front, the IMF has projected Pakistan’s GDP growth at 3.0% for 2025, reflecting a 0.2% downward revision from its previous estimate of 3.2% in the October 2024 WEO.
+
+For the year under review, profit before taxation for the year ended December 31, 2024 stood at Rs. 87,928 million, reflecting a 3% increase from Rs. 85,757 million in the corresponding year.
+
+ended December 31, 2023. This growth was primarily driven by higher net markup and non-markup income and credit loss reversals partially offset by higher operating expenses.
+
+The effective income tax rate for the year ended December 31, 2024, was 50.96%, compared to 52.56% for the previous year. The tax charge for 2024 stood at Rs. 44,812 million, slightly lower than Rs. 45,074 million in 2023, reflecting a 1% decrease. Through the Income Tax (Amendment) Ordinance, 2024, the Federal Government increased the normal tax rate for banks from 39% to 44% for the year under review and removed higher tax rates on income attributable to investments in Federal Government Securities (FGS), based on banks’ Advances to Deposits Ratio (ADR) for the year 2024 onwards.
+
+The Bank’s profit after tax stood at Rs. 43,116 million for the year ended December 31, 2024, up from Rs. 40,683 million in the corresponding year of 2023 registering a growth of 6%.
+
+The Bank achieved a milestone by surpassing the Rs. 2 trillion deposits base. Total deposits at the year-end stood at Rs. 2,018,395 million, compared to Rs. 1,676,623 million as of December 31, 2023, reflecting a growth of 20.4%. Additionally, the market share of deposits increased to 6.15% as of December 31, 2024 up from 6.02% in the previous year. The Bank’s continued focus on enhancing low cost or no cost deposits resulted in a 9% growth in current accounts, despite high saving rates.
+
+Gross advances of Your Bank were recorded at Rs. 1,066,348 million as on December 31, 2024, compared to Rs. 794,138 million as on December 31, 2023, marking a robust growth of 34%. Net advances of Your Bank reached at Rs. 1,051,314 million as on December 31, 2024, compared to Rs. 781,597 million as on December 31, 2023, expanding by 35%.
+
+Allied Bank continues to maintain a consistently low infection ratio, demonstrating the high quality and reliability of its credit portfolio. As of December 31, 2024, the Bank’s infection ratio stood at 1.22%, improving from 1.64% in the previous year. The specific and overall coverage ratios were recorded at 93.85% and 115.71%, respectively, compared to 94.61% and 96.18% as of December 31, 2023.
+
+Your Bank’s total investments stood at Rs. 1,129,874 million as of December 31, 2024, compared to Rs. 1,150,318 million for the previous year, showing a slight decline of 2%. Allied Bank’s total assets stood at Rs. 2,816,969 million as of December 31, 2024, reflecting a robust growth of 21% from Rs. 2,329,317 million in the previous year. The Bank’s net assets increased by 20%, reaching Rs. 233,901 million as of December 31, 2024, compared to Rs. 194,254 million in 2023.
+
+The Return on Assets (ROA) and Return on Equity (ROE) Tier 1 of the Bank recorded at 1.7% and 26.0%, respectively, as of December 31, 2024, compared to 1.8% and 29.4% in the previous year. The Capital Adequacy Ratio (CAR) stood at 26.71% as of December 31, 2024, up from 26.21% in 2023, remaining well above the minimum regularity threshold of 11.5%.
+
+Allied Bank’s extensive nationwide branch network, which provides a strategic advantage, has been further strengthened through the addition of digital and smart branches, along with the renovation of existing locations to enhance the overall customer experience. The Bank now operates a total of 1,510 branches, including 1,332 conventional branches, 160 Islamic branches, and 18 digital branches, catering to a diverse range of customer needs.
+
+Allied Bank is well-positioned to provide uninterrupted banking services across the country through a diverse range of channels, including its extensive branch network, ATMs, online and mobile banking platforms and other digital touchpoints, ensuring convenience and accessibility for customers at all times. The Bank’s accessibility is further enhanced by a robust network of 1,604 Automated Teller Machines (ATMs) comprising 1,356 onsite ATMs, 243 off-site ATMs, and 5 Mobile Banking Units (MBUs).
+
+The Board Risk Management Committee (BRMC) acts as Sustainability Committee of the Bank and reviews sustainability related risks, initiatives, strategy and opportunities. The Board has approved the Sustainability Framework and Strategic Plan of the Bank. The objective of Sustainability Framework and Strategic plan is to provide guidelines for the Bank’s approach towards sustainability and integration of Environmental, Social and Governance (ESG) factors in its policies, procedures, processes, products and services. It highlights Bank’s commitments for sustainable development and corporate responsibility in the scope of its management practices and impacts on local communities. The goals and targets for ESG have been identified and the Bank is committed to become a sustainable bank by achieving the ESG goals and targets, including the Diversity, Equity and Inclusion (DEI) targets.
+
+During the year, Pakistan Credit Rating Agency (PACRA) maintained Bank’s long-term and short-term credit rating at the highest level of “AAA” (Triple A) and “A1+” (A One Plus) respectively. These ratings indicate highest credit quality and an exceptionally strong capacity for payment of financial commitments.
+
+Your Bank’s well-established Corporate Governance Framework supported by Board and Management Committees has been acknowledged by VIS Credit Rating Company Limited. Resultantly, Corporate Governance Rating (CGR) for 2024 has been maintained at CGR 9++, which signifies very high level of corporate governance.
+
+The profile of all members of the Board of Directors is disclosed separately in overview section of the Annual Report. Composition of the Board and Board Committees is specified in “Statement of Compliance with Code of Corporate Governance”.
+
+Non-Executive Directors are paid a reasonable and appropriate remuneration for attending the Board of Directors and its committees’ meetings, which is disclosed in the Financial Statements note 39. This remuneration is not at a level that could be perceived to compromise independence and is within the prescribed threshold defined by SBP. No fee is paid to the Directors who do not attend a meeting. Similarly, fee is not paid for the proposals considered through circulation.
+
+The Board of Directors, while ensuring regulatory compliance is also vested with fiduciary responsibility on behalf of the shareholders to protect the Bank’s interests, provide strategic direction and monitor the execution of strategic objectives. The Companies Act 2017, Banking Companies Ordinance 1962, SBP’s Prudential Regulations, Corporate Governance Regulatory Framework and Listed Companies (Code of Corporate Governance) Regulations, 2019 (the Code) describe the role of the Board of Directors along with its responsibilities and functions.
+
+We are pleased to inform that the “ABL Exchange (Private) Limited” (a wholly owned subsidiary of the Bank) was incorporated in Pakistan on December 15, 2023, with a paid-up capital of Rs. 1,000,000,000 (Rs. One Billion). The Company has commenced its operations on May 24, 2024, and is engaged in the business of dealing in foreign exchange. As of December 31, 2024, ABL Exchange (Private) Limited has a network of 21 booths across the country.
+
+The Board of Directors is pleased to endorse the Corporate Sustainability initiatives by Your Bank, as disclosed in the Annual Report.
+
+# Board’s structure and composition
+
+for appointment against professional fee of Rs. 31.780 million (excluding indirect taxes), as statutory auditors for the next term.
+
+# Board’s roles and responsibilities
+
+# Board’s processes
+
+# Board committees’ organization and processes
+
+# CEO Oversight
+
+# Boards’ compensation
+
+# Potential Board Development needs
+
+# Independent & Non-Executive Directors
+
+# Sponsor Directors
+
+# Chairman
+
+# Acknowledgment
+
+The independent evaluation report was placed before Board of Directors for review and consideration in its 273rd meeting held on February 04, 2025. The Board of Directors noted the contents of Board of Directors Annual Evaluation for the year 2024 along with external evaluator’s suggestion and expressed its satisfaction on the results.
+
+# External Auditors
+
+The present auditors, EY Ford Rhodes., have retired and not offered themselves for reappointment. The Board of Directors, on recommendation of the Audit Committee, has recommended KPMG Taseer Hadi & Co. Chartered Accountants, being eligible.
+
+For and on behalf of the Board of Directors.
+
+Aizid Razzaq Gill
+Chief Executive Officer
+Lahore
+Date: February 04, 2025
+
+Mohammad Naeem Mukhtar
+Chairman Board of Directors
+
+46    Annual Report 2024                                                                                                                                                                                                         47
+
+# Annual Report 2024
+
+50    Annual Report 2024                                                                                                                                                                                                         51
+
+# Annual Report 2024
+
+# FAIZ FESTIVAL - AN ODE TO THE POET’S ENDURING LEGACY
+
+# 54 Annual Report 2024
+
+# PRODUCTS AND SERVICES
+
+# Other Allied Products and Services
+
+# Branch Banking Services
+
+- Safe Deposit Lockers
+- Allied Pay Anyone
+- Allied Banker Cheque / Call Deposit Receipt
+- Real Time Gross Settlement / SBP and NBP cheques
+- Inland Letter of Credit including Bills Discounting
+- Guarantees
+- Allied Bank Call Center
+
+# Bancassurance Products
+
+- ALSURANCE (EFU General)
+- EFU Savings and Retirement Plan
+- EFU Accelerated Savings Plan
+- EFU ILM & Anmol Rishtey
+- JLI Asaan Zindagi Plan
+- JLI Virasat Plan
+- IGI Invest Max Plan with Vitality
+- IGI Smart Future Plan with Vitality
+- IGI Suhana Mustaqbil Plan
+
+# COMMERCIAL AND RETAIL BANKING
+
+Commercial and Retail Banking is providing enriched and comprehensive product suite, supported by digital platforms and an extensive network of customer touch points.
+
+# Deposit Products
+
+A comprehensive range of deposit products is offered to our customers with various services ranging from structured saving products to term deposits, foreign currency products and basic current accounts giving customers the choice which best suits their banking requirements.
+
+|Current Deposit Products|Saving Deposit Products|Term Deposit Products|
+|---|---|---|
+|Allied Khanum Current Account (Regular & Asaan)|Allied Khanum Saving Account (Regular & Asaan)|Allied Term Plus Deposits|
+|Allied Easy Current Account|Platinum Rewarding Profit Account|Allied Express Plus 1 Term Deposit|
+|Basic Banking Account|PLS Saving Account|Behtar Munafa Term Deposit|
+|Current Account|Allied Asaan Saving Account|Allied Advance Profit Plus Payment|
+|Allied Asaan Current Account|Allied Rising Star Account|Foreign Currency Term Deposits|
+|Allied Youth Current Account (Regular & Asaan)|Allied Pensioner Saving Account| |
+|Allied Express Account|Allied Roshan Digital Saving Account (RDA)| |
+|Allied Business Account|Allied Asaan Digital Saving Account| |
+|Allied Roshan Digital Current Account (RDA)|Asaan Digital Remittance Saving Account (ADRA)| |
+|Allied Asaan Digital Current Account|Freelancer Digital Saving Account| |
+|Asaan Digital Remittance Current Account (ADRA)|Allied Freelancer Saving Account| |
+|Allied Senior Citizen Saving Account (Regular & Asaan)|Allied Asaan Remittance Saving Account| |
+|Allied Salary Management Saving Account (Regular & Asaan)| | |
+|Allied Pensioner Current Account| | |
+
+# DIGITAL BANKING
+
+Digital Banking is supporting the strategic focus on broad based digitization to augment its service and products suite by offering personalized and innovative solutions catering to the evolving needs of different customer segments.
+
+# Debit Cards
+
+# Apps and Internet Banking
+
+# Digital Touchpoints
+
+- Allied UPI PayPak co-badged Debit Cards
+- Basic Debit Card
+- Classic Debit Card
+- Classic Plus Debit Card
+- Gold Debit Card
+- Platinum Debit Card & Visa Sapphire 200
+- Premium Debit Card
+- Virtual Debit Card
+- Allied Rising Star- Minor Debit Card
+
+- myABL Personal Internet Banking
+- myABL Business Internet Banking
+- myABL WhatsApp Banking
+- myABL Wallet
+- myABL Asaan Mobile Account (AMA) Wallet
+- myPakistan Digital Account (myPDA)
+
+- Self Service Branch
+- Hybrid Digital Branch
+- Digital Locker
+- Cash Recycler ATM
+- ATMs and CCDMs (Cash and Cheque Deposit Machines)
+- Mobile Banking Unit
+- Digital Lounges
+- Allied Bank Metaverse Branch
+- Point of Sale (POS) Acquiring Business
+
+# Asset Products
+
+Consumer banking offers a full range of consumer lending products which enhance the overall experience of our customers and provide them with state-of-the-art value-added services to ensure that the Bank operates in the best interest of its customers.
+
+|Consumer Banking Products|Agri based Products|SME based Products|
+|---|---|---|
+|Allied VISA Credit Card|Hari Bhari Agriculture Revolving Credit Scheme|Allied Business Finance.|
+|Allied Personal Finance|Agriculture Financing for Dairy Farming|Allied Easy Finance|
+|Allied Car Finance|Agriculture Financing for Poultry Farming and Allied Activities|ABL Fast Finance|
+|Allied Home Finance|Allied Kashtkar (Tractor Financing)|Refinance and Credit Guarantee Scheme for Women Entrepreneurs|
+|Allied Solar System Finance|Allied Aabayari (Irrigation Solution)|ABL Warehouse Financing|
+|Allied Roshan Apna Ghar|Allied Farm Mechanization|Prime Minister Youth Business & Agri Loan Scheme|
+|Allied Roshan Apni Car|Electronic Warehouse Receipt Financing|SME Asaan Finance Scheme (SAAF)|
+|Allied Electric Bike Finance| |Refinance Scheme for Working Capital Financing of SEs & Low-End MEs|
+|Allied Scooty Finance| |SBP Financing Scheme for Renewable Energy|
+| | |Refinance Facility for Modernization of SMEs|
+| | |Financing Facility for Storage of Agricultural Produce|
+| | |Other Working Capital Financing Facilities including Trade Based Financing.|
+| | |Other Long Term Financing Facility|
+
+
+# PRODUCTS AND SERVICES
+
+# CORPORATE AND INVESTMENT BANKING
+
+to building and nurturing strong institutional banking relationship base relationships with top-tier corporate with reputed financial institutions spread across USA, Europe, Asia and Africa.
+
+Corporate Banking aims to foster long-term customers relationships with the primary objective of meeting all business requirements of corporate and institutional obligors while offering tailored and cost-effective banking solutions with highly personalized services. Corporate Banking provides a comprehensive suite of wholesale banking services, addressing the diverse financing needs of corporate customers. With over 500 international correspondents in 75 countries, ABL ensures broad global coverage and widespread acceptability.
+
+# ISLAMIC BANKING
+
+Islamic Banking endeavors to attract and retain the faith driven customers by offering a complete range of Shariah’ compliant products and services. Thereby, ensuring operational efficiency and superior customer service through promoting the Islamic banking and contributing toward achieving the financial inclusion.
+
+# Deposit Products
+
+|Current Deposit Products|Savings Deposit Products|Term Deposit Products|Digital Products|
+|---|---|---|---|
+|• Allied Islamic Current Account|• Allied Islamic Saving Account|• Allied Islamic Investment Certificates|• Allied Aitebar Roshan Digital Account|
+|• Allied Aitebar Khanum Account (Regular & Asaan)|• Allied Aitebar Salary Management Account (Regular & Asaan)|• Allied Islamic Express Plus1 AIIC|• Allied Islamic Asaan Digital Account|
+|• Allied Islamic Basic Banking Account|• Allied Aitebar Senior Citizen Account (Regular & Asaan)|• Allied Aitebar Behtar Munafa Certificate|• Allied Aitebar Asaan Digital Remittance Account|
+|• Allied Islamic Asaan Current Account|• Allied Islamic Youth Account (Regular & Asaan)|• Allied Aitebar Freelancer Digital Account-PKR| |
+|• Allied Islamic Special Foreign Currency (STZ) Account|• Allied Aitebar Foreign Currency Value Account (FCVA)| | |
+|• Allied Aitebar Freelancer Account|• Allied Aitebar Institutions Account|• Allied Aitebar Premium Account| |
+|• Allied Islamic Anmol Plus Account|• Allied Islamic Khalis Munafa Account|• Allied Aitebar Express Account| |
+|• Allied Islamic Business Plus Account|• Allied Islamic Sahulat Account|• Allied Islamic Asaan Saving Account| |
+|• Allied Aitebar Waseela e Hajj & Umrah Account|• Allied Islamic Special Foreign Currency (STZ) Account|• Allied Aitebar Foreign Currency Value Account (FCVA)| |
+|• Allied Aitebar Asan Remittance Account|• Allied Aitebar Rising Star Account| | |
+
+# Asset Products
+
+|Corporate / Commercial / SME|Consumer Finance|Agriculture Finance|Trade / Treasury|
+|---|---|---|---|
+|• Murabaha Finance|• Allied Aitebar Car Ijarah|• Allied Aitebar Tractor Financing|• Forward Cover|
+|• Musawamah Finance|• Allied Aitebar Home Musharakah/MPMG|• Allied Aitebar Hari Bhari Agriculture Financing|• Bai-Muajjal|
+|• Salam Finance|• Allied Aitebar Solar System Finance|• Allied Aitebar Agriculture Finance for Dairy Farming|• Letter of Guarantee|
+|• Istisna Finance|• Roshan Apna Ghar/MPMG|• Islamic Financing Facility for Storage of Agricultural Produce (IFFSAP)|• Letter of Credit|
+|• Ijarah Finance|• Roshan Apni Car|• Allied Aitebar Aabayari|• Islamic Export Refinance Scheme (IERS)|
+|• Diminishing Musharakah Finance|• Islamic Financing Facility for Low-Cost Housing for Special Segments| | |
+|• Business Musharakah Finance| | | |
+|• Islamic Refinance Scheme for Working Capital Financing of Small Enterprises and Low-End Medium Enterprises (IWCF)| | | |
+|• Islamic Long Term Financing Facility (ILTFF)| | | |
+|• Islamic Refinance Facility for Modernization of SMEs (IRFMS)| | | |
+|• Islamic Financing Facility for Renewable Energy (IFRE)| | | |
+|• Islamic SME Asaan Finance (I-SAAF)| | | |
+|• Allied Aetbar Prime Minister’s Youth Business & Agriculture Finance Scheme| | | |
+|• Allied Aitebar Business Finance| | | |
+
+
+  STRATEGY AND
+  RESOURCE
+  ALLOCATION
+60   Annual Report 2024                                                                                                                                                                    61
+
+# STRATEGIC OBJECTIVES
+
+- Strengthen the competitive advantage by leveraging digital initiatives based on Artificial Intelligence and process automation to enhance efficiency and reduce cost to income ratio.
+- Build a robust portfolio of quality assets while steadily reducing the NPLs.
+
+# Short Term
+
+- Deposit mobilization by enhanced focus on low or no cost deposits.
+- Augment diversified revenue streams to reduce the impact of volatile interest rate environment.
+- Optimize the operating expenses.
+- Deliver customer centric solutions and develop innovative products to cater wide array of customer segments.
+- Maintain a strong and consistent profitability trend.
+- Continuously enhance operational efficiencies.
+
+# Medium Term
+
+- Foster a sustainable culture of integrity, transparency and ethics.
+- Sustain a resilient capital and asset base.
+
+# Long Term
+
+- Enhance a brand image and create a shareholders’ value.
+- Augmenting financial inclusion.
+- Top value generator for stakeholders while remaining a socio environmentally conscious citizen.
+- Aspire to be the preferred employer for top professionals by becoming the “Employer of Choice”.
+
+# EFFECT OF OPERATING ENVIRONMENT ON THE BANK’S STRATEGY
+
+Allied Bank places significant emphasis on the transformative capabilities of digital technologies, considering it a top priority to provide digitally led innovative financial solutions. The Bank continuously improves its operating processes and systems to enhance the customers’ experience. Use of Artificial Intelligence (AI), Robotic Process Automation, Generative AI, Workflow Automation, introducing self-service smart branches and digital lobbies are contributing factors in providing the cost-effective seamless services to the customers.
+
+The Bank recognizes the importance of professional development aligned with the latest technological advancements to enhance the digital proficiency of its employees. The Bank strives to build and retain an agile and dynamic workforce by onboarding tech savvy talent, providing appropriate trainings, upgrading remuneration structure, awarding performance led incentives and assigning the career path and development through its Leadership Talent Pipeline programs.
+
+The Bank continued to invest in energy conservation initiatives and environment friendly projects during the year under review and invested significant amounts toward energy-efficient solutions. Through continuous focus on automation of processes, the Bank has been able to reduce paper-based processes; reducing the paper consumption and lowering the carbon footprint as well as enhancing the efficiency in customer services. In order to promote Green Banking, the Bank advocated the Green Business Practices, participated in green campaigns and collaborated in tree plantation drives. The Bank is further committed to enhance tree plantation efforts, in line with national target for “Clean and Green Pakistan”.
+
+# STRATEGIES TO ACHIEVE STRATEGIC OBJECTIVES, KPIs AND THEIR FUTURE RELEVANCE
+
+|Strategic Objective|Key Operational Milestones|Key Performance Indicators|Future Relevance|
+|---|---|---|---|
+|Augmenting Financial Inclusion|- Enhanced Pakistan’s first myABL WhatsApp Banking service, serving to around 1.6 million users, by adding new features including:
+- - Account maintenance certificate.
+- Cheque status inquiry.
+Deployed 3,119 POS machines; having more than 2 million+ successful transactions volume in 2024.
+- RAAST P2M QR Payments on myABL implemented to make payment to merchants via QR scanning.
+- Mobile Tap & Pay contactless payments functionality for UPI & PayPak Debit Cards rolled out.
+- RAAST Bulk Transfer (B2P) on myABL Business implemented.
+- Launched ABL’s WhatsApp Channel to keep customers and stakeholders updated on this platform.
+|- Innovative digital products and services to increase in outreach.
+- Simplified customer onboarding process.
+- Customer acquisition.
+- Enhance customer experience.
+- Increased market share.
+|Shall remain relevant in future|
+
+|Enhancing Brand Image & Shareholders’ Value|- Pakistan’s Best Digital Bank awarded by Euromoney Awards for Excellence.
+- The Bank won Pakistan’s Best Domestic Islamic Bank by Euromoney Islamic Finance Awards.
+- Employer of Choice Award - Gender Diversity & Inclusion by The Pakistan Business Council along with the World Bank Group’s International Finance Corporation.
+- Global Diversity & Inclusion Benchmarks (GDIB) recognized the Bank in following categories:
+|- Profitability.
+- Stakeholders’ trust.
+- Sustainability.
+|Shall remain relevant in future|
+|Employer of Choice for top Professionals|- ABL demonstrated its steadfast commitment to excellence and innovation, achieving an impressive 92% overall training coverage and positively impacting more than 12,000 employees and over 8,000 employees have also been successfully completed specialized training in Islamic banking.
+- To fulfill the human resource requirements of different functions of the Bank, 4,272 offers for appointment issued to eligible candidates during the year 2024 against both permanent and contractual positions.
+- In line with approved Manpower Plan 2024, batches of Management Trainee Officers were inducted, consisting of 377 candidates. Moreover, three (03) batches of Tellers, consisting of total 709 candidates inducted during the year 2024. Besides, a Khanum Teller Batch of 190 candidates, with special emphasis on female inclusion, was also acquired during the year.
+- Through effective career progression at junior management levels, 284 cadre change elevations were made during the year 2024 to provide adequate growth opportunities within the organization.
+- Diversity, Equity, and Inclusion (DEI) remained at the heart of training & development, with over 9,500 employees receiving targeted training in these crucial areas.
+- Customer service excellence continued to be a cornerstone of our training efforts, covering more than 2,900 participants through a series of highly specialized programs. Highlights included a three-day exclusive program on developing and leading a Customer-Centric.
+|- Enhanced employee satisfaction.
+- High employee retention ratio.
+- Reduced employee turnover.
+- Operational efficiency.
+|Shall remain relevant in future|
+
+# STRATEGIC OBJECTIVES
+
+|Strategic Objective|Key Operational Milestones|Key Performance Indicators|Future Relevance|
+|---|---|---|---|
+|Culture, conducted in partnership with the Lahore University of Management Sciences (LUMS).|Additionally, middle management benefited from the globally acclaimed Legendary Service Program by Blanchard. To sustain this impact, six resources were trained as Training of Trainers (TOT) and have successfully conducted 61 sessions across the country in 2024. Frontline employees underwent a focused customer service boot camp tailored to enhance essential skills such as greeting, effective communication and customer handling.| | |
+|Training & Development also focused on leadership development and digital transformation to prepare the Bank’s leaders for the future. Notable initiatives included the Leadership in the Age of AI program, delivered by a distinguished professor from Cambridge University to Group Heads and an exclusive session on Generative AI for senior executives, including the CEO and Chiefs, which highlighted the Bank’s readiness to embrace emerging technologies and drive innovation.| | | |
+|Additionally, through a strategic partnership with Coursera, over 450 employees accessed courses in Data Science, Computer Science, Leadership and Management, offered by globally renowned institutions and organizations such as Yale, Meta, IBM and Google.| | | |
+|Employee well-being continued to be a key priority, with over 595 participants taking part in programs dedicated to health and lifestyle. Bank engaged foreign trainers to lead impactful sessions, including the Health 360 program and an exclusive employee well-being masterclass.| | | |
+|In compliance with the State Bank of Pakistan’s directives, we prioritized capacity-building initiatives in underprivileged regions, making a significant contribution to the National Financial Literacy Program (NFLP). Through these efforts, ABL conducted more than 3,996 sessions across 41 remote districts, positively impacting the lives of over 122,201 local citizens.| | | |
+|A core priority has been cultivating digital fluency and agility to meet the demands of the rapidly evolving digital landscape. Numerous upskilling and reskilling sessions were conducted at Management Development Centers, enhancing employees’ digital proficiency across the organization.| | | |
+|Operating Effectiveness|To remain competitive and solidify its position as a market leader, HRG has increased the Salaries and Allowances for all existing and future hires in the roles of Tellers, Business Development Officers, Sales Executives, Collection Officers, and Customer Support Officers.| |Shall remain relevant in future|
+|Special Allowance to offset higher taxation impacts. This allowance was intended to ease the income tax burden on affected employees, ensuring financial stability.| | | |
+|Completed installation of additional “10” Digital Signage Machines (Total DSMs: 1,462).|Operational efficiency| | |
+|One of the highest ATM transactions as acquirer; ATM uptime 96%.|Profitability| | |
+|Implemented RPA to reduce the TAT and improve processes efficiency in following areas:|Reduced cost to income ratio| | |
+|Handling of daily remittance payment, Auto Marking of IDs as Inactive after resignation / termination of employee.| | | |
+|Enhanced Focus on Digitization|Established 18 Digital Branches.|Customer Onboarding|Shall remain relevant in future|
+|Biometrically enabled ATM network of 1604 ATMs.|Increase in fee income market share| | |
+|Mobile Tap & Pay contactless payments functionality for UPI & PayPak Debit Cards has been rolled out.|Operational efficiency| | |
+|Enhancement in transaction limits of myABL and debit cards to cater customer needs:|Increase in Digital Vs. Counter Transaction Mix| | |
+|New Services on WhatsApp Banking introduced.| | | |
+|Deployed 3,119 POS machines having more than 2 million+ successful transactions volume.| | | |
+|Implementation of Oracle CRM Solution to provide the customers best possible financial solutions.| | | |
+|Virtual debit card issuance for myABL customers for eCommerce transactions.| | | |
+|LINKAGE OF STRATEGIC OBJECTIVES WITH BANK’S MISSION, VISION AND OBJECTIVES|The Bank’s strategic objectives are closely aligned with its mission, vision, and goals. Through various Board and Management committees, the Bank systematically evaluates the outcomes of its strategic initiatives. This enables robust oversight and ensures the effective monitoring of long-term initiatives and performance against desired outcomes.| | |
+
+
+# RESOURCE ALLOCATION PLAN
+
+|Nature of Capital|Resource Allocation Plan|
+|---|---|
+|Manufactured capital|Enhance branch and ATM network by smart branch strategy, featuring improved layouts and enhanced technological infrastructure.|
+|Natural capital|Commitment towards financing renewable energy projects to promote green banking. Expand paperless environment and augment the number of branches and offices using energy efficient solutions.|
+|Financial Capital|Elevated investment on infrastructure including buildings and equipment. Capitalize on process automation and IT network improvements. Expand in high quality asset base with sustainable yield.|
+|Human capital|Human capital development and capability building by focusing on targeted trainings, talent management and right talent acquisition & retention. Recruit and retain tech savvy employees.|
+|Intellectual Capital|Continuous improvement in governance culture by utilizing strong institutionalized knowledge. Formulate new products focusing diverse range of customer base.|
+|Social and Relationship Capital|Enhance brand image through public awareness campaigns and ongoing dialogue with customers.|
+
+# BANK’S SUSTAINABILITY STRATEGY WITH MEASURABLES TARGETS
+
+ABL has embedded its sustainability strategy into the core objectives of the Bank. This strategic approach has enabled the Bank to effectively manage the Bank’s impact on environmental, economic and social systems. These initiatives are fundamental to the Bank’s success and have a potential to drive profitability, enable the expansion and enhance stakeholder satisfaction.
+
+The Bank has established a set of targets to assess its progress towards achieving its sustainable goals. These targets include initiatives such as promoting financial inclusion, continued guidance to obligors for better practices, green financing, undertaking tree plantations campaigns, sponsorships and donations, solar financing including the installation of solar panels at the Bank’s premises and own impact reduction with respect to use of energy and consumables.
+
+# STRATEGIC DECISIONS FORMULATION
+
+The Bank consistently and systematically assesses its operational and macroeconomic conditions to prudently design strategic initiatives. In pursuit of its strategic objectives, the Bank adheres to the following methodologies:
+
+- Formulate a 10-Year Rolling Strategic Plan incorporating both short and long-term strategies, reviewed annually to adapt to changes in the operating environment.
+- Conduct a SWOT analysis to evaluate the Bank’s competitive positioning in short to medium term and assists in capitalizing on emerging opportunities while mitigating potential risks.
+
+# KEY RESOURCES AND CAPABILITIES
+
+The Bank is committed to surpass the expectations of its valued customers while maintaining the credit quality within the defined risk appetite. To accomplish the strategic objectives, the Bank has following key resources and capabilities.
+
+|Key resources and capabilities|Descriptions|
+|---|---|
+|Brand Recognition|The Bank strong brand image; serving the customers for 8 decades. Strongest possible long-term and short-term entity credit ratings of “AAA” and “A1+” respectively by Pakistan Credit Rating Agency. Ranks among top banks in term of total assets footing.|
+|Technological Infrastructure|State of the art technological platform – Temenos T24 core banking software, Oracle based ERP and Analytical Applications. Use of AI tools, Data Lake, Business Intelligence Dashboards and Robotic Process Automation.|
+|Robust Risk Management Framework|Robust risk management and capital positioning. Strong capital adequacy ratio. Low infection ratio and high coverage ratio.|
+|Country-wide out reach|Vast branch network. 1,600+ ATMs with continuous enrichment via digitization. One of the leading ATM & Branch uptime in the industry.|
+|Low-cost deposit base|Total deposit base surpassed Rs. 2 trillion. Current deposit to stand at Rs. 773 billion. CASA mix stood at 86%.|
+
+# SIGNIFICANT PLANS AND DECISIONS
+
+The Bank’s objectives and strategies are well calibrated with its vision and are implemented through policies, procedures and processes. No significant change occurred during the year to affect the objectives and business strategies.
+
+# PESTEL ANALYSIS
+
+# Technological
+
+• Technology is transforming the entire banking landscape; driving towards the digitally led solutions providing seamless banking and enhanced customer experience.
+
+• Implementation of cutting edge technologies like application of Artificial Intelligence (AI), Generative AI and Robotic Process Automation (RPA) have been pivotal; contributing towards a sustainable decline in cost-to-income ratios.
+
+|Impact|Response|
+|---|---|
+|Enhanced risk of breach in cyber security; leading to reputational risk.|The Bank has in place robust Info-Sec setup with emerging controls and continuous updates in line with best industry practices.|
+|Leveraging advanced digital solutions to strategically cater to the needs of a digitally proficient customer base, enhancing service delivery and operational efficiency.|The Bank has in-house innovation lab to ensure delivery of digitized solutions to the diverse customer base.|
+| |The Bank has launched Self-service branches which have revamped the dynamics of conventional brick and mortar branch network.|
+
+# Environmental
+
+• Environmental risks remain among the most critical challenges, with factors such as extreme weather events, global warming, scarce resources and ozone layer depletion, continuing to impact the environment in most hazardous ways.
+
+• Banks, by adopting responsible lending practices and sustainable policies can conserve the environment for future generations. Moreover, banks have more powerful means of influencing customers towards more environment friendly solutions.
+
+|Impact|Response|
+|---|---|
+|Implications on climate change and sustainable environment.|• Bank has in place green policy ensuring green financing, green business facilitation and its own impact reduction.|
+| |• Green banking financing has been embedded in the Bank’s lending criteria.|
+| |• Processes automation to reduce use of paper.|
+| |• Tree plantation campaigns.|
+
+# Legal
+
+Potential adverse impacts on earnings and reputational integrity arising from non-compliance are proactively mitigated through robust adherence to all applicable legal and regulations frameworks.
+
+|Impact|Response|
+|---|---|
+|Increased penalties, fines and litigations.|• The Bank has established comprehensive procedures, policies and guidelines to adapt to ever-changing regulatory requirements.|
+| |• The Bank maintains zero tolerance policy towards non-compliance with legal and regulatory requirements.|
+
+# THE EFFECT OF SEASONALITY ON BANK’S BUSINESS
+
+Seasonality affects banking operations by influencing credit demand, deposit flows and financial products. Sectors like agriculture and tourism exhibit seasonal cash flow variations, necessitating proactive liquidity management by banks.
+
+Consumer spending surges during festive periods, driving increased credit card utilization and short-term financing needs. ABL employs strategic financial planning to navigate these fluctuations, ensuring optimal liquidity and sustained profitability.
+
+# Social
+
+• Securing and retaining the right talent equipped with proficient knowledge of emerging technologies and automated systems at present is a considerable challenge.
+
+• Effectively onboarding digital adept customers emerge as a critical factor, given that younger customers engage with the convenience of enhanced technological and e-banking services.
+
+|Impact|Response|
+|---|---|
+|Bank’s strong reputation for good employer practices.|Agile and dynamic work place environment.|
+|Anticipated rise in capital and recurrent spending on training and development in short-and medium term.|Sustaining employees to propel the Bank’s growth and digital ambitions through appropriate training interventions.|
+
+
+# ROLE OF BANK IN GEOPOLITICAL ENVIRONMENT
+
+# VALUE CHAIN AFFECTING THE BANKING INDUSTRY
+
+Financial Supply Chain
+
+Pakistan is located at a region which has great political, economic and strategic importance. Pakistan has the potential to develop transit economy due to its strategic location by offering direct and shorter trade routes to China, Central Asian Countries and Afghanistan with Middle East, Africa and Europe. However, the economic potential is still largely untapped mainly due to conditions in Afghanistan, trade restrictions on Iran and due to long standing political tensions between Pakistan and its eastern neighbor India. Improvement in the security conditions in Afghanistan, lifting or easing of trade restrictions on Iran and progress in relations with India have the potential to increase trade volumes and to bring mutual economic benefits resulting into establishing formal banking channels, digital payment systems and offering related banking services contributing to economic growth of the region.
+
+Allied Bank Limited being a financial institution manages money flows in partnering supply chain organizations, by developing innovative methods for streamlining their financial distribution networks. The role of the Bank in value chain is to improve inter-organization money flows. The Banks provides a set of financial and technological tools to help companies improve working capital management and free up cash trapped in supply chain processes and transactions. Furthermore, the Bank’s role as an intermediary between suppliers and buyers facilitates in:
+
+- Supplier prefers to get money for delivered products or services sooner whereas,
+- Buyers want to extend payment terms.
+
+Banks offer services to improve the financial health of the supply chain by reducing both buyer and seller working capital. The removal of Pakistan from the grey list of FATF in 2022 has brought financial ease to some extent and has helped in securing much needed economic support from the global financial institutions.
+
+The Bank continuously realigns its strategies by adapting to evolving regulations, embracing digital transformation and keeping in view all economic, legal and geopolitical factors with an objective of maximizing long-term shareholder value.
+
+# LEGISLATIVE AND REGULATORY ENVIRONMENT OF THE BANK
+
+The Banking industry is highly regulated by governments across the globe, as banks play a vital role in implementing the governments’ monetary policy. The banks operate as the engine of the economic growth due to their core function involving large amounts of money flows. The main rationale of regulating Banking industry is to ensure safety of customers’ deposits, stability of the financial system and to prevent financial crimes.
+
+Allied Bank Limited being a scheduled bank engaged in commercial banking and related services, and also listed on the Pakistan Stock Exchange is primarily regulated by the State Bank of Pakistan and the Securities and Exchange Commission of Pakistan. The regulatory framework of State Bank of Pakistan comprises of a set of policies, guidelines, prudential standards and allied processes & procedures covering the following key areas:
+
+- Licensing Regime
+- Prudential Regulations
+- Corporate Governance Regime
+- Capital Adequacy Regime
+- Anti-money laundering and Counter Financing of Terrorism (AML/CFT) Regime
+- Policy Environment and Market Discipline
+- Consumer Protection Framework
+- Foreign Exchange Management
+- Islamic Banking Regulations
+- Payments and Settlement Systems
+
+Under the regulatory framework, the State Bank of Pakistan has been entrusted with powers and mandate mainly under the State Bank of Pakistan Act, 1956, the Banking Companies Ordinance, 1962, and the Foreign Exchange Regulation Act, 1947 to regulate and supervise the Banking industry. Moreover, the Securities and Exchange Commission of Pakistan regulates primarily through Companies Act, 2017 for protecting the interests of various stakeholders and inculcating principles of corporate governance.
+
+# OUR VALUE CREATION BUSINESS MODEL
+
+# INPUTS
+
+|Common Equity|Rs. 177,273 million|
+|---|---|
+|Total Equity|Rs. 233,901 million|
+|Deposits|Rs. 2,018,395 million|
+|Borrowings|Rs. 462,024 million|
+|Domestic & Foreign Branches|1,510|
+|ATM Network|1,604|
+|Digital Touch points|23|
+
+# Human Capital
+
+|Engaged and capable employees| |
+|---|---|
+|Female Employees|3,264|
+|Male Employees|10,011|
+|Total Number of Employees|13,275|
+|State of the Art Management Development Centers|4|
+|Culture of Empathy| |
+
+# Social and Relationship Capital
+
+|Depositors|9.2 million+|
+|---|---|
+|Obligors|23,000+|
+|Regulators, Pakistan Business Council, PBA, Chambers of Commerce and Industry| |
+|Community Service (CSR)| |
+|Strong Social Media Presence| |
+|Robust Complaint Handling Mechanism| |
+
+# Capital Management
+
+|Detailed Policies & Procedures| |
+|---|---|
+|Strong Management Structure - Leadership Teams| |
+
+# Natural Capital
+
+|Solar Locations|147|
+|---|---|
+|No. of Inverters Installed|1,802|
+|Green Banking Initiatives and Products| |
+|Compliance to Environmental Laws| |
+
+# OUTPUTS
+
+Loans & advances, investments, deposits, remittance services, fee based services, Trade related products & services, unfunded facilities, REPO transactions, advisory services.
+
+# OUTCOMES
+
+|Profit Before Tax|Rs. 87,928 million|
+|---|---|
+|Profit After Tax|Rs. 43,116 million|
+|Earning per Share|Rs. 37.65|
+|Full-year dividend per share|Rs. 16|
+|Return on Equity|26.01%|
+|Return on Assets|1.68%|
+|Capital Adequacy Ratio (CAR)|26.71%|
+|Advances Growth|35%|
+|Deposits Growth|20%|
+|Decrease in Non Performing Loans|0.4%|
+|CASA Mix|86%|
+|Customer Onboarding|1.4 million+|
+|Customer Complaint Resolutions|97%|
+|myABL Registered Users|2.1 million+|
+|myABL amount of transactions handled|Rs. 2.4 million+|
+|No. of Debit Cards issued|805,000+|
+|Digital / Counter Transactions mix|85:15|
+|Corporate Website Visits|9.3 million+|
+|Social Media Subscribers|3.6 million+|
+|Salaries and Benefits|Rs. 20,136 million|
+|Employee Retention Ratio|86%|
+|Employees Trained in Service|12,132|
+|Total Investment in Employee Trainings|Rs. 254.837 million|
+|Amount spent on employee healthcare|Rs. 290.347 million|
+|Long Term Entity Credit Rating|AAA|
+|Short Term Entity Credit Rating|A1+|
+|Corporate Governance Rating|CGR 9++|
+|Compliance with all Regulatory requirements| |
+|Contribution to National Exchequer|Rs. 99,959 million|
+|Customer Deposit Protection|Rs. 1,822 million|
+|Improving Workplace Environment|Rs. 868 million|
+|Environmental Sustainability|Rs. 338 million|
+|Plantation of Trees|100,000+|
+|Community Services|Rs. 186 million|
+
+
+# LAHORE LITERARY FESTIVAL
+
+# A CELEBRATION OF WISDOM
+
+# ANNUAL PERFORMANCE CELEBRATIONS
+
+# ROOTED IN CULTURE & TRADITION
+
+74 Annual Report 2024
+
+75
+
+STAKEHOLDERS
+ENGAGEMENT
+
+# IDENTIFICATION OF STAKEHOLDERS
+
+# INVESTORS’ RELATIONS SECTION ON THE CORPORATE WEBSITE
+
+The Bank regularly updates all information on its corporate website regarding financial performance, important information, elections of directors and upcoming events etc. The investor relations section is being maintained on corporate website which can be accessed through the link; https://www.abl.com/investor-relations.
+
+The Bank is dedicated to safeguard the interests of its stakeholders and remains focused on delivering sustainable growth and performance that surpasses industry norms and stakeholders’ expectations. The stakeholders’ inputs are deeply embedded within the Bank’s core strategy, including processes and procedures designed to create long-term value.
+
+|Stakeholder Group|Description|Identification of Stakeholders|
+|---|---|---|
+|Customers|The Bank strives to cultivate and sustain a strong brand image by fostering long-term relationships with customers through customer-centric and sustainable financial solutions.|• Individuals • Institutions • Corporates • Entrepreneurs|
+|Shareholders / Institutional Investors|The Bank upholds transparent relations with its investors by delivering consistent and sustainable investment returns and providing accessible information on financial and non-financial performance.|• Sponsors • Minority Shareholders • Individual Investors • Institutional Investors|
+|Regulators|The Bank complies with all legal and regulatory requirements with aim to maintain transparent relationships with regulators and other supervisory bodies on an ongoing basis.|• State Bank of Pakistan • Federal Board of Revenue • Provincial Revenue Authorities • Securities & Exchange Commission of Pakistan • Pakistan Stock Exchange • Credit Rating Agencies • Other public offices and regulatory bodies|
+|Employees|The Bank is committed towards investing in personal and professional development of its employees. The Bank provides an environment where employees are cared, diversity and differences are valued and growth opportunities are provided without any discrimination.|• Permanent Employees • Contractual Employees • Outsourced Personnel • Employees’ Union|
+|Society and Environment|The Bank plays a vital role in addressing the environmental and social issues in the communities by being a responsible corporate citizen.|• Non-Profit Organizations • Non-Government Organizations • Media • Society at large|
+
+# SUMMARY OF THE ANALYST BRIEFINGS
+
+Analyst briefings provide an interactive forum for engaging with the Bank’s stakeholders to apprise them about:
+
+- major economic indicators and their probable impact on the Bank’s financial position;
+- the competitive environment in which the Bank operates;
+- the business performances and achievements of the Bank; and
+- business outlook.
+
+Investor presentations were uploaded at the Bank’s website before briefings and were also discussed in detail during the conference calls. After the presentation, participants’ queries were duly discussed and explained in connection to the Bank’s performance. Analyst briefings and investors conference calls were conducted, following the announcements of annual, quarterly and half yearly financial results in February, May, August and November 2024 respectively. These were attended by various research organizations, local and foreign investor services, bankers, asset management companies and brokerage houses. Detailed investor presentations are available at Bank’s website https://www.abl.com/investor-relations/financials/financial-presentations/.
+
+# VALUE ALLOCATED
+
+|Value Allocated|Percentage|
+|---|---|
+|Employees|20,136 (17.22%)|
+|Regulators|38.32%|
+|Shareholders|18,321 (15.67%)|
+|Expansion and Growth|33,571 (28.71%)|
+|Society|105 (0.09%)|
+
+# STEPS TO ENCOURAGE MINORITY SHAREHOLDERS PARTICIPATION IN GENERAL MEETINGS
+
+The Bank ensures equitable treatment of all shareholders including minority shareholders to attend, contribute and vote at the General Meetings. The Bank takes following measures to ensure maximum participation of minority shareholders in Annual General Meeting and in election of Board of Directors:
+
+- Members are entitled to appoint proxy to attend, speak and vote at the meeting on their behalf.
+- Notice of General Meetings is sent to every member of the Bank at least 21 days before the meeting. The notice is also published in newspapers (both English & Urdu) having nationwide circulation.
+- Members are facilitated to participate in the AGM /EOGM through video-link.
+- The shareholders are encouraged to raise queries and give suggestions relating to the Bank’s operations.
+
+# REDRESSAL OF INVESTORS’ COMPLAINTS
+
+Investors can approach at investor.relations@abl.com for the resolution of any grievances within statutory timelines. The Bank ensures timely updates on its website with respect to all notices of general meetings.
+
+# STAKEHOLDERS ENGAGEMENT
+
+Your Bank believes in connecting with its various stakeholder groups to create a better understanding of stakeholder perspectives on key issues and consequently realize business value through informed decision making. Your Bank maintains formal mechanisms to engage with each group of stakeholders and the responsibility for such engagement is shared across the organization at every stakeholder touch point. The key stakeholder groups and their related engagements as a means of creating value are noted below:
+
+|Stakeholder Group|Methods of Engagement|Frequency of Engagement|Needs & Expectations|Why do they Matter|How We Create Value for Stakeholders|Activities| | |
+|---|---|---|---|---|---|---|---|---|
+|Individuals|Video Mystery Shopping|Regularly|Excellent customer service, convenient access across the country, less complexity and improved flexibility, innovative financial services & solutions, value for money banking, responsible banking services, confidentiality, integrity and accountability, security for customers investments and ambience in touch points.|Customers are at the center of our business strategy and customer focused products and services provide the basis to win and maintain customers and achieve a sustainable business model.|Understanding evolving customer needs to roll out more efficient channels thereby delivering competitive, convenient, technology driven, artificial intelligence based and innovative banking solutions.|Video mystery shopping and Customer Satisfaction Surveys are regularly conducted to assess service delivery standards and to gain insights into the customers’ experiences and level of satisfaction when using banking services and service channels.| | |
+|Customer Access Points| | |Periodically| | | | | |
+|Corporate Website| | |Occasionally| | | | | |
+|SMS & Email Alerts| | | |Continuously| | | | |
+| | |CSR Activities| | | | | | |
+|Corporates|Customer Awareness Seminars|Regularly| | |Expansion in Bank’s footprint; branch network added 27 new branches during the year to reach at 1,510; ATM network reached to 1,604 (including On-site and Off-site ATMs), while providing Internet banking. Deposits increased significantly by Rs. 341,772 million.|ABL actively contributed towards various initiatives launched by Government of Pakistan including Prime Minister Youth Business Loan & Agriculture Loan Scheme and Allied Youth Entrepreneurship Scheme and has duly achieved its targets.| | |
+|Road Shows| | |Periodically| | | | | |
+|Promotional Campaigns| | |Occasionally| | | | | |
+|Print and Electronic Media| | | |Continuously| | | | |
+| | |Social Media| | | | | | |
+|Customers|WhatsApp|Regularly|Safeguarding deposits and investments while growing returns.|Your Bank paid Rs. 192,996 million, interest / profit to its depositors.|Continued investment in technological infrastructure to improve data security and maintain customer privacy.|Conducted Vulnerability Assessment, Penetration Testing and Comprehensive Security Risk Assessments to ensure controlled environment for customer related information.| | |
+|Social Media| | |Periodically| | | | | |
+|WhatsApp Banking| | |Occasionally| | | | | |
+|myPakistan Digital Account| | | |Continuously| | | | |
+| | | | | | |Premium & Platinum Debit Cards| | |
+
+Your Bank is committed to establish a robust presence in Metaverse through the creation of a virtual branch for customers which is the next evolution of internet experience and enables to move beyond browsing the web. Built on technologies such as augmented reality (AR), virtual reality (VR) and the blockchain, the metaverse is a place where people can meet, interact and have a truly immersive experience.
+
+Your Bank has become the pioneering bank in Pakistan to adopt Sprinklr for all its digital communication channels, including Facebook, Instagram, Twitter, YouTube, LinkedIn, and App Stores. This integration establishes a cohesive approach to customer interaction, engagement, and feedback, especially with Sprinklr’s Modern Research, Modern Care, and Modern Engagement modules being implemented company-wide.
+
+In addition, UI UX of myABL app redesigned to enhance customer experience particularly on cognitive load, eyeball tracking and thumb movement. In addition, myABL was continuously updated with key features such as Credit Cards Management, RAAST expansion, Merchant Payments Functionality through QR Scanning and Functionality to lodge Complaints and submit Refund requests in hassle free manner.
+
+Upholding highest standards of service quality across the Bank. Efficiently and effectively achieved 97% resolution of customers’ complaints. High ATM uptime at 96%.
+
+# STAKEHOLDERS ENGAGEMENT
+
+|Stakeholder Group|Methods of Engagement|
+|---|---|
+|Sponsors|• Annual Report|
+|Minority Shareholders|• Interim Financial statements|
+|Individual Investors| |
+|Institutional Investors|• Corporate website|
+|Analysts|• Annual General Meeting • Extra Ordinary General Meetings • Analyst Briefings • Corporate Briefing Sessions • Press releases / Media Announcements|
+
+# Investors
+
+# Shareholders / Institutional
+
+|State Bank of Pakistan (SBP)|• Directives and Circulars • Financial Statements|
+|---|---|
+|Federal Board of Revenue (FBR)|• Statutory Examination|
+|Securities and Exchange Commission of Pakistan (SECP)|• Regulatory Reporting|
+|Pakistan Stock Exchange (PSX)|• Filing of Income Tax Federal Excise and Sales Tax Returns|
+|Credit Rating Agencies| |
+|Other Public Offices and Regulatory Bodies|• Filing of Corporate Return • Interviews and Meetings with Representatives of Regulators, Pakistan Banking Association, Business Council|
+
+# Frequency of Engagement
+
+|Frequency|Needs & Expectations|Why do they Matter|How We Create Value for Stakeholders|Activities|
+|---|---|---|---|---|
+|Regularly|Sustainable performance, dividend payout, return on equity, return on assets, earning per share, future growth strategy, corporate governance, risk management and compliance with laws and regulations.|To ensure long term shareholder value and uphold the rights of shareholders to ensure their wealth maximization.|• Generated a sustainable ROE, ROA and Dividend Yield ratio of 26.01%, 1.68% and 11.61% respectively.|• Financial position improved by 21% to Rs. 2,816,969 million; Your Bank’s Equity base stood at the robust level of Rs. 233,901 million; • Infection ratio of 1.2% which is significantly lower than industry ratio of 8.2%.|
+|Periodically|Delivering existing and potential shareholders relevant and timely information.|Ensuring equitable treatment of all shareholders including minority shareholders to attend, contribute and vote at the General Meetings.|• Annual Audited Financial statements together with the Auditors’ and Directors’ report were circulated to all shareholders along with the Notice of AGM. • Abridged Annual Audited Financial Statements along with Auditors’ and Directors’ Report were published in the newspaper. • Analyst briefings and investors conference calls were conducted, following the announcements of quarterly, half yearly and annual financial results. • Corporate Briefing Session is conducted once a year to enlighten the shareholders and analysts with the Bank’s strategic, operational and financial developments. This session in 2024 was attended by 40 shareholders, investors and brokers. • Quarterly, Half Yearly and Annual Financial Statements, Investors’ Presentations and Major financial information are disclosed under a separate section of “Investors Relations” on Corporate Website of the Bank.| |
+|Continuously|Compliance with all legal and regulatory requirements, remain responsible tax payer, corporate governance practices, adherence to reporting requirements, risk management, sustainable business practices, timely withholding taxes and deposit, income tax, FED & sales tax payment including advance tax.|To ensure meticulous compliance with legal and regulatory directives.|• Maintained highest credit ratings from Pakistan Credit Rating Agency Limited: • Long-term rating “AAA” • Short-term rating “A1+”|• Maintained Corporate Governance rating of CGR-9++. This rating indicates a high level of corporate governance; thus, depicting a very high level commitment towards corporate governance.|
+
+# Record Management
+
+The Bank has a record management program that ensures maintenance, protection, retention and disposal of records in accordance with applicable regulations, operations, fiscal and legal requirements.
+
+# STAKEHOLDERS ENGAGEMENT
+
+|Stakeholder Group|Methods of Engagement|
+|---|---|
+|Permanent employees|• Formal Meetings|
+|Contractual employees|• Informal & Ad Hoc Meetings|
+|Outsourced personnel| |
+|Employee union|• Performance Appraisals • Internal Newsletter • Informational and Instructional Circulars • Training Programs • Employee Satisfaction Surveys • Intranet / Employee Self Service Portal • Team Building Events • Annual Family Festival|
+|Employees|• Welfare Events and Activities • Disaster Recovery and Emergency Response Drills • Medical Benefits • Retirement Benefits|
+|Non-Profit Organization|• Service Channels|
+|Non-Government Organization|• Corporate Website|
+|Media| |
+|Society at large|• Donations and Sponsorships • Press Releases, Conferences and Media Campaigns • Public Relation Activities|
+|Society and Environment| |
+
+# Frequency of Engagement
+
+|Frequency|Needs & Expectations|Why do they Matter|How We Create Value for Stakeholders|
+|---|---|---|---|
+|Regularly|Competitive remuneration, career development and advancement, effective performance management, equal opportunity along with safe, positive and inspiring work environment, work life balance, recognition and reward, grievance handling mechanism, culture of empathy, continuous training opportunities to grow as a person and professional, job security and succession planning.|Skills, experience, and activities that our employees carry out during day to day operations of the bank resulting in achievement of strategic goals and objectives. How our staff think and feel about work are directly connected with customer satisfaction levels.|• Total permanent and contractual workforce of 13,275 employees with female representation increased to 24.6%.|
+|Periodically|Inducting and retaining quality human resource in all functions of the Bank.|• 2,838 recruitments for permanent and contractual positions.|Offering competitive remuneration and rewarding performance. Motivating and inspiring our workforce.|
+|Continuously|Skills training and development initiatives to align workforce with strategic objectives of the Bank.|• Invested Rs. 255 million on staff training and development programs. • Training coverage of 12,000+ employees during the year achieving an impressive 92% overall coverage. Average training and development hours per employee are 47.60 hours during the year.|Understanding and responding to the needs and concerns of Bank’s staff along with equal opportunity and culture of empathy.|
+
+# Achievements
+
+• Won Employer of Choice award under the category Gender Diversity & Inclusion from Pakistan Business Council and World Bank Group’s International Finance Corporation.
+• Won Best Practice Bank award in Recruitment, DEI Learning and Development categories by Global Diversity & Inclusion Benchmarks (GDIB).
+
+# Social Responsibility
+
+Social responsibility activities, employment opportunities, financial resilience, community development and ethical business practices. Working in tandem with global and local mandates which safeguard the environment and promote community empowerment.
+
+# BUSINESS AT LAST
+
+# ALLIED BANK DIGITAL LOUNGE
+
+# ANNUAL GENERAL MEETING
+
+# 78th Annual General Meeting
+
+The 78th Annual General Meeting of the shareholders of Allied Bank Limited was held on Thursday, March 28, 2024 at 11:00 A.M at Palace Hall, Pearl Continental Hotel, Lahore, physically as well as virtually through Zoom facility.
+
+Mr. Mohammad Naeem Mukhtar, Chairman Board of Directors of the Bank, chaired the Meeting via Zoom, other directors also attended the Meeting virtually from remote locations except Mr. Mubashir A. Akhtar who was present at the venue. Leave of absence was granted to Mr. Sheikh Mukhtar Ahmad and Mr. Abdul Aziz Khan who could not attend the Meeting due to indisposition.
+
+Chief Executive Officer, Chief Human Resource, Company Secretary and Chief Financial Officer were present in person at the venue of the Meeting. Engagement Partner of the statutory Auditors M/s. EY Ford Rhodes Chartered Accountants attended the meeting via Zoom, whereas, representatives of Bank’s Shares Registrar M/s. CDC Share Registrar Services Limited (CDCSRSL) were present in person at the venue of the Meeting. Representatives of Balloter (CDCSRSL) were also present physically for Balloting of Special Business.
+
+# Following agenda items were approved by the Shareholders:
+
+1. Confirmation of the minutes of 77th Annual General Meeting of Allied Bank Limited held on March 28, 2023.
+2. Receive, consider and adopt Annual Audited Financial Statements of the Bank (consolidated and unconsolidated) for the year ended December 31, 2023 together with the Auditors’ Report, Directors’ Report and Chairman’s Review Report thereon.
+3. Approval of Final Cash Dividend @ 40% (i.e., Rs. 4.00 per share) as recommended by the Board of Directors. This Final Cash Dividend was in addition to 80% Interim Cash Dividends (i.e., Rs.8.00 per share) already paid to the shareholders for the year ended December 31, 2023.
+4. Re-appointment of M/s. EY Ford Rhodes Chartered Accountants as Statutory Auditors of the Bank for the year ending December 31, 2024 and fixation of their remuneration.
+5. Approval of Circulation of Annual Audited Financial Statements of the Bank to its shareholders through QR-enabled Code and Weblink, instead of transmitting the same through CD/DVD/USB.
+
+# EXTRAORDINARY GENERAL MEETING
+
+The Extraordinary General Meeting of the shareholders of Allied Bank Limited was held on Tuesday, August 27, 2024 at 11:00 A.M at Palace Hall, Pearl Continental Hotel, Lahore, physically as well as virtually to consider and approve following agenda items by the Shareholders:
+
+1. Confirmation of the minutes of 78th Annual General Meeting of Allied Bank Limited held on March 28, 2024.
+2. Election of Directors of the Bank for a period of next three years commencing from August 27, 2024.
+
+# FINANCIAL CALENDAR 2024
+
+|1ˢᵗ Quarter results issued on|April 24, 2024|
+|---|---|
+|2ⁿᵈ Quarter results issued on|August 21, 2024|
+|3ʳᵈ Quarter results issued on|October 30, 2024|
+|Recommendation of Annual Results by the Board of Directors|February 04, 2025|
+|79th Annual General Meeting scheduled for approval of Annual Results|March 24, 2025|
+
+
+# Aedeak
+
+# K2 BASE CAMP
+
+# RISK MANAGEMENT
+
+# RISK MANAGEMENT
+
+The Board of Directors monitors the implementation of risk strategy and approves the risk policies and risk acceptance criteria to ensure that risks are managed within tolerance level.
+
+# FRAMEWORK
+
+The Bank’s comprehensive and integrated risk management framework is focused on monitoring and governance over various categories of risk. The Bank has in place Risk Policies for all material risks faced by the Bank, which includes:
+
+- Credit Policy,
+- Market & Liquidity Risk Policy,
+- Operational Risk Management Policy,
+- Strategic Risk Management Policy,
+- Information Security Policy,
+- Green Banking Policy,
+- Country Risk Management Framework and
+- Reputational Risk Management Framework.
+
+Risk Management Framework is the collection of fundamental elements like Risk Governance, Risk Architecture and Risk Organization that are implemented in the Bank to identify and manage material risks. The Board of Directors is responsible for the overall effective risk management of the Bank. The Bank has in place a comprehensive risk management and governance framework.
+
+Risk Governance includes risk strategy, risk culture, risk structures, risk acceptance criteria, risk policies & procedures, and roles and responsibilities of different stakeholders. The Board of Directors is responsible for approval of risk strategy, risk management policies, providing guidance for sound and informed decision-making and effective allocation of resources. The Board of Directors also oversees appointment of senior management personnel capable of managing the risk activities conducted by the Bank.
+
+The Board Risk Management Committee (BRMC) is responsible for ensuring that the overall risk strategy and risk acceptance criteria of the Bank is appropriately defined in the Strategic Plan and recommends the same to the Board of Directors for approval. The BRMC monitors the quality of asset portfolio and suggest measures to keep the infected portfolio at minimum level. The Committee also approves risk limits.
+
+Risk architecture of the Bank includes risk processes, systems, tools and methodologies for identifying, assessing and monitoring risks. The Chief Executive Officer and Group Chiefs are responsible for collective risk management through their membership of various Management Committees i.e., Management Committee (MANCO), Asset and Liability Committee (ALCO), Compliance Committee (CC) and Risk Management Committee (RMC). Independent supervision of risk management activities is provided by the Audit Committee of the Board and Audit & Risk Review Group.
+
+# RISK MANAGEMENT PROCESS
+
+The Board of Directors ensure that in-depth assessment of principal risks faced by the Bank is undertaken through effective operation of following processes.
+
+|Risk Acceptance Criteria|Implementation of risk acceptance criteria framework and monitoring of Bank’s exposure on a continuous basis for optimized returns. Clearly defined risk acceptance criteria of the Bank with appropriate and quantified thresholds.|
+|---|---|
+|Risk Identification, Assessment and Monitoring|Identification of the principal risks, their probability of occurrence and their potential impact to formulate appropriate risk mitigation strategy.|
+|Residual risk|Understanding the nature and quantum of residual risk which remains after efforts to identify and mitigate all key risk types. Ongoing monitoring and management of net residual risk to bring it within the Bank’s risk tolerance threshold.|
+|Stress Testing and its Integration into Business Planning|Continuous assessment of the Bank’s resilience to severe but plausible stress scenarios. Results of stress testing exercises are analyzed to make necessary changes in Risk Strategy and Business Planning. Integrated Risk Management along with strategic planning decision making processes to respond to existing as well as emerging risks.|
+
+
+# RISK EVALUATION AND MANAGEMENT STRATEGIES
+
+Risk and opportunities and the related mitigating factors are summarized below;
+
+|Risk|Source|Likelihood|Key Source of Risk|Mitigating Strategy|Impact Area|
+|---|---|---|---|---|---|
+|Credit Risk|External|Low|Sovereign credit risk on exposure to Public sector Enterprises (PSE)|- Oversight is kept through Board of Directors and its sub-committee “Board Risk Management Committee” as well as through management committee – “Risk Management Committee (RMC)”. - Public sector advances are generally secured by sovereign guarantee or the equivalent from the Government of Pakistan (GoP). - Certain PSEs have a well-defined cash flow stream and appropriate business model, based on which the lending may be secured through collaterals other than GoP guarantee.|Financial Capital|
+| |External|High|Counterparty credit risk on exposure to Private sector advances and Interbank limits|- Board of Directors approved Credit Risk Policy and Credit Procedural Manual provide guidelines in line with internal policy, State Bank of Pakistan’s Prudential Regulations and industry best practices. - Bank’s Risk Assessment and Management System (RAMS) uses risk rating models, based on qualitative and quantitative factors, to assign credit risk ratings to various categories of borrowers. - Credit worthiness of borrowers is analyzed on workflow based RAMS, with focus towards balanced assessment of credit risk and identification of related proper mitigates. - In respect of interbank borrowers, Your Bank maintains eligibility criteria that links exposure limits to counterparty credit ratings (minimum credit rating of ‘A’). - Concentration risk is monitored with respect to obligor, group and sector exposure limits and risk profile benchmarks. - Automated ‘Watch-List’ categorization system facilitates to identify deterioration in quality of loans. - Country risk exposure limits are in place that broadly capture direct exposure on sovereigns and foreign domiciled counter parties; limits linked to the sovereign ratings. - Specialized team comprising of engineers and industry experts’ conducts technology assessments of obligors’ plant and machinery and reviews the technical feasibility of projects and valuation reports.|Financial Capital|
+|Market Risk|External|Low|Risk associated with fluctuations in interest rates, foreign currency rates, credit spreads, equity prices and commodity prices.|- Oversight is kept through Board and its sub-committee “Board Risk Management Committee” as well as through management committee – “Asset & Liability Committee (ALCO)”. - Comprehensive structure is in place aimed at ensuring that Your Bank does not exceed its qualitative and quantitative tolerance for market risk. - Balanced approach towards risk taking in the market risk area while keeping exposures within the defined risk acceptance criteria. - Tools like Value at Risk methodologies, sensitivity measures, intraday exposure limits, notional limits and loss triggers are monitored at a detailed portfolio level. - Periodic repricing gap analysis to re-profile the earning asset mix in accordance with interest rate expectations. - Extensive stress testing is performed to capture and report the multi-dimensional aspects of market risk using automated solutions.|Financial Capital|
+|Operational Risk|Internal and External|Low to Medium|Risk of inadequate or failed internal processes and losses caused by external events.|- Oversight kept through Board and its sub-committee “Board Risk Management Committee” as well as through management committee – “Risk Management Committee (RMC)”. - Board of Directors approved Operational Risk Management (ORM) Policy. - Detailed Operational Risk Management (ORM) Procedures approved by Risk Management Committee. - Adequate system of internal controls designed to keep operational risk at appropriate levels. - Risk assessment of each operational risk incident. - Monitoring of risk through Key Risk Indicators (KRIs). - Assessment of risk through Risk and Control Self-Assessment (RCSA) for material processes of the Bank. - Business Continuity Policy and Plan driven towards ensuring provision of un-interrupted banking services in case of any unforeseen emergency and/or natural calamities. - Disaster recovery and evacuation plans testing. - IT disaster recovery plans testing on ongoing basis. - Insurance coverages are in place for theft and damage to physical assets.|Financial Capital|
+
+
+# RISK EVALUATION AND MANAGEMENT STRATEGIES
+
+|Risk|Source|Likelihood|Key Source of Risk|Mitigating Strategy|Impact Area|
+|---|---|---|---|---|---|
+|Internal and External|Low|Risk arising due to the unauthorized or inappropriate employee activity and failure to adhere to staff policies|- Board of Directors’ oversight along with its sub committees “Human Resource and Remuneration Committee” as well as through management committees of “Human Resource Committee” and “Central Administrative Action Committee”. - Recruitment, pre-employment screening, employer feedback and exit interviews. - Proactive staff engagement. - Strong staff development programs in place combining e-learning, in-house and external trainings programs. - Insurance coverages are held for fraud and fidelity incidents. - Whistle blowing mechanism is in place.|Human and Intellectual Capital| |
+|Medium|Risk arising from non-compliance with statutory or regulatory provisions applicable to the Bank.|- Independent Compliance Group to ensure compliance with specific regulatory, statutory and internal requirements. - Compliance Policies and procedures are in place.|Financial Capital| | |
+|Medium|Risks emanating from nature of the Banking business, from the macro factors exogenous to the Bank as well as from internal financing and operational policies.|- Oversight kept through Board and its sub-committee “Board Risk Management Committee” as well as through management committee – “Asset & Liability Committee (ALCO)”. - ALCO oversees the activities of treasury, which operates in terms of an approved ALM policy. - Exposures are monitored by ALCO against well-defined ALM triggers and limits. - Detailed Recovery Plan is in place which highlights the strategy and critical tools for effective monitoring, escalation, planning, and execution of recovery actions in the event of a financial crisis situation. - Your Bank regularly performs liquidity stress tests as part of its liquidity monitoring activities. - Periodic maturity gap analysis is performed to keep asset and liability mismatch within acceptable limits. - Maintenance of appropriate marketable securities portfolio that can be realized in the event of a liquidity stress.|Financial Capital| | |
+|Internal and External|Medium to High|Undertaking higher risks in view of more volatile and competitive financial markets.|- Oversight kept through Board and its sub-committee “Board Risk Management Committee” (BRMC) as well as through management committees – “Risk Management Committee” (RMC) and “Asset & Liability Committee (ALCO)”. - Bank assesses capital adequacy on a quarterly basis, including historical and future capital positioning review. - Stress tests on capital adequacy in line with SBP requirements are performed on a regular basis and results are reported to BRMC / BoD. - The Internal Capital Adequacy Assessment Process (ICAAP) Framework is updated and reviewed annually. - Focus on sufficient profit retention.|Financial Capital| |
+|Medium|Improper implementation of decisions, or lack of responsiveness to evolving industry, economic or technological changes.|- Oversight kept through Board and its sub-committee “Strategic Planning & Monitoring Committee” as well as through Management Committees – “Management Committee” (MANCO), “Risk Management Committee” (RMC), “Compliance Committee” (CC) and “Asset & Liability Committee” (ALCO). - 10-year’s Rolling strategic plan is reviewed on annual basis along with operational plan to account for the evolving economic and business dynamics; duly in consideration of the peer banks. - The impact of events on the future direction of the business and forecasted results are constantly monitored and quantified.|Financial Capital| | |
+|High|Risk arising from non-availability of IT systems, and disruptions due to Cyber threats.|- Oversight kept through Board and its sub-committees “E-Vision Committee” and “IT Steering Committee” (ITSC). - IT and Information Security planning is conducted as part of Bank’s strategic and operational planning process. - Systems audits, IT Security & Risk Assessments are performed for systems before and after the deployment into production environment. - Significant ongoing investments in Technology and Processes to protect customer data as part of the information security posture. - Security Operation Center (SOC) utilizes a combination of People, Process and Technology to proactively monitor and respond to cyber threats. - Countermeasures against cyber threats included regular Penetration Testing and Vulnerability Assessment exercises. - Continuous awareness programs for Customers and Staff about cyber threats.|Financial Capital| | |
+|Low|Risk arising from any action or inaction perceived by any stakeholders to be inappropriate, unethical or inconsistent with the Bank’s values and beliefs.|- Oversight kept through Board and its sub-committee “Board Risk Management Committee” as well as through management committee – “Risk Management Committee” (RMC). - Formal customer grievance redressal policy, including policy and procedures on receiving customer complaints and resolution mechanism. - Timely and efficient communications among all stakeholders. - Policies and procedures in place for securing digital payments including protection of customers’ data.|Financial Capital| | |
+
+
+# RISK EVALUATION AND MANAGEMENT STRATEGIES
+
+# INADEQUACY IN THE CAPITAL STRUCTURE
+
+|Risk|Source|Likelihood|Key Source of Risk|Mitigating Strategy|Impact|
+|---|---|---|---|---|---|
+|Shariah Non-Compliance Risk|Internal|Low|Risk arising from the failure to comply with Shariah rules and principles determined by Shariah Board of the Bank and the Regulator.|- Oversight kept through Board and its sub-committee “Board Risk Management Committee” as well as through management committees – “Management Committee” (MANCO) and “Risk Management Committee” (RMC).
+- Policies and procedures in place duly reviewed by Shariah Board.
+- Review of transactions by Shariah Compliance.
+- Periodic External Shariah Audit.
+|The Bank has in place adequate capital which is well above conservation buffer of 1.5%. Common Equity Tier 1 Capital Adequacy Ratio is 19.93% against regulatory requirement of 6%. Bank’s Capital Adequacy Ratio stood at 26.71% against regulatory requirement of 12.5% (currently reduced by SBP under COVID-19 relief measures to 11.5% including capital). Leverage ratio of the Bank is 5.65% as compared to regulatory limit of 3%.|
+
+# INITIATIVES TAKEN BY THE BANK IN PROMOTING AND ENABLING INNOVATION
+
+The Bank is taking significant steps in enhancing digital banking and prioritizing customer convenience through several innovative initiatives. A key offering is the Virtual Debit Card, which allows customers to instantly create a secure Visa card for online shopping, minimizing the risk of physical card theft and reducing cost of card plastic. This service is available at no cost and can be easily managed via the myABL app.
+
+myABL WhatsApp Banking platform has also been revamped, featuring an improved user interface and new functionalities like Bill Payment and Fund Transfers, making it easier for customers to manage their finances directly through WhatsApp.
+
+Additionally, the Bank has introduced myABL Coins, a rewards program that allows customers to earn points by using their ABL Debit and Credit Cards for transactions, whether online or at merchant POS. These initiatives reflect the Bank’s commitment to digital transformation, enhancing security, convenience and overall customer experience.
+
+# COMPETITIVE LANDSCAPE AND MARKET POSITIONING
+
+|Source|Opportunity|Strategies in Place|
+|---|---|---|
+|Internal|New to Bank customer onboarding transformation and cross sell to existing customers in the digital era.|Addition of digital touchpoints including Interactive Teller Machines, Kiosks, Cash Deposit Machines, Self Service Branches and Branchless Banking.|
+|External|Technological advancements including Big Data, Artificial Intelligence, Machine Learning, Integrated Ledgers, Virtual Currencies and Blockchains.|Continuous investment in Information Technology Infrastructure of the Bank for adopting new technologies and upgrading existing technological base.|
+|External|Augment remittance business from untapped markets.|Working on Government of Pakistan initiatives to provide non-residents with ease of doing Banking with lower requirements.|
+|External|Government of Pakistan and State Bank of Pakistan initiatives for economic revival.|Product Development and working closely with Business teams to attract and retain new customers.|
+|External|Over 80% unbanked population in the country; opportunity to enhance financial inclusion.|Branch expansion plan, Road shows and Seminars and Digital Products for untapped segments, increasing outreach through Social Media.|
+|Internal|Developing a new stream of deposit products to strengthen the product portfolio and targeting branchless and digital banking opportunities.|Introduce new products considering the requirements of various segments of the society and also increase focus on automation and digitalization solutions.|
+|External|Increasing the digital footprint by expanding the e-commerce facilities to provide state of the art digital financial services to the customers.|Continuous improvement in services provided through myABL platform including card activation / deactivation, enabling e-commerce and International use of debit card to facilitate customers in availing these services hassle free.|
+|External|Augment Financial Inclusion through Digital Lending Platform.|Introduce new products for digital lending considering the requirements of various segments like Consumers, Small and Medium Enterprises using Artificial Intelligence and Machine Learning Techniques.|
+
+
+# SWOT ANALYSIS
+
+The Bank systematically performs SWOT analysis to navigate through the complexities of an evolving operational landscape. The Bank employs a comprehensive strategy to capitalize its inherent strengths including robust risk management to cultivate a competitive advantage. This approach is essential for seizing emerging opportunities and effectively addressing potential threats.
+
+# Identifying existing strengths (where we are now)
+
+The Bank has developed a diverse range of skills, which serves as a key strength in achieving its strategic objectives. Major strengths of the Bank include:
+
+- Strong brand image – Serving customers for more than 8 decades.
+- Total assets exceeding Rs. 2.8 trillion; large number of branches with country-wide outreach.
+- Strongest possible long-term and short-term entity credit ratings of “AAA” and “A1+” respectively by Pakistan Credit Rating Agency.
+- Strong capital positioning – among the highest Capital Adequacy Ratio in the industry.
+- Lowest infection ratio and high coverage ratio.
+- Extensive network of Branches, Automated Teller Machines (ATMs) with continuous enrichment by digitalization.
+- One of the leading ATM / Branch Up-time in the industry.
+- One of the highest ATM transactions as acquirer.
+- State of the art technological platform – Temenos T24 supported by Oracle Financials, Oracle Human Resource Management System, Oracle Financial Services Analytical Applications, use of Data Lake, Business Intelligence Dashboards, and AI tools.
+- Robust Risk Management framework in place, industry innovation leaders in terms of obligor assessment and technical understanding along with Environmental and Social Risk Assessment, resulting in solid asset quality.
+- Growing digital banking platform catering from Corporate Business Internet Banking to Personal banking needs (myABL).
+- Human capital geared towards e-banking era.
+- Maintained top level of Corporate Governance rating of CGR-9++; depicting a strong commitment towards governance framework by the Board and management of the Bank.
+
+# Assessing possible threats
+
+The Bank conducts a thorough analysis of its internal and external operating environment to pinpoint the areas that may impact the Bank’s ability to achieve its strategic objectives. Notable threats having potential impact are as under:
+
+- Data governance, standardization and information security challenges and threats – Cyber risks.
+- Rising compliance related cost amidst anti money laundering and combating financing of terrorism requirements.
+- Economic challenges leading to possible adverse impact on credit off take and loan repayments.
+- US$-PKR parity – prospects of devaluation and higher tax regime for the banks.
+- Emerging digital banks, fintech and rapidly evolving technology might disrupt traditional brick and mortar banking system in near future as these are more convenient for millennials.
+
+# Addressing areas of improvement
+
+The SWOT analysis also functions as a strategic planning framework, enabling the Bank to identify key areas of improvements, including cost optimization, efficient utilization of earning assets and enhancing market share. This enables the Bank to become more competitive and resilient in advancing towards its strategic objectives. These areas are incorporated and monitored at various levels in the Bank and form an integral part of the Bank’s Rolling Strategic Plan.
+
+# Realizing potential opportunities (where we want to be)
+
+The SWOT analysis provides a tool to the Bank to highlight the potential opportunities where Bank can thrive and achieve sustainable growth. Major opportunities include:
+
+- Large number of unbanked population; opportunity to enhance financial inclusion.
+- Build and enhance market share in retail banking, remittance and trade business.
+- Exploit opportunities to increase private sector credit; diversify interest income mix.
+- Penetrate in Islamic Banking – niche market segment especially for low-cost funding.
+- Use of Artificial Intelligence (AI) and Generative AI to augment operational efficiency and enhance decision making process.
+- Cross sell opportunities with the Bank’s existing customers – deepening of relationships.
+- Augment remittance business from untapped markets.
+- Expansion in digital financial solution and collaboration with emerging FinTech.
+- Explore new avenues to increase fee-based income including acquiring business and innovative financial products.
+- Enhance green banking practices.
+
+# SENSITIVITY ANALYSIS
+
+The Pak Rupee remained relatively stable during the year and, on year-on-year basis, it appreciated by around 1.19% against US Dollar in the Inter Bank Exchange Market. The Bank also conducts stress testing of the foreign exchange, equity and fixed income portfolio which is reviewed by the Bank’s senior management and Board Risk Management Committee (BRMC).
+
+Foreign Exchange Risk exposes the Bank to changes in the value of exposure denominated in foreign currencies due to the exchange rate fluctuations and volatility. The types of the instruments exposed to this risk are mainly investments in foreign branches, advances and deposits denominated in foreign currency, cash flows in foreign currencies arising from foreign exchange transactions, etc.
+
+The Bank’s Foreign Exchange Risk is largely mitigated by following a matched funding policy, whereas, for any mismatched exposures, the Bank utilizes appropriate derivative instruments such as Forwards and Swaps. The Bank maintains adequate regulatory capital to cover against foreign exchange risk.
+
+# CORPORATE GOVERNANCE
+
+# MANAGEMENT TEAM
+
+|Saira Shahid Hussain|Zubair Sharif|Mohsin Mithani|
+|---|---|---|
+|Chief Human Resource|Chief Banking Services|Chief Digital Banking|
+|Aizid Razzaq Gill|Chief Executive Officer|Chief Executive Officer|
+|Nauman-ul-Haq Qureshi|Moin Khalid|Muhammad Atif Mirza|
+|Chief Information Technology|Chief Risk Management|Chief Financial Officer|
+|Owais Shahid|Ahmad Faheem Khan|Abid Anwar|
+|Chief Corporate & Investment Banking|Chief Corporate & Investment Banking|Chief Commercial & Retail Banking North|
+|Asif Bashir|Tariq Mehmood Shahid|Imran Maqsood|
+|Chief Special Assets Management|Chief Compliance|Chief General Services & Real Estate|
+|Jamil Khan|Mujahid Ali|Shahid Amir|
+|Chief Commercial & Retail Banking South|Chief Technology & Digital Transformation|Chief Islamic Banking|
+|Adeel Javaid|Shaffa Hussain| |
+|Chief Corporate Affairs / Company Secretary|Chief Audit & Risk Review| |
+
+102 Annual Report 2024
+
+103
+
+# MANAGEMENT TEAM
+
+|Owais Shahid|Ahmad Faheem Khan|
+|---|---|
+|Chief Corporate & Investment Banking|Chief Treasury|
+|He is a seasoned banker and joined ABL in 2005 and also served on various Boards as nominee Director. His portfolio includes Financial Institutions & International Banking, Corporate & Investment Banking, Capital Markets, Emerging Corporates and Home Remittances. His qualifications include BBA (Hons) & MBA from IBA, Karachi and Chartered Financial Analyst from CFA Institute, USA.|He is a seasoned banker and joined ABL in 2005 and also served on various Boards as nominee Director. His portfolio includes Financial Institutions & International Banking, Corporate & Investment Banking, Capital Markets, Emerging Corporates and Home Remittances. His qualifications include BBA (Hons) & MBA from IBA, Karachi and Chartered Financial Analyst from CFA Institute, USA.|
+|He has been with ABL since January 2008 and has over 21 years of experience in the banking sector. He holds a Master’s Degree in Commerce degree, qualified from CIMA (U.K.) and is member of Institute of Cost & Management Accountants of Pakistan. His pragmatic approach and coupled with a strong commitment to prudent risk management has transformed ABL treasury into an active and effective team in the banking industry.|He has been with ABL since January 2008 and has over 21 years of experience in the banking sector. He holds a Master’s Degree in Commerce degree, qualified from CIMA (U.K.) and is member of Institute of Cost & Management Accountants of Pakistan. His pragmatic approach and coupled with a strong commitment to prudent risk management has transformed ABL treasury into an active and effective team in the banking industry.|
+|Abid Anwar|Jamil Khan|
+|Chief Commercial & Retail Banking (North)|Chief Commercial & Retail Banking (South)|
+|A seasoned professional with over 32 years experience in Commercial and Corporate Banking with diversified portfolio of Deposits, SME/Corporate Finance and Trade. He started his career in 1992 and served Bank of Punjab, MCB and Faysal Bank before joining Allied Bank in 2007. He has an MBA degree with major in Finance. He has also attended International and domestic professional trainings/certifications including Leadership Development Program at National University of Singapore.|A seasoned professional with over 32 years experience in Commercial and Corporate Banking with diversified portfolio of Deposits, SME/Corporate Finance and Trade. He started his career in 1992 and served Bank of Punjab, MCB and Faysal Bank before joining Allied Bank in 2007. He has an MBA degree with major in Finance. He has also attended International and domestic professional trainings/certifications including Leadership Development Program at National University of Singapore.|
+|A seasoned banker with banking experience of more than 25 Years. Mr. Jamil after completion of his MBA – Finance from Peshawar University started his career in 1995 and served in MCB bank and Habib Bank before joining Allied Bank in 2008. During his professional career at the Bank, he has attended various international and domestic trainings.|A seasoned banker with banking experience of more than 25 Years. Mr. Jamil after completion of his MBA – Finance from Peshawar University started his career in 1995 and served in MCB bank and Habib Bank before joining Allied Bank in 2008. During his professional career at the Bank, he has attended various international and domestic trainings.|
+|Mujahid Ali|Shahid Amir|
+|Chief Technology and Digital Transformation|Chief Islamic Banking|
+|A seasoned professional with over three decades of diverse experience in Business Process Reengineering, IT Planning and Development, Project Management, and Systems Implementation. Joining Allied Bank in 2008 as Chief Information Technology, he brought a deep understanding of banking processes and exceptional problem-solving skills. Under his leadership, the Bank successfully transitioned from traditional banking systems to robust, cutting-edge IT solutions. Currently spearheading the Bank’s digital transformation journey, he is leveraging Big Data, Artificial Intelligence, and Blockchain technologies to redefine customer experiences and drive the organization into the digital era.|A seasoned professional with over three decades of diverse experience in Business Process Reengineering, IT Planning and Development, Project Management, and Systems Implementation. Joining Allied Bank in 2008 as Chief Information Technology, he brought a deep understanding of banking processes and exceptional problem-solving skills. Under his leadership, the Bank successfully transitioned from traditional banking systems to robust, cutting-edge IT solutions. Currently spearheading the Bank’s digital transformation journey, he is leveraging Big Data, Artificial Intelligence, and Blockchain technologies to redefine customer experiences and drive the organization into the digital era.|
+|He is a seasoned banker with over 35 years of experience in Business and Banking Operations. He holds an MBA, along with diplomas in Islamic Banking and Total Quality Management, and has completed various professional training programs from prestigious domestic and international institutions. He began his career in 1989 with BCCI and spent 16 years at Askari Bank, focusing on branch banking business and operational management. Since joining Allied Bank in 2008, he has taken on key responsibilities, contributing to various areas of banking and operations.|He is a seasoned banker with over 35 years of experience in Business and Banking Operations. He holds an MBA, along with diplomas in Islamic Banking and Total Quality Management, and has completed various professional training programs from prestigious domestic and international institutions. He began his career in 1989 with BCCI and spent 16 years at Askari Bank, focusing on branch banking business and operational management. Since joining Allied Bank in 2008, he has taken on key responsibilities, contributing to various areas of banking and operations.|
+|Zubair Sharif| |
+|Chief Banking Services| |
+|A seasoned banker with banking experience of more than 29 Years. After completion of his M.Sc. Statistics from University of the Punjab, he started his career in 1996. He joined Allied Bank in 2006 and has multi-dimensional banking experience in areas like corporate banking, Consumer Banking, trade finance, branch banking / operations, policy/procedures, digital transformation, Customer experience & customer journey mapping during his stay at various banks.|A seasoned banker with banking experience of more than 29 Years. After completion of his M.Sc. Statistics from University of the Punjab, he started his career in 1996. He joined Allied Bank in 2006 and has multi-dimensional banking experience in areas like corporate banking, Consumer Banking, trade finance, branch banking / operations, policy/procedures, digital transformation, Customer experience & customer journey mapping during his stay at various banks.|
+|Mohsin Mithani| |
+|Chief Digital Officer| |
+|He is an accomplished digital banking expert with a rich experience of over 24 years. He possesses expertise in digital transformation, payment ecosystems, data monetization, big data insights, and artificial intelligence, all contributing to enhanced customer experience. He holds Bachelor degree in Computer Science from FAST - Karachi, MBA in Finance & Marketing and distinguished certifications from the University of Virginia, USA and Amazon.|He is an accomplished digital banking expert with a rich experience of over 24 years. He possesses expertise in digital transformation, payment ecosystems, data monetization, big data insights, and artificial intelligence, all contributing to enhanced customer experience. He holds Bachelor degree in Computer Science from FAST - Karachi, MBA in Finance & Marketing and distinguished certifications from the University of Virginia, USA and Amazon.|
+|Nauman-ul-Haq Qureshi|Moin Khalid|
+|Chief Information Technology|Chief Risk Management|
+|With over 24 years of extensive experience in software development, IT implementation, and digital transformation, the Chief Information Officer of Allied Bank has been a driving force behind the bank’s technological evolution. Since joining the bank in 2006, he has played a pivotal role in transitioning from legacy systems to a modern, centralized Core Banking System, ensuring scalability, security, and operational efficiency. He holds an MS in Computer Science and an MS in Software Project Management from renowned institutions, reflecting his strong technical acumen and strategic leadership in the IT domain.|With over 24 years of extensive experience in software development, IT implementation, and digital transformation, the Chief Information Officer of Allied Bank has been a driving force behind the bank’s technological evolution. Since joining the bank in 2006, he has played a pivotal role in transitioning from legacy systems to a modern, centralized Core Banking System, ensuring scalability, security, and operational efficiency. He holds an MS in Computer Science and an MS in Software Project Management from renowned institutions, reflecting his strong technical acumen and strategic leadership in the IT domain.|
+|He has over 25 years of multifaceted experience in the field of risk, credit analysis, finance, strategic planning, consultancy and assurance services. Prior to joining Allied Bank in 2009, he has worked at a senior position at The Pakistan Credit Rating Agency – PACRA. He is a fellow member of the Institute of Chartered Accountant of Pakistan. He has played an integral role in implementation and enhancement of various automated systems for oversight of the Bank’s spectrum of risk-taking and control activities.|He has over 25 years of multifaceted experience in the field of risk, credit analysis, finance, strategic planning, consultancy and assurance services. Prior to joining Allied Bank in 2009, he has worked at a senior position at The Pakistan Credit Rating Agency – PACRA. He is a fellow member of the Institute of Chartered Accountant of Pakistan. He has played an integral role in implementation and enhancement of various automated systems for oversight of the Bank’s spectrum of risk-taking and control activities.|
+|Asif Bashir| |
+|Chief Special Asset Management| |
+|He is a seasoned banker with over 34 years of diverse experience in the industry. Holding MBA in Finance, he has attended various banking and management courses at local and international institutions. His expertise spans Public Sector Lending, Corporate Banking, Trade Finance, Special Assets Management, International Remittance, and Retail & Commercial Banking. He began his career with HBL in 1990, serving as Head of Public Sector, CIBG before joining ABL in 2005.|He is a seasoned banker with over 34 years of diverse experience in the industry. Holding MBA in Finance, he has attended various banking and management courses at local and international institutions. His expertise spans Public Sector Lending, Corporate Banking, Trade Finance, Special Assets Management, International Remittance, and Retail & Commercial Banking. He began his career with HBL in 1990, serving as Head of Public Sector, CIBG before joining ABL in 2005.|
+|Imran Maqsood| |
+|Chief General Services & Real Estate| |
+|He has a diverse experience of more than 32 years within banking sector. He has done his MBA and is also an Associate Member of the Institute of Bankers of Pakistan (IBP). He also holds international certifications from Institute of Internal Auditors and Information Systems Audit & Control Association USA. He possesses expertise in the areas of banking operations, regulatory oversight, audit, compliance and general banking services. He started his professional career in 1993 from State Bank of Pakistan and is associated with Allied Bank since 2005.|He has a diverse experience of more than 32 years within banking sector. He has done his MBA and is also an Associate Member of the Institute of Bankers of Pakistan (IBP). He also holds international certifications from Institute of Internal Auditors and Information Systems Audit & Control Association USA. He possesses expertise in the areas of banking operations, regulatory oversight, audit, compliance and general banking services. He started his professional career in 1993 from State Bank of Pakistan and is associated with Allied Bank since 2005.|
+|Adeel Javaid|Shaffa Hussain|
+|Chief CAG & Company Secretary|Chief Audit & Risk Review|
+|He is a seasoned professional and carries diverse experience of more than 25 years at leadership positions in industry, profession and banking. His areas of expertise include financial and strategic planning, fiscal reporting, taxation, budget monitoring, audit, and structural transformation. He is fellow member of the Institute of Chartered Accountants of Pakistan and has attended various domestic and international conferences and leadership trainings.|He is a seasoned professional and carries diverse experience of more than 25 years at leadership positions in industry, profession and banking. His areas of expertise include financial and strategic planning, fiscal reporting, taxation, budget monitoring, audit, and structural transformation. He is fellow member of the Institute of Chartered Accountants of Pakistan and has attended various domestic and international conferences and leadership trainings.|
+|He is an experienced professional having more than 25 years of banking experience. He has worked with State Bank of Pakistan, Habib Bank Limited and Bank Al-Habib. He is associated with Allied Bank Limited since 2008. He holds a Master’s degree in Banking & Finance from Monash University, Australia and MBA from University of Peshawar. His professional qualifications include Certified Internal Auditor from Institute of Internal Auditors, USA and DAIBP from Institute of Bankers, Pakistan.|He is an experienced professional having more than 25 years of banking experience. He has worked with State Bank of Pakistan, Habib Bank Limited and Bank Al-Habib. He is associated with Allied Bank Limited since 2008. He holds a Master’s degree in Banking & Finance from Monash University, Australia and MBA from University of Peshawar. His professional qualifications include Certified Internal Auditor from Institute of Internal Auditors, USA and DAIBP from Institute of Bankers, Pakistan.|
+
+
+# CORPORATE STRUCTURE
+
+# BOARD OF DIRECTORS
+
+Shariah Board*
+Board Risk Management Committee
+e-Vision Committee
+Strategic Planning & Monitoring Committee
+Human Resource & Remuneration Committee
+Audit Committee of the Board
+Ibrahim Holdings (Private) Limited owns 90% shares of Allied Bank Limited.
+
+# Allied Bank Limited (ABL)
+
+ABL Holds 100% beneficial ownership of ABL Asset Management Company Limited (ABL-AMC) and ABL Exchange (Private) Limited.
+
+|Chief Executive Officer|Management Committee|Asset Liability Risk Management Committee|Fair Treatment Committee|Compliance Committee|
+|---|---|---|---|---|
+|IT Steering Committee|Human Resource Committee|Central Administrative Action Committee| | |
+
+# ABL Asset Management Company Limited (ABL-AMC)
+
+# ABL Exchange (Private) Limited
+
+|Chief Technology & Digital Transformation|Corporate & Investment Banking|Human Resource|Business Planning & New Initiatives|
+|---|---|---|---|
+|Treasury|Marketing & Corporate Communication|Risk Management|Commercial & Retail Banking (South)|
+|Commercial & Retail Banking (North)|General Services & Real Estate|Islamic Banking|Finance|
+
+# Anti Harassment Committee
+
+Corporate Affairs
+
+Board Committee
+Management Committee
+Group Function
+* Independent Shariah Board oversees Islamic banking operations
+
+106 Annual Report 2024
+
+107
+
+# BOARD
+
+# COMMITTEES
+
+# Audit Committee of the Board
+
+Constitution:
+
+Muhammad Kamran Shehzad - Chairman - Nazrat Bashir - Member - Mian Ikram Ul Haq - Member
+
+Terms of Reference the corporate governance. The Committee is also responsible to facilitate Board of the Directors in establishing an unambiguous and observable ‘tone at the top’ for strong and effective system of internal controls based on and supported by strong ethical practices, culture, comprehensive policies, procedures, processes and technological systems; keeping an oversight and quarterly review of the Internal Controls over Financial Reporting and review of all findings of State Bank of Pakistan (SBP) Inspection Report, Management Letter by external auditors and weaknesses identified in internal controls by Audit and Risk Review along with review of Bank’s Statement of Internal Controls prior to endorsement by the Board of Directors. The other function of the Committee includes assurance that an independent and effective internal audit function is in place.
+
+# Board Risk Management Committee
+
+Constitution:
+
+Sheikh Mukhtar Ahmad - Chairman - Zafar Iqbal - Member - Nazrat Bashir - Member - Aizid Razzaq Gill - Member
+
+Terms of Reference the Committee. The Committee also monitors the risk profile of the Bank and reviews various risk reports including loss event reports, Interest Rate Risk Report, Stress test Results, NPLs and provisions. The primary functions of Board Risk Management Committee include monitoring of Management’s adherence to prudent and sound risk policies/ frameworks/ assets product program, assessing the everchanging risk profile and determining Risk Acceptance Criteria (RAC) of the Bank. The Committee ensures development of risk management principles to build stakeholders confidence, safeguard and enhance reputation. The Committee also monitors quality of asset portfolio and suggest measures to keep the infected portfolio at the minimum level. The Committee approves risk limits for credit, market and operational risks, credit approving matrix and proposals regarding write-offs above certain limits. The Committee approves acquisition of properties against settlement of Non-Performing Loans (NPLs) and their resale. It also reviews and approve acquisition, development and upgrade Risk Management Systems except InfoSec Systems. Overseeing of Asset Liability Committee, Risk Management Committee, Special Asset Management and Compliance functions is also undertaken by the Committee.
+
+# e-Vision Committee
+
+Constitution:
+
+Mohammad Naeem Mukhtar - Chairman - Muhammad Waseem Mukhtar - Member - Muhammad Kamran Shehzad - Member - Aizid Razzaq Gill - Member
+
+Terms of Reference of IT Steering Committee, Information Technology and Digital Banking Groups. The Committee also periodically reviews information security governance initiatives, risk and security assessments to ensure that Risk Management strategies are designed and implemented to achieve resilience, respond to wide-scale disruptions, including cyber-attacks, attacks on multiple critical infrastructure, recoverability of data / information and information assets. The Committee also decides in principle on matters related to acquiring, replacing / upgrading of technology, software and hardware relating to banking solutions. In addition to it, Committee also reviews and recommends strategic plans of the Bank for Information Technology, Information Security & Digital Banking to the Board of Directors. Committee reviews and approves outsourcing arrangements related to IT, Information Security, Digital Banking & cloud-based outsourcing. Besides, it also monitors the status of technology activities, digital initiatives and recommends to the Board of Directors for consideration. The Committee is also assigned with the responsibility to review Information Security Solutions Products Procurement, Service Level Agreements (SLAs) with vendors/third party service providers and get updates on Bank wide Information Security Awareness program and Cyber Security Action Plan in accordance with Information Security Policy.
+
+# Strategic Planning & Monitoring Committee
+
+Constitution:
+
+Muhammad Waseem Mukhtar - Chairman - Zafar iqbal - Member - Nazrat Bashir - Member - Aizid Razzaq Gill - Member
+
+Terms of Reference Assets) exceeding Rs. 1.5 million and up to Rs. 5 million. The Committee is also responsible to assist the Board of Directors on corporate development activities and new initiatives including, but not limited to acquisitions, mergers, alliances, joint ventures and divestitures. The Committee not only reviews Customer Services Standards, Service Quality but also oversees performance of Management Committee, Fair Treatment of Customers Committee, and all groups of the Bank. In addition, SPMC reviews and recommends to the Board of Directors Policies/ Product Programs/ Frameworks which does not fall in the TOR of any other Board Committee.
+
+# Human Resource & Remuneration Committee
+
+Constitution:
+
+Mian Ikram Ul Haq -Chairman - Muhammad Waseem Mukhtar - Member - Zafar Iqbal - Member - Aizid Razzaq Gill - Permanent Invitee
+
+Terms of Reference policy. The Committee nominates the Bank’s Directors and management personnel on the Board of Directors of other companies and subsidiaries. The Committee also recommends Remuneration Policy formulated for Employees, Directors and other Human Resource related policies to the Board of Directors, besides monitoring performance of Human Resource Committee and Human Resource function. In addition to the above, the Committee also ensures that a fair, transparent and competitive remuneration mechanism is developed and put in place to encourage the culture of ‘pay for performance’. Furthermore, the Committee recommends appointment and contract renewal of Shariah Board Members to the Board of Directors.
+
+# BOARD OF DIRECTORS’ AND BOARD COMMITTEES’ ATTENDANCE FOR THE YEAR 2024
+
+|Name|Board of Directors|Audit Committee of the Board|Board Risk Management Committee|Strategic Planning & Monitoring Committee|e-Vision Committee|Human Resource & Remuneration Committee|
+|---|---|---|---|---|---|---|
+|Mohammad Naeem Mukhtar|7/7|x|x|x|5/5|x|
+|Sheikh Mukhtar Ahmad|7/7|x|3/4|x|x|x|
+|Muhammad Waseem Mukhtar|7/7|x|x|12/12|5/5|4/4|
+|Zafar Iqbal*|7/7|3/3|1/1|4/4|3/3|2/2|
+|Nazrat Bashir|7/7|5/5|4/4|12/12|x|x|
+|Muhammad Kamran Shehzad**|2/2|2/2|x|x|1/1|x|
+|Mian Ikram Ul Haq***|2/2|2/2|x|x|x|1/1|
+|Abdul Aziz Khan****|4/4|x|3/3|8/8|x|2/2|
+|Mubashir A. Akhtar****|4/4|3/3|x|x|x|2/2|
+|Aizid Razzaq Gill (CEO)|7/7|x|4/4|11/12|5/5|x|
+
+Total number of Meetings held as on December 31, 2024
+
+*Mr. Zafar Iqbal was inducted as a member in Strategic Planning & Monitoring Committee, Board Risk Management Committee & Human Resource & Remuneration Committee w.e.f. 09.09.2024.
+
+** Mr. Muhammad Kamran Shehzad elected as an Independent Director on ABL’s Board of Directors w.e.f. 27.08.2024. He was inducted as a Chairman in Audit Committee of the Board and as member of e-Vision Committee w.e.f. 09.09.2024.
+
+*** Mr. Mian Ikram Ul Haq elected as an Independent Director on ABL’s Board of Directors w.e.f. 27.08.2024. He was inducted as a Chairman in Human Resource & Remuneration Committee and a member of Audit Committee of the Board w.e.f. 09.09.2024.
+
+****Term of Mr. Abdul Aziz Khan and Mr. Mubashir A. Akhtar stands completed w.e.f. 27.08.2024.
+
+# BOARD MEETINGS HELD OUTSIDE PAKISTAN
+
+None of the Board meeting was held outside Pakistan during the year.
+
+# OUR GOVERNANCE
+
+# PHILOSOPHY
+
+# BOARD COMPOSITION
+
+The Board of the Directors of the Bank comprises of 7 Non-Executive Directors including 3 Independent Directors and 1 Executive Director. The composition of the Board of Directors is as follows:
+
+|Category|Names|
+|---|---|
+|Non-Executive Directors|Mohammad Naeem Mukhtar|
+| |Sheikh Mukhtar Ahmad|
+| |Muhammad Waseem Mukhtar|
+| |Zafar Iqbal|
+|Independent Directors|Nazrat Bashir|
+| |Muhammad Kamran Shehzad|
+| |Mian Ikram Ul Haq|
+|Female Director|Nazrat Bashir|
+|Executive Director|Aizid Razzaq Gill (Chief Executive Officer)|
+
+The profile of each Director including engagement in other entities is given in the Board of Directors area under Overview section. The Board of Directors has formed five Committees of the Board to assist the Board in discharging its fiduciary responsibilities. The detail of Committees of the Board including the Members and Terms of References are disclosed in Board Committees section.
+
+# Independent Directors and their Independence
+
+The Board has three (03) Independent Directors who meet the criteria of Independence under the Companies Act, 2017 and directives issued by the State Bank of Pakistan (SBP).
+
+# Modus Operandi of the Board of Directors
+
+The Board of Directors of the Bank carry out its fiduciary duties in compliance with the regulatory requirements and Articles of Association of the Bank, with a sense of objective judgment and independence in the best interests of the Bank and its stakeholders. The Board takes decisions for good governance, financial performance and sustainability of the Bank. The Board approves policies and ensure their implementation as required under laws and regulations.
+
+The Board also approves and monitors the objectives, strategies and overall business plans on long term and yearly basis and oversees that the affairs of the Bank are carried out prudently within the framework of laws, regulations and business ethics. The Board focuses in achieving the Bank’s vision and targets through holistic, integrated, consultative and coordinated approach. For this and to strengthen governance mechanism and oversight, the Board has formed following specialized Committees with well-defined objectives, responsibilities and tenure. These Committees support the Board in various important areas with a focus on strategic planning, risk & compliance management, technology, human resource, audit and internal control:
+
+- i. Strategic Planning and Monitoring Committee
+- ii. Board Risk Management Committee
+- iii. e-Vision Committee
+- iv. Human Resource and Remuneration Committee
+- v. Audit Committee of the Board
+
+As part of the overall stewardship responsibility, the Board and Corporate Governance Regulations, the Board of Directors, in the year 2014, put in place an effective mechanism for the evaluation of Board of Directors. Subsequently, SBP, issued detailed Guidelines on Performance Evaluation of Board of Directors.
+
+# Annual Evaluation of Board, Committees and Individual Directors’ Performance
+
+Board composition is a significant contributing factor to the performance of Board of Directors. An appropriate experience, skill-mix and competencies are crucial for the effective functioning of the Bank. The Board of Directors of Allied Bank Limited comprises of 7 Non-Executive Directors (including 3 Independent Directors) and CEO being the Executive Director, bringing vast experience in diverse fields, appropriate skillset, independence and diversity. The Board of Directors is assisted by five Board Committees. The rationale of Board Committees is to enhance the efficiency and share the workload of the Board.
+
+Performance evaluation of Board of Directors, Committees, Individual Members and CEO is imperative to determine their strengths and weaknesses in order to increase their overall effectiveness and to ensure the compliance with the responsibilities under The Companies Act 2017, Banking Companies Ordinance 1962, SBP’s Prudential Regulations, Corporate Governance Regulatory Framework, Listed Companies (Code of Corporate Governance) Regulations, 2019 and other laws and regulations.
+
+# Criteria for Annual Evaluation of Performance
+
+The Bank uses SBP criteria for in house annual performance evaluation of Overall Board of Directors, Chairman, Members of the Board, Board Committees and CEO. Following are the main attributes of the performance evaluation criteria:
+
+|Category|Particulars|
+|---|---|
+|Overall Board of Directors|- Responsibilities
+- Composition
+- Structure and Committees
+- Working Procedures
+- Duties and Liabilities
+|
+|Chairman|- Effective Leadership
+- Relationship with other Members, Management and shareholders
+- Conflict Resolution
+- Promoting constructive debate and effective participation in decision making
+- Shareholders’ confidence in Board
+|
+|Members of the Board|- Attendance at the Meetings
+- Contribution at Board / Committee Meetings
+- Commitment to the Bank
+- Relationship with other Members and Management
+- Integrity and Confidentiality
+|
+|Board Committees|- Size, Structure and Skillset of Committees
+- Performance against Terms of Reference
+- Frequency of Committee Meetings
+- Open communication and meaningful participation of Members
+|
+|CEO|- Performance against Financial / Business Targets set by the Board
+- Leadership Qualities
+- Communication with Stakeholders
+|
+
+The responses and feedback from the directors on each of the above-mentioned categories (except Chairman) is compiled and submitted to the Chairman enabling him to discuss the results and findings with each individual member of the Board of Directors, if needed.
+
+The authorized independent director communicates the feedback in respect of the Chairman Board of Directors to the Company Secretary for incorporation in the consolidated performance report.
+
+# Board of Directors’ Performance Evaluation Carried Out by External Consultant
+
+As per SBP Corporate Governance Regulatory Framework (G-13) and guidelines on performance evaluation of the Board of Directors, the Bank carries out an external independent evaluation once in every three years. In 2024, M/s. Yousaf Adil, Chartered Accountants was engaged as an independent evaluator to issue a formal report covering following areas:
+
+- I. Board’s structure and composition
+- II. Board’s role and responsibilities
+- III. Board’s processes
+- IV. Board’s committees’ organization and process
+- V. CEO Oversight
+- VI. Board’s compensation
+- VII. Potential Board Development needs
+- VIII. Role of Independent Directors & Non-Executive Directors
+
+# Directors’ Training Program
+
+All the Members of the Board of Directors are required to attend Directors Training Program as provided in Securities and Exchange Commission of Pakistan’s Listed Companies (Code of Corporate Governance) Regulations, 2019, and Corporate Governance Regulatory Framework 2021 issued by the State Bank of Pakistan.
+
+# OUR GOVERNANCE
+
+# PHILOSOPHY
+
+The Board of Directors is fully adhered to the Directors training arrangements under the regulations. Directors are advised to surrender the fee paid by the said companies for attending the Board and Board Committee meetings to the Bank.
+
+The following Directors have attended Directors Training Program from Securities and Exchange Commission of Pakistan’s approved institutions:
+
+1. Mr. Sheikh Mukhtar Ahmad
+2. Mr. Muhammad Waseem Mukhtar
+3. Mr. Zafar Iqbal
+4. Ms. Nazrat Bashir
+5. Mr. Mian Ikram Ul Haq
+6. Mr. Aizid Razzaq Gill
+
+# Security Clearance of Foreign Directors
+
+Foreign Directors, if any, elected on the Board of Directors requires security clearance from the Ministry of Interior Affairs through Securities and Exchange Commission of Pakistan. Currently, there is no foreign Director elected on the Board of the Bank.
+
+# Executive Directors and their Directorship
+
+Mr. Mohammad Naeem Mukhtar is exempted from Directors’ training Certification requirement due to his educational qualification and experience, while Mr. Muhammad Kamran Shehzad, newly elected director, shall complete Directors Training Program within one year of his election.
+
+During the year 2024, Mr. Muhammad Waseem Mukhtar and Ms. Nazrat Bashir attended training on ‘High Performance Boards Program’ from International Institute for Management Development, Switzerland.
+
+# Directors’ Orientation Program
+
+The Bank has put in place a formal procedure to make appropriate arrangements to carry out orientation of the Directors to acquaint them with the Code of Corporate Governance Regulations, applicable laws, their duties and responsibilities to enable them to effectively govern the affairs of the Bank. Members of the Board of Directors were regularly updated on changes in law and regulations and important news relating to financial sector and economic environment of the Country.
+
+# Board’s Remuneration Policy
+
+The Bank’s Board Remuneration Policy, formulated in accordance with SBP’s guidelines, was approved by Bank’s Shareholders. The scale of remuneration to be paid to Chairman of the Board of Directors and Non-Executive Directors including Independent Directors (excluding CEO) for attending the Board and its Committees meetings is determined keeping in view the responsibilities, governance structure and expertise, in accordance with the approved policy. Full scope review of policy was presented and approved in 77th AGM of the Bank held on March 28, 2023.
+
+The salient features of the Board’s Remuneration Policy are, as under:
+
+- No Director is involved in deciding his/her own remuneration.
+- No fee is paid if any of the Directors does not attend a meeting. Similarly, fee is not paid for the proposals considered through circulation.
+- The administrative expenses pertaining to the office and staff allocated to the Chairman of the Board of Directors are determined rationally.
+- Directors may be provided with certain facilities incidental to the performance of their role as Members of the Board of Directors depending on the need and as approved by the Board of Directors.
+
+# Policy for Nomination on the Board of Directors of other Companies
+
+Board’s Human Resource and Remuneration Committee approves nomination of the Bank’s Executives and Directors on the Board of other Companies on behalf of the Bank.
+
+# Meeting the Regulatory and Legal Requirements
+
+Promoting the best corporate governance practices particularly at Board of Directors level and ensuring that the Board of Directors is functioning effectively in accordance with the applicable laws, regulations and rules.
+
+# Roles and Responsibilities of the Chief Executive Officer
+
+Chief Executive Officer plays a pivotal role in implementing the Board of Directors vision, strategic and business plans. Chief Executive Officer leads the management in day-to-day operations of the Bank in accordance with the roles and responsibilities vested by the Board of Directors. The roles and responsibilities of Chief Executive Officer encompasses:
+
+- Implement the strategies and policies approved by the Board of Directors in pursuit of the Bank’s vision.
+- Place all significant issues in a timely and accurate manner before the Board of Directors for information, consideration and decision.
+- Conduct day-to-day affairs of the Bank in accordance with the business norms and approved procedures, promote highest standards of corporate governance and compliance with applicable laws, regulations and rules.
+- Maintain effective communication with all the stakeholders including Board of Directors, Shareholders, Employees, Customers and Regulatory bodies.
+- Develop performance standards both quantitative and qualitative for the management and monitoring performance there against.
+
+# Board’s commitment to establish high level of ethics and compliance:
+
+In line with the Bank’s commitment to strong corporate governance and a robust compliance culture, it is ensured that all applicable laws, regulations, and banking industry standards are strictly adhered to, with a focus on regulatory compliance, risk management, and ethical business practices.
+
+# Authorization of Financial Statements
+
+In compliance with the Listed Companies (Code of Corporate Governance) Regulations, 2019, the financial statements were duly endorsed by the Chief Financial Officer and Chief Executive Officer before circulating these for consideration and approval of the Board of the Directors. These annual financial statements were authorized for issue on February 04, 2025 by the Board of Directors of the Bank.
+
+# Presence of the Chairman of Audit Committee of the Board at Annual General Meeting
+
+Chairman of Audit Committee of the Board attended 78th Annual General Meeting held on March 28, 2024 to answer questions on the activities and matters within the scope of Audit Committee of the Board’s responsibilities.
+
+# Appointment of Non-Executive Directors through an External Search Consultancy
+
+The selection of independent directors as members of the Bank’s Board of Directors is carried out from a list maintained by the Pakistan Institute of Corporate Governance (PICG) under the Companies (Manner and Selection of Independent Directors) Regulations, 2018. Non-Executive Directors are elected through election of Directors at the General Meeting. The last election took place in the year 2024. No external search consultancy services were obtained for appointment of the Non- Executive Directors, at the time of election.
+
+# Key Governance Practices
+
+- The Board of Directors comprises of an appropriate mix of Directors in terms of experience, competence and financial acumen.
+- Six members of the Board of Directors are certified directors, whereas, one director is exempted from the requirement based on his qualification and experience, while one newly elected director shall complete the Directors Training Program within one year of his election.
+
+# OUR GOVERNANCE
+
+# ALLIED BANK CELEBRATING PINKTOBER; BREAST CANCER AWARENESS MONTH
+
+- Three members of the Board of Directors are independent directors.
+- Board of Directors has constituted five Board committees to assist in the governance of the Bank i.e., Audit Committee, e-Vision Committee, Board Risk Management Committee, Strategic Planning & Monitoring Committee and Human Resource & Remuneration Committee.
+- Corporate Governance rating of the Bank also depicts a strong commitment towards governance framework by the Board of Directors and management of the Bank.
+
+# Governance Practices exceeding Legal Requirements
+
+The Bank is fully committed in inculcating the best Corporate Governance practices throughout the organization and accordingly has been awarded with Corporate Governance Rating of 9++ (out of maximum scale of 10) by the VIS Credit Rating Company Limited. This rating signifies a very high level of Corporate Governance.
+
+# Shares held by Sponsors, Directors and Executives
+
+Shares held by Sponsors, Directors and Executives and respective percentage Shareholding as on December 31, 2024 is disclosed in detail under Pattern of Shareholding section of the Annual Report.
+
+# Impact of Government’s Policies on Banking Sector
+
+The impact of Government’s policies on the performance of the Banking industry is discussed in detail under the Macroeconomic Development and Financial Performance section of the Directors’ Report.
+
+# Dividend
+
+The Bank aims to optimize shareholders’ returns by maintaining adequate dividend payouts that are reflective of its financial performance and future outlook.
+
+# ALLIED BANK CELEBRATED
+
+# STATEMENT ON FAITH HARMONY & UNITY
+
+# INTERNAL CONTROL
+
+The Bank’s management is responsible for establishing the Internal Control System with the main objectives of ensuring effectiveness and efficiency of operations, reliability of financial reporting, safeguarding of assets and compliance with applicable laws and regulations.
+
+The Bank’s Compliance policy and procedures further strengthened by a comprehensive Control Review and Testing Framework (CRTF), approved by the Board of Directors, outline the Bank’s overall control objectives and approach towards implementation and testing of the Bank’s Internal Control System.
+
+Under the aforementioned CRTF, the Bank’s Internal Control System is being evolved, reviewed and improved on an ongoing basis to minimize risks which are inherent in banking business and operations; with continuous monitoring by the Compliance Group and independent review by Audit and Risk Review Group (A&RRG).
+
+A&RRG works under direct supervision of Audit Committee of the Board of Directors (hereafter referred as the Committee). The Committee is chaired by an Independent Director and comprises entirely of Independent Directors.
+
+A&RRG assists the Committee and the Board of Directors in discharge of their responsibility in respect of Internal Control System. A&RRG reviews, assesses adequacy and monitors the effectiveness of control systems on an ongoing basis.
+
+All significant and material findings are reported to the Committee; which actively monitors that the identified risks and observations are properly mitigated to safeguard the interests of the Bank. The Board of Directors, acting through the Committee, provides supervision and overall guidance in improving the effectiveness of the Internal Control System.
+
+The Compliance Group is entrusted with the responsibility to minimize compliance risk with reference to regulatory framework; internal, external & regulatory audit compliance; control self-assessment, compliance review of material/high risk processes, monitoring completeness and maintaining up to date inventory of the Bank’s policies, procedures and controls.
+
+The Bank has implemented an effective document life cycle management mechanism necessitating timely review and updation of documentation to incorporate material regulatory requirements and enhance control environment. In order to prevent and detect control lapses, concerted efforts are made, in coordination with all functions of the Bank to improve the control environment through continuous review and streamlining of policy and procedures.
+
+In order to further strengthen the control environment, the Bank has automated the related compliance processes through state of the art & internationally recognized Transaction Monitoring System and Name Screening utility to mitigate the risks associated with Anti Money Laundering and Combatting the Financing of Terrorism and to ensure compliance with the local and international regulations. The management has also established Compliance Committee to strengthen oversight role on the compliance environment.
+
+Risk Management Group is entrusted with implementation of effective operational risk management framework. Risk Control Self-Assessment (RCSA) is carried out to identify Operational Risk against material processes and assess design of controls and to evaluate the operational effectiveness of controls. Incidents of loss data are gathered for analysis, reporting and suggesting improvements in existing control structure. Further, Key Risk Indicators on bank-wide basis are defined in coordination with the stakeholders for effective monitoring of potential risks and taking proactive measures for mitigating these risks.
+
+Furthermore, compliance status of all irregularities identified during various audits and inspections is reported to the Committee.
+
+Aizid Razzaq Gill
+Chief Executive Officer
+Lahore.
+Dated: February 04, 2025
+
+# REPORT OF AUDIT COMMITTEE
+
+# Annual Compliance Review for the year 2023 of ABL wholesale Banking Branch, Bahrain;
+
+1. Services by external auditors to ensure independence and objectivity of external auditors.
+2. Management Letter by external auditors along with the Action Plan submitted by the Management;
+3. Revised Internal Audit Policy;
+4. Islamic Banking Group (IBG) & External Shari’ah Audit Report and compliance status
+5. Accounting, Disclosure and Related Party Transaction policy of the Bank, accounting policies for Islamic Banking and Bahrain Branch.
+
+# Performance Evaluation of the Committee
+
+The Committee in accordance with the requirements of Code of Corporate Governance met with the external auditors with and without presence of management to discuss the results of auditors’ examination and evaluation of internal controls and the overall quality of the Bank’s financial reporting. Furthermore, the Committee ensured efficient supervision of the internal control system by steering separate meetings with Chief A&RRG and internal audit staff.
+
+# Internal Controls Framework and Role of A&RRG
+
+The Bank’s internal control structure comprises of the Board of Directors, the Committee, Management including Compliance Group, Risk Management Group and Audit & Risk Review Group. Roles of all the functionaries have been defined in the Management’s Statement of Internal Controls, as part of the Annual Report which is duly endorsed by the Board of Directors.
+
+The Chief Audit and Risk Review Group (A&RRG) reports directly to the Committee. A&RRG assists the Committee and the Board of Directors in discharging their responsibility in respect of Internal Control System.
+
+# Committee Responsibilities
+
+The Committee ensures that A&RRG has adequate financial, technological and operational resources along with appropriate human resources having required skill-sets, expertise and trainings necessary to perform A&RRG’s responsibilities independently, effectively and objectively.
+
+# Recommendations to the Board of Directors
+
+The Committee reviews and recommends to Board of Directors the Internal Audit policy and Whistle Blowing policy for approval, periodically or as and when any amendment is required.
+
+# Audit Committee Meetings
+
+The meetings of the Committee are designed to facilitate and encourage communication between the Committee, A&RRG, the Bank’s senior management and the external auditors. During the year 2024, five meetings of the Committee were held and among others following agenda items were deliberated in the meetings:
+
+1. Review of the Bank’s annual and interim financial statements prior to their approval by the Board of Directors.
+2. Review of quarterly Consolidated Reports on Testing of Financial Reporting Controls.
+3. Review of significant issues highlighted by A&RRG during audits and reviews of branches and other functions of the Bank, external auditors and SBP’s inspection teams and status of compliance including regular updates on the rectification actions taken by the management.
+4. Review of A&RRG’s assessment on overall internal controls of the Bank for the year 2023.
+5. Approval of Annual Assessment Report on Efficacy of Internal Controls over Financial Reporting (ICFR) 2023.
+6. Monitoring of compliance status of observations highlighted in SBP’s inspection reports.
+7. Review of Annual report on Periodic Self-Assessments conducted by A&RRG under Quality Assurance & Improvement Program.
+8. Review and approval of Strategic Plan of A&RRG (2025-2034) for inclusion in the overall Strategic Plan of the Bank.
+9. Review and approval of Internal Audit Procedures Manual.
+10. Review and approval of revised Charter of Audit & Risk Review Group.
+11. Review of the A&RRG’s compliance with revised Global Internal Auditing Standards.
+12. Review of analysis related to frauds, forgeries and dacoities incidents in the Bank; with specific focus on nature and reasons along with management action(s) thereof.
+13. Review and approval of risk based annual audit plan 2025, related enablers and budget along with resource requirements of A&RRG.
+14. Review of status of complaints lodged under the Bank’s Whistle Blowing Policy.
+15. Review of periodic activity review reports of A&RRG.
+
+# Conclusion
+
+In addition to above, the Committee also reviewed and recommended the following to the Board of Directors:
+
+1. Statement of Internal Controls, prior to endorsement by the Board of Directors;
+2. Activity review report of the Committee for the year 2023;
+3. Appointment of Statutory Auditors of the Bank, Bahrain Branch and China Office for the year ending December 31, 2024 along with fixation of their remuneration;
+
+Muhammad Kamran Shehzad
+
+Chairman Audit Committee of the Board
+
+Lahore
+
+Date: February 03, 2025
+
+# STATEMENT OF COMPLIANCE
+
+# With Listed Companies (Code of Corporate Governance) Regulations, 2019
+
+# Allied Bank Limited for the year ended December 31, 2024
+
+The Bank has complied with the requirements of the Regulations in the following manner:
+
+1. The total number of directors are (08) including the Chief Executive Officer (Deemed Director) as per the following;
+- a. Male: Seven (07)
+- b. Female: One (01)
+2. The Composition of the Board of Directors is as follows:
+
+|Category|Names|
+|---|---|
+|Non-Executive Directors|Mohammad Naeem Mukhtar*|
+| |Sheikh Mukhtar Ahmad*|
+| |Muhammad Waseem Mukhtar*|
+| |Zafar Iqbal*|
+| |Nazrat Bashir*|
+|Independent Directors|Muhammad Kamran Shehzad**|
+| |Mian Ikram Ul Haq**|
+|Executive Director|Aizid Razzaq Gill (Chief Executive Officer)|
+|Female Director|Nazrat Bashir*|
+
+* Mr. Mohammad Naeem Mukhtar, Mr. Sheikh Mukhtar Ahmad, Mr. Muhammad Waseem Mukhtar, Mr. Zafar Iqbal and Ms. Nazrat Bashir have been re-elected by the shareholders as Directors in election held on August 27, 2024, for a term of three (03) years.
+
+Mr. Mubashir A Akhtar (as Independent Director) and Mr. Abdul Aziz Khan (as Non-Executive Director) have retired on August 27, 2024, after completion of their term.
+
+** Mr. Muhammad Kamran Shehzad and Mr. Mian Ikram Ul Haq have been elected by the shareholders as Independent Directors in election held on August 27, 2024, for a term of three years. Further, previously, Mr. Zafar Iqbal served as Independent Director till August 27, 2024.
+
+The directors have confirmed that none of them is serving as a director on more than seven listed companies including Allied Bank Limited.
+The Bank has prepared a code of conduct and has ensured that appropriate steps have been taken to disseminate it throughout the Bank along with its supporting policies and procedures.
+The Board of Directors has developed a vision and mission statement, overall corporate strategy and significant policies of the Bank. The Board of Directors has ensured that complete record of particulars of the significant policies along with their date of approval or updating is maintained by the Bank.
+
+# Committees
+
+The Board of Directors has formed five Committees. The names and composition of the Committees along with the details of its Members, as at December 31, 2024 are as follows:
+
+# A) Audit Committee of the Board
+
+- Muhammad Kamran Shehzad, Chairman
+- Nazrat Bashir, Member
+- Mian Ikram Ul Haq, Member
+
+# B) Board Risk Management Committee
+
+- Sheikh Mukhtar Ahmad, Chairman
+- Zafar Iqbal, Member
+- Nazrat Bashir, Member
+- Aizid Razzaq Gill, Member
+
+# C) e-Vision Committee
+
+- Mohammad Naeem Mukhtar, Chairman
+- Muhammad Waseem Mukhtar, Member
+
+# D) Strategic Planning & Monitoring Committee
+
+- Muhammad Waseem Mukhtar, Chairman
+- Zafar Iqbal, Member
+- Nazrat Bashir, Member
+- Aizid Razzaq Gill, Member
+
+# E) Human Resource & Remuneration Committee
+
+- Mian Ikram Ul Haq, Chairman
+- Muhammad Waseem Mukhtar, Member
+- Zafar Iqbal, Member
+- Aizid Razzaq Gill, Permanent Invitee
+
+13. The terms of reference of the aforesaid Committees have been formed, documented and advised to the Committee for compliance.
+
+14. The frequency of meetings of each Committee is given below:
+
+|Name of the Committee|No. of Meetings held during 2024|
+|---|---|
+|Audit Committee of the Board|Five|
+|Board Risk Management Committee|Four|
+|e-Vision Committee|Five|
+|Strategic Planning & Monitoring Committee|Twelve|
+|Human Resource & Remuneration Committee|Four|
+
+18. We confirm that all requirements of regulations 3, 6, 7, 8, 27, 32, 33 and 36 of the Regulations have been complied with.
+
+Mohammad Naeem Mukhtar
+Chairman
+Lahore
+February 04, 2024
+
+# INDEPENDENT AUDITOR’S REVIEW REPORT
+
+To the members of Allied Bank Limited
+
+# Review Report on the Statement of Compliance contained in Listed Companies (Code of Corporate Governance) Regulations, 2019
+
+We have reviewed the enclosed Statement of Compliance with the Listed Companies (Code of Corporate Governance) Regulations, 2019 (the Regulations) prepared by the Board of Directors of Allied Bank Limited (the Bank) for the year ended 31 December 2024 in accordance with the requirements of Regulation No. 36 of the Regulations.
+
+The responsibility for compliance with the Regulations is that of the Board of Directors of the Bank. Our responsibility is to review whether the Statement of Compliance reflects the status of the Bank’s compliance with the provisions of the Regulations and report if it does not and to highlight any non-compliance with the requirements of the Regulations. A review is limited primarily to inquiries of the Bank’s personnel and review of various documents prepared by the Bank to comply with the Regulations.
+
+As a part of our audit of the financial statements we are required to obtain an understanding of the accounting and internal control systems sufficient to plan the audit and develop an effective audit approach. We are not required to consider whether the Board of Directors’ statement on internal control covers all risks and controls or to form an opinion on the effectiveness of such internal controls, the Bank’s corporate governance procedures and risks.
+
+The Regulations require the Bank to place before the Audit Committee, and upon recommendation of the Audit Committee, place before the Board of Directors for their review and approval, its related party transactions. We are only required and have ensured compliance of this requirement to the extent of the approval of the related party transactions by the Board of Directors upon recommendation of the Audit Committee.
+
+Based on our review, nothing has come to our attention which causes us to believe that the Statement of Compliance does not appropriately reflect the Bank’s compliance, in all material respects, with the requirements contained in the Regulations as applicable to the Bank for the year ended 31 December 2024.
+
+# Terms of Reference
+
+The primary function of Shariah Board is to supervise and advise the management of the Bank on all Shariah related matters, develop comprehensive Shariah compliance framework and is responsible for all Shariah related decision. The Shariah Board approves all Islamic Banking related policies, procedures, services and related agreements and contracts in conformity with the rules and principles of Shariah. The Shariah Board is responsible to review Internal Shariah Audit review report, external Shariah Audit, State Bank of Pakistan Shariah Inspection and Shariah compliance reviews and prescribes appropriate remedial measures. Shariah Board meetings are held at least quarterly and it also meets with Board of Directors at least on half yearly basis.
+
+# Process of Appointment and Nomination
+
+The appointment of members of the Shariah Board is approved by the Board of Directors, of the Bank, upon recommendation of the Human Resource and Remuneration Committee. The appointment is subject to prior clearance of State Bank of Pakistan and pursuant to Fit and Proper Criteria (FAPC) and regulation of State Bank of Pakistan.
+
+# Profile of Shariah Board
+
+|*Mufti Muhammad Iftikhar Baig|Mufti Mahmood Ahmad|Tayyab Amin|
+|---|---|---|
+|Chairman Shariah Board|Member Shariah Board|Resident Shariah Board Member|
+
+Mufti Muhammad Iftikhar Baig is serving Allied Bank Limited as Chairman Shariah Board. He is a qualified Mufti from the Jamia Darul-Uloom Karachi, which is one of the most reputed and prestigious religious institutions in the country. He is also a Law graduate from the University of Karachi (KU). He has been serving for more than 18 years at different local and international banks/Mudarabah Companies/Insurance Companies (WTO) as a Shariah Advisor/Shariah Board Member. Moreover, he regularly delivers lectures on Islamic Economics and Finance at different forums and educational institutions. He is also a visiting faculty member of renowned Islamic university – Jamia Al Ashrafia Lahore.
+
+Dr. Mufti Mahmood Ahmad currently serves as a Member of the Shariah Board at Allied Bank Ltd. (Islamic Banking). He holds Shahada-tul-Almiah (Masters in Arabic and Islamic Studies) from Wifaq-ul-Madaris Al-Arabia, and Master’s degree in Arabic from the University of the Punjab, Lahore, and a Takhassus fi al-Ifta (specialization in Islamic Fiqh and Fatwa) from Jamia Dar-ul-Uloom, Karachi. He has also done his Masters from the University of the Punjab Lahore and completed his M. Phil in Islamic studies from the University of Sargodha. He has also completed the Certified Shariah Advisor and Auditor course (CSAA) from the Accounting and Auditing Organization for Islamic Financial Institution (AAOIFI) Bahrain.
+
+Mufti Tayyab Amin is serving as Resident Shariah Board Member (RSBM) of Allied Bank Limited. He has done his Al-Aalamiyyah (a degree recognized by the HEC Pakistan as a Master in Arabic & Islamic Studies) and specialization in Islamic Jurisprudence from Jamia Darul-Uloom Karachi, which is the most reputed and prestigious religious institution. He has overall experience of more than thirteen years as a Shariah consultant for various business sectors including Islamic Micro-Finance.
+
+None of the members of Shariah Board of the Bank are member of Shariah Board of any other financial institution.
+
+Number of meetings attended: Four Shariah Board meetings were held last year and all Members attended all the meetings.
+
+*Mufti Muhammad Iftikhar Baig (Late) was Chairman Shariah Board as of 31st December 2024. However, he passed away on January 11, 2025.
+
+# Remuneration Framework for Shariah Board Members
+
+Fixed remuneration is paid to Chairman Shariah Board as well as Non-resident Shariah Board Member in line with employment contracts including monthly salary, medical benefit and fuel reimbursement. No variable remuneration (performance bonus) is paid to Chairman Shariah Board and Non-resident Shariah Board Member. Resident Shariah Board Members are paid fixed remuneration which includes monthly salary and allowances as per terms of contract and post-employment benefits. Variable remuneration (performance bonus) is paid on the basis of performance assessment carried out annually through performance appraisal process.
+
+EY Ford Rhodes
+
+Chartered Accountants
+
+Place: Lahore
+
+Date: 3 March 2025
+
+UDIN: CR2024101206q9YHykvj
+
+# REPORT OF SHARIAH BOARD
+
+# Orientation
+
+The Bank’s policy of recruiting new staff for Islamic banking branches who demonstrate a strong commitment to the principles of Islamic banking should be maintained. To enhance Islamic banking knowledge and acumen, an orientation session for BOD was conducted by the Shariah Board. Further, an orientation was arranged for executive management. Moreover, different trainings were attended by the members of the Shariah Board.
+
+# Awareness Session
+
+To create awareness of Islamic banking among the general public, the Bank conducted different seminars for the general public.
+
+# Recommendations:
+
+Following are some areas, which require continuous focus:
+
+1. The Bank’s proactive efforts to raise awareness about Islamic banking through seminars and programs are highly commendable. However, it is recommended that such programs should also be continued in the future at the mass level.
+2. It is recommended that the Bank should establish a dedicated team of specialized Islamic banking trainers to meet the increasing demand for capacity building of staff and ensure consistent expertise across the organization.
+3. Conventional insurance is not permissible from a Shariah perspective. Therefore, it is recommended to convert IBG’s assets to Takaful as soon as possible.
+
+# In the name of Allah, the Beneficent, the Merciful
+
+By the grace of Almighty Allah, the year under review was the 13ᵗʰ year of Islamic Banking Operations of Allied Bank Limited (ABL-Aitebar Islamic Banking). This year, the Shariah Board has approved the Bank’s conversion plan wherein the complete conventional banking operations of the Bank will be gradually converted into Islamic banking during next three years. The scope of this report is to cover the affairs of ABL-Aitebar Islamic Banking, from a Shariah perspective as stipulated under para 3 (b) of the revised Shariah Governance Framework issued by the State Bank of Pakistan vide its IBD Circular No. 01 of 7ᵗʰ June, 2018.
+
+# Review and Development:
+
+ABL-Aitebar Islamic Banking has completed yet another successful year. Upon achieving a branch network of 159 dedicated Islamic branches and 308 Islamic Banking windows. Significant growth in assets, Investments and deposits have been registered.
+
+# Asset Review:
+
+During the year, the financing portfolio has reached to Rs. 32,124 million. The investment portfolio has risen by 174% to Rs. 105,162 million as compared to Rs. 38,360 million last year, which mainly constituting Government Ijarah Sukuk, Corporate Sukuks, and Islamic Naya Pakistan Certificates.
+
+# Deposit Review:
+
+The total deposits of ABL-Aitebar Islamic Banking have increased by 15% during the year reaching Rs. 109,842 million by December 31, 2024 as compared to Rs. 95,334 million as of last year.
+
+# Other Key Activities:
+
+SB also reviewed and approved different products programs, policies and procedure manuals during the year.
+
+# Profit Distribution Policy:
+
+Shariah Compliance Department also conducted a review of the process of profit distribution on a monthly basis and ensured that the distribution is in line with the instructions of SB and SBP. Moreover, an internal Shariah audit of pool management has been conducted on a quarterly basis, which has further improved the process of pool management, profit, and loss distribution and strengthened compliance with Shariah guidelines.
+
+# Shariah Board Meetings:
+
+During the year 2024, four Shariah Board meetings were held wherein multiple issues were discussed and resolved. Shariah Compliance Department remained in close coordination with the Shariah Board and management to implement Shariah Board decisions. The ongoing involvement of SB ensured that it constantly remained on board with all the Shariah affairs of the Bank and also approve different matters by way of circulation.
+
+# Capacity Building
+
+To enhance Islamic banking knowledge and expertise, training on Islamic Banking concepts as well as on Islamic banking products was imparted to the staff of the Islamic Banking Group. Management Development Centers of ABL with the assistance of Shariah Compliance Department, arranged various mandatory and refresher training sessions and 7,476 employees attended these sessions. It also includes employees who have attended training sessions conducted by NIBAF and other reputed Islamic banking training institutes.
+
+# We pray to almighty Allah to provide us guidance to adhere to the Shariah principles in day-to-day operations, to absolve our mistakes, and for the success of Islamic banking in Pakistan.
+
+# Mufti Tayyab Amin
+
+Resident Shariah Board Member
+
+# Mufti Mahmood Ahmad
+
+Member Shariah Board
+
+# Date of Report: February 04, 2025
+
+                                                        2024            31
+126  Annual Report 2024                                                                                                                                                                   127
+
+# INFORMATION TECHNOLOGY (IT) GOVERNANCE
+
+# BOARD OF DIRECTORS
+
+e-Vision IT Governance framework, policies and procedures ensure that the Bank’s significant investment in IT infrastructure is duly aligned with the long-term strategies and objectives of the Bank; while ensuring conformity with industry’s best practices.
+
+IT Governance of the Bank is regulated by the IT Governance Policy approved by the Board of Directors, which focuses on following principles:
+
+- To maintain clear understanding of ITG roles and responsibilities.
+- Plan ITG to best support the Bank ensuring that IT Strategic plan fit the current and ongoing needs.
+- All ITG acquisitions will follow the necessary approvals as per GS&RE procurement policy ensuring that there is an appropriate balance between costs, risks, long-term and short-term benefits.
+- Ensure that ITG performs (meet the Business Requirements where technology permits) well, whenever services are required.
+- Ensure ITG conforms to statutory and regulatory requirements and also complies with all the Bank’s policies and procedures.
+- Ensure ITG will design, specify and maintain systems by keeping users in mind and will ensure that IT is a service to the Bank and to its staff.
+- Identify resources gap related to IT (people, process & technology) and take appropriate steps to fill the gaps.
+
+# Core Banking and System Development
+
+IT Governance of the Bank comprises monitoring by:
+
+e-Vision Committee of board supervises the IT Governance in the Bank and provides strategic direction for adoption/upgrading of evolving technologies in order to provide new customer centric products and services and to improve internal control environment. The Committee reviews the strategic plan of the Bank to improve IT infrastructure and automation of processes and systems including alternate delivery channels. The Committee extends assistance to the Board with insights regarding evolving technologies in the field of e-banking and digital platforms. It also oversees performance of Information Technology Group of the Bank.
+
+# Audit Committee of Board
+
+# Chief Audit and Risk Review
+
+# IT Infrastructure & Operations
+
+# Project Management Office and IT Compliance
+
+IT Steering Committee (ITSC) assists MANCO in implementing IT and Digital strategies approved by the Board of Directors and also plays an advisory role to MANCO in all technology-related matters. ITSC is entrusted to review and recommend technology initiatives and prioritize projects for their implementation along with recommendation for required infrastructure to MANCO. The Committee ensures an efficient IT operating environment that supports the institution’s goals, objectives and also reviews the results of vulnerability and IT risk.
+
+# INFORMATION TECHNOLOGY (IT) WHISTLE BLOWING GOVERNANCE POLICY (WBP)
+
+assessment exercises and ascertains measures taken to mitigate identified risks.
+
+- Core Banking and System Development
+- Digital Solutions
+- Analytics & Al
+- IT Infrastructure & Operations
+- Project Management Office & IT Compliance
+
+Preamble
+
+On the recommendation of the ACOB, the Whistleblower may be suitably awarded according to the significance of the information he / she had provided and impact of losses averted as a result.
+
+# Process of Whistle Blowing
+
+The Bank has established the following communication channels for whistle blowing complaints:
+
+- A dedicated e-mail address for whistle blowing (whistle.blowing@abl.com) accessible by the Chairman ACOB.
+- Whistle blowing form available on the Bank’s corporate website.
+- Post / courier addressed to Chairman ACOB, Allied Bank Limited, Head Office, 3 Tipu Block, New Garden Town, Lahore.
+
+# Objectives
+
+The intended objectives of this policy are:
+
+- To strengthen culture of transparency and trust in the Bank by encouraging all employees, vendors, service providers and concerned persons to blow whistle where they may genuinely know or suspect any immoral, unethical, fraudulent act of any current or former employees, vendors, contractors, service providers and customers which may have potential to cause financial or reputational risk or loss to the Bank;
+- To create awareness amongst employees and stakeholders regarding the Whistle Blowing Function;
+- To enable Management to be informed at an early stage about fraudulent, immoral, unethical or malicious activities or misconduct and take appropriate actions;
+- Provide a swift and confidential process for rectifying malfeasance wherever and whenever it occurs in the Bank.
+
+# Scope
+
+The scope of this policy includes, without limitation all types of unlawful acts / orders, fraud, corruption/bribery, misconduct, collusive practices, falsification of books of accounts/related documents, endangerment of health or safety, or any other activity which undermines the Bank’s operations, reputation and mission.
+
+# Independence of Whistle Blowing Function
+
+An operationally independent Whistle Blowing function has been established under supervision of Audit Committee of the Board (ACOB), for handling and monitoring allegations, complaints and concerns raised by the complainant /whistleblower under the WBP.
+
+# Protection of Whistleblowers
+
+All matters are dealt with confidentiality and the identification of the Whistleblower is not disclosed except for inevitable situations, where disclosure of identity of the Whistleblower is essential.
+
+The Bank stands committed to protect Whistleblowers for Whistle Blowing and any subsequent harassment or victimization of the Whistleblower is not tolerated. Indemnity from disciplinary action is provided to the Whistleblower employee, against actions/ involvement in the activity against which whistle is blown, based on the merits of each case.
+
+# Incentives for Whistle Blowing
+
+Number of Whistle Blowing incidences reported to ACOB in year 2024: Ten (10).
+
+# INVESTOR GRIEVANCE
+
+Your Bank has put in place comprehensive guidelines for Investors / Shareholders to address their grievances. The guidelines conform to the Bank’s internal policy to address the Investor grievances as well as statutory requirements stipulated under SECP’s SRO # 1196(I)/2019 dated 03.10.2019.
+
+- For all shares related issues, shareholders are advised to contact Share Registrar of the Bank with contact details available on Bank’s corporate website.
+- In order to facilitate the shareholders who intend to register a complaint, the contact details of the focal person of ABL Shares Department are given on the Bank’s corporate website for this purpose.
+- In addition, if Shareholder’s grievances are not resolved by the Share Registrar of the Bank, as well as Bank’s Shares Department, they may escalate their complaints to the Company Secretary of the Bank.
+- If any complainant still remains unsatisfied, the same can be forwarded to Securities and Exchange Commission of Pakistan (SECP), using the link of SECP website which is available in “Investor Complaints and Grievances” section of Bank’s corporate website.
+- Furthermore, queries with respect to financial results of the Bank can be directed to ‘Investor Relations’ department, which is headed by Chief Financial Officer, at the email address investor.relations@abl.com (which is available on corporate website as well).
+
+# MANAGING CONFLICT OF INTEREST
+
+# Conflict of Interest:
+
+Holding substantial interest or is working as Chairman, Director, CEO, CFO, Chief Internal Auditor, Financial Advisor, Research Analyst, Trader or member (by whatever name/designation called) of a:
+
+|a.|Exchange Company.|
+|---|---|
+|b.|Stock Exchange.|
+|c.|Corporate Brokerage Firm/ Entity.|
+|d.|Credit Information Bureau|
+|e.|Any company/entity owned and controlled by the person mentioned at (a) to (d) above.|
+
+All appointments in the Board as well as President/CEO and Key Executives in the Bank shall not create any conflict-of-interest situation.
+
+• Directors, President/CEO and Sponsor Shareholders shall avoid conflict of interest in their activities with the Bank, and commitments to other organizations.
+
+A Director owes certain fiduciary duties, including the duties of loyalty, diligence, and confidentiality to the Bank, which require that a director must act in good faith and exercise his or her powers for shareholders’ interests and not for his/her own or others’ interest. The Board of Directors and the Management of the Bank are committed towards transparent disclosure, management and constant monitoring of potential conflicts of interest to ensure that no undue benefit is passed on. The Board of Director recognizes the responsibility to adhere to the defined policies and procedures and avoid perceived conflicts of interest that may arise during the course of business. Directors of the Board shall immediately report to the Chairman of the Board about any conflict of interest or potential conflict of interest that may arise and shall provide all relevant information in this regard.
+
+# Confidentiality:
+
+• Maintain the privacy and confidentiality of all the information acquired being Member of the Board of Directors of the Bank or come into their knowledge and refrain from disclosing the same unless otherwise required by statutory authorities/ law and Bank’s own policies. All such information will remain with them as a trust and will only be used for the purpose for which it is intended and will not be used for personal benefits.
+
+• Inside information about the Bank’s affairs shall not be used for their own gains or for that of others either directly or indirectly.
+
+• The Directors of the Bank are strictly prohibited to disclose the fact (comes into their knowledge) to the customer or any other quarter that a suspicious transaction or related information is being or has been reported to any authority, except if required under the law.
+
+# Disclosure of Interest by Director:
+
+• Every Director (including parents, spouse and minor children) of the Bank who is in any way, whether directly or indirectly, concerned or interested in any contract or arrangement entered into, or to be entered into, by or on behalf of the Bank shall disclose the nature of his concern or interest at a meeting of the Directors.
+
+• For the purpose of consideration and decision by the Board of Directors on any agenda item, or in respect of any other matter, if any Director has an existing or perceived conflict of interest or concern, he/she shall disclose the nature of his concern or potential interest at a meeting of the Board and the Board would take appropriate steps in accordance with the regulatory requirements in this regard and the details should be recorded in the minutes.
+
+# Professionalism:
+
+• Discharge their obligations honestly and faithfully and shall strictly serve Bank’s affairs keeping interest of the Bank above all. They shall promote the interest and goodwill of the Bank and shall show courtesy and attention in all transactions/correspondence with officers of Government, State Bank of Pakistan, other Banks, Financial Institutions, other establishments dealing with the Bank, its constituents and the public.
+
+• Treat everyone with equality and exhibit high standards of personal conduct.
+
+• Exercise due diligence, objectivity, sound and independent judgement while performing the duties.
+
+# Business/Work Ethics:
+
+• As a Board Member respect views of fellow Board Members and endeavor to arrive at unanimous decisions on matters considered in their fiduciary capacity. They shall at all times be courteous and not let any personal differences to affect their work. However, in case they feel that they have opinion not commensurate with the majority of the board members they should get recorded their note of dissent.
+
+• Shall not use Bank assets for their personal benefits except where permitted by the Bank and they will not involve in any un-ethical practices. They shall not do any act prohibited under the law and rules and regulations and policies of the Bank.
+
+# Integrity:
+
+• Conduct themselves with the highest standards of ethics, professional integrity and dignity in all dealings with all stakeholders and not engage in acts discreditable to the Bank, their profession and the nation. If they become aware of any irregularity that might affect the interests of the Bank, they shall inform the Board of Directors immediately.
+
+# Insider Trading:
+
+• No director shall trade, directly or indirectly in shares/securities of the Bank considering the ‘price sensitive information’ which they may have direct access/influence and exposure by virtue of their fiduciary position or office of profit.
+
+• Ensure compliance with all relevant laws, regulations and Bank’s policies/framework, on prohibition of insider trading.
+
+# Role towards Shareholders and Other Stakeholders:
+
+• Treat all shareholders/members and other stakeholders of the Bank in a fair and respectable way.
+
+• Act in the best interests of the Bank and fulfill their fiduciary responsibilities.
+
+• Consider the interests of all stakeholders in the success of Bank.
+
+# OTHER POLICIES AND GUIDELINES
+
+# Related Party Transactions Policy
+
+The Board of Directors of the Bank has approved Related Party Transaction Policy which aims to set-up a framework, in line with the applicable laws and regulations, that not only addresses approval requirements, limitations, potential risks and pricing policy but also ensures proper and timely identification, monitoring, record maintenance, reporting and disclosure of transactions by the Bank with those persons deemed “Related Party” under the policy. The governance framework for Related Party Transaction Policy is derived from;
+
+- The Companies Act, 2017;
+- The Banking Companies Ordinance, 1962;
+- Related Party Transactions and Maintenance of Related Records (RPT) Regulations – 2018;
+- Listed Companies (Code of Corporate Governance) Regulations – 2019;
+- State Bank of Pakistan (SBP) Prudential Regulations for Corporate and Commercial Banking;
+- SBP Corporate Governance Regulatory Framework for Banks / DFIs;
+- SBP Prudential Returns Regarding Details of Related Parties Exposures and Transactions;
+- International Financial Reporting Standards (IFRS);
+- International Accounting Standard (IAS) 24 ‘Related Party Disclosures’; and
+- Any other applicable law and regulations issued by SBP, Securities and Exchange Commission of Pakistan (SECP) or other authorities from time to time.
+
+# Disclosure of Interest by Directors
+
+Every Director who is in any way, whether directly or indirectly, concerned or interested in any contract or arrangement entered into, or to be entered into, by or on behalf of the Bank shall disclose the nature of his/her concern or interest at a meeting of the Board of Directors: Provided that a Director shall also be deemed to be interested or concerned if any of his spouse, children and parents, are so interested or concerned.
+
+# List of Related Parties
+
+List of related parties and the nature of their relationships with the Bank as identified under the Related Party Transactions Policy are as under;
+
+- All Directors of the Bank.
+- Group Companies including Parent, Subsidiary and Associate Companies as disclosed under Group Structure.
+- Key Executives of the Bank as disclosed under the Management Team section.
+- Close family members including spouse, children, dependents, siblings and lineal ascendants and descendants of Directors and Key Executives of the Bank.
+- All funds managed by the ABL Asset Management Company Limited as disclosed under the Status and Nature disclosure of the consolidated financial statements and employee funds maintained by the Bank.
+- Organizations controlled or jointly controlled or under significant influence of the Directors or Key Executives of the Bank or their close family members including those mentioned under the Directors’ Profile section of the Corporate Sustainability Report.
+
+# CORPORATE SOCIAL RESPONSIBILITY (CSR) POLICY
+
+# OUR PHILOSOPHY
+
+CSR vision of Your Bank “To be a socially responsible corporate citizen” delineated in its CSR policy outlines Corporate Social Responsibility objectives of Your Bank. The Policy stipulates that CSR is a concept whereby companies integrate social and environmental concerns in their business operations and in their interaction with their stakeholders on a voluntary basis.
+
+# POLICY OBJECTIVES
+
+Objective of the policy is to provide guidelines to align business objectives and entity’s roles as responsible corporate citizen. Your Bank recognizes its obligations as responsible corporate citizen and aims to achieve following broader objectives:
+
+- Establish a “WORKPLACE” environment to maintain balanced work life with healthcare facilities along with high ethical standards, equal employment opportunities, aided social interaction among employees and encouraged employment of persons with different abilities.
+- Our working style should have positive impact on “ENVIRONMENT” promoting green banking, use of renewable energy sources, reducing carbon omissions, promoting tree plantation and change of working style, on best effort basis, from paper based to computer based and promoting green culture.
+- Make our “COMMUNITY” feel our presence not only by our business interactions but also by sharing and caring, especially during the times of adversities and natural calamities and pandemics as well as expansion of the Bank’s branch network to rural areas, which will help in rural development and ensuring financial inclusion.
+- Strengthen “CUSTOMER RELATIONS” by ensuring satisfaction and privacy.
+- Protecting Human rights, ensuring transparency, taking anti-corruption measures & curtailing money laundering, terrorist financing and proliferation financing, adopting best business practices and improving stakeholder relations through “GOVERNANCE”.
+- Our “BRAND” and slogans such as, “Aap kai dil main hamara account” should be known as community caring organization and not just for the profit.
+
+The Bank’s contributions towards these areas are mentioned in Corporate Sustainability Report.
+
+# Records Management and Safety Policy
+
+The Bank has a comprehensive records management program that ensures maintenance, protection, retention and disposal of records in accordance with applicable regulations, operational needs and fiscal/legal requirements. Record management is an organizational function to control the maintenance and disposition of organization’s record. Record management ensures the valuable record evidence of an organization’s activities that have legal, financial, administrative or historical value are protected and accessible while expired record is systematically destroyed. Record archiving is integral to Business Continuity Plan (BCP), including its role in data preservation, compliance and recovery.
+
+The Bank’s records are maintained in soft form as well as hard copies. The Data Backup and Recovery policy is in place for all applications and databases processing transactions and maintaining records to ensure the availability and integrity of data at all times. Physical records are maintained both in house and at specialized external warehousing facilities as well.
+
+# HUMAN RESOURCE MANAGEMENT POLICIES
+
+# SUCCESSION PLANNING
+
+Allied Leadership Talent Pipeline (ALTP) was introduced to ensure effective succession at the senior-level management. Under this program, based on individual leadership potential, young leaders were categorized in three echelons: High potential successor, Intrinsic potential successor and Extrinsic potential successor. A comprehensive training cycle based on identified individual needs in each echelon was delivered to enhance employee leadership skills and build their capacity for senior level assignments, in coming years. Focused learning interventions were executed under ALTP through engaging in-house mentors, and external industry experts. The scope of this program was further enhanced with the introduction of Allied Leadership Recognition and Investment in Sustaining Employees (ABL RISE Program). Under ABL-RISE program, employees from Middle Management grades were assessed to identify and develop pool of future leaders. ABL-RISE program is envisioned to expand the sphere of growth of these employees and their personal development as potential leaders. Customized learning and development opportunities are provided to the selected employees under this program, to enhance their professional skills to bring excellence to their work.
+
+# HUMAN RESOURCE DIVERSITY
+
+Allied Bank recognises its responsibility towards sustainable economic and social development and role of a diverse human resource in achieving these goals which is also reflected in the Mission statement of the Bank.
+
+# Gender Equality
+
+Gender Equality has always been the corner stone of Allied Bank from the time of the Banks inception it was the torch bearer on being an equal opportunity employer to help women achieve their goals. Allied Bank has always been at the fore front to promote the female employee inclusion and supporting new initiatives that support them in general areas of life as well. Human Resource function of the Bank has taken multiple initiatives, to narrow down the gender gap and establish a conducive, harmonized gender sensitive work environment. The commitment towards bringing diversity is further augmented by the following statistics.
+
+|01|01|02|25%|01|8%|
+|---|---|---|---|---|---|
+|Female Director|Female Employees reporting directly to Head of Departments|Total Female Employee Ratio|Anti-Harassment Female Officer|Ratio at Senior Management| |
+
+# Differently Abled Person
+
+Allied Bank as an equal opportunity employer and has always made sure that there is no room for discrimination against any Gender, Race or Person with Different abilities in line with its approved policy. A specially designed internship program leading towards permanent employment was initiated by the Human Resource function in coordination with the relevant stakeholders to improve employment experience for any person with different abilities. Furthermore, Human Resource function has conducted a comprehensive training for all employees to interact with Persons with Different Abilities (PWD). The curriculum is designed such as to explain the meaning and reasons of PWD, general guidelines to serve PWD, priority services to PWD, sign language communication with deaf persons and guidelines to deal with visually impaired/ blind persons.
+
+# Merit-Based Recruitment
+
+At Allied Bank, we are committed to fostering a diverse and inclusive workplace by recruiting and selecting candidates based on their skills, qualifications, experience, and potential.
+
+1. Transparency and Fairness: We adopt a transparent recruitment process where all applicants are treated with fairness, integrity, and respect. Every step of the recruitment process, from job posting to selection, is conducted without bias or favouritism.
+2. Job-Related Criteria: The selection of candidates is strictly based on the skills, qualifications, and competencies required for the specific role. We assess candidates based on their ability to contribute to the success of the organization and achieve its business objectives.
+3. Equal Opportunity: Allied Bank ensures that all candidates have an equal opportunity to apply for open positions. We actively encourage applications from diverse groups and make reasonable accommodations to ensure accessibility for all applicants.
+4. Competency-Based Evaluation: We use a variety of evaluation methods to assess candidates' competencies and fit for the role.
+
+# REMUNERATION
+
+other relevant evaluations, to assess the competency and potential of each candidate. Our goal is to ensure that the best-suited candidate is selected for the job.
+
+# Continuous Improvement:
+
+Our recruitment process is continuously reviewed and improved to ensure that it remains aligned with the latest industry standards, legal requirements, and best practices.
+
+# Commitment to Diversity and Inclusion:
+
+Allied Bank recognizes that diversity brings value to our workplace. We are committed to ensuring that our recruitment process attracts individuals from all backgrounds and provides an environment where everyone can thrive.
+
+We believe in recognizing and celebrating the hard work, achievements, and contributions of our employees. Our engagement strategy includes both formal and informal recognition programs that help employees feel valued.
+
+Feedback is a critical tool for continuous improvement. At ABL, we not only collect feedback but also take actionable steps to address concerns and implement suggestions. After gathering feedback through surveys or one-on-one sessions, we communicate the changes being made and ensure employees see the impact of their input. This transparency strengthens employee trust and demonstrates our commitment to making improvements.
+
+# Performance-Based Appraisal System
+
+ABL HR is fostering a high-performance culture where our employees are motivated, recognized, and rewarded for their contributions. Our Performance-Based Appraisal System is designed to provide a clear and structured process for assessing employee performance, aligning individual goals with organizational objectives, and supporting continuous development and growth.
+
+# Learning and Development
+
+Allied Bank is dedicated to creating a learning environment where every employee is given the opportunity to thrive, grow, and achieve their professional goals. By investing in the continuous development of our people, we ensure that our bank remains competitive, innovative, and able to meet the challenges of a dynamic financial landscape.
+
+Through our Learning and Development Policy, we aim to create a workforce that is not only highly skilled but also motivated, engaged, and aligned with the bank’s vision for the future. We believe that the continuous growth and development of our employees are integral to the success of our organization.
+
+# Employee Engagement & Feedback
+
+We encourage open, transparent, and two-way communication between employees and management. Employees are encouraged to voice their opinions, share ideas, and provide feedback in a constructive and respectful manner. This open dialogue is essential for building trust, addressing concerns, and fostering a collaborative work environment.
+
+ABL, we believe that feedback is a powerful tool for personal and professional growth. We have established regular feedback mechanisms, including:
+
+- One-on-One Meetings: Regular interactions between employees and their managers to discuss performance, set goals, and provide feedback.
+- Employee Surveys: Periodic surveys to gauge employee satisfaction, engagement levels, and gather suggestions for improvement.
+- 360-Degree Feedback: A comprehensive feedback process that involves input from peers, subordinates, and supervisors to provide a well-rounded assessment of performance.
+
+# Compensation Governance
+
+Employee compensation plays an integral role in the successful delivery of the Bank’s strategic objectives. Attracting and retaining capable employees is key to the Bank’s compensation strategy. The cornerstone is the concept of pay for performance within a sound risk management and governance framework and with due consideration of market factors and social values. The Bank regularly reviews and aligns human resource policies encompassing all aspects of the remuneration to the ever-evolving internal and external dynamics.
+
+# Total Remuneration Structure
+
+As part of the compensation strategy, the Bank employs a total compensation philosophy, which comprises fixed pay, variable compensation, and benefits.
+
+|Element|Purpose|
+|---|---|
+|Fixed Pay|• Attract and retain employees by paying market competitive pay for the role, skills and experience required. • This include base pay and allowances as part of monthly salary as per terms of employment.|
+|Variable Compensation|• Drive and reward performance based on annual financial and non-financial measures consistent with the medium to long-term strategy, stakeholder interests and adherence to the Bank’s values. • Awards vary with performance achievement and the Bank has the discretion to assess the extent to which performance has been achieved. • Awards are in monetary terms. A portion of the annual incentive award may be deferred and vests over a period of three years. All deferred awards are subject to malus.|
+|Benefits|• Ensure market competitiveness and provide benefits in accordance with market practice. • This include but not limited to medical benefits, education assistance and post-employment benefits.|
+
+Bank employees are graded into 12 salary grades, from MG1 to MG12, with MG1 being the senior most and MG12 being the junior most. The management of the Bank is further classified in the following four levels according to salary grades:
+
+|Management level|Salary Grades|
+|---|---|
+|Executive Management|MG1 to MG3|
+|Senior Management|MG4 to MG6|
+|Middle Management|MG7 to MG9|
+|Junior Management|MG10 to MG12|
+
+The above categories may include, from time to time, Material Risk Takers (MRTs) and Material Risk Controllers (MRCs). The remuneration of employees categorized as such is based on risk-based pay structure which is referred to as ‘risk-based employee’s remuneration pool’. The remuneration of employees other than such categories have pay structure which is referred to as ‘general employee’s remuneration pool’.
+
+# Classification of Material Risk Takers (MRT) and Material Risk Controllers (MRC)
+
+Material Risk Takers (MRTs) and Material Risk Controllers (MRCs) of the Bank are identified as functions and designations having appropriate level of authority and control within the Bank either working as regular or contractual employees. No third-party employee is designated as either MRT or MRC. Identification of MRTs or MRCs is based on designations or functions involved in critical business decision making, i.e. Chief Executive Officer, direct reportees of Chief Executive Officer, members of critical Management committees involved in business decision making and risk management. Further, relevant Group Heads and other senior level positions managing critical areas, and meeting the risk materiality and threshold criteria as approved by the Board of Directors are also designated as MRTs or MRCs respectively.
+
+# Remuneration of Material Risk Takers (MRT) and Material Risk Controllers (MRC)
+
+Fixed pay of MRTs and MRCs is decided based on fixed pay determination criteria for overall bank’s employees and includes same components.
+
+# Variable remuneration (performance bonus)
+
+is based upon performance score calculated against defined key performance indicators and rating scores achieved by each individual. Furthermore, rating assigned to MRTs or MRCs through annual performance appraisal process against their managerial capabilities and personal traits is then clubbed together against predefined weightages to reach consolidated performance score which is used as basis for deciding variable remuneration which is adjusted against underlying risks specifically for MRTs.
+
+# Management of Risk factors on ERP Projects
+
+Steering Committee of the management which is responsible to ensure an efficient IT operating environment that supports the institution’s goals and objectives.
+
+Enterprise Resource Planning (ERP) projects are strategic and capital intensive, so failure can be costly and may result in the waste of valuable resources including time. Because ERP is interdisciplinary (involving change management, project management and information technology management), it warrants a customized approach to enable managing the risks throughout the life cycle of implementation and operation.
+
+# Assessment of System Security
+
+The Bank has developed and implemented detailed policies and procedure guidelines for Information Assets Security Risk Management with an objective to provide an effective and efficient process for conducting Information Asset Risk Assessments and mitigating risks identified for Information Assets of the Bank as per Information Security Policy.
+
+The Information Security Policy approved by the Board of Directors and Information Asset Risk Management Procedure Manual approved by the Risk Management Committee of the management clearly outline the scope of Information Technology resources covered and roles and responsibilities of each of the function of the Bank. The Information Security Policy of the Bank provides detailed guidance on Secure use of Information Assets, Passwords, High Privilege User IDs, Access Control, Data Backup and Retention, Network and System Security, Log Review and other related matters on Information Security Management.
+
+# Basis of deferral of payment
+
+Quantum of associated risk is considered while deciding deferred portion of variable remuneration of MRTs. Percentage as per following grid is withheld and deferred from variable remuneration of MRTs for a period of 3 years:
+
+|Position|Risk Level|Risk Level|Risk Level| | |
+|---|---|---|---|---|---|
+|High Risk|Medium Risk|Low Risk| | | |
+|CEO, Chiefs & Executive Management|25 %|20 %|15 %| | |
+|Senior Management|20 %|15 %|12.5 %| | |
+|Middle Management|15 %|12.5 %|10 %| | |
+
+# Assessment of Risk Factors
+
+Risk Matrices encompassing Key Risk Indicators (KRIs) are used for assessment of major types of risks undertaken by identified MRTs. Percentage of variable remuneration of identified MRTs which has been deferred is based on quantum of respective current and future risks undertaken, assessed using Risk Matrices based on data for the current year.
+
+# ERP ENVIRONMENT OF THE BANK
+
+Allied Bank Limited has always been at the forefront in innovations and deploying digital technologies to increase organizational efficiency and enhancing the customers’ experience. In 2006, the Bank signed an agreement with Temenos for implementation of core banking software solution to provide integrated banking solutions to the valued customers. The implementation and phased wise rollover of T24 core banking software was initiated in 2009 and completed in 2014 after successful migration of all branches. With branch network over 1,500 branches and over 9.2 million accounts across Pakistan, T24 implementation has enabled the Bank to improve the transaction time with efficiency & transparency while maintaining the security and confidentiality requirements intact.
+
+The Bank started implementation of Oracle Enterprise Business Suite in 2006 which is an integrated set of business applications for automating Customer Relationship Management (CRM), Enterprise Resource Planning (ERP) and Supply Chain Management (SCM) processes within the Bank. Major upgradation of the ERP applications includes upgrade of Temenos T-24 core banking software to Release 16 and Oracle E-Business Suite Applications to Release 12.
+
+# User Trainings of ERP Applications
+
+Training and Development of employees is of utmost importance to realize the maximum benefits of investments in ERP applications. Management Development Centers (MDC) equipped with latest technologies and qualified & experienced trainers have been established to facilitate continuous training and development of the team members.
+
+In order to facilitate the new employees in getting familiar with the Bank’s technological environment including major ERP applications, tailormade “on-boarding” programs have been designed to ensure the development of required skillset. After placement at respective positions, the Bank provides various learning opportunities to new and existing team members through the following channels:
+
+- Internal trainings at MDCs
+- External trainings by local or foreign training providers
+- E-Learning resources through Bank’s Portal and Mobile App.
+
+# IT GOVERNANCE
+
+# AND CYBERSECURITY
+
+# IT GOVERNANCE AND CYBERSECURITY
+
+Approve and receive periodic updates on major technology-related projects that may have significant impact on the Bank’s operations, earnings or capital. The Management’s IT Steering Committee has been tasked to periodically report to the Board of Directors on the latest developments on cyber security action plan, its implementation status, a summary report on major threats, attacks faced by the Bank and their estimated impact on its operations. IT Steering Committee also reports Information / Cybersecurity related matter to the E-Vision Committee of the Board for their review. Information Security Function of Risk Management Group is responsible to record and document all security breach incidents and report these to the Management and the Board of Directors.
+
+# Board of Directors’ Policy Statement on IT Governance and Information Security
+
+The responsibility for the IT Governance and Information Security at the Bank rests with the Board of Directors. The E-Vision Committee of the Board assists the Board of Directors to discharge its responsibilities related to addressing Cybersecurity Risks and overall Information Technology Governance. The Board of Directors sets the tone and direction for the Bank’s use of technology. Board of Directors are responsible for the following;
+
+- Review and approve an IT governance framework to ensure that the Banks’s IT supports and enables the achievement of the corporate strategies and objectives.
+- Review and approve “IT Strategy”, “Cyber Security Strategy” and “Digital Strategy” in line with the business strategy of the Bank and monitor & update the same on regular basis keeping in view potential opportunities and threats.
+- Ensure that technology risks are integrated with the enterprise risk management function to achieve security, reliability, resiliency, interoperability and recoverability of data/information and information assets.
+- Approve all technology-related policies and review the same periodically in light of major technological/regulatory developments at least after every three (03) years.
+- Ensure maintenance of an independent and effective technology audit function commensurate with the complexity of the Bank’s technology risk profile.
+- Ensure that resource gaps (people, process & technology) identified by the management are adequately and timely fulfilled.
+- Ensure that the skills required for technology governance, service delivery, information security and risk management are sufficient and up-to-date.
+
+# Cybersecurity Best Practices
+
+The role of Board of Directors in IT Governance not only involves providing leadership direction for IT in the Bank but also ensuring that given directions are being followed in true spirit. In order to ensure good IT Governance, the Board performs the following:
+
+- Review and approve “IT Strategy”, “Cyber Security Strategy” and “Digital Strategy” in line with the business strategy of the bank and monitor and update the same on regular basis keeping in view potential opportunities and threats.
+- Ensure that technology risks are integrated with the enterprise risk management function to achieve security, reliability, resilience, interoperability and recoverability of data/information and information assets.
+- Approve all technology-related policies and review the same periodically in light of major technological/regulatory developments at least after every three (03) years.
+- Ensure maintenance of an independent and effective technology audit function commensurate with the complexity of Bank’s technology risk profile.
+- Ensure that resource gaps (people, process & technology) identified by the management are adequately and timely fulfilled.
+- Ensure that skills required for technology governance, service delivery, information security and risk management are sufficient and up-to-date.
+- Define criteria for major projects and approve and receive periodic updates on major technology-related projects that may have significant impact on the Bank’s operations, earnings or capital.
+
+# Risk Oversight Function on Cybersecurity
+
+Cybersecurity and cyber risks have become a corporate governance issue as financial institutions have come under scrutiny of regulators on the backdrop of increased threat to data, processes and systems. Apart from the financial cost of cybercrime, a cyber incident can damage corporate reputation, brands and market value. Therefore, cybersecurity is an integral component of the Bank’s broader enterprise-wide risk management structure. The Board of Directors is charged with overseeing the Bank’s cybersecurity risk.
+
+The Board of Directors plays an active oversight role to understand emerging and constantly changing legal and regulatory environments. The Board of Directors has put in place an appropriate Management Information System (MIS) to oversee the management’s effort for implementation of IT strategy and business plan, exception from board-approved IT.
+
+# Management of Cybersecurity Risks and Incidents
+
+As the potential for cyber-attacks against the banking sector grows, the importance of an Early Warning System, as part of overall Information Security Control environment, that enables to prevent cyber issues such as security breaches before they happen, has grown manifold over recent years. The early warning system of Allied Bank comprises of;
+
+- Development of cyber security action plan to proactively address the likely cyber-attacks in order to anticipate, withstand, detect, and respond to cyber-attacks in line with international standards and best practices.
+- Implementation of automated solutions to monitor and manage cybersecurity risks.
+
+# IT GOVERNANCE AND CYBERSECURITY
+
+Cognizant to this fact, the Bank has prepared a Business Continuity and Disaster Recovery Plan for its business-critical systems including;
+
+- Core Banking Systems
+- Digital Banking Channels
+- Hardware Security Module, Communications and other necessary infrastructure including system and storages.
+
+The Bank has already implemented multiple use cases on “Robotic Process Automation Solution” and is exploring further use cases for automation to improve operational efficiency, control and cost saving.
+
+To proactively track cyber-attacks:
+
+- Log reviews comprising reviews of actions of privileged users, invalid logical access attempts and changes to identification and authentication mechanisms.
+- Penetration testing periodically and upon any significant change in infrastructure.
+- Vulnerability assessments periodically and upon any significant change in infrastructure.
+- Change detection mechanism for Cardholder Data Environment and other critical systems to alert personnel to unauthorized modification of critical system files, configuration files.
+- Collaboration with industry for the purpose of collecting and exchanging timely information that may facilitate in detection, response, resumption and recovery of systems.
+- Establishment of Security Operations Center which works round the clock to monitor and detect any threats or breaches on the Information Assets of the Bank.
+
+Employees are made responsible to report Security Incidents to their line management, Information Technology function, and Information Security function as soon as they know about the incident. Security breach incidents are monitored, documented and reported to the Board of Directors, senior management and to the regulator as per regulatory requirement on prescribed reporting template.
+
+# Independent Comprehensive Security Assessment
+
+The Bank undertakes independent third-party cybersecurity risk assessment to protect its information and information systems from cyber threats. The purpose of an independent cybersecurity risk assessment is to identify, assess, and prioritize risks to information and information systems by engaging external consultants having sufficient experience in Information Security Assessment and Penetration Testing. The Bank’s policy on independent security assessments are;
+
+- For Cardholder data environment, quarterly external network vulnerability scans shall be performed by an Approved Scanning Vendor (ASV) qualified by Payment Card Industry (PCI) Data Security Standard (DSS).
+- Bank shall arrange 3rd party penetration testing once in a year or upon any significant change in infrastructure.
+
+# Contingency and Disaster Recovery Plan
+
+The Business Continuity and Disaster Recovery Plan outlines specific preparation prior to the disaster and response procedures immediately after the disaster. The Bank has formed a Disaster Recovery Authority responsible for allocating resources for recovery planning, supervising the recovery initiative and recovery procedure after the activation of Disaster Recovery Plan. The Disaster Recovery Authority is organized in a manner to coordinate the recovery efforts with clearly defined roles and responsibilities.
+
+The Bank has also established its Disaster Recovery / Alternate site for providing Information Technology related services. To review the efficacy of its disaster recovery procedure, the Bank annually conducts one-week long DR exercise to assess the strength, availability and monitor the robustness of Disaster Recovery site. During this tenure all operations are served from alternate site which acts as a primary site.
+
+# Education and Training on Cybersecurity Risks
+
+Cybersecurity risks are continuously evolving as the constant focus on digitalization of the financial sector has resulted in shift of financial transaction from conventional means to digital channels. These ever-evolving cyber risks require continuous education and training of relevant stakeholders specially employees and customers to address these risks. The Management’s IT Steering Committee reviews and determines the adequacy of the Bank’s training plan including information/cyber security training for the employees. Major initiatives taken during the year for training of employees, customers and general public, are;
+
+- Issuance of monthly “Security News Bulletin” for education of employees
+- Training programs for employees on Information Security Awareness
+- SMS Alerts to customers on security of Confidential Information
+- Social Media campaigns for general public on Security Awareness
+
+In order to support data driven business decisions for customers, the Bank by using Big Data technologies has created Data Lake comprising of structured and unstructured data. The Bank is also working with multiple Data Science companies to capitalize on the investment of Big Data for implementing multiple use cases through machine learning models, and in turn, improve and personalize customer experiences.
+
+            K2            K2
+     BASECAMP
+{rbai
+   Nett | [hicr                    WDEJLHAMI I5}
+                                   THENavie]
+                                          PERFORMANCE
+                                          AND POSITION
+
+# HIGHLIGHTS OF 2024
+
+# NON-FINANCIAL INFORMATION
+
+# HUMAN RESOURCE ATTRIBUTES
+
+13,275 Total Permanent & Contractual Staff
+
+|Best Digital Bank Credit Rating|CGR Rating|Addition in Islamic Branches|Addition in Total Branch Network|
+|---|---|---|---|
+|“Euromoney 2024”|Maintained Long Term AAA|CGR9++|Including Converted 33|
+| | | |27|
+
+|Total Assets|Profit after Tax|Profit before Tax|Return on Equity|
+|---|---|---|---|
+|Rs. 2,817 bn|Rs. 43.12 bn|Rs. 87.93 bn|26.01%|
+|Up by 21%|Up by 6%|Up by 3%| |
+
+|Equity|Deposits|Earnings per Share|Increase in POS Transactions|Increase in E-Commerce Transactions|
+|---|---|---|---|---|
+|Rs. 234 bn|Rs. 2,018 bn|Rs. 37.65|49%|8%|
+
+Male to Female Ratio 75:25
+
+Female Employees Ratio at Senior Management Position 8%
+
+Employee Retention Ratio 86%
+
+Differently Abled Persons Employed 55
+
+Employees Trained 12,132
+
+Amount Spent on Training & Development Rs. 255 Mn
+
+Average Training Hours Served / Employee 47.6
+
+New Recruitment 2,838
+
+# NON-FINANCIAL INFORMATION
+
+# DIGITAL TRANSACTION ATTRIBUTES
+
+|805,000+|Total Cards in Circulation|
+|---|---|
+|92,061|Accounts Opened|
+|97%|Service Channels through Self Issued during the year|
+|3.6 Million+|No. of Debit Cards|
+|150|Annual Report 2024|
+
+# GEOGRAPHICAL POSITIONING OF HUMAN RESOURCE CAPITAL
+
+|Location|Total Head Count|
+|---|---|
+|Gilgit Baltistan|13,275|
+|Khyber Pakhtunkhwa|76|
+|Jammu Kashmir|449|
+|Federal Capital (Islamabad)|776|
+|Punjab|8,008|
+|Balochistan|315|
+|Sindh|2,174|
+|Overseas|12|
+
+# DIGITAL TRANSACTIONS
+
+|myABL|Transaction Ratio|
+|---|---|
+|85:15|No. of ATM acquired transactions|
+|91 Million|Customer Complaint Resolution|
+|96%|ATM Uptime|
+|4,100|Registered Users|
+|9.3 Million+|Website Visits|
+
+
+# ANALYSIS OF NON-FINANCIAL PERFORMANCE
+
+# SIX YEARS VERTICAL ANALYSIS
+
+# Human Capital
+
+Human resource capital remains the key asset to our success. Human resource management continues to be the top priority for the Bank and is designed in such a way to motivate our employees to pursue goals that will enable the Bank to achieve its strategic goals. Key statistics of our human resource as compared to last year are as under:
+
+|Staff Strength|2024|2023|
+|---|---|---|
+|Staff Strength|13,275|12,528|
+|New Recruitment|2,838|2,346|
+|Number of Employees Trained|12,132|11,006|
+|Investment in Training & Development|Rs. 254.84 million|Rs. 230.59 million|
+|Promotions|1,306|1,153|
+|Number of Female Staff|3,264|2,734|
+|Female Staff to Total Staff Ratio|25%|22%|
+
+# Manufactured Capital
+
+Manufactured capital consists of our physical branch network including ATMs and other tangible and intangible items that support our operations outreach such as equipment, IT systems and network. During the year, the Bank has expanded its network by 27 branches.
+
+# Statement of Financial Position
+
+|Branches|2024|2023|
+|---|---|---|
+|Branches|1,510|1,483|
+|ATMs – Onsite|1,356|1,312|
+|ATMs – Offsite|243|249|
+|Mobile ATMs|5|5|
+
+# ASSETS
+
+|Item|2024|%|2023|%|2022|%|2021|%|2020|%|2019|%|
+|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|Cash & Balances with Treasury & Other Banks|156,732|6%|158,592|7%|91,353|4%|125,310|6%|135,628|9%|120,546|8%|
+|Lending to financial institutions|243,541|9%|9,418|1%|28,222|1%|45,453|3%|17,996|1%|13,607|1%|
+|Investments- Net|1,129,874|40%|1,150,318|49%|1,123,117|50%|1,064,495|53%|829,621|52%|757,957|51%|
+|Advances - Net|1,051,314|37%|781,597|33%|845,640|38%|652,890|32%|496,432|31%|485,016|33%|
+|Operating Fixed assets|138,681|5%|125,475|5%|84,442|4%|80,871|4%|76,246|5%|64,084|4%|
+|Other assets|96,826|3%|103,916|5%|78,198|3%|41,138|2%|34,535|2%|39,911|3%|
+|Total Assets|2,816,968|100%|2,329,316|100%|2,250,972|100%|2,010,157|100%|1,590,458|100%|1,481,121|100%|
+
+# LIABILITIES
+
+|Item|2024|%|2023|%|2022|%|2021|%|2020|%|2019|%|
+|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|Bills payable|14,502|1%|9,322|1%|14,160|1%|10,060|1%|9,622|1%|7,879|1%|
+|Borrowings|462,023|16%|373,674|16%|530,414|24%|420,006|21%|193,928|12%|266,448|18%|
+|Deposits|2,018,395|72%|1,676,623|72%|1,522,297|68%|1,413,295|70%|1,216,678|76%|1,049,043|71%|
+|Other liabilities|88,147|3%|75,443|3%|56,290|3%|39,551|2%|38,670|2%|42,400|2%|
+|Total Liabilities|2,583,067|92%|2,135,062|92%|2,123,161|94%|1,882,912|94%|1,458,898|92%|1,365,770|92%|
+
+# NET ASSETS
+
+|2024|2023|2022|2021|2020|2019|
+|---|---|---|---|---|---|
+|233,901|194,254|127,811|127,245|131,560|115,351|
+
+# EQUITY
+
+|Item|2024|%|2023|%|2022|%|2021|%|2020|%|2019|%|
+|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|Share capital|11,451|1%|11,451|1%|11,451|1%|11,451|1%|11,451|1%|11,451|1%|
+|Reserves|42,461|1%|37,961|1%|31,435|1%|26,784|1%|24,277|1%|22,270|1%|
+|Un-appropriated profit|123,361|4%|104,802|4%|79,653|4%|69,471|3%|66,995|4%|55,821|4%|
+|Surplus on revaluation of assets|56,628|2%|40,040|2%|5,272|0%|19,539|1%|28,837|2%|25,809|2%|
+|Total Equity|233,901|8%|194,254|8%|127,811|6%|127,245|6%|131,560|8%|115,351|8%|
+
+# Profit and Loss Account
+
+|Item| | | |2024| |2023| |2022|2021| |2020| | |2019| |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|Interest / Return / Non Interest Income earned| | | |376,760| |357,307| |215,469| |118,649| |110,547| |122,637| |
+| | | |Fee, Commission & Brokerage|14,081| |10,641| |8,147| |6,811| |5,441| |5,092| |
+| | | |Foreign Exchange Income|6,679| |9,167| |7,948| |1,973| |1,664| |1,992| |
+| | | |Gain on securities and Dividend income|6,462| |4,388| |4,487| |6,485| |5,076| |3,404| |
+| | | |Other income|758| |231| |93| |669| |362| |403| |
+| | | |Total Income|404,740|100%|381,734|100%|236,144|100%|134,587|100%|123,090|100%|133,528|100%|
+
+# Markup / Return / Interest and Non Interest Expense
+
+|Item|2024|2023|2022|2021|2020|2019|
+|---|---|---|---|---|---|---|
+|Markup / Return / Interest expensed|(261,537)|(244,028)|(148,750)|(73,062)|(62,126)|(81,130)|
+|Operating expenses|(57,880)|(48,888)|(40,923)|(33,886)|(30,472)|(27,555)|
+|Donations|(105)|(84)|(107)|(60)|(133)|(55)|
+|Non-markup Expense|(57,985)|(48,972)|(41,030)|(33,946)|(30,605)|(27,610)|
+|Reversals / (Provisions)|2,710|(2,977)|262|812|(844)|(547)|
+|Taxation|(44,812)|(45,074)|(25,433)|(11,077)|(11,486)|(10,129)|
+|Total expense - percentage of total income|(361,624)|(341,051)|(214,950)|(117,274)|(105,061)|(119,416)|
+
+# Profit / (Loss) after taxation
+
+|2024|2023|2022|2021|2020|2019|
+|---|---|---|---|---|---|
+|43,116|40,683|21,194|17,313|18,029|14,112|
+
+
+# SIX YEARS HORIZONTAL
+
+# STATEMENT OF ANALYSIS
+
+# FINANCIAL POSITION
+
+# Statement of Financial Position
+
+# Six Years Horizontal & Vertical Performance Highlights
+
+| |2024|24 vs 23|2023|23 vs 22|2022|22 vs 21|2021|21 vs 20|2020|20 vs 19|2019|19 vs 18| | | | | | | | | | | | | | |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| | | | | | | | | | | | | | | |Rs. in Million| | | | | | | | | | | |
+| | | | | | | | | | | |ASSETS|-1%|74%|-27%|-8%|13%|18%|CAGR for the last six years-annualized is|7%| | | | | | | |
+|Cash & Balances with Treasury & Other Banks|156,732|-1%|158,592|74%|91,353|-27%|125,310|-8%|135,628|13%|120,546|18%| | | | | | | | | | | | | | |
+|Lendings to financial institutions|243,541|2486%|9,418|-67%|28,222|-38%|45,453|153%|17,996|32%|13,607|-75%| | | | | | | | | | | | | | |
+|Investments- Net|1,129,874|-2%|1,150,318|2%|1,123,117|6%|1,064,495|28%|829,621|9%|757,957|13%| | | | | | | | | | | | | | |
+|Advances - Net|1,051,314|35%|781,597|-8%|845,640|30%|652,890|32%|496,432|2%|485,016|11%| | | | | | | | | | | | | | |
+|Operating Fixed assets|138,681|11%|125,475|49%|84,442|4%|80,871|6%|76,246|19%|64,084|23%| | | | | | | | | | | | | | |
+|Other assets|96,826|-7%|103,916|33%|78,198|90%|41,138|19%|34,535|-13%|39,911|20%| | | | | | | | | | | | | | |
+|Total Assets|2,816,968|21%|2,329,316|3%|2,250,972|12%|2,010,157|26%|1,590,458|7%|1,481,121|10%| | | | | | | | | | | | | | |
+|LIABILITIES| | | | | | | | | | | | | | | | | |CAGR for the last six years-annualized is|29%| | | | | | | |
+|Bills payable|14,502|56%|9,322|-34%|14,160|41%|10,060|5%|9,622|22%|7,879|2%| | | | | | | | | | | | | | |
+|Borrowings|462,023|24%|373,674|-30%|530,414|26%|420,006|117%|193,928|-27%|266,448|18%| | | | | | | | | | | | | | |
+|Deposits|2,018,395|20%|1,676,623|10%|1,522,297|8%|1,413,295|16%|1,216,678|16%|1,049,043|7%| | | | | | | | | | | | | | |
+|Other liabilities|88,147|17%|75,443|34%|56,290|42%|39,551|2%|38,670|-9%|42,400|68%| | | | | | | | | | | | | | |
+|Total Liabilities|2,583,067|21%|2,135,062|1%|2,123,161|13%|1,882,912|29%|1,458,898|7%|1,365,770|10%| | | | | | | | | | | | | | |
+|NET ASSETS|233,901|20%|194,254|52%|127,811|0%|127,245|-3%|131,560|14%|115,351|7%| | | | | | | | | | | | | | |
+|EQUITY| | | | | | | | | | | | | | | | | | | | | | | | | | |
+|Share capital|11,451|0%|11,451|0%|11,451|0%|11,451|0%|11,451|0%|11,451|0%| | | | | | | | | | | | | | |
+|Reserves|42,461|12%|37,961|21%|31,435|17%|26,784|10%|24,277|9%|22,270|10%| | | | | | | | | | | | | | |
+|Un - appropriated profit|123,361|18%|104,802|32%|79,653|15%|69,471|4%|66,995|20%|55,821|6%| | | | | | | | | | | | | | |
+|Surplus on revaluation of assets|56,628|41%|40,040|659%|5,272|-73%|19,539|-32%|28,837|12%|25,809|12%| | | | | | | | | | | | | | |
+|Total Equity|233,901|20%|194,254|52%|127,811|0%|127,245|-3%|131,560|14%|115,351|7%| | | | | | | | | | | | | | |
+
+# Profit and Loss Account
+
+|Interest / Return / Non Interest Income earned| | | | | | | | | | | | | | | | | | | |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|Markup / Return / Interest earned|376,760|5%|357,307|66%|215,469|82%|118,649|7%|110,547|-10%|122,637|67%| | | | | | | |
+|Fee, Commission & Brokerage|14,081|32%|10,641|31%|8,147|20%|6,811|25%|5,441|7%|5,092|17%| | | | | | | |
+|Foreign Exchange Income|6,679|-27%|9,167|15%|7,948|303%|1,973|19%|1,664|-16%|1,992|32%| | | | | | | |
+|Gain on securities and Dividend income|6,462|47%|4,388|-2%|4,487|-31%|6,485|28%|5,076|49%|3,404|-34%| | | | | | | |
+|Other income|758|228%|231|148%|93|-86%|669|85%|362|-10%|403|60%| | | | | | | |
+|Non-markup Income|27,980|15%|24,427|18%|20,675|30%|15,938|27%|12,543|15%|10,891|-4%| | | | | | | |
+|Total Income|404,740|6%|381,734|62%|236,144|75%|134,587|9%|123,090|-8%|133,528|58%| | | | | | | |
+
+# Markup / Return / Interest and Non Interest Expense
+
+|Markup / Return / Interest expensed|(261,537)|7%|(244,028)|64%|(148,750)|104%|(73,062)|18%|(62,126)|-23%|(81,130)|97%|
+|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|Operating expenses|(57,880)|18%|(48,888)|19%|(40,923)|21%|(33,886)|11%|(30,472)|11%|(27,555)|18%|
+|Donations|(105)|25%|(84)|-21%|(107)|78%|(60)|-55%|(133)|142%|(55)|-51%|
+|Non-markup Expense|(57,985)|18%|(48,972)|19%|(41,030)|21%|(33,946)|11%|(30,605)|11%|(27,610)|18%|
+|Reversals / (Provisions)|2,710|-191%|(2,977)|-1236%|262|-68%|812|-196%|(844)|54%|(547)|-150%|
+|Taxation|(44,812)|-1%|(45,074)|77%|(25,433)|130%|(11,077)|-4%|(11,486)|13%|(10,129)|24%|
+|Total expense - percentage of total income|(361,624)|6%|(341,051)|59%|(214,950)|83%|(117,274)|12%|(105,061)|-12%|(119,416)|67%|
+|Profit / (Loss) after taxation|43,116|6%|40,683|92%|21,194|22%|17,313|-4%|18,029|28%|14,112|10%|
+
+
+# STATEMENT OF FINANCIAL POSITION
+
+# Six Years Horizontal & Vertical Performance Highlights
+
+|Year|2024|2023|2022|2021|2020|2019|
+|---|---|---|---|---|---|---|
+|Other Assets|33%|19%|20%|-7%| | |
+|Total Assets|96,826|103,916|78,198|41,138|34,535|39,911|
+|LIABILITIES|56%|-34%|41%|5%|22%|2%|
+|Bills Payable|1%|1%|1%|1%|1%|1%|
+|Borrowings|24%|-30%|26%|117%|-27%|18%|
+|Deposits and other accounts|20%|10%|8%|7%| | |
+
+CAGR for the last six years-annualized is 19%
+
+Other Liabilities (Including Deferred Tax Liabilities) CAGR for the last six years-annualized is 23%
+
+Deferred Tax Asset (DTA) decreased by Rs. 13,652 million from December 31, 2023; mainly attributable to Deferred Tax Liability (DTL) arising on Surplus on revaluation of securities classified under FVOCI portfolio amounting to Rs. 17,346 million, partially offset by, increase in Deferred Tax Asset on advances, Workers’ Welfare Fund of Rs. 4,028 million and Rs. 898 million, respectively.
+
+DTL also increased on Accelerated tax depreciation, Actuarial gains, Surplus on revaluation of fixed assets and Non-Banking Assets by Rs. 585 million, Rs. 550 million, Rs. 91 million and 7 million, respectively. Resulting, into net DTL of Rs. 9,831 million as at December 31, 2024 against DTA of Rs. 3,822 million as on 31 December 2023.
+
+Total Assets of the Bank have increased by Rs. 487,652 million from December 31, 2023 position. Main increase is witnessed in Advances, Lendings to financial institutions, Operating fixed assets (including Right of use assets and Intangible assets) and Balances with other banks by Rs. 269,717 million, Rs. 234,123 million, Rs. 13,206 million and Rs. 7,509 million respectively; partially offset by decrease in Investments, Cash & balances with treasury banks, Deferred tax assets and Other Assets (mainly on account of lower accrued markup of Rs. 7,720 million), which are lower by Rs. 20,444 million, Rs. 9,368 million and Rs. 3,822 million and Rs. 3,269 million respectively.
+
+Outstanding deposits as at December 31, 2024 were higher than December 31, 2023 by Rs. 341,772 million i.e., 20.4%, higher than industry growth of 8.8%. Percentage of high-cost Corporate deposits was improved to 15% from 18% compared to December 31, 2023. Moreover, Deposits market share was improved to 6.67% compared to 6.02% in December 31, 2023.
+
+Compliant with the regulatory requirement. 12% YOY growth on reserves. 18% YOY growth is on account of current year’s profit after payment of last year cumulative dividend.
+
+Surplus on revaluation of assets - net CAGR for the last six years-annualized is 16%
+
+# PROFIT AND LOSS ACCOUNT
+
+# Six Years Horizontal & Vertical Performance Highlights
+
+|Year|2024|2023|2022|2021|2020|2019| | | | | |
+|---|---|---|---|---|---|---|---|---|---|---|---|
+|INCOME|5%|66%|82%|7%|-10%|67%| | | | | |
+|Markup Income|93%|94%|91%|88%|90%|92%| | | | | |
+|CAGR for the last six years-annualized is 31%| | | | | | | | | | | |
+|Non-Markup Income|15%|18%|30%|27%|15%| | | | | | |
+|Non-mark-up and interest income increased by Rs. 3,553 million or 15% and amounted to Rs. 27,980 million for the year ended December 31, 2024 as compared to Rs. 24,427 million in corresponding year ended December 31, 2023.| | | | | | | | | | | |
+|Total Income| | | | | | |CAGR for the last six years annualized is 30%| | | | |
+|EXPENSES| |64%|104%| | |97%| | | | | |
+|Markup Expense|7%| | |18%|-23%| | | | | | |
+|Markup, Interest expense for the year ended December 31, 2024 has increased to Rs. 261,537 million as compared to Rs. 244,028 million in corresponding year ended December 31, 2023, showing an increase of Rs. 17,509 million or 7%.| | | | | | | | | | | |
+|Non-Markup Expense|18%|19%|21%|11%|11%| | | | | | |
+|Overall administrative expenses have increased by Rs. 9,013 million or 18% compared to corresponding year ended December 31, 2023; mainly due to higher Salary & Benefits by Rs. 1,367 million, Property expenses by Rs. 2,550 million, Marketing, advertisement & publicity Related expense by Rs. 2,080 million, Communication by Rs. 1,529 million Card Related Expenses by Rs. 518 million, Outsourced Service cost by Rs. 411 million and Insurance By Rs. 357 million.| | | | | | | | | | | |
+
+Profit after taxation for the year ended December 31, 2024 amounted to Rs. 43,116 million, higher by Rs. 2,433 million as compared to the corresponding year ended December 31, 2023.
+
+Earnings Per Share (EPS) of the Bank has increased to Rs. 37.65 per share for the year ended December 31, 2024 as compared to Rs. 35.53 per share for the corresponding year ended December 31, 2023.
+
+# FINANCIAL RATIOS
+
+A Strong Balance Sheet Enabled An Attractive Dividend Payout
+
+Our CET1 or Tier 1 and Capital Adequacy ratios of 19.93 % and 26.71% respectively, Liquidity Coverage Ratio of 199.06% and Net Stable Funding Ratio of 155.62 % on a pro forma basis, are all Basel III-compliant and are a reflection of a strong balance sheet. On the back of solid earnings growth in operations and a strong capital position, a final dividend of Rs. 4.00 was declared. Our full-year dividend cover was 2.35 times.
+
+# Financial Ratios
+
+|For the year ended| |2024|2023|2022|2021|2020|2019| | | | | |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|Profitability Ratios| |21.72%|22.46%|19.74%|21.09%|23.98%|18.15%| | | | | |
+|Gross Yield on Earning Assets| |15.54%|18.41%|10.79%|6.73%|8.22%|9.76%| | | | | |
+|Gross spread ratio| |30.58%|31.70%|30.96%|38.42%|43.80%|33.85%| | | | | |
+|Cost to Income ratio| |40.42%|35.50%|46.83%|55.08%|49.98%|52.59%| | | | | |
+|Return on equity| |26.01%|29.40%|18.41%|16.46%|18.75%|16.24%| | | | | |
+|Return on Capital employed| |3.11%|3.65%|2.18%|1.95%|2.27%|1.97%| | | | | |
+|Shareholders' Fund|Rs. Mn|233,901|194,254|127,811|127,245|131,560|115,351| | | | | |
+|Return on Shareholders' Fund| |18.43%|20.94%|16.58%|13.61%|13.70%|12.23%| | | | | |
+|Return on investments| |3.82%|3.54%|1.89%|1.63%|2.17%|1.86%| | | | | |
+
+# Liquidity Ratios
+
+|Advances to deposits ratio|52.83%|47.37%|56.33%|47.11%|41.93%|47.68%|
+|---|---|---|---|---|---|---|
+|Current, Quick or Acid test ratio|1.14|0.68|0.59|0.80|1.06|1.24|
+|Cash to current liabilities|12.16%|14.64%|7.22%|11.96%|17.54%|16.95%|
+|Coverage Ratio (Stage 3 ECL /NPLs)|93.83%|94.61%|89.58%|93.75%|96.27%|95.32%|
+|Coverage Ratio (Total ECL /NPLs)|115.69%|96.18%|90.42%|94.49%|97.04%|95.58%|
+|Net interest income as a percentage of working funds|4.65%|5.53%|2.36%|2.49%|3.43%|3.16%|
+|Credit Deposit Ratio|64.90%|47.93%|58.18%|50.32%|43.41%|48.98%|
+|Cost of Funds Ratio|17.79%|16.90%|10.38%|6.21%|5.41%|9.48%|
+
+# Operating cost - Efficiency ratio
+
+|Liquidity Coverage ratio - LCR|199.06%|181.56%|167.46%|186.17%|179.27%|167.84%|
+|---|---|---|---|---|---|---|
+|Gross Non-Performing assets to gross advances|3.39%|4.13%|3.30%|2.24%|3.64%|4.03%|
+|Non-Performing loans to gross loan|1.22%|1.64%|1.53%|2.04%|2.78%|3.17%|
+
+# Investment Ratios
+
+|Earnings per share|Rs.|37.65|35.53|18.51|15.12|15.75|12.32|
+|---|---|---|---|---|---|---|---|
+|Price earnings ratio|Times|3.66|2.34|3.46|5.44|5.42|7.76|
+|Price to book ratio|Times|0.67|0.49|0.57|0.74|0.74|0.95|
+|Dividend yield ratio|%|11.61%|14.46%|13.29%|9.72%|9.37%|8.37%|
+|Dividend payout ratio|%|42.49%|33.78%|45.92%|52.91%|50.81%|64.91%|
+|Cash dividend per share|%|160.00%|120.00%|85.00%|80.00%|80.00%|80.00%|
+|Market value per share at the end of year|Rs.|137.87|82.99|63.97|82.27|85.37|95.60|
+|Break-up value per share without surplus|Rs.|154.81|134.68|107.01|94.06|89.71|78.20|
+|Break-up value per share with surplus|Rs.|204.27|169.64|111.62|111.12|114.89|100.74|
+|Breakup value per share including investment in related party at fair value with surplus|Rs.|205.61|170.11|112.08|111.58|115.35|101.20|
+
+# Capital Structure
+
+|Capital Adequacy ratio|%|26.71%|26.21%|19.74%|22.32%|25.20%|21.69%|
+|---|---|---|---|---|---|---|---|
+|Earnings assets to total assets|%|86.08%|83.34%|88.72%|87.70%|84.51%|84.84%|
+|Cost of deposit|%|9.56%|10.10%|6.55%|3.07%|4.02%|5.61%|
+|Net asset per share|Rs.|204.28|169.64|111.62|111.12|114.89|100.74|
+|Liquidity Reserve Ratio|%|4.72%|5.44%|3.73%|5.24%|6.35%|6.99%|
+|Retention Ratio|%|57.51%|66.22%|54.08%|47.09%|49.19%|35.09%|
+|Debt to Equity Ratio|Times|1.98|1.92|4.15|3.30|1.47|2.31|
+
+# Non-Financial Ratios
+
+|Staff turnover ratio|%|14%|12%|14%|10%|10%|7%|
+|---|---|---|---|---|---|---|---|
+|Counter Transactions Productivity per day (No. of Transactions)|No.|78|76|77|78|67|-|
+|Customer Satisfaction Index|%|75%|-|80%|-|78%|-|
+|Customer Retention ratio|%|97.08%|96.67%|96.00%|92.04%|93.42%|94.51%|
+|Revenue Per Employee|Rs.|30.49|30.47|19.80|11.60|10.70|11.45|
+
+
+# VALUE CREATION FOR SHAREHOLDERS
+
+Through our financial performance we demonstrate our commitment to delivering long-term value for our shareholders. Over the last six years the bank increased its break-up value per share without surplus at a Compounded Annual Growth Rate of 13%. Growing “Total assets to shareholder’s funds” coupled with Return on Assets also contributed in achieving higher Return on Equity from respective average ratio of the industry.
+
+# Breakup Value vs Market Price
+
+|Market Capitalization|High|Low|Closing|Capital (Rs. in Million)|Value (Rs. in Million)|
+|---|---|---|---|---|---|
+|December 31, 2024|140.00|137.50|137.87|11,451|157,875|
+|September 30, 2024|112.00|110.00|111.00|11,451|127,106|
+|June 30, 2024|112.00|107.59|110.20|11,451|126,190|
+|March 31, 2024|87.95|85.13|85.99|11,451|98,467|
+
+# Share Price Movement
+
+Rupees 155   138        135 170 83         107          112  64  94 111  82     90  115 85         78 101  96
+
+2024              2023                         2022     2021               2020              2019
+
+Break-up Value per Share without surplus  Break-up Value per Share with surplus  Market Value per Share - at the year end
+
+# Dupont Analysis
+
+|Profit before Tax Ratio|Profit after Tax Ratio|Return on Assets (ROA)|
+|---|---|---|
+|22%|22%|20%|
+|21%|24%|18%|
+|2%|2%| |
+|11%|11%|9%|
+|13%|15%|11%|
+|1%|1%|1%|
+
+Regularly recurring matters (such as financial results and dividends) have a temporary impact on the share price of Allied Bank Limited. However, Government and Regulatory policy changes such as inflation, discount rate, monetary policy, political and environment situation of the country are the key determinants for ascertaining profitability of the Bank ultimately having an impact on share price.
+
+# Assets Turnover
+
+|2024|2023|2022|2021|2020|2019|
+|---|---|---|---|---|---|
+|16%|17%|11%|8%|9%| |
+
+# Total Assets to Shareholder's Funds
+
+|2024|2023|2022|2021|2020|2019|
+|---|---|---|---|---|---|
+|17|17|20|19|17|17|
+
+# Return on Equity (ROE)
+
+|2024|2023|2022|2021|2020|2019|
+|---|---|---|---|---|---|
+|29%|26%|23%|27%|18%|16%|
+|19%|16%|15%|14%|17%|11%|
+
+
+# ECONOMIC VALUE ADDED STATEMENT
+
+# QUARTERLY PERFORMANCE - 2024 & 2023
+
+| | | |2024|2023| | | | | | | |
+|---|---|---|---|---|---|---|---|---|---|---|---|
+|December 31,| | |2024|2023| | | | | | | |
+| | | | | | | |Rupees in ’000| | | | |
+|Rupees in Million| | | |4th Quarter|3rd Quarter|2nd Quarter|1st Quarter|4th Quarter|3rd Quarter|2nd Quarter|1st Quarter|
+| | | |Mark-up / return / interest earned|85,545,271|98,863,021|98,040,419|94,311,559|92,966,907|95,209,785|95,090,511|74,040,237|
+| | | |Mark-up / return / interest expensed|60,478,767|67,187,656|68,705,787|65,164,933|60,672,508|65,127,284|64,701,150|53,527,186|
+| | | |Net mark-up / interest income|25,066,504|31,675,365|29,334,632|29,146,626|32,294,399|30,082,501|30,389,361|20,513,051|
+| | | |Non mark-up / Interest income|8,135,273|6,474,739|7,034,984|6,335,110|8,255,838|4,863,164|4,464,559|6,843,480|
+| | | |Total Income|33,201,777|38,150,104|36,369,616|35,481,736|40,550,237|34,945,665|34,853,920|27,356,531|
+| | | |Non mark-up / Interest Expenses|15,132,916|14,462,328|15,011,667|13,378,299|12,172,780|12,536,162|12,642,306|11,620,962|
+|Profit before provisions| | | |18,068,861|23,687,776|21,357,949|22,103,437|28,377,457|22,409,503|22,211,614|15,735,569|
+| | | |(Reversals) / provisions and write offs - net|255,481|82,609|(2,885,474)|(162,755)|444,733|(211,384)|433,847|2,309,777|
+|Profit before taxation| | | |17,813,380|23,605,167|24,243,423|22,266,192|27,932,724|22,620,887|21,777,767|13,425,792|
+| | | |Taxation|10,388,288|11,555,076|11,966,270|10,902,624|15,911,314|11,402,342|11,923,552|5,836,975|
+|Profit after taxation| | | |7,425,092|12,050,091|12,277,153|11,363,568|12,021,410|11,218,545|9,854,215|7,588,817|
+|Profit after tax|43,116|40,683| | | | | | | | | |
+|(reversals) / Provisions for the year|(2,710)|2,977| | | | | | | | | |
+|Net Operating Profit after Tax - B|40,406|43,660| | | | | | | | | |
+|Economic Cost - C|18.21%|21.85%| | | | | | | | | |
+|Cost of Capital Invested - D - (A x C)|33,623|33,966| | | | | | | | | |
+|Economic Value Added (B - D)|6,783|9,694| | | | | | | | | |
+
+# Statement of Financial Position
+
+|Assets| | | | | | | | | | | |
+|---|---|---|---|---|---|---|---|---|---|---|---|
+| | | |Cash and balances with treasury banks|146,768,168|173,140,143|187,678,299|164,469,748|156,136,308|132,109,132|159,387,421|138,872,983|
+| | | |Balances with other banks|9,964,224|1,699,980|6,365,541|12,890,747|2,455,601|1,437,729|11,549,629|943,027|
+|Lendings to financial institutions - net| | | |243,541,081|11,461,542|28,094,416|44,591,363|9,418,003|99,120,861|21,521,771|33,266,602|
+| | | |Investments - net|1,129,873,956|1,333,148,852|1,283,419,689|1,165,709,779|1,150,318,089|1,046,971,926|1,138,509,023|1,130,714,207|
+| | | |Advances - net|1,051,313,893|847,636,989|772,967,403|703,443,812|781,597,230|757,225,582|817,355,036|782,862,123|
+| | | |Fixed assets|135,048,603|131,843,271|129,103,366|127,180,949|122,065,722|88,759,592|86,233,686|83,796,507|
+| | | |Intangible assets|3,632,624|3,666,004|3,389,457|3,469,984|3,409,291|3,133,182|3,077,015|3,103,363|
+| | | |Deferred tax assets - net| | | | |3,821,594|17,316,636|22,790,139|20,961,871|
+| | | |Other assets - net|96,826,140|121,224,752|106,853,786|115,588,471|100,094,817|117,138,089|93,259,832|75,564,308|
+|Total Assets| | | |2,816,968,689|2,623,821,533|2,517,871,957|2,337,344,853|2,329,316,655|2,263,212,729|2,353,683,552|2,270,084,991|
+
+# Liabilities
+
+|Bills payable|14,502,237|8,527,430|9,504,311|8,752,234|9,322,405|9,759,133|7,982,568|9,561,703|
+|---|---|---|---|---|---|---|---|---|
+|Borrowings|462,023,558|342,018,723|331,251,823|332,461,651|373,674,042|308,986,319|470,666,734|526,623,665|
+|Deposits and other accounts|2,018,395,067|1,926,439,908|1,877,472,514|1,698,876,259|1,676,623,075|1,704,478,770|1,665,118,472|1,529,648,342|
+|Lease Liabilities|10,360,968|10,278,950|10,382,751|10,708,442| | | | |
+|Deferred tax liabilities - net|9,830,548|8,604,216|5,148,676|3,550,846| | | | |
+|Other liabilities|67,955,110|97,865,558|65,584,076|73,963,364|75,442,669|89,430,711|73,265,731|78,809,167|
+|Total Liabilities|2,583,067,488|2,393,734,785|2,299,344,151|2,128,312,796|2,135,062,191|2,112,654,933|2,217,033,505|2,144,642,877|
+
+# Net Assets
+
+| | | | | | |Net Assets|233,901,201|230,086,748|218,527,806|209,032,057|194,254,464|150,557,796|136,650,047|125,442,114|
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| | | | | | |Represented by:| | | | | | | | |
+| | | | | | |Share capital|11,450,739|11,450,739|11,450,739|11,450,739|11,450,739|11,450,739|11,450,739|11,450,739|
+| | | | | | |Reserves|42,460,536|41,226,026|40,094,463|38,869,886|37,961,636|37,092,306|36,272,857|35,191,530|
+| | | | | | |Surplus on revaluation of assets - net of tax|56,628,460|55,383,298|51,693,586|50,936,977|40,039,632|5,058,516|(778,224)|(4,840,148)|
+|Unappropriated profit| | | | | | |123,361,466|122,026,685|115,289,018|107,774,455|104,802,457|96,956,235|89,704,675|83,639,993|
+|Total Net Assets| | | | | | |233,901,201|230,086,748|218,527,806|209,032,057|194,254,464|150,557,796|136,650,047|125,442,114|
+
+
+# QUARTERLY PERFORMANCE
+
+# GRAPHICAL PRESENTATION
+
+# ANALYSIS 2024 & 2023
+
+|Segment| | | |Corporate and Investment Banking| | | |Commercial and Retail Banking|Trading and Sales (Treasury)|Islamic Banking| |
+|---|---|---|---|---|---|---|---|---|---|---|---|
+|2024|2023|2024|2023|2024|2023|2024|2023| | | | |
+|Net mark-up / interest income|29,147|29,335|30,389|31,675|30,083|32,294| | | | | |
+| | | |Revenue|20,807|8,875|108,079|133,376|20,563|3,789|11,835|9,229|
+| | | |Total expenses|1,704|813|25,463|22,269|358|252|2,483|1,842|
+|Profit before tax| | | |20,491|4,890|82,632|110,532|20,534|3,250|8,787|7,383|
+| | | |Advances - net|981,136|658,655|30,263|32,438| | |32,130|79,620|
+| | | |Total Assets|72,886|86,288|1,936,224|1,606,616|387,745|279,049|148,024|131,548|
+
+# Non mark-up / Interest income
+
+|2024|2023|2024|2023|2024|2023|2024|2023|
+|---|---|---|---|---|---|---|---|
+|Q1|Q2|Q3|Q4|8,135|8,256|6,335|6,843|
+|4,465|4,863| | | | | | |
+
+# Non mark-up / Interest Expenses
+
+|2024|2023|2024|2023|2024|2023|2024|2023|
+|---|---|---|---|---|---|---|---|
+|Q1|Q2|Q3|Q4|15,133|13,378|15,012|12,642|
+|14,462|12,536|12,173| | | | | |
+
+# Profit before taxation
+
+|2024|2023|2024|2023|2024|2023|2024|2023|
+|---|---|---|---|---|---|---|---|
+|Q1|Q2|Q3|Q4|27,933|22,266|24,243|21,778|
+|23,605|22,621|17,813|13,426| | | | |
+
+
+# CASH FLOW STATEMENT
+
+# Direct Method
+
+# Summary of Cash Flow Statement
+
+| |2024|2023|2022|2021|2020|2019|
+|---|---|---|---|---|---|---|
+|Rs. In Million| | | | | | |
+
+# STATEMENT FOR THE YEAR
+
+# CASH FLOW FROM OPERATING ACTIVITIES
+
+|Cash flows from operating activities|(1,222)|87,038|63,658|259,199|123,396|98,946|
+|---|---|---|---|---|---|---|
+|Mark-up / return / interest and commission receipts|411,703|361,769| | | | |
+|Mark-up / return / interest payments|(259,008)|(243,204)| | | | |
+|Cash payments to employees, suppliers and others|(174,491)|(23,088)| | | | |
+|(Increase) / decrease in operating assets| | | | | | |
+|Lendings to financial institutions|(234,123)|18,804| | | | |
+|Securities classified as FVTPL|17,115|(19,975)| | | | |
+|Advances|(269,974)|63,360| | | | |
+|Other assets (excluding advance taxation)|389,394|(39,630)| | | | |
+|Increase / (decrease) in operating liabilities| | | | | | |
+|Bills payable|5,180|(4,837)| | | | |
+|Borrowings|88,116|(156,498)| | | | |
+|Deposits|341,772|154,326| | | | |
+|Other liabilities (excluding current taxation)|(260,672)|17,195| | | | |
+|Cash flow from operating activities before tax|55,011|128,222| | | | |
+|Income tax paid|(55,509)|(40,674)| | | | |
+|Defined benefits paid|(725)|(510)| | | | |
+|Net cash flow (used in) / generated from operating activities|(1,222)|87,038| | | | |
+
+# CASH FLOW FROM INVESTING ACTIVITIES
+
+|Net investments in 'FVOCI / AFS' securities|100,915|9,316| | | | |
+|---|---|---|---|---|---|---|
+|Investment in subsidiary|(1,000)|-| | | | |
+|Net investments in 'amortised cost' securities|(59,518)|(344)| | | | |
+|Dividend income received|3,079|3,476| | | | |
+|Investments in operating fixed assets|(22,864)|(19,945)| | | | |
+|Proceeds from sale of fixed assets|2,566|45| | | | |
+|Effect of translation of net investment in foreign branch|187|2,458| | | | |
+|Net cash flow generated from / (used in) investing activities|23,365|(4,994)| | | | |
+
+# CASH FLOW FROM FINANCING ACTIVITIES
+
+|Dividends paid|(2,808)|(2,580)| | | | |
+|---|---|---|---|---|---|---|
+|Payment of lease liability against right of use assets|(18,255)|(11,982)| | | | |
+|Net cash used in financing activities|(21,064)|(14,562)| | | | |
+|Increase in cash and cash equivalents during the year|1,079|67,482| | | | |
+|Cash and cash equivalents at beginning of the year|158,131|91,751| | | | |
+|Effect of exchange rate changes on opening cash and cash equivalents|269|(833)| | | | |
+|CASH AND CASH EQUIVALENTS AT END OF THE YEAR|159,479|158,400| | | | |
+
+# SIX YEARS CASH FLOW ANALYSIS
+
+|Cash flow from operating activities|23,365|Cash flow from investing activities|259,199|
+|---|---|---|---|
+| |87,038| |123,396|
+| |63,658| |98,946|
+| |(1,222)| | |
+| |(4,994)| |(69,017)|
+| |(86,403)| |(101,669)|
+| |(253,848)| | |
+
+# Free Cash Flow Statement
+
+| |2024|2023| | |2022|2021|2020|2019| | | |
+|---|---|---|---|---|---|---|---|---|---|---|---|
+| | | | | |Rupees in Million| | | | | | |
+|Profit before taxation| | | |87,928|85,757|46,626|28,391|29,515|24,242| | |
+| | | |Adjustment for non-cash items|(109,724)|(103,559)|5,466|4,371|6,109|3,947| | |
+| | | |Operating assets/ liabilities changes|20,574|104,840|11,567|226,437|88,084|70,757| | |
+| | | |Net cash generated from operating activities|(1,222)|87,038|63,658|259,198|123,708|98,946| | |
+| | | |Capital expenditure|(22,864)|(19,946)|(8,126)|(8,857)|(8,116)|(7,409)| | |
+|Free cash flows| | | |(24,087)|67,093|55,532|250,341|115,592|91,537| | |
+
+
+# OTHER INFORMATION
+
+# Defaults in payment of any debts and reason thereof
+
+There is no default by the Bank in payments of any debts during the year.
+
+# History of major events
+
+- The Bank was recognized by "Euromoney Award for Excellence" as "Pakistan’s Best Digital Bank" in 2024.
+- Corporate Governance Rating maintained at CGR 9++.
+- Deposit volume surpassed Rs. 2 trillion.
+
+# Method and Assumptions in Compiling Indicators
+
+The Bank identifies its indicators which correctly reflect the Bank’s performance and analyses its market standing, competitors and overall market conditions while compiling its indicators. The Bank considers deposits, advances, capital adequacy ratios, profit after tax and EPS on a regular basis to measure its performance. These are the basic indicators of Bank’s financial performance and profitability. Market price is a measure of Bank’s sensitivity in the market. The Bank regularly analyses its cash flows and strives to keep it on positive side.
+
+# Dividend Payout and Future Prospects of Dividend
+
+The Board of Directors declared a final cash dividend of Rs. 4.00 per share for the year ended December 31, 2024, which is in addition to Rs. 12.00 per share interim dividend already paid to the shareholders for the quarter ended March 31, 2024, June 30, 2024 and September 30, 2024 taking the dividend payout ratio to 42.49%.
+
+Dividend payout is also expected to be streamlined for the year 2025 as the Bank manages its profitability while ensuring that sufficient capital buffers are available to meet regulatory requirements.
+
+# Management’s Assessment of Sufficiency of Tax
+
+The Bank maintains sufficient provision for taxation as required under the accounting standards and the relevant regulations. Contingencies with respect to the direct or indirect taxation have been disclosed in Note 23 to these financial statements. It is our assessment that tax provision recognized in the financial statements is satisfactory.
+
+# Performance versus Budget
+
+During 2024, the Bank performed well and surpassed its deposits and profitability budgeted targets.
+
+# Capital Expenditures Rationale
+
+During the year ended December 31, 2024; Your Bank invested Rs. 22,790 million for business expansion and Information Technology infrastructure to ensure seamless services across the geographical diversity of the country.
+
+Your Bank is committed to continue its focus on prudent investments in business expansion and technological infrastructure; keeping itself aligned with developing business needs and updated information technology enhancements for digital transformation.
+
+# Performance of the Bank and its Subsidiaries
+
+Allied Bank reported a consolidated profit after tax of Rs. 44.4 billion for the calendar year 2024, marking a 7% year-on-year increase. The Bank’s net interest income rose by over 2%, reaching Rs.115.4 billion, while fee and commission income increased significantly by 37% to reach Rs.16.17 billion. ABL Asset Management Company Limited (ABL-AMC) showed consistent performance in managing mutual funds and investment portfolios and posted profit after tax of Rs. 1,163 million. ABL Exchange (Private) Limited profit after tax amounted to Rs. 20 million.
+
+# Performance of the Activities of the Bank and its Group Entities
+
+- In 2024, Allied Bank achieved a profit after tax of Rs 43 billion, marking a 6% increase from the previous year. The Bank’s net interest income rose by over 2%, reaching Rs 115.2 billion, while non-markup income saw a 15% uplift to Rs 27.98 billion.
+- Major highlights are disclosed at page 148 of this annual report and brief overview of the Bank’s subsidiaries is disclosed in the CEO’s Review.
+
+# Market share of the Bank and its Products and Services
+
+Market Share of Deposits and Gross Advances of ABL as at December 31, 2024 are 6.67% and 6.66% respectively.
+
+# Country of Origin
+
+Country of origin of all group companies is Pakistan.
+
+# CEO’s Review
+
+The CEO’s video message on the Banks business performance and strategy is available at: https://www.abl.com/investor-relations/financials/financial-presentations
+
+# FUTURE OUTLOOK
+
+In the coming year ABL Treasury will continue to closely monitor the changing economic and political landscape, domestically and globally. We will adjust the strategy accordingly to build on what the Bank have achieved last year. Largely, ABL expect interest rate cut cycle to be close to its end, hence, any decision to add duration to the portfolio will be driven by the structure of the yield curve and by balancing the expected future returns against the cost of carry. Similarly, on the FX side the Bank expect USD/PKR rate to remain mostly stable and will try to capitalize on movements in swap market to generate additional revenues. Simultaneously, ABL shall continue to work in close coordination with CIBG, CRBG and IBG to increase trade and remittance value and service its clients in the best way possible.
+
+The group continues to drive profitability by diversifying the corporate segment, expanding its client base, and generating consistent revenue through cross-selling financial products and maximizing fee-based income streams. ABL ensured meeting all regulatory and internal control requirements throughout the year and will remain focused on ensuring compliance in future as well.
+
+# COMMERCIAL AND RETAIL BANKING
+
+Commercial and Retail Banking Group (CRBG) continued its legacy of providing enriched and comprehensive product suite, supported by digital platforms and an extensive network of customer touch points by providing increased access to financial services through an array of asset and liabilities products and services, at the time and convenience of our valued customers. ABL is committed to provide the best services to its commercial clients and is providing hi-tech cash management solutions. The Bank capitalized on its digital strategy and was able to provide uninterrupted banking services to the account holders and obligors; providing financial access and business continuity.
+
+Additionally, the Bank achieved a major milestone of surpassing the total deposits of Rs. 2 trillion in year ended December 31, 2024 complemented by impressive Zero cost Current Account deposit mix of 38%. Moreover, 20% growth in total deposit was witnessed in outstanding deposits enabling 11% total average deposit growth comprising 9% average deposit growth in Current Account.
+
+The Bank continued to expand its footprint; resulting in the overall branch network to reach at 1,510 including 160 Islamic branches and 308 exclusive Islamic windows to support business expansion in new demographics. Remaining focused on boarding New to Bank relationships, the Bank added approximately 1.5 million accounts to the existing account base during the year.
+
+In line with the objectives of National Financial Inclusion strategy of State Bank of Pakistan (SBP), the Bank continued to play a pivotal role. Unique segment specific offerings like Allied Youth Account, Allied Rising Stars Account, Allied Senior Citizen Account, Allied Khanum Account, Allied Freelancer Account and Allied Asaan Account continued to contribute towards financial inclusion of relatively un-banked, low-income segments of the society and also adding to deposit base of the Bank.
+
+Despite not being a primary dealer ABL remained an active player in the secondary market of government securities and also serviced its clients for their fixed income needs. These activities resulted in healthy capital gains under fixed income trading. Going forward the Bank shall continue to remain active as a secondary market participant to capitalize on any opportunity offered by the market.
+
+# FUTURE OUTLOOK
+
+Moving into 2025, in addition to building relationships with new obligors, the Bank will also concentrate on strengthening relationships with existing customers/ depositors by offering a complete suite of attractive consumer products including Allied Visa Credit Card, Allied Personal Finance, Allied Car Finance, Allied Home Finance, Allied Solar System Finance, Allied Scooty Finance and Allied Electric Bike Finance to meet their specific financial needs.
+
+# Annual Report 2024
+
+# Dedication
+
+to enhance customer experience through innovative technologies and strategic initiatives, earning accolades that highlight its exceptional performance.
+
+# Achievements
+
+Allied Bank was honoured as the Pakistan’s Best Digital Bank at the prestigious Euromoney Awards 2024 and was named the Best Bank for Startup Support 2023-24 at the Future Banking Summit and Expo 2024 by VISA Inc.
+
+This year, myABL platform reached a significant milestone, with over 2 million registrations, marking a 28% year-on-year growth. The introduction of features like Virtual Debit Cards and RAAST Person to Merchant (P2M) QR payments enriched the digital banking experience for users.
+
+The redesigned myABL User Interface improved accessibility and security with enhancements like biometric verification, device binding, and auto-fetch OTP. These innovations led to improved app ratings, 4.6 on Android and 4.5 on Apple Store, reflecting the Bank’s commitment to customer-centric solutions.
+
+# Customer Engagement
+
+Allied Bank also launched the myABL Coins Enterprise Loyalty Program, enabling debit and credit card customers to earn and redeem points, further enhancing customer engagement and loyalty.
+
+The Bank’s WhatsApp Banking service continued its remarkable growth, registering 1.6 million users, a 67% increase over the previous year. Enhanced features such as utility bill payments, cheque status inquiry, and account maintenance certificates made everyday banking more accessible.
+
+# Future Outlook
+
+Looking ahead to 2025, ABL is set to embark on a transformative journey with ambitious goals and innovative strategies that align with its vision of leadership in the digital banking landscape.
+
+The introduction of the Intelligent Virtual Assistant (IVA), powered by Kore.ai, is set to revolutionize customer service by delivering seamless, human-like interactions for inquiries, requests, and complaint resolution, available 24/7.
+
+# Merchant Acquiring Business
+
+In its inaugural year, Allied Bank’s Merchant Acquiring Business deployed over 3,000 POS machines, facilitating over 2 million transactions with a total volume of Rs. 14 billion. Additionally, expansion of RAAST payments, with 23 million transactions worth Rs. 1.2 trillion, highlights Allied Bank’s pivotal role in transforming the digital payments ecosystem in Pakistan.
+
+# Operational Efficiency
+
+Allied Bank has successfully completed its transition from Unison to Oracle Siebel CRM, enhancing the management of complaints, sales leads, and service requests at contact centers and branches. This shift facilitates seamless end-to-end integration, improves turnaround times (TAT) through predefined workflows, and provides enhanced customer insights.
+
+# Data-Driven Solutions
+
+Over 1,000 customer segments have been implemented based on digital footprints, demographics, and behavioural data, allowing the bank to deliver highly personalized and targeted engagement with customers.
+
+# Information Technology
+
+Allied Bank (ABL) has consistently made remarkable strides in serving its customers by leveraging state-of-the-art technology, expanding its digital presence and incorporation of Artificial Intelligence (AI) tools and techniques to ensure that customers have access to a comprehensive range of AI based “digital and networked banking services” on the go.
+
+# Core Banking System
+
+The Core Banking System serves as the central hub within a bank’s software infrastructure, overseeing both customer financial and non-financial/historical data. The Bank has initiated an upgrade to the latest release of its Core Banking System, poised to benefit from technological enhancements made over time, ultimately leading to improved customer services and an enhanced user experience.
+
+# Security Enhancements
+
+In order to further strengthen the digital platform security, Allied Bank has achieved another critical milestone by introducing innovative user authentication and transaction security features. These include two-factor authentication (2FA), touchless biometric authentication, device registration with a cooling-off period, and end-to-end encryption for all digital transactions.
+
+# Environmental Commitment
+
+The Bank is building a Greenfield Tier-III data center after choosing a suitable location considering factors such as climate, natural disaster risks, accessibility, and proximity to energy sources. Designing this data center, the bank cares about energy efficiency by incorporating renewable energy sources, efficient cooling systems, and energy-efficient hardware.
+
+# Digital Payments
+
+A major milestone in digital payments is the launch of NFC Tap&Pay, a revolutionary feature that sets a new benchmark in convenience and security for merchant payments. By integrating Tap&Pay functionality into the myABL Digital Banking App, the Bank not only simplifies the payment process but also aligns with global trends in contactless payments, offering customers a faster, safer, and more efficient way to pay.
+
+# Disaster Recovery
+
+To ensure business continuity and availability of critical services to customers even in case of a disaster, the Bank is using Dell EMC Recover point solution for replicating virtual machines to DR site. The Bank is also committed to establishing a robust presence in the Metaverse through the creation of a virtual branch.
+
+which seamlessly integrates with SAN-based replication to automate and orchestrate the recovery process for VM in order to minimize downtime in case of disasters. A Cloud based E-Learning platform is also in place for training of team members to educate and enhance awareness about latest Cyber security threats and trends.
+
+The Bank annually conducts one-week long DR exercise to assess the strength, availability and monitor the robustness of Disaster Recovery site, during this tenure all operations served from alternate site and act as primary site.
+
+# FUTURE OUTLOOK
+
+Going forward, ITG shall continue to augment its inter-connected technological advancement across the Bank to cater financial needs of the Tech Savvy customers while reducing operational cost through automation and optimization of processes and systems. The Bank continues to implement robust system in order to safeguard from upcoming cyber security threats. The Bank shall continue to invest in revolutionized IT systems for better connectivity with branches, offices and ATMs including the deployment of end-to-end digital payments among individuals, business and government entities.
+
+# RISK MANAGEMENT GROUP
+
+The Bank implemented security tools to Detect and prevent Behavior based threats and anomalies at end points in order to further strengthen security. Risk Management Group (RMG) is continuously striving towards management of risk through an augmented framework of sound risk principles, reinforced by optimum organizational structure, robust risk assessment models and effective monitoring systems in an automated environment to safeguard the strength of the capital base of the Bank while achieving maximum value for the stakeholders.
+
+Dedicated functions in Risk Management include:
+
+- Corporate and Financial Institutions Risk;
+- Commercial, SME and Consumer Risk;
+- Credit Administration and Monitoring;
+- Technical Appraisal;
+- Information Security & Governance; and
+- Enterprise Risk.
+
+These functions operate cohesively to continuously augment the risk monitoring and assessment architecture, ensuring superior quality of asset portfolio while keeping the aggregate risks well within the Bank’s overall risk acceptance criteria. During 2024, Risk Management continued to refine and innovate Risk Management practices using latest technology and took following key initiatives to further strengthen risk monitoring and assessment processes:
+
+- The Bank has in place an indigenously developed state of the art Risk Assessment and Management System (RAMS) for loans processing and monitoring. The system has enabled effective management of Credit Risk, also reflected by one of the lowest infection ratios in the industry. The Bank follows a continuous process for upgradation in RAMS to enhance its effectiveness.
+- In line with the Bank’s distinctive initiative of engaging with the obligors to provide them latest insights on business management and strategies, three seminars have been organized during 2024 for Corporate, Commercial, and SME obligors. These insightful sessions were led by the eminent Dr. Ishrat Hussain, former Governor of the State Bank of Pakistan; who shared his expertise on critical topics including “Pakistan: The Way Forward”, “Beyond Survival: A Roadmap for Business Success” and “Pakistan’s Economy: Opportunities and Challenges for Businesses.”
+
+The Bank has conducted various security assessment exercises in 2024 on Information assets of the Bank which included Vulnerability Assessment (VA) and Penetration Testing (PT) activities. Payment Card Industry Data Security Standard (PCI DSS) Certification has also been achieved for the consecutive 6th year in 2024 along with compliance to Swift Customer Security Program (CSP) as mandated by SWIFT International. Various Information Security Awareness campaigns including Fraud.
+
+# HUMAN RESOURCE
+
+In 2024, the Human Resource Group (HRG) demonstrated its unwavering commitment to innovation and adaptability, playing a vital role in ensuring a positive work culture while effectively addressing the evolving dynamics of talent management and operational strategies. Serving as a strategic business partner and a catalyst for transformation, HRG continued to deliver meaningful impact across all sectors of the Bank.
+
+Customer service excellence continued to be a cornerstone of HRG’s training efforts, covering more than 2,900 participants through a series of highly specialized programs. Highlights included a three-day exclusive program on Developing and Leading a Customer-Centric Culture, conducted in partnership with the Lahore University of Management Sciences (LUMS). Additionally, middle management benefited from the globally acclaimed Legendary Service Program by Blanchard. To sustain this impact, six resources were trained as Training of Trainers (TOT) and have successfully conducted 61 sessions across the country in 2024. Frontline staff underwent a focused customer service boot camp tailored to enhance essential skills such as greeting, effective communication and customer handling.
+
+HRG also prioritized leadership development and digital transformation to prepare the Bank’s leaders for the future. Notable initiatives included the Leadership in the Age of AI program, delivered by distinguished professor from Cambridge University to Group Heads, and an exclusive session on Generative AI for senior executives, including the CEO and chiefs, which highlighted the Bank’s readiness to embrace emerging technologies and drive innovation.
+
+To fulfill the human resource requirement of different functions of the Bank, 4,272 offers for appointment have been issued to eligible candidates during the year 2024 against both permanent and contractual positions. In line with approved Manpower Plan 2024, batch of Management Trainee Officers (MTOs) was inducted, consisting of 377 candidates. Moreover, three (03) batches of Tellers, consisting of total 709 candidates have been inducted during the year 2024. Besides, a Khanum Teller Batch of 190 candidates, with special emphasis on female inclusion, was also acquired during the year.
+
+Furthermore, keeping in view the continuous increase and change in technological advancement in Banking industry, the Bank inducted a special Batch of Management Trainees Information Technology (MTIT), consisting of 26 candidates. This year the Bank had special focus on enhancing Liability Sales Business and to support this business initiative, the Talent Acquisition team of HR made all-out-effort to on board multiple batches of BDOs. In total, 2036 offer letters were issued to candidates for the position of Business Development Officers.
+
+A core priority has been cultivating digital fluency and agility to meet the demands of the rapidly evolving digital landscape. Numerous upskilling and reskilling sessions were conducted at Management Development Centers, enhancing employees’ digital proficiency across the organization.
+
+Through these multifaceted initiatives, HRG has not only strengthened the Bank’s organizational capacity but has also set a benchmark for excellence in learning and development, preparing Allied Bank to navigate future challenges with confidence and agility.
+
+# Employee Internal Communication
+
+This digital AI based tool aims to enhance efficiency, enabling employee’s quick response against a wide range of queries in an efficient manner. This will significantly reduce the time employees spend searching for information, improving efficiency across the bank, while also reducing the turnaround time.
+
+# Gym Facilities
+
+ABL has established state-of-the-art gym facilities for its employees, featuring separate gyms for males and females. These gyms are equipped with top-quality workout equipment and amenities, designed to meet diverse physical fitness needs. They provide employees with a convenient and accessible space to engage in physical activities, promoting a culture of health and wellness within the workplace.
+
+# Day Care Facilities
+
+Launch of ‘Allied Rising Star Day-care Centre(s)’ at MDC Lahore and MDC Multan is a testament to our commitment to support working parents within the bank. Day-care helps employees to focus on their work by reducing stress and distractions when parents are confident that their children are in a safe and nurturing environment. Staffed by qualified and caring professionals, these daycare centers ensure that children receive attentive care in a secure and supporting environment.
+
+# Sustainable Development Goals – Gender Equality
+
+Gender Equality has always been the cornerstone of Allied Bank. From the time of the Bank's inception, it has been the torchbearer of being an equal opportunity employer to help women achieve their goals. HR has always been at the forefront to promote female employee inclusion and supporting new initiatives that support them in general areas of life as well. HR has taken multiple initiatives to narrow down the gender gap and establish a conducive, harmonized gender-sensitive work environment.
+
+# Statistics
+
+|Female Director|1|
+|---|---|
+|Female Employees – Reporting directly to Head of Departments|2|
+|Female Chief Anti-Harassment Officer|1|
+|Female Head of Department|1|
+|Total Female Employee Ratio|25%|
+|Female Employee Ratio at Senior Management|8%|
+
+# Healthcare and Well-being
+
+Expansion of the Hospital Panel to 113 facilities for improved medical coverage and geographical accessibility for providing the best medical facilities to our employees in a convenient manner, twenty-four (24) reputable hospitals have been added to our existing county-wide panel of hospitals during the year 2024.
+
+Partnership with Islamabad Diagnostic Centre to facilitate bank employees and their family members to avail premier and discounted healthcare services along with the latest diagnostic and treatment facilities.
+
+Seminars on Mental Health, Stress Management have been arranged by HRG, focusing on employee’s mental health awareness and strategies for maintaining mental well-being.
+
+Blood Donation Drive in collaboration with Shaukat Khanum Memorial Hospital was organized at ABHOL. The event was a testament to the bank’s commitment to corporate social responsibility and giving back to the community. A large number of employees participated in the drive, donating blood to help save lives.
+
+‘Breast Cancer Awareness Seminars’ have been organized across major cities (Lahore, Karachi, Islamabad, and Multan) as part of the Pinktober campaign. These sessions aimed to empower employees with knowledge on early detection and prevention of breast cancer.
+
+# Compensation and Financial Relief
+
+To remain competitive and solidify its position as a market leader, HRG has increased the Salaries and Allowances for all existing and future hires in the roles of Tellers, Business Development Officers, Sales Executives, Collection Officers, and Customer Support Officers.
+
+Inflationary Relief Allowance equivalent to one-month gross salary for employees in MG7 and below management grades.
+
+Branch Managers (BMs) allowance has been revised and benchmarked with branch deposit size. Severe Winter Allowance for employees posted in challenging geographical terrains has also been revised.
+
+# Differently Abled Persons
+
+As a strong proponent of equal opportunity employment, Allied Bank remains dedicated to maintaining a workplace that upholds inclusivity, ensuring no discrimination based on gender, race, or physical ability, in accordance with its established policies. The Bank continues to provide career growth opportunities for individuals with different abilities, fostering a supportive and accommodating work environment.
+
+Furthermore, the Human Resource Group (HRG) has reinforced its commitment through extensive training initiatives, ensuring that employees are well-equipped to interact effectively with Persons with Different Abilities (PWDs). Over 9,000 employees have been trained on this subject through various methods, including workshops, e-learning modules, and interactive sessions.
+
+# Stakeholder Engagement Process
+
+Due to the economic conditions and rising inflation rate of the country, year 2024 has been very challenging where Talent Acquisition and employee retention were major points of concern. Despite these challenging circumstances, our commitment to attract and recruit top-tier resources remained unwavering.
+
+# Business Growth
+
+The BSG played a pivotal role in driving business growth and enhancing customer engagement through collaborative efforts with other business groups. The Bank achieved several milestones in 2024:
+
+- Expanded Customer Base: The Bank achieved an account base of 9.2 million by opening 1.4 million plus additional accounts during the year. Special support was extended to flood-affected communities in Sindh, enabling them to rebuild their lives through access to essential banking services.
+- Trade Business: Facilitated US$ 3.6 billion in Trade business, demonstrating significant contribution to the country’s economic landscape.
+- SMS Alert Activations: 436,709 customers onboarded for SMS Alerts during the year crossing the milestone of 1.28 million Subscribers.
+- RTGS Transactions: The Bank processed 721,480 RTGS transactions, achieving a turnover exceeding Rs. 75 trillion, with a 33% growth in turnover and a 17% increase in transaction volume.
+- Enhanced Investment Portfolio: Enhanced customer investment portfolios worth over Rs. 729 billion across 1,500+ IPS accounts.
+
+# Enhanced Customer Experience
+
+ABL continued to prioritize customer satisfaction and inclusivity by launching several impactful initiatives:
+
+- Biometric Authentication: Enabled biometric-based transactions for utility payments and instrument issuance, eliminating cheque dependency and streamlining processes to improve customer facilitation.
+- One-Window Operations for Remittances: Simplified remittance payments up to Rs. 100,000 with one-window operations for faster processing.
+- Flood-Affected Communities: Dedicated efforts were made to open accounts for flood-affected communities in Sindh, ensuring access to essential financial services in their time of need.
+- Women Financial Inclusion: Opened 382,860 new female accounts, reinforcing the Bank’s commitment to empowering women and promoting gender equity in financial services.
+- Facilitation for senior citizens: Improved pension disbursement processes, including facilitating real-time updates for life certificates using biometric verification, ensuring convenience for pensioners.
+
+# Sustainability Initiatives
+
+The Bank integrated environmentally responsible practices to reduce its carbon footprint:
+
+- Energy Efficiency: Upgraded branch infrastructure by adding 80 new solar-powered locations, increasing the total to 147 solar-enabled locations enhancing total installed capacity of 2.2 megawatts. This initiative significantly reduced energy consumption and carbon emissions.
+- e-Statement of accounts: The shift of 463,450 customers to e-Statements of Account (e-SOA) brought the total to over 2.6 million users, enhancing cost efficiency and supporting the Bank’s sustainability drive.
+- Paper Reduction: Reformatted 47 forms (consisting of multi-page documents) to reduce paper usage.
+
+# Annual Report 2024
+
+# Operational Excellence and Technological Advancements
+
+BSG enhanced operational efficiency and reduced costs through strategic use of technology:
+
+- New Flatbed printers: Enhanced deployment of multifunction new flatbed printers up to 5,200 units, to support scrutiny of cheque security features, validations, digital archiving, operational efficiency, off-site monitoring & audits.
+- Automation of operational processes:
+- Enhanced Sweep Functionality: Enabled automatic daily fund transfers at the Start of Day (SOD) or Close of Business (COB) with customer consent, ensuring seamless fund management within multiple customer accounts.
+- Automated SECP Fee Transfers: Developed a system to auto-transfer SECP Verification Fee funds from branch heads to a centralized account, reducing manual errors and improving efficiency.
+- Automated Account Category Changes: Enhanced the T24 system to automatically update account categories during COB, reducing manual interventions.
+- Biometric T24 Password Reset: Authorized Branch Managers to reset T24 passwords through biometric verification instantly, eliminating reliance on other offices to approve their requests.
+- API Integrations: Collaborated with 10 partners to enable 24/7 remittance processing and adopted IBFT for 20 new agents, boosting transaction volumes.
+- Inward Clearing Centralization: Resumption of centralized image-based inward clearing of over 2 million transactions, reducing costs and branch workload.
+- Enhanced Data Governance: Developed a Metadata Glossary and KPIs to improve data accuracy and foster data-driven decision-making.
+
+# Future Outlook
+
+BSG envisions a future driven by simplified and automated processes and deployment of advanced technologies such as machine learning, artificial intelligence, and blockchain. We are focused to elevate customer experiences, deepen engagement, and deliver transformative value.
+
+We are committed to fostering stronger collaboration with business teams to drive sustainable growth while embedding a culture of innovation and resilience. At the core of our strategy lies a steadfast dedication to sustainability—integrating environmentally responsible practices into our operations and solutions.
+
+# Special Asset Management
+
+Special Assets Management Group (SAMG) is one of vibrant constituents of the Bank’s risk management committee. Group is responsible for providing specialized services in (03) core functional areas of the bank that includes the recovery and management of non-performing assets, handling and applying of available measures/tools for controlling, minimizing and remedying the damage(s)/losses occasioning on account of undesirable acts of fraud, forgery and dacoity; and providing of legal support across the Bank.
+
+# OUTLOOK
+
+# Annual Report 2024
+
+# FORWARD LOOKING STATEMENT
+
+Forward-looking statements are used in different sections of the annual report of Allied Bank Limited (ABL). These statements rely on assumptions and expectations that involve inherent uncertainties; thus, making them susceptible to deviations from actual results. Therefore, these assumptions and estimates should be read in conjunction with prevailing economic parameters including relevant fiscal and monetary policies to support informed decision-making.
+
+# Economic outlook
+
+Pakistan’s economy demonstrated positive progress in 2024, with key macroeconomic indicators showing improvement. Inflation has slowed due to monetary policy measures, effective fiscal consolidation has led to a fiscal surplus, and rising exports and remittances have contributed to a surplus in the current account. Accordingly, the IMF has revised Pakistan’s 2024 GDP growth forecast to 2.5%, up from its previous projection of 2.4% in the October 2024 WEO. State Bank of Pakistan (SBP) has estimated GDP growth of Pakistan at 2.5% for 2024, a significant improvement from -0.2% in 2023.
+
+Inflation has remained a significant challenge in recent years, both globally and domestically. However, due to base effect, stable food prices owing to improved supply and the diminishing impact of previous gas tariff hikes have contributed to a notable decline in inflation. In December 2024, consumer price index (CPI) stood at 4.1%, down from 4.9% in the month of November 2024 and 29.7% in the month of December 2023. In response to easing inflationary pressure, SBP has progressively reduced the policy rate by 1,000 basis points since June 2024, bringing it to 12% in January 2025.
+
+# Future Outlook
+
+The Bank is diligently advancing toward a prosperous future by strategically investing in generative AI applications, autonomous technologies and digitally driven innovative solutions, while simultaneously creating value for its stakeholders through a commitment to agility, resilience and robust governance.
+
+Going forward, the Bank is determined to achieve the following key strategic objectives:
+
+# Enhanced digitization
+
+ABL aims to enhance its digital footprint through advancing and adopting digital financial technologies, expanding the smart branches and leveraging the Open Banking Platform, Artificial Intelligence (AI) and Generative AI.
+
+# Process enrichment through robotic automation
+
+The Bank continues to deploy further use cases of “Robotic Process Automation Solution” for improving operational efficiency, control and cost saving. Automation of manual processes which will result in turn-around time improvement and strengthening of operating environment.
+
+# New-to-bank customer onboarding
+
+A key strategic objective of ABL is to establish a seamless and user friendly digital onboarding process. The Bank is broadening its customer base by introducing innovative services and business models, leveraging a hybrid strategy to drive the acquisition of new customer base.
+
+# Financial inclusion
+
+Financial inclusion plays a major role in economic growth and poverty alleviation. By providing access to formal financial services, individuals in underserved communities can participate in the formal economy, leading to improved livelihoods.
+
+# PERFORMANCE MEETING THE FORWARD-LOOKING DISCLOSURES
+
+|Strategic Objective|Key Operational Milestones|
+|---|---|
+|Enhance Operational Effectiveness to provide customer centric Experience.|- Completed installation of additional “10” Digital Signage Machines (Total DSMs: 1,462).
+- One of the highest ATM transactions as acquirer; ATM uptime 96%.
+- Implemented RPA to reduce the TAT and improve processes efficiency in following areas:
+- - Handling of daily remittance payment
+- Auto Marking of IDs as inactive after resignation / termination of employee
+Implementation of System Generated Account Maintenance Certificate instead of manual issuance to customers from branch end
+- Enhancement in ABL’s WhatsApp menu to facilitate the customers
+- Risk Assessment Management System (RAMS) Integration With myABL Business to have the complete view of customers.
+- Dormant Account Activation via myABL
+- Advanced security features have been introduced in myABL including the following:
+- - Contactless in-app biometric verification
+- Device binding
+- Auto-fetch OTP
+UI UX of myABL app is being redesigned to enhance customer experience.
+|
+|Augmenting financial inclusion|- Enhanced Pakistan’s first myABL WhatsApp Banking service, serving to around 1.6 million users, by adding new features including:
+- - Account maintenance certificate.
+- Cheque status inquiry.
+Deployed 3,119 POS machines; having more than 2 million+ successful transactions volume in 2024.
+- RAAST P2M QR Payments on myABL implemented to make payment to merchants via QR scanning.
+- Mobile Tap & Pay contactless payments functionality for UPI & PayPak Debit Cards rolled out.
+- RAAST Bulk Transfer (B2P) on myABL Business implemented.
+- Launched ABL’s WhatsApp Channel to keep customers and stakeholders updated on this platform.
+- Payday loan feature (Advance Salary) has been extended to over 132 companies, during the year ended December 2024.
+- Opened 27 Branches and 146 Islamic Banking Windows (Total Branches 1,510 and Islamic Banking Windows 308).
+- 38 new Automated Teller Machines (ATMs) added (Total: 1604).
+- Total Mobile Banking Units are 05.
+- Opened 1,485,000+ new accounts during the period to reach the total at 9,261,000+ as on December 31, 2024 including mobile wallets.
+|
+|Enhancing brand image & Shareholders’ Value|- Total deposits surpassed Rs. 2 trillion.
+- Stable dividend stream and increasing equity.
+- One of the lowest infection ratio.
+- One of the highest capital adequacy ratio.
+- FinanceAsia awards the Bank:
+- - Best Domestic Bank
+- Most Diversity Equity Inclusion Progressive Bank
+- Most Innovative use of Technology
+- Best Bank for Financial Inclusion
+- Best Sustainable Bank
+Pakistan’s Best Digital Bank awarded by Euromoney Awards for Excellence
+- The Bank won Pakistan’s Best Domestic Islamic Bank by Euromoney Islamic Finance Awards
+- Employer of Choice Award - Gender Diversity & Inclusion by The Pakistan Business Council along with the World Bank Group’s International Finance Corporation
+|
+
+# Global Diversity & Inclusion Benchmarks (GDIB)
+
+recognized the Bank in following categories:
+
+- ‘Best Practice in Industry Bank’ in RECRUITMENT category
+- ‘Best Practice in Industry Bank’ in DEI LEARNING AND DEVELOPMENT category.
+
+ABL demonstrated its steadfast commitment to excellence and innovation, achieving an impressive 92% overall training coverage and positively impacting more than 12,000 employees.
+
+Over 8,000 employees have been successfully completed specialized training in Islamic banking.
+
+To fulfill the human resource requirements of different functions of the Bank, 4,272 offers for appointment issued to eligible candidates during the year 2024 against both permanent and contractual positions.
+
+In line with approved Manpower Plan 2024, batches of Management Trainee Officers were inducted, consisting of 377 candidates. Moreover, three (03) batches of Tellers, consisting of total 709 candidates inducted during the year 2024. Besides, a Khanum Teller Batch of 190 candidates, with special emphasis on female inclusion, was also acquired during the year.
+
+Through effective career progression at junior management levels, 284 cadre change elevations were made during the year 2024 to provide adequate growth opportunities within the organization.
+
+Diversity, Equity, and Inclusion (DEI) remained at the heart of training & development, with over 9,500 employees receiving targeted training in these crucial areas.
+
+Customer service excellence continued to be a cornerstone of our training efforts, covering more than 2,900 participants through a series of highly specialized programs. Highlights included a three-day exclusive program on Developing and Leading a Customer-Centric Culture, conducted in partnership with the Lahore University of Management Sciences (LUMS).
+
+Additionally, middle management benefited from the globally acclaimed Legendary Service Program by Blanchard. To sustain this impact, six resources were trained as Training of Trainers (TOT) and have successfully conducted 61 sessions across the country in 2024. Frontline employees underwent a focused customer service boot camp tailored to enhance essential skills such as greeting, effective communication and customer handling.
+
+# Employer of Choice for Top Professionals
+
+Training & Development also focused on leadership development and digital transformation to prepare the Bank’s leaders for the future. Notable initiatives included the Leadership in the Age of AI program, delivered by a distinguished professor from Cambridge University to Group Heads and an exclusive session on Generative AI for senior executives, including the CEO and Chiefs, which highlighted the Bank’s readiness to embrace emerging technologies and drive innovation.
+
+Additionally, through a strategic partnership with Coursera, over 450 employees accessed courses in Data Science, Computer Science, Leadership and Management, offered by globally renowned institutions and organizations such as Yale, Meta, IBM and Google.
+
+Employee well-being continued to be a key priority, with over 595 participants taking part in programs dedicated to health and lifestyle. Bank engaged foreign trainers to lead impactful sessions, including the Health 360 program and an exclusive employee well-being masterclass.
+
+In compliance with the State Bank of Pakistan’s directives, we prioritized capacity-building initiatives in underprivileged regions, making a significant contribution to the National Financial Literacy Program (NFLP). Through these efforts, ABL conducted more than 3,996 sessions across 41 remote districts, positively impacting the lives of over 122,201 local citizens.
+
+A core priority has been cultivating digital fluency and agility to meet the demands of the rapidly evolving digital landscape. Numerous upskilling and reskilling sessions were conducted at Management Development Centers, enhancing employees’ digital proficiency across the organization.
+
+Advanced training infrastructure was expanded with the establishment of new Management Development Centers in Lahore and Multan.
+
+To remain competitive and solidify its position as a market leader, HRG has increased the Salaries and Allowances for all existing and future hires in the roles of Tellers, Business Development Officers, Sales Executives, Collection Officers, and Customer Support Officers.
+
+# Enhanced Focus on Digitization
+
+- Established 18 Digital Branches.
+- Biometrically enabled ATM network of 1604 ATMs.
+- Mobile Tap & Pay contactless payments functionality for UPI & PayPak Debit Cards has been rolled out.
+- Enhancement in transaction limits of myABL and debit cards to cater customer needs.
+- New Services on WhatsApp Banking introduced.
+- Deployed 3,119 POS machines having more than 2 million+ successful transactions volume.
+- Implementation of Oracle CRM Solution to provide the customers best possible financial solutions.
+- Virtual debit card issuance for myABL customers for eCommerce transactions.
+- Hackathon for engagement of FinTech’s, startups conducted with 1,244 individuals represented by 366 groups participated in hackathon.
+- Storage area network is upgraded with more advanced storage called “EMC Power-Store 5200T which has more advanced features for efficient storage management.
+
+# STATUS OF MAJOR PROJECTS
+
+The Bank initiated several projects throughout the year to improve customer services, regulatory compliance and to expand information technology infrastructure.
+
+|Projects|Status|
+|---|---|
+|Robotic Process Automation has been implemented for following activities:|Completed|
+|Daily remittance payment| |
+|Auto Marking of IDs as inactive through RPA after resignation/termination of employee.| |
+|Implementation of system generated account maintenance certificate instead of manual issuance to customers from branch end.|Completed|
+|Deployed 3,119 POS machines having more than 2 million+ successful transactions volume.|Completed|
+|RAAST P2M QR Payments on myABL implemented to make payments to merchants via QR scanning.|Completed|
+|Mobile Tap & Pay contactless payments functionality for UPI & PayPak Debit Cards rolled out.|Completed|
+|Risk Assessment Management System (RAMS) integrated with myABL Business to provide complete business overview of a corporate customer by showing their deposits and lending products on one platform.|Completed|
+|Virtual card issuance for myABL customers can now generate virtual debit card for eCommerce transactions.|Completed|
+|Implementation of Oracle CRM Solution|Completed|
+|Installation of new systems in 06 warehouses for live view at the Head Office of the Bank|Completed|
+
+# SOURCE OF INFORMATION AND ASSUMPTIONS USED FOR PROJECTIONS AND FORECASTS
+
+The Bank prudently analyses market dynamics to formulate its projections and forecasts. The Bank also uses assumptions and forecasts provided by Asian Development Bank, State Bank of Pakistan, Ministry of Finance and Pakistan Bureau of Statistics.
+
+# BANK’S FUTURE RESEARCH AND DEVELOPMENT INITIATIVES
+
+The Bank aims to enhance digital banking capabilities, leveraging AI, blockchain and data analytics to optimize customer experience and operational efficiency. ABL will focus on developing shariah-compliant financial solutions, expanding fintech partnerships and introducing sustainable banking products. Additionally, investments in cybersecurity are being made to strengthen risk management and regulatory compliance. Through these initiatives, ABL seeks to remain at the forefront of financial innovation, ensuring long-term growth and competitive advantage.
+
+# BANK’S RESPONSE TO CRITICAL CHALLENGES AND UNCERTAINTIES
+
+The Banks’s robust Risk Management Framework together with strong technological and intellectual infrastructure enables the Bank to address impending risks and uncertainties. The Bank’s distinctive positioning; combined with capital buffer, liquidity cushion and well-established systems and processes, instill confidence in the Bank’s ability to thrive the year 2025 and beyond.
+
+# SUSTAINABILITY AND CORPORATE SOCIAL RESPONSIBILITY
+
+188 Annual Report 2024
+
+189
+
+# CORPORATE SUSTAINABILITY
+
+# Chairman Overview on Sustainability Practices
+
+Sustainability is a rapidly growing field that connects environmental, social, and governance (ESG) issues with economic impacts across various industries, including banking. At Allied Bank Limited (ABL), we recognize the importance of ESG and are committed to driving meaningful change by leveraging our financial expertise and resources. Our goal is to extend our positive influence beyond our immediate operations and contribute to a more sustainable future.
+
+The State Bank of Pakistan regulates sustainable development practices in the banking sector, prompting a shift towards more responsible and environmentally friendly business models. In response, ABL has adopted green banking strategies, integrating corporate social responsibility (CSR) into its operations. We are actively developing green products and services to promote sustainable business practices.
+
+In the past, businesses viewed ESG initiatives as an added cost. However, today, sustainable practices are seen as a valuable investment that drives innovation, opens new market opportunities, and enhances value for all stakeholders. Allied Bank’s ESG initiatives focus on introducing banking products, services, and operations that positively impact the environment and society while fostering a sustainable governance framework.
+
+Our sustainability report provides detailed insights and statistics on ABL’s sustainable initiatives in an organized and transparent manner, helping stakeholders better understand our progress. By embracing innovative environmental solutions, promoting social equity, and maintaining strong governance standards, ABL aims not only to improve financial performance but also to make a meaningful contribution to a more sustainable world.
+
+# Board of Directors Statement on Adoption of CSR Best Practices
+
+The Corporate Social Responsibility (CSR) Vision of the Bank is ‘To be a Socially Responsible Corporate Citizen’. The vision is in line with the Mission statement of the Bank ‘To play a proactive role in contributing towards the society’. Allied Bank, being a responsible corporate citizen, strives towards continuous adoption of CSR best practices within its culture and operations for meaningful and positive contribution to the environment in which it operates. The Board of Directors is fully committed to developing and implementing the CSR strategy and aligning it with the Bank’s values and objectives. Through CSR, the Bank participates in resolving community issues related to social and environmental concerns, on a voluntary basis.
+
+The Board of Directors has approved the following policies for implementation of CSR practices which ensure that these become a fundamental part of the Bank’s culture and guide its operations and stakeholders’ engagement:
+
+- Corporate Social Responsibility Policy
+- Donations Policy
+
+The CSR activities of the Bank are governed through a CSR policy having the objective to provide guidelines, so that business objectives and the Bank’s role as a Socially Responsible Corporate citizen are aligned. The Bank adopted globally recognized ecological and social practices through its endorsed CSR policy. The key CSR objectives of the policy are aligned with the rolling strategic plan of the Bank; ensuring close adherence to the global Sustainable Development Goals (SDGs).
+
+The Bank has assigned specific short-term and long-term performance targets under the guidelines of the above referred policies and frameworks, and regular performance updates against assigned targets are submitted to the Board of the Bank. The Bank has prepared detailed sustainability targets for the year 2025 and budgets have been allocated accordingly. Based on the results against these short-term targets, medium and long-term targets shall be set along with related financial budgetary requirements.
+
+# Four Pillars of Sustainability Reporting
+
+- Sustainable Banking
+- Carbon Neutrality
+- Responsible Employer
+- Creating Lasting Impact
+- Contribution to Community
+- Capacity Building
+- Disclosure Management
+- Validation and Rating
+- Partnership and Alliances
+
+# Risk Management
+
+The Bank recognizes that its relationship with obligors in terms of financing decisions may have an adverse impact on the natural as well as social environment. In order to mitigate this risk, Environmental and Social Risk Management (ESRM) has been made an integral part of our credit approval process. The financing function of the Bank strives to remain aware of environmental and social risks faced by its obligors. The Bank assists its obligors to understand their responsibilities with regards to the protection of the natural environment and their responsibilities to society as a whole. All new loan proposals and credit renewals for the applicable categories are screened against required standards.
+
+The Bank has developed a comprehensive Environmental and Social Management System (ESMS) comprising of a set of policies, procedures, tools, and internal capacity to identify and manage the Bank’s exposure to the Environmental and Social (E&S) risks of its borrowers and customers. The ESMS states the Bank’s commitment to E&S management, explains its procedures for identifying, assessing, and managing the E&S risks of financial transactions, defines the decision-making process, describes the roles, responsibilities, and capacity needs of staff for doing so, as well as states the documentation and record-keeping requirements. It also provides guidance on how to screen and categorize transactions based on E&S risks, conduct E&S due diligence, and monitor the borrower and customer’s E&S performance.
+
+# Metrics and Targets
+
+The Bank has set targets and action plans to improve and assess ESG performance. The performance against major metrics is as under:
+
+|Metric|2024|2023|
+|---|---|---|
+|Green Financing (Rs. In Millions)|11,606|11,538|
+|Solar Energy enabled Locations (No.)|147|69|
+|Installed Capacity of Solar Locations (KW)|2,242|652|
+|Tree Plantation (No.)|100,000+|100,000+|
+|Gender Ratio (Female: Male)|25:75|22:78|
+|Training and Developments (Rs. In Millions)|255|231|
+|Donations (Rs. In Millions)|105|84|
+|Corporate Governance Rating|CGR 9++|CGR 9++|
+
+
+# Sustainability-related Risks and Opportunities throughout the Value Chain
+
+Sustainability-related risks and opportunities arise out of the interactions between the Bank and its stakeholders, society, the economy and natural environment throughout the Bank’s value chain. The Bank’s dependencies on those resources and relationships give rise to sustainability-related risks and opportunities that could be expected to affect the Bank’s prospects. The Bank’s sustainability-related risks and opportunities are derived from the understanding of the resources and relationships which are categorized as under;
+
+- Internal including the Bank’s workforce and operational processes
+- External including relationships with supplier and customers
+- Community and Society as a whole
+
+Human resource is a major asset owing to the service nature of the banking industry. The banking industry of Pakistan is highly regulated and competitive; therefore, banks require constant supply of trained specialized staff and training & upgrading of existing staff to keep abreast of the constantly evolving financial landscape and changing customer needs. Allied Bank has taken major steps over the years to invest in the human resource to manage the risks and explore the opportunities associated with human resource. The Bank has established purpose-built state of the art Management Development Centres in four major cities including Lahore, Karachi, Islamabad and Multan which play a pivotal role in meeting the training needs of the staff. The training programs are designed to cater the evolving regulatory requirements as well as keeping up to date with the advancement in the digital landscape. The human resource policies of the Bank are designed and implemented in line with the Bank’s mission to provide a challenging work environment and reward dedicated team members according to their abilities and performance.
+
+The Bank believes in Equal Treatment of Customers. We are committed to treating all customers in a non-discriminatory manner and ensuring that our compliance program is grounded in strong ethical principles. The Bank has adopted various measures to facilitate the customers. By implementing these measures, Allied Bank demonstrates its unwavering dedication to protecting consumer rights, promoting financial literacy, and maintaining a high standard of ethical conduct.
+
+- Customer Relationship Management (CRM)
+- Complaint Management System (CSM)
+- Financial Consumer Protection Framework
+- Deposit Protection Insurance
+- Consumer Awareness and Financial Literacy
+- Various Sources for Product/ Service Information
+
+Community service is a cornerstone of the Bank’s Corporate Social Responsibility (CSR) initiatives. Through regular donations and support, we aim to make a positive impact on these essential sectors and improve the well being of our communities. We prioritize following sectors for our philanthropic contributions;
+
+- Education
+- Health
+- Sports
+- Science & Arts and Research
+- General Welfare
+
+In addition, the Bank plays a pivotal role in contributing to National Exchequer by not only working as a tax agent but also pay corporate taxes from its income.
+
+# Climate-related Risks and Opportunities
+
+Climate change has shifted from being solely an environmental concern to a substantial threat to humans, businesses, and national and global economies. Extreme climatic conditions jeopardise the ecological environment, human health, and economic development.
+
+# Annual Report 2024
+
+# CORPORATE SOCIAL RESPONSIBILITY REPORT FOR THE YEAR ENDED DECEMBER 31, 2024
+
+Allied Bank Limited (the Bank) being a socially responsible citizen remains committed towards Corporate Social Responsibility (CSR) which forms an integral part of the Bank’s long-term strategy. Your Bank believes in continued efforts for creating positive impact on our society and works to sustain the trust of the customers and communities in which it operates.
+
+# OUR PHILOSOPHY OF CSR
+
+Your Bank adopted globally recognized ecological and social practices through its endorsed CSR policy. The key CSR objectives of the policy are aligned with the rolling strategic plan of Your Bank; ensuring close adherence to the global Sustainable Development Goals (SDGs).
+
+Under the CSR Policy, Your Bank aims to achieve following broader objectives:
+
+- Customer Relations: To Become First Choice Bank for the Customers.
+- Workplace: Establish a workplace environment to maintain balanced work life, healthcare facilities for employees, resource efficient Green culture, with an emphasis on achieving an equitable gender employment ratio.
+- Environment: Imparting positive impact on environment including the promotion of green banking, use of renewable energy sources, reduction in carbon emissions, tree plantation and cleanliness drives.
+- Community and Brand Image: Contribute towards wider social development including health, education and general community welfare, especially during times of natural calamities so that Your Bank is regarded as community caring organization.
+- Governance: Becoming Corporate Responsible Citizen by ensuring transparency, adopting best business practices, improving stakeholder relations and ensuring compliance with applicable laws and regulations.
+
+# REGULATORY COMPLIANCE OF CSR POLICY
+
+Your Bank’s CSR policy ensures compliance of all regulatory requirements including the adoption of Corporate Social Responsibility (Voluntary) Guidelines, 2013 issued by Securities and Exchange Commission of Pakistan as well as Corporate Regulatory Framework issued by State Bank of Pakistan.
+
+# SUSTAINABILITY FRAMEWORK AND STRATEGIC PLAN
+
+Allied Bank’s commitment to sustainable and responsible banking remained a cornerstone of our strategy. The Bank’s management recognizes that our success is deeply intertwined with the well-being of the communities we serve, the environment we operate in, and the integrity of our business practices. Our dedication to sustainability and its pillars, Environmental, Social, and Governance (ESG), is integral to our daily operations. As an organization, we are integrating sustainability principles into our business processes, ensuring that our operations reflect to our dedication towards a sustainable and equitable future.
+
+During the year, the Bank developed a comprehensive Sustainability Framework and Strategic Plan which provides guidelines for the Bank’s approach towards sustainability and integration of ESG factors in its policies, procedures, processes, products and services. It highlights the Bank’s commitments for sustainable development and corporate responsibility in the scope of its management practices and impacts on local communities. This plan also defines the roles and responsibilities of the Board of Directors (BoD) and the management with regard to sustainability. Under this framework, the Bank has set specific short-term and long-term targets in key sustainability focus areas.
+
+# CSR HIGHLIGHTS
+
+In line with the aforementioned CSR objectives, the Bank’s contributions towards these key areas are as follows:
+
+# Customer Services
+
+- Deposit Protection – Rs. 1,822 Million
+- Customer Complaints Resolution: 97%
+- ATM Uptime – 96%
+- Electronic Queue Management Systems – 642 Branches
+- National Financial Literacy Program (NFLP) Sessions – 411
+
+# Employee Empowerment
+
+- Best Practice in Industry Bank in “RECRUITMENT” and “DEI LEARNING AND DEVELOPMENT” category – By GDIB
+- Employer of the Choice Award by PBC and IFC in “Gender Diversity & Inclusion” category
+- Management Trainee Officers Graduation - 295
+- Gender Diversity – 25% Females
+- Trainings – 12,000+ Employees
+- Medical Facility – 2,308 Employees
+- Post Retirement Medical Facility – 495 Employees
+- Benevolent Grants – 36 Employees
+
+# Contribution to National Exchequer
+
+- Income & Super Tax – Rs.55,509 Million
+- With Holding Tax as Agent – Rs.41,935 Million
+- Federal Excise Duty and Sales Tax – Rs.2,515 Million
+- Zakat Collection – Rs.371 Million
+
+# Digital Services
+
+- Point of Sale Machines – 3,119
+- Digital Touchpoints - 23
+- Self Service Kiosk – 126 Branches
+- Digital Self Service Branches – 18 Branches
+- Information Security Awareness campaigns
+- Mobile Banking Units - 5
+
+# Green Banking
+
+- Tree Plantation Campaign – 100,000 approx. saplings/trees
+
+# Annual Report 2024
+
+# Total ATMs
+
+|Solar Energy Locations|147|
+|---|---|
+|Total Solar Power Installed|2,242 KW|
+|Green Financing|Rs. 11,606 Million|
+|EMV Compliance|100%|
+|Anti-Skimming|Enabled 100%|
+
+# Community Services
+
+|Education|Rs. 72 Million|
+|---|---|
+|General Welfare|Rs. 56 Million|
+|Health Sector|Rs. 43 Million|
+|Sports|Rs. 15 Million|
+
+# Customer Relations
+
+Your Bank continuously endeavors to achieve excellence in customer services by consistently surpassing the expectations of customers, understanding their needs, disrupting the industry and continuously bringing improvement in delivery of services to set the bar high, in-line with the organizational goals, and remains committed to nurture a service culture across the organization.
+
+Customer service in Your Bank is one of the most important tools to enhance the Bank’s market share. It includes responding to customers’ needs and addressing their feedback in a ‘thorough and timely’ manner by interacting with customers through multiple communication mediums including Allied Phone Banking, Social Media platforms and Live Chat facility at Corporate Website and on WhatsApp; resulting in service efficiency and customer empowerment.
+
+# myABL Digital Banking
+
+|No. of Onsite ATMs|1356|
+|---|---|
+|No. of Offsite ATMs|243|
+|No. of Mobile ATMs|5|
+|Bio Metric|Enabled 100%|
+
+# Customer Protection and Quality Assurance
+
+# Deposit Protection Insurance
+
+Your Bank spent Rs.1,822 Million towards deposit protection insurance, complying with SBP initiative to provide protection to small depositors across the banking industry.
+
+# Customer Data Protection
+
+In this Digital era, customer information is more vulnerable than ever before. Cognizant to this fact, Your Bank continued to safeguard Data and Information Technology assets including compliance of PCI DSS and Customer Security Program (CSP) by SWIFT.
+
+# Data Loss Prevention (DLP)
+
+Your Bank has implemented a Data Loss Prevention (DLP) solution during this year. This has strengthened the security control to detect, monitor, and prevent unauthorized access or leakage of confidential data across the bank’s digital ecosystem.
+
+# Customer Awareness and Financial Literacy Seminars
+
+Your Bank remained focused in arranging seminars to create financial literacy and awareness among the customers and general public.
+
+# Information Security Awareness Campaigns
+
+Information Security Awareness campaigns were conducted for valued Customers and Staff via Short Messaging Service (SMS) and emails to educate and enhance awareness about latest Cyber security threats.
+
+# Social Media Presence
+
+Your Bank’s Human Resource function arranged 411 National Financial Literacy Program (NFLP) sessions in the rural districts with an aim of financial inclusion of unbanked segments of the society. These sessions, attended by 13,000+ citizens (70% Females), improved the financial awareness levels, which was appreciated by all the participants.
+
+# Wellbeing Master Class – Thrive at Work
+
+Your Bank is committed to the continuous development and well-being of its employees. To underscore this commitment, Your Bank organized an exclusive online Wellbeing Master Class titled ‘Thrive at Work’ for the employees of the Bank. This innovative workshop provided participants with tools to understand the psychological aspects of change, stress normalization and resilience enhancement.
+
+# Staff Wellbeing and Health
+
+With an aim to provide healthy work environment and balanced work life to its employees, Your Bank has established gymnasiums in Head Office and Management Development Centre Lahore. The Gym is equipped with state-of-the-art infrastructure for resistance training and endurance under the supervision of trained staff and personal trainers who provide expert guidance and support. Gyms offer a variety of equipment and classes, making it convenient for members to try new things and stay engaged. These initiatives are a testament of Your Bank’s commitment towards fostering a thriving workplace environment as well as encouraging its employees to maintain a healthy work life balance.
+
+# Training and Development of the staff
+
+Your Bank firmly believes in educational well-being of the staff empowering them to excel in their current roles and thrive in the future. Your Bank has already launched mobile application “m-Learning” providing access to learning sources around the clock, further bolstering Your Bank’s aim of educational well-being of staff.
+
+# Training Session on Mindfulness
+
+Your Bank arranged Mindfulness Hour Sessions to promote awareness among employees about mental health and wellness. These wellness sessions entail breathing techniques and Yoga to reduce stress, bring mental alertness, awareness and clarity.
+
+# Benevolent Grants
+
+This initiative has been undertaken to equip the employees with tools to deal with everyday pressures of professional and personal lives. These sessions not only contribute to the physical and mental well-being of the employees but also enhance productivity and foster a positive work environment.
+
+# Health 360° Workshop
+
+Your Bank conducted a tailored master class titled “Health 360° Workshop” for the senior management of the Bank. The workshop was meticulously designed to enhance understanding in critical areas such as the psychology of habits and food, nutritional intelligence, wellness technology, and mindfulness in the workplace. This event reflects Your Bank’s commitment to fostering a holistic approach to wellbeing, ensuring the leadership is equipped with the knowledge and tools to thrive both personally and professionally.
+
+# Occupational Health and Safety
+
+Your Bank continued its endeavor, exhibiting commitment for occupational health and safety. During the year; 2308 employees availed medical facility worth Rs. 289 Million under the approved medical expense policy.
+
+# Awards & Accolades
+
+Your Bank is continually employing the skilled staff while at the same time tapping resources into appropriate trainings to improve their ability and giving the best culture to thrive. In recognition of its efforts towards nurturing the best human capital and creating an inclusive environment, Your Bank won multiple awards during the year 2024.
+
+# Employer of Choice Award - Gender Diversity & Inclusion
+
+Your Bank won Employer of the Choice Award by The Pakistan Business Council (PBC), along with the World Bank Group’s International Finance Corporation (IFC) in “Gender Diversity & Inclusion” category.
+
+# Global Diversity Equality & Inclusion Benchmarks (GDEIB) Award
+
+Your Bank has won Best Practice award by HR Global Diversity, Equality & Inclusion Benchmarks (GDEIB) award organized by Diversity Hub HR Metrics in “Recruitment” and “DEI Learning & Development” category.
+
+# Diversity
+
+Your Bank adopts the best Business Continuity Plan which has shown its resilience in testing times. Simultaneously 3,264 - females, representing 25% of total staff members, are diligently performing their duties. Among the senior management positions, Your Bank’s Gender diversity ratio is 8%.
+
+# Reskilling and Upskilling the Artificial Intelligence (AI)
+
+As new AI driven technologies are becoming more integrated into organizations’ processes and workflows, the need for professionals specially the decision makers, to adapt and continue to learn and grow becomes more imperative. To stay current with these changes, a customized training program titled ‘Leadership in the Age of AI’ was organized for the senior management of the Bank.
+
+# Training Session on Healthcare and First Aid
+
+Your Bank, prioritizing the health and safety of employees, arranged a specialized training session on First Aid to staff. The session provided employees with a chance to learn preventive measures for various diseases and gain hands-on experience in performing First Aid on practice dummies and using essential medical equipment.
+
+# Environment
+
+Global warming and Climate change are the most complicated issues that the world is facing today. Relentless efforts are being made across the globe, to measure and mitigate this climate change risks. Pakistan is one of the several nations to have made a commitment to controlling such threats. To supplement the Government efforts, Your Bank has taken strides forward in addressing these challenges.
+
+# Annual Report 2024
+
+# Environmental and Social (E&S) Assessment
+
+Setting out a series of targets to assist in the global transition to a low-carbon economy.
+
+# Green Banking / Environmental & Social Risk Governance
+
+The Bank as a trusted member of the community is playing an active role in following CSR activities and community engagements. Furthering its commitment, Your Bank continued to sponsor 4 Years education of five under-privileged students at Institute of Business Administration (IBA) University, Sukkur.
+
+# Green Banking Office (GBO)
+
+As a part to reduce carbon emission by direct operational impact, your Bank has been investing in installation of solar panels. Resultantly, total internal solar power generation capacity of the Bank has increased to 2,242 KW installed at 147 locations.
+
+# Innovation and Digitalization
+
+Your Bank partnered up with Teamup Ventures for its 3rd Fintech Hackathon with the objective of uncovering innovative and pioneering solutions, prototypes, and ideas that hold the potential to revolutionize and digitalize the ecosystem. The event focused on four thematic areas: Innovative authentication mechanisms; Transforming myABL into an ‘Integrated Digital Platform’; Integrating Generative AI to enhance banking experiences; and Leveraging SBP-RAAST Payments. Your Bank carried out a pan-Pakistan university drive and mobilized students to bring their innovative ideas and prototypes based on the thematic areas. The Hackathon had an amazing response attracting participation from 1,244 individuals through 361 teams. The top three winners showcased cutting-edge solutions in AI credit scoring, customer engagement, and digital inclusion through smartphone financing respectively.
+
+# Community
+
+# Cleanliness Drives
+
+Your Bank has always remained at the forefront for environmental health, sustainability of eco system and supported the noble cause through various channels. Your Bank, being a responsible corporate citizen has taken the initiative for cleanliness and awareness drives across the country. With the objective of raising awareness about environmental conservation, reducing litter and promoting responsible tourism, cleanliness drive at K2 Base Camp during 2024 was conducted.
+
+# Cleanliness Drive at K2 Base Camp
+
+Cleanliness is very important for maintaining ecosystem and healthy environment. In view of its significance, Your Bank under the banner of its “Green Initiatives” has conducted awareness campaigns on the importance of cleanliness across Pakistan through the motto “Mil Kay Lagaen Gay Jaan – To Hoga Saaf Pakistan”. This year, the Cleanliness Drive campaigns of the Bank undertook an extraordinary step by performing this activity at the iconic K2 Base Camp which is at a height of 5,200 meters above sea level in coordination with the Central Karakoram National Parks Authority (CKNP). A dedicated team of 14 team-members of the Bank was assembled to undertake this cleanliness drive, which in one of its kind initiatives as no other Bank has ever done such activity, to highlight the significance of the preservation of the environment. Team ABL mounted several challenges while trekking for 8 days to reach the K2 Base Camp. Team ABL reached the destination; while conducting awareness sessions at different camping sites and carried out cleanliness drives at Concordia & K2 Base Camp. The purpose of this activity was to raise awareness about the ecosystem and the adverse effects of the melting glaciers. Team ABL managed to bring down 1,200 KGs garbage, waste and other litters and handed over it to CKNP at their disposal facility.
+
+# Health
+
+Your Bank recognizes the challenges faced by society-at-large in health sector and always focuses for uplift of health infrastructure through contribution towards renowned health providers. Your Bank contributed Rs. 43 Million to healthcare facilities across various cities of the country, focusing on treatment of cancer, hepatitis, arthritis, therapy for thalassemia patients, blood transfusion, impaired vision and mental health of the under-privileged.
+
+# Green Financing
+
+Total outstanding Green Financing of the Bank stood at Rs. 11,607 Million at the end of FY-2024. In year 2024, Your Bank has financed Rs. 1,553 Million to its obligors for installation of Green energy projects.
+
+|Project Type|Portfolio (Rs. in Million)|
+|---|---|
+|Wind Power|1,909|
+|Solar Power|6,871|
+|Hydel|630|
+|Waste Heat Recovery Plant|1,542|
+|Others (including Effluent Treatment Plant)|655|
+|Total|11,607|
+
+# Education
+
+During the year, Rs. 30 Million was contributed to The Lahore University of Management Sciences (LUMS) towards the construction of Hostel. Your Bank contributed Rs. 10 Million to TNF Akhuwat Boarding School Faisalabad for the construction of school to support the under privileged in the outskirts of Faisalabad city.
+
+Perceiving the significance of information technology, Your Bank proceeded with its arrangement to donate personal computers to educational institutions; particularly supporting under privileged sections of the general public. Moreover, Your Bank contributed Rs. 5 Million to Namal Education Foundation (NEF) for acquiring computers for students of the University.
+
+# Contribution to Educational Institutes in Rural Areas
+
+Your Bank recognizes the significance of power of education to transform lives for which it has sponsored operations of two schools located in the under privileged areas; The Citizens Foundation – Allied Bank Campus school located in Quetta and Million Smiles Foundation – Allied Bank Campus school located in Mardan. Your Bank’s dedicated and continued support has enabled hundreds of children to receive quality education.
+
+# Marathon 2024: Run For a Greener Tomorrow
+
+Your Bank, with the aim to foster a healthier future, organized the Allied Bank Marathon 2024 with the theme “Run for a Greener Tomorrow”. The Marathon was held at DHA, Lahore and brought together employees of the Bank and professional athletes. The enthusiasm and team spirit demonstrated during the marathon symbolize the Bank’s mission to foster a culture of health and wellness within the Bank and beyond.
+
+# Cycling Events: Cycle for Greener Tomorrow
+
+In order to promote sustainable living and community engagement, Your Bank organized cycling events at Lahore and Karachi. With the theme “Pedal for a Greener Tomorrow”, the cycling events aimed to encourage community participation in environmental conservation.
+
+# CYCLATHON 2024
+
+The cycling event at Lahore was attended by the Bank staff and local cycling groups, reinforcing the Bank’s commitment to positive change in the environment and community welfare. Your Bank partnered with the pioneering cycling groups of Karachi to conduct a cycling event under the theme of “Cycle for Health- Cycle for a Greener Tomorrow”. The event brought together a diverse group of participants, including senior executives from various institutions and sectors, doctors, social activists, senior citizens, women, youth, and children. These events were a testament to our values, resilience, and commitment to positive change. This initiative underscored the Bank’s commitment to sustainability and its advocacy for a greener future through promoting cycling and reducing carbon emissions, highlighting the collective dedication to a healthier tomorrow.
+
+# Women Empowerment
+
+Your Bank is fully committed towards supporting the initiatives aimed at empowering women to exploit their full potential for a prosperous and sustainable society. To channelize the potential of women, Your Bank sponsored Faisalabad Women Chamber of Commerce and Industry for a symposium to raise awareness about the importance of digital transformation for women owned businesses in Pakistan and provide insights into the opportunities and challenges associated with digitalization for women entrepreneurs. The objective was to facilitate women led businesses, potential start-ups and home-based businesses for acquaintance and adopt the technology for growth and venture for exports.
+
+# Art Festivals
+
+The Faiz Festival is an annual cultural festival held in Lahore to honor the life and literary work of renowned Urdu poet Faiz Ahmed Faiz. The festival showcased a diverse array of cultural expressions, including literary dialogues, mesmerizing music performances, captivating theatre, insightful book launches, thought-provoking documentaries, engaging workshops, open mic sessions, and stimulating discussions. Your Bank proudly sponsored the event to promote cultural activities through Faiz Festival.
+
+Your Bank also sponsored Lahore Literary Festival 2024 held at the Alhamra Arts Centre, Lahore. The festival is an annual gathering of some of the most prominent writers, poets, artists, and scholars from both Pakistan and abroad, fostering engaging, stimulating, and thought-provoking conversations and panel discussions. Since its inception in 2013, the festival has been instrumental in promoting literary and cultural exchange, enriching the intellectual landscape of Lahore and beyond. Your Bank’s support underscores its commitment to fostering creativity, dialogue, and cultural enrichment within the community.
+
+Your Bank sponsored a theatre play by Anwar Maqsood “House Arrest” at the Arts Council of Pakistan. Such plays provide social and cultural reflections of society by showcasing the cultural heritage.
+
+# Contribution to National Exchequer
+
+Your Bank is one of the leading institutions in its contribution towards the national exchequer. During the year, Your Bank paid Rs. 55,509 Million as Income Tax (inclusive of Super Tax), deposited Rs. 41,935 Million as withholding tax agent and contributed Rs. 2,516 Million on account of Federal Excise Duty and Sales Tax to the national exchequer. Further, the Bank collected Rs. 371 Million Zakat from account holders and deposited to the national exchequer.
+
+# GOVERNANCE
+
+# Business Ethics and Anti-Corruption Measures
+
+Your Bank nurtures a culture of excellence, good governance, transparency, integrity and accountability. Controls and Compliance being an integral function; Your Bank encourages high business ethics while promoting positive compliance culture. Your Bank is committed to the best industry practices for compliance with all regulatory frameworks including anti-money laundering practices, so that the interests of all stakeholders are protected. Your Bank’s commitment to highest level of Governance standards is also reflected in its Corporate Governance Rating of “CGR 9++” (out of maximum scale of 10) given by VIS Credit Rating Company Limited.
+
+# Differently Abled Persons
+
+Your Bank established 29 model branches to make banking easy and convenient for Differently Abled Persons through supportive physical infrastructure, accessible products and services, assistive technologies and supportive staff interactions. These branches are equipped with customized stationery forms/documents in Braille Script, accessible branch entrance, washrooms, ATM cabins and counters.
+
+# Sports
+
+Your Bank sponsored ‘Sadpara Mountaineering Club Skardu’ in collaboration with Pakistan Army for the construction of The Sadpara Mountaineering & Adventure Sports Complex. This complex will help climbers to learn basics of climbing technique including practical of climbing. The purpose of the complex is to boost the sport of climbing and empower the existing climbing community of Skardu in Gilgit Baltistan region of Pakistan. Your Bank also sponsored Volleyball Championship between Pakistan and Australia at Islamabad. Additionally, Your Bank sponsored Pakistan Tennis Federation for Davis Cup Tie, 2024. These events are manifestations of Your Bank’s commitment to promote sports and general well-being. Such events transcend cultural, ethnic and socioeconomic divides, promoting unity and understanding.
+
+# Community Welfare
+
+Your Bank continued its efforts in serving the community through contribution to well-reputed welfare organizations including Saylani Welfare International Trust, Jamia Ashrafia, Anjuman Himayat-e-Islam and Edhi Foundation; which worked for provision of food to deserving segments of the society.
+
+# ADOPTION OF INTERNATIONAL STANDARDS FOR CORPORATE SOCIAL RESPONSIBILITY
+
+# 7 AFFORDABLE AND CLEAN ENERGY
+
+- Green Financing facilities worth Rs. 11,606 million.
+- Solar energy usage at 147 locations.
+
+# 8 DECENT WORK AND ECONOMIC GROWTH
+
+- Continuous investment in training and development needs of employees through access to learning resources.
+- Internship opportunities for professional and academic students.
+- Management Trainee Officers Development Program for fresh graduates recruited by the Bank.
+- Employment of Differently Abled Persons, enabling them to honorably earn their livelihood.
+- Educational support to staff, clerical and non-clerical employees.
+
+# 9 INDUSTRY; INNOVATION AND INFRASTRUCTURE
+
+- Awareness seminars on Financial Literacy, Islamic Banking and Agri products for general public, businessmen and farmers for increased access to financial services.
+- Seminars for business community on Corporate Governance and Sustainable Business Practices.
+- Continuous growth in Digital Touchpoints.
+- Model Branches for Differently Abled Persons.
+- Expansion in Rural and Agri designated Branches.
+
+# 12 RESPONSIBLE CONSUMPTION AND PRODUCTION
+
+- Launching Digital channels for banking services.
+- Processes automation to reduce paper-based consumption.
+
+# 13 CLIMATE ACTION
+
+- Plantation of 100,000+ tree saplings at business premises, schools and public parks.
+- Cleanliness drives at K2 Base Camp to promote awareness about environment conservation.
+
+# 5 GENDER EQUALITY
+
+- Gradually increasing female participation in workforce including management positions.
+- Interactive sessions with female employees for strategy formulation on empowering women.
+- Healthy participation of females at National Financial Literacy Program (NFLP) organized in coordination with State Bank of Pakistan.
+- Contributions to Women Chambers of Commerce and Industry for their initiatives to empower the women.
+
+# 17 PARTNERSHIPS FOR THE GOALS
+
+- Collaboration with Technology Partners to leverage the use of Data Sciences for business growth.
+- Acting as Withholding Tax agent to facilitate tax and other revenue collections on behalf of Revenue authorities.
+
+# UNCONSOLIDATED FINANCIAL STATEMENTS
+
+# FOR THE YEAR ENDED DECEMBER 31, 2024
+
+204 Annual Report 2024
+
+205
+
+# Independent Auditor’s Report
+
+# To the members of Allied Bank Limited
+
+# Report on the Audit of the Unconsolidated Financial Statements
+
+# Opinion
+
+We have audited the annexed unconsolidated financial statements of Allied Bank Limited, which comprise the unconsolidated statement of financial position as at 31 December 2024, and the unconsolidated profit and loss account, the unconsolidated statement of comprehensive income, the unconsolidated statement of changes in equity and the unconsolidated cash flows statement for the year then ended, along with unaudited certified returns received from the branches except for Forty branches which have been audited by us and notes to the financial statements, including material accounting policy information and other explanatory information and we state that we have obtained all the information and explanations which, to the best of our knowledge and belief, were necessary for the purposes of the audit.
+
+In our opinion and to the best of our information and according to the explanations given to us, the unconsolidated statement of financial position, the unconsolidated statement of profit and loss account, the unconsolidated statement of comprehensive income, the unconsolidated statement of changes in equity and the unconsolidated cash flow statement together with the notes forming part thereof conform with the accounting and reporting standards as applicable in Pakistan, and give the information required by the Banking Companies Ordinance, 1962 and the Companies Act, 2017 (XIX of 2017), in the manner so required and respectively give a true and fair view of the state of the Bank’s affairs as at 31 December 2024 and of the profit, the other comprehensive income, the changes in equity and its cash flows for the year then ended.
+
+# Basis for Opinion
+
+We conducted our audit in accordance with International Standards on Auditing (ISAs) as applicable in Pakistan. Our responsibilities under those standards are further described in the Auditor’s Responsibilities for the Audit of the Financial Statements section of our report. We are independent of the Bank in accordance with the International Ethics Standards Board for Accountants’ Code of Ethics for Professional Accountants as adopted by the Institute of Chartered Accountants of Pakistan (the Code) and we have fulfilled our other ethical responsibilities in accordance with the Code. We believe that the audit evidence we have obtained is sufficient and appropriate to provide a basis for our opinion.
+
+# Key Audit Matter
+
+Key audit matters are those matters that, in our professional judgment, were of most significance in our audit of the financial statements of the current period. These matters were addressed in the context of our audit of the financial statements as a whole, and in forming our opinion thereon, and we do not provide a separate opinion on these matters.
+
+|Key Audit Matter|How the matter was addressed in our audit|
+|---|---|
+|1. Expected credit loss against advances|As disclosed in Note 9 to the unconsolidated financial statements, the Bank’s advances represent 37.32% of its total assets as of 31 December 2024. During the year, the Bank has adopted IFRS 9 - “Financial Instruments” (as applicable in Pakistan), which requires a forward-looking approach to estimate the Expected Credit Loss (“ECL”) against advances and other financial instruments. As allowed under IFRS 9, the Bank has adopted the requirements of the standard retrospectively, without restating the previous year’s financial information. The adoption of IFRS 9 has resulted in a transition adjustment to the retained earnings as of 1 January 2024 of Rs. 4,035 million. The impact of transition is explained in Note 4.2.4 and 4.2.5 to the unconsolidated financial statements.|
+|In view of the significance of this area in terms of its impact on the unconsolidated financial statements, and level of involvement of management’s estimates and judgments, we identified adequacy and completeness of ECL against advances as a key audit matter. The accounting policy and disclosures related to the ECL against advances are included in Notes 4.2 and 9 respectively to the unconsolidated financial statements.|In view of the significance of this area in terms of its impact on the unconsolidated financial statements, and level of involvement of management’s estimates and judgments, we identified adequacy and completeness of ECL against advances as a key audit matter. The accounting policy and disclosures related to the ECL against advances are included in Notes 4.2 and 9 respectively to the unconsolidated financial statements.|
+|We applied a range of audit procedures including the following:|We applied a range of audit procedures including the following:|
+|• We reviewed the management’s process of assessment of allowance for ECL against advances including the Bank’s accounting policy and ECL model methodology adopted during the year.|• We reviewed the management’s process of assessment of allowance for ECL against advances including the Bank’s accounting policy and ECL model methodology adopted during the year.|
+|• We performed procedures to test:|• We performed procedures to test:|
+|o the governance of ECL models and their validation, including relevant approvals.|o the governance of ECL models and their validation, including relevant approvals.|
+|o completeness and accuracy of critical data inputs into the ECL models and calculations.|o completeness and accuracy of critical data inputs into the ECL models and calculations.|
+|o timely identification of SICR and the determination of individually impaired exposures.|o timely identification of SICR and the determination of individually impaired exposures.|
+|o the management’s assessment of recoverable cash flows, including the impact of collateral, if any, and ECL computation for exposures.|o the management’s assessment of recoverable cash flows, including the impact of collateral, if any, and ECL computation for exposures.|
+|• Where required, we involved our experts to assist us in reviewing model calculations, evaluating interrelated inputs (including EADs, PDs and LGDs) and assessing reasonableness of assumptions used in the ECL models.|• Where required, we involved our experts to assist us in reviewing model calculations, evaluating interrelated inputs (including EADs, PDs and LGDs) and assessing reasonableness of assumptions used in the ECL models.|
+|We also assessed adequacy of disclosures as included in Note 9 to the unconsolidated financial statements regarding the ECL made against advances in accordance with the requirements of the applicable financial reporting framework.|We also assessed adequacy of disclosures as included in Note 9 to the unconsolidated financial statements regarding the ECL made against advances in accordance with the requirements of the applicable financial reporting framework.|
+
+
+The public interest benefits of such communication.
+
+# Information Other than the Unconsolidated Financial Statements and Auditor’s Report Thereon
+
+# Report on Other Legal and Regulatory Requirements:
+
+Management is responsible for the other information. The other information comprises the information included in the Annual Report, but does not include the financial statements and our auditors’ report thereon.
+
+1. Based on our audit, we further report that in our opinion:
+
+- a) proper books of account have been kept by the Bank as required by the Companies Act, 2017 (XIX of 2017) and the returns referred above from the branches have been found adequate for the purpose of our audit;
+- b) the statement of financial position, the statement of profit or loss, the statement of comprehensive income, statement of changes in equity and statement of cash flows (together with the notes thereon have been drawn up in conformity with the Banking Companies Ordinance, 1962 and the Companies Act, 2017 (XIX of 2017) and are in agreement with the books of account and returns;
+- c) investments made, expenditure incurred and guarantees extended during the year were in accordance with the objects and powers of the Bank and the transactions of the Bank which have come to our notice have been within the powers of the Bank;
+- d) zakat deductible at source under the Zakat and Ushr Ordinance, 1980 (XVIII of 1980), was deducted by the Bank and deposited in the Central Zakat Fund established under section 7 of that Ordinance.
+
+2. We confirm that for the purpose of our audit we have covered more than sixty per cent of the total loans and advances of the Bank.
+
+The engagement partner on the audit resulting in this independent auditor’s report is Omer Chughtai.
+
+# Auditor’s Responsibilities for the Audit of the Unconsolidated Financial Statements
+
+Our objectives are to obtain reasonable assurance about whether the financial statements as a whole are free from material misstatement, whether due to fraud or error, and to issue an auditor’s report that includes our opinion. Reasonable assurance is a high level of assurance, but is not a guarantee that an audit conducted in accordance with ISAs as applicable in Pakistan will always detect a material misstatement when it exists. Misstatements can arise from fraud or error and are considered material if, individually or in the aggregate, they could reasonably be expected to influence the economic decisions of users taken on the basis of these financial statements.
+
+As part of an audit in accordance with ISAs as applicable in Pakistan, we exercise professional judgment and maintain professional skepticism throughout the audit. We also:
+
+- • Identify and assess the risks of material misstatement of the financial statements, whether due to fraud or error, design and perform audit procedures responsive to those risks, and obtain audit evidence that is sufficient and appropriate to provide a basis for our opinion. The risk of not detecting a material misstatement resulting from fraud is higher than for one resulting from error, as fraud may involve collusion, forgery, intentional omissions, misrepresentations, or the override of internal control.
+- • Obtain an understanding of internal control relevant to the audit in order to design audit procedures that are appropriate in the circumstances, but not for the purpose of expressing an opinion on the effectiveness of the Bank’s internal control.
+- • Evaluate the appropriateness of accounting policies used and the reasonableness of accounting estimates and related disclosures made by management.
+- • Conclude on the appropriateness of management’s use of the going concern basis of accounting and, based on the audit evidence obtained, whether a material uncertainty exists related to events or conditions that may cast significant doubt on the Bank’s ability to continue as a going concern. If we conclude that a material uncertainty exists, we are required to draw attention in our auditor’s report to the related disclosures in the financial statements or, if such disclosures are inadequate, to modify our opinion. Our conclusions are based on the audit evidence obtained up to the date of our auditor’s report. However, future events or conditions may cause the Bank to cease to continue as a going concern.
+- • Evaluate the overall presentation, structure and content of the financial statements, including the disclosures, and whether the financial statements represent the underlying transactions and events in a manner that achieves fair presentation.
+
+We communicate with the Board of Directors regarding, among other matters, the planned scope and timing of the audit and significant audit findings, including any significant deficiencies in internal control that we identify during our audit.
+
+We also provide to the Board of Directors with a statement that we have complied with relevant ethical requirements regarding independence, and to communicate with them all relationships and other matters that may reasonably be thought to bear on our independence, and where applicable, related safeguards.
+
+From the matters communicated with the Board of Directors, we determine those matters that were of most significance in the audit of the financial statements of the current period and are therefore the key audit matters. We describe these matters in our auditor’s report unless law or regulation precludes public disclosure about the matter or when, in extremely rare circumstances, we determine that a matter should not be communicated in our report because the adverse consequences of doing so would reasonably be expected to outweigh.
+
+EY Ford Rhodes
+
+Chartered Accountants
+
+Place: Lahore
+
+Date: 3 March 2025
+
+UDIN: AR20241012048avAmhjc
+
+# Unconsolidated Statement of Financial Position
+
+# as at December 31, 2024
+
+|December 31, 2024|December 31, 2023|Note|Rupees in ‘000|
+|---|---|---|---|
+|US $ in ‘000| | | |
+|526,901|560,532|Cash and balances with treasury banks|146,768,168|
+|35,772|8,816|Balances with other banks|9,964,224|
+|874,317|33,811|Lendings to financial institutions|243,541,081|
+|4,056,271|4,129,666|Investments|1,129,873,956|
+|3,774,238|2,805,949|Advances|1,051,313,893|
+|456,869|408,468|Property and equipment|127,260,862|
+|27,958|29,751|Right-of-use assets|7,787,741|
+|13,041|12,239|Intangible assets|3,632,624|
+|-|13,720|Deferred tax assets|-|
+|347,608|359,340|Other assets|96,826,140|
+|10,112,975|8,362,292|TOTAL ASSETS|2,816,968,689|
+
+# Unconsolidated Profit and Loss Account
+
+# for the year ended December 31, 2024
+
+|December 31, 2024|December 31, 2023|Note|Rupees in ‘000|
+|---|---|---|---|
+|US $ in ‘000| | | |
+|1,352,577|1,282,741|Mark-up / return / interest earned|376,760,270|
+|938,923|876,066|Mark-up / return / interest expensed|261,537,143|
+|413,654|406,675|Net mark-up / interest income|115,223,127|
+|50,553|38,202|Fee and commission income|14,081,463|
+|10,834|12,720|Dividend income|3,017,787|
+|23,976|32,910|Foreign exchange income|6,678,630|
+|-|-|Income from derivatives|-|
+|12,365|3,033|Gain on securities - net|3,444,359|
+|-|-|Net gain / (loss) on derecognition of financial assets measured at amortised cost|-|
+|2,721|829|Other income|757,867|
+|100,449|87,694|Total non-markup / interest income|27,980,106|
+|514,103|494,369|Total income|143,203,233|
+|201,949|168,676|Operating expenses|56,252,909|
+|5,073|6,291|Workers welfare fund - net|1,413,187|
+|1,146|844|Other charges|319,114|
+|305,935|318,558|Profit before credit loss allowance|85,218,023|
+|(9,729)|10,687|Credit loss allowance / Provisions and write offs - net|(2,710,139)|
+|315,664|307,871|PROFIT BEFORE TAXATION|87,928,162|
+|160,877|161,817|Taxation|44,812,258|
+|154,787|146,054|PROFIT AFTER TAXATION|43,115,904|
+
+# In US $
+
+# In Rupees
+
+0.14
+0.13
+Basic and diluted earnings per share
+37.65
+35.53
+
+The annexed notes 1 to 47 and annexures I to III form an integral part of these unconsolidated financial statements.
+
+Muhammad Atif Mirza Chief Financial Officer
+
+Aizid Razzaq Gill President and Chief Executive
+
+Muhammad Kamran Shehzad Director
+
+Mian Ikram Ul Haq Director
+
+Mohammad Naeem Mukhtar Chairman
+
+# Unconsolidated Statement of Comprehensive Income
+
+# for the year ended December 31, 2024
+
+| |December 31, 2024|December 31, 2023| | | | | | | | | | | | | | | | | | |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| |US $ in ‘000| | |Rupees in ‘000| | | | | | | | | | | | | | | | |
+| |154,787|146,054|Profit after taxation for the year|43,115,904|40,682,987| | | | | | | | | | | | | | | |
+| | | | | | | |-|-|Profit after taxation for the year ended December 31, 2023|-|-|-|-|-|40,682,987|40,682,987| | | | |
+| | |Other comprehensive income| | | | | | | | | | | | | | | | | | |
+| | | | | | |-|-|Other Comprehensive Income - net of tax| | | | | | | | | | | | |
+| | | | | | |-|-|Surplus on revaluation of investments - net of tax|-|-|-|-|11,256,117| | | | | | | |
+| | | | | | |-|-|Surplus on revaluation of fixed assets - net of tax|-|-| | |23,485,406|-|23,485,406| | | | | |
+|Items that may be reclassified to profit and loss| | | | | | | | | | | | | | | | | | | | |
+| | | | | | |-|-|Surplus on revaluation of non-banking assets - net of tax|-|-| | | |96,088|-|96,088| | | | |
+| | | | | | |-|-|Remeasurement gain on defined benefit obligation - net of tax|-|-|-| | | | |487,850|487,850| | | |
+| | | | | | |Effect of translation of net investment in foreign branches|-|2,457,884|-|-|-|-|2,457,884| | | | | | | |
+| | | | | | | |-|-|-|-|11,256,117| |23,485,406|96,088| |487,850|37,783,345| | | |
+| |672|8,824|Effect of translation of net investment in foreign branches|187,310|2,457,884| | | | | | | | | | | | | | | |
+| | | | | | | |-|-|Transfer to statutory reserve|-|-|4,068,299|-|-4,068,299|-| | | | | |
+| |-|-|Transferred from surplus in respect of incremental depreciation of fixed assets to un-appropriated profit - net of tax|-|-|-|-69,093| | | | | |69,093| | | | | | | |
+| | | | | | |-|-|Transferred from surplus in respect of incremental depreciation of non-banking assets to unappropriated profit - net of tax|-|-|-|-1,287| |1,287| | | | | | |
+| |13,271|-|Movement in surplus on revaluation of investments - net of tax|3,696,661|-| | | | | | | | | | | | | | | |
+| |13,943|49,234| |3,883,971|13,714,001| | | | | | | | | | | | | | | |
+|Items that will not be reclassified to profit and loss| | | | | | | | | | | | | | | | | | | | |
+| | | |-|-|Remeasurement gain on defined benefit obligations - net of tax|603,732|487,850| | | | | | | | | | | | | |
+|Effect of change in tax rate / surplus on revaluation of fixed assets - net of tax|-257,155| | | | | | | | | | | |23,485,406| | | | | | | |
+| | | | | | |Balance as at December 31, 2023|11,450,739|7,791,124|30,164,512|6,000|-6,877,748| |45,940,129|977,251| |104,802,457|194,254,464| | | |
+| | | | | | |Balance as at January 01, 2024 - as restated|11,450,739|7,791,124|30,164,512|6,000|2,352,680| |45,940,129|977,251| |100,767,218|199,449,653| | | |
+|Profit after taxation for the year ended December 31, 2024| | | | | | |-|-|-|-|-|-|43,115,904|43,115,904| | | | | | |
+| | | | | | |Other Comprehensive Income – net of tax| | | | | | | | | | | | | | |
+| | | | | | |Movement in surplus on revaluation of debt investments - net of tax|-|-|-| |3,696,661|-| | | | | | | | |
+| | | | | | |Movement in surplus on revaluation of equity investments - net of tax|-|-|-| |5,192,320|-| | | | | | | | |
+| | | | | | |Surplus on revaluation of non-banking assets - net of tax|-|-|-|-| | | |233,956| | | | | | |
+|Remeasurement gain on defined benefit obligation - net of tax| | |-|-|-|-|603,732| | | | | | | | | | | | | |
+| | | |Effect of translation of net investment in foreign branches| | | |-|187,310|-|-|-| | | | | | | | | |
+|Effect of change in tax rate on revaluation surplus of fixed assets - net of tax| | | | | | | | | | | | | | | |-|-|-|-|-257,155|
+| | | | | | |Transfer to statutory reserve|-|-|4,311,590|-|-| | | | | | | | | |
+| | | | | | |Transfer of revaluation surplus on change in use - net of tax|-|-|-|-| | |16,030| | | | | | | |
+|Transferred from surplus in respect of incremental depreciation of fixed assets to un-appropriated profit - net of tax| | | | | | | | | | | | | | | |-|-|-|-|-168,008|
+|Surplus realised on disposal of revalued fixed assets - net of tax| | | | | | | | | | | | | | | |-|-|-|-|-6,198|
+|Transferred from surplus in respect of incremental depreciation of non-banking assets to unappropriated profit - net of tax| | | | | | | | | | | | | | | |-|-|-|-|-3,119|
+|Transfer of surplus on account of disposal of equity investments - net of tax| | | | | | | | | | | | | | | |-|-|-|-|-1,330,057|
+| | | | | | |Transactions with owners recognized directly in equity| | | | | | | | | | | | | | |
+|Final cash dividend for the year ended December 31, 2023 (Rs. 4 per ordinary share)| | | | | | | | | | | | | | | |-|-|-|-|-4,580,295|
+|First interim cash dividend for the year ended December 31, 2024 (Rs. 4 per ordinary share)| | | | | | | | | | | | | | | |-|-|-|-|-4,580,295|
+|Second interim cash dividend for the year ended December 31, 2024 (Rs. 4 per ordinary share)| | | | | | | | | | | | | | | |-|-|-|-|-4,580,295|
+|Third interim cash dividend for the year ended December 31, 2024 (Rs. 4 per ordinary share)| | | | | | | | | | | | | | | |-|-|-|-|-4,580,295|
+| | | | | | | | | | | | | | | | |-|-|-|-|-18,321,180|
+| | | | | | |Balance as at December 31, 2024|11,450,739|7,978,434|34,476,102|6,000|9,911,604| |45,524,798|1,192,058| |123,361,466|233,901,201| | | |
+
+The annexed notes 1 to 47 and annexures I to III form an integral part of these unconsolidated financial statements.
+
+Muhammad Atif Mirza
+
+Chief Financial Officer
+
+Aizid Razzaq Gill
+
+President and Chief Executive
+
+Muhammad Kamran Shehzad
+
+Director
+
+Mian Ikram Ul Haq
+
+Director
+
+Mohammad Naeem Mukhtar
+
+Chairman
+
+# Unconsolidated Cash Flow Statement
+
+# for the year ended December 31, 2024
+
+|December 31, 2024|December 31, 2023| | | | | | | | |
+|---|---|---|---|---|---|---|---|---|---|
+|US $ in ‘000| |Rupees in ‘000| | | | | | | |
+|315,664|307,870|Profit before taxation|87,928,162|85,757,170| | | | | |
+|(10,834)|(12,720)|Less: Dividend income|(3,017,787)|(3,543,033)| | | | | |
+|304,830|295,150| |84,910,375|82,214,137| | | | | |
+|Adjustments:|Adjustments:|Adjustments:|Adjustments:|Adjustments:| | | | | |
+|(413,653)|(406,675)|Net mark-up / interest income|(115,223,127)|(113,279,312)| | | | | |
+|23,721|17,025|Depreciation - Operating Fixed Asset|10.2|6,607,532|4,742,290| | | | |
+|86|40|Depreciation - Non Banking Assets|23,921|11,113| | | | | |
+|6,710|6,336|Depreciation on right of use assets|1,869,048|1,764,838| | | | | |
+|2,234|2,101|Amortization|622,393|585,272| | | | | |
+|(9,702)|10,749|Credit loss allowance / Provisions and write offs|32|(2,702,596)|2,994,078| | | | |
+|(88)|232|Unrealized (gain) / loss on revaluation of securities measured at FVTPL|(24,397)|64,599| | | | | |
+|5,073|6,291|Provision for workers' welfare fund - net|1,413,187|1,752,270| | | | | |
+|(31)|657|(Reversal) / Charge for defined benefit plans|(8,632)|182,978| | | | | |
+|(2,271)|(86)|Gain on sale of property and equipment|(632,669)|(24,033)| | | | | |
+|4,844|4,271|Finance charges on leased assets|1,349,257|1,189,821| | | | | |
+|(383,077)|(359,059)| |(106,706,083)|(100,016,086)| | | | | |
+|(78,247)|(63,909)|Decrease or (increase) in operating assets|(21,795,708)|(17,801,949)| | | | | |
+|(840,506)|67,507|Lendings to financial institutions|(234,123,078)|18,804,192| | | | | |
+|61,443|(71,711)|Securities classified as FVTPL|17,115,050|(19,974,980)| | | | | |
+|(969,212)|227,463|Advances|(269,974,117)|63,359,897| | | | | |
+|17,859|(71,665)|Other assets (excluding advance taxation)|4,974,529|(19,962,358)| | | | | |
+|(1,730,416)|151,594|Increase or (decrease) in operating liabilities|(482,007,616)|42,226,751| | | | | |
+|18,596|(17,366)|Bills payable|5,179,832|(4,837,238)| | | | | |
+|316,337|(561,829)|Borrowings|88,115,553|(156,497,535)| | | | | |
+|1,226,968|554,032|Deposits and other accounts|341,771,992|154,325,596| | | | | |
+|(5,972)|58,748|Other liabilities (excluding current taxation)|(1,663,573)|16,364,126| | | | | |
+|1,555,929|33,585| |433,403,804|9,354,949| | | | | |
+|(252,734)|121,270| |(70,399,520)|33,779,751| | | | | |
+|1,380,072|1,212,133|Interest received|384,419,056|337,639,651| | | | | |
+|(929,845)|(873,081)|Interest paid|(259,008,212)|(243,196,728)| | | | | |
+|(199,277)|(146,022)|Income tax paid|(55,508,732)|(40,674,477)| | | | | |
+|(2,602)|(1,831)|Defined benefits paid|(724,695)|(510,074)| | | | | |
+|(4,386)|312,469|Net cash flow (used in) / generated from operating activities|(1,222,103)|87,038,123| | | | | |
+
+# CASH FLOW FROM INVESTING ACTIVITIES
+
+|(213,672)|(1,233)|Net investments in amortised cost securities|(59,518,362)|(343,591)|
+|---|---|---|---|---|
+|362,287|33,446|Net realizations in securities classified as FVOCI / AFS|100,914,991|9,316,431|
+|(3,590)| |Investment in subsidiary|(1,000,000)| |
+|11,055|12,478|Dividend received|3,079,404|3,475,756|
+|(82,084)|(71,605)|Investments in property and equipment and intangible assets|(22,864,456)|(19,945,579)|
+|672|8,824|Effect of translation of net investment in foreign branch|187,310|2,457,884|
+|9,213|163|Disposals of property and equipment|2,566,248|45,349|
+|83,881|(17,927)|Net cash flow generated from / (used in) investing activities|23,365,135|(4,993,750)|
+
+# CASH FLOW FROM FINANCING ACTIVITIES
+
+|(10,082)|(9,264)| | | | |
+|---|---|---|---|---|---|
+|(65,537)|(43,016)|Payment of lease obligations against right of use assets|(2,808,266)|(2,580,364)| |
+|(75,619)|(52,280)|Dividend paid|(18,255,239)|(11,982,078)| |
+| | |Net cash flow used in financing activities|(21,063,505)|(14,562,442)| |
+
+# Increase in cash and cash equivalents during the year
+
+|3,876|242,262|1,079,527|67,481,931| | |
+|---|---|---|---|---|---|
+|567,692|329,386|Cash and cash equivalents at beginning of the year|158,130,761|91,750,779| |
+|965|(2,991)|Effect of exchange rate changes on opening cash and cash equivalents|268,793|(833,156)| |
+|568,657|326,395| |158,399,554|90,917,623| |
+|572,533|568,657|CASH AND CASH EQUIVALENTS AT END OF THE YEAR|35|159,479,081|158,399,554|
+
+The annexed notes 1 to 47 and annexures I to III form an integral part of these unconsolidated financial statements.
+
+Muhammad Atif Mirza Chief Financial Officer
+
+Aizid Razzaq Gill President and Chief Executive
+
+Muhammad Kamran Shehzad Director
+
+Mian Ikram Ul Haq Director
+
+Mohammad Naeem Mukhtar Chairman
+
+# Notes to the Unconsolidated Financial Statements
+
+# for the year ended December 31, 2024
+
+# 2.1.3
+
+The Securities and Exchange Commission of Pakistan (SECP) vide SRO 56 (1) / 2016 dated January 28, 2016, has notified that the requirements of International Financial Reporting Standard 10 ‘Consolidated Financial Statements’ (IFRS 10) and section 228 of the Companies Act, 2017 will not be applicable with respect to the investment in mutual funds established under Trust structure.
+
+# 2.1.4
+
+The State Bank of Pakistan through BPRD Circular No. 04 of 2015 dated February 25, 2015 has deferred applicability of Islamic Financial Accounting Standard 3 ‘Profit & Loss Sharing on Deposits’ (IFAS-3) issued by the Institute of Chartered Accountants of Pakistan and notified by the Securities & Exchange Commission of Pakistan (SECP), vide their SRO No. 571 of 2013 dated June 12, 2013 for Institutions offering Islamic Financial Services (IIFS). The standard will result in certain new disclosures in the financial statements of the Bank.
+
+# 2.2
+
+Standards, interpretations and amendments to accounting standards that are effective in the current year
+
+During the year, the Bank has adopted IFRS 9 as applicable in Pakistan with effect from January 01, 2024 (refer note 4.2 for details). There are certain other amendments to existing accounting and reporting standards that have become applicable to the Bank for accounting periods beginning on or after January 01, 2024. Except for IFRS 9, these are either considered not to be relevant or do not have any significant impact and accordingly have not been detailed in these unconsolidated condensed interim financial statements.
+
+# Amendments to IFRS 9 - Amendments to the Classification and Measurement of Financial Instruments
+
+On 30 May 2024, the IASB issued Amendments to IFRS 9, Amendments to the Classification and Measurement of Financial Instruments (the Amendments). The Amendments include:
+
+- A clarification that a financial liability is derecognised on the ‘settlement date’ and introduce an accounting policy choice (if specific conditions are met) to derecognise financial liabilities settled using an electronic payment system before the settlement date.
+- Additional guidance on how the contractual cash flows for financial assets with environmental, social and corporate governance (ESG) and similar features should be assessed.
+- Clarifications on what constitute ‘non-recourse features’ and what are the characteristics of contractually linked instruments.
+- The introduction of disclosures for financial instruments with contingent features and additional disclosure requirements for equity instruments classified at fair value through other comprehensive income (OCI).
+
+The Amendments are effective for annual periods starting on or after 1 January 2026. Early adoption is permitted, with an option to early adopt the amendments for classification of financial assets and related disclosures only. The Bank is currently not intending to early adopt the Amendments.
+
+# Amendments to IFRS 16 - Lease Liability in a Sale and Leaseback
+
+The amendments in IFRS 16 specify the requirements that a seller-lessee uses in measuring the lease liability arising in a sale and leaseback transaction, to ensure the seller-lessee does not recognise any amount of the gain or loss that relates to the right of use it retains. The amendments had no impact on the Bank’s financial statements.
+
+# Amendments to IAS 1 - Classification of Liabilities as Current or Non-current
+
+The amendments to IAS 1 specify the requirements for classifying liabilities as current or non-current. The amendments clarify:
+
+- What is meant by a right to defer settlement.
+- That a right to defer must exist at the end of the reporting period.
+- That classification is unaffected by the likelihood that an entity will exercise its deferral right.
+- That only if an embedded derivative in a convertible liability is itself an equity instrument would the terms of a liability not impact its classification.
+
+In addition, an entity is required to disclose when a liability arising from a loan agreement is classified as non-current and the entity’s right to defer settlement is contingent on compliance with future covenants within twelve months. The Bank is currently working to identify all impacts, the amendments will have on these unconsolidated financial statements and notes to the financial statements.
+
+# Supplier Finance Arrangements - Amendments to IAS 7 and IFRS 7
+
+The amendments to IAS 7 Statement of Cash Flows and IFRS 7 Financial Instruments: Disclosures clarify the characteristics of supplier finance arrangements and require additional disclosure of such arrangements. The disclosure requirements in the amendments are intended to assist users of financial statements in understanding the effects of supplier finance arrangements on an entity’s liabilities, cash flows and exposure to liquidity risk.
+
+# 2.3
+
+Standards, interpretations of and amendments to accounting and reporting standards that are not yet effective
+
+The new and amended standards and interpretations that are issued, but not yet effective, up to the date of issuance of the Bank’s financial statements are disclosed below. The Bank intends to adopt these new and amended standards and interpretations, if applicable, when they become effective.
+
+# Lack of exchangeability – Amendments to IAS 21
+
+In August 2023, the IASB issued amendments to IAS 21 The Effects of Changes in Foreign Exchange Rates to specify how an entity should assess whether a currency is exchangeable and how it should determine a spot exchange rate when exchangeability is lacking. The amendments also require disclosure of information that enables users of its financial statements to understand how the currency not being exchangeable into the other currency affects, or is expected to affect, the entity’s financial performance, financial position and cash flows. The amendments will be effective for annual reporting periods beginning on or after 1 January 2025. Early adoption is permitted, but will need to be disclosed. When applying the amendments, an entity cannot restate comparative information. These amendments are not applicable to the Bank.
+
+# IFRS 17 - Insurance Contracts
+
+In May 2017, the IASB issued IFRS 17 Insurance Contracts (IFRS 17), a comprehensive new accounting standard for insurance contracts covering recognition and measurement, presentation and disclosure. Once effective, IFRS 17 will replace IFRS 4 Insurance Contracts (IFRS 4) that was issued in 2005. IFRS 17 applies to all types of insurance contracts (i.e., life, non-life, direct insurance and re-insurance), regardless of the type of entities that issue them, as well as to certain guarantees and financial instruments with discretionary participation features. A few scope exceptions will apply. The overall objective of IFRS 17 is to provide an accounting model for insurance contracts that is more useful and consistent for insurers. In contrast to the requirements in IFRS 4, which are largely based on grandfathering previous local accounting policies, IFRS 17 provides a comprehensive model for insurance contracts, covering all relevant accounting aspects. The core of IFRS 17 is the general model, supplemented by:
+
+# Notes to the Unconsolidated Financial Statements
+
+# for the year ended December 31, 2024
+
+# 2.4.3 Defined benefit plans
+
+Liability is determined on the basis of actuarial advice using the Projected Unit Credit Method. The actuarial assumptions used to determine the liability and related expense are disclosed in note 37.
+
+# 2.4.4 Classification of investments
+
+# Debt Securities
+
+- In classifying investments under Amortized Cost, the Bank determines the business model of the securities as “Hold to Collect” where the intentions are to hold the security until maturity to collect contractual cash flows based solely on payments of principal and interest. However, the sale of securities under this model is still possible under certain circumstances.
+- In classifying investments as “Fair Value Through Other Comprehensive Income”, the Bank determines the business model as Hold to Collect and Sell as the intentions are to hold the asset to collect contractual cash flows based solely on payments of principal and interest and sell the asset to manage liquidity needs or in order to maintain a particular interest yield profile or to match the duration of the assets to the duration of the liabilities that those assets are funding.
+- The investments which are not classified as “Amortized Cost” and “Fair Value Through Other Comprehensive Income” are classified as “Fair Value Through Profit and Loss”. The business model for such investments is to realize the cash flows through the sale of assets (Held for Trading).
+
+# Equity Investment
+
+Equity investments, other than those in subsidiaries and associates, are classified as “Fair Value Through Other Comprehensive Income” where the Bank determines equity instruments are not held for trading purposes and elects to present the fair value changes in Other Comprehensive Income. The equity instruments bought with the intention for trading are classified as “Fair Value Through Profit and Loss”.
+
+|Effective date (annual periods beginning on or after)|Standard|
+|---|---|
+|January 01, 2009|IFRS 1 - First time adoption of International Financial Reporting Standards|
+|January 01, 2027|IFRS 18 - Presentation and Disclosure in Financial Statements|
+|January 01, 2027|IFRS 19 - Subsidiaries without Public Accountability: Disclosures|
+
+The application of the above standards are not expected to have a material impact on the Bank’s financial statements, in the period of applicability, except for IFRS 18. The Bank is currently working to identify all impacts IFRS 18 will have on the unconsolidated financial statements and notes to the financial statements.
+
+# 2.4.5 Depreciation, amortization and revaluation of operating fixed assets
+
+In making estimates of depreciation and amortization, the management uses method which reflects the pattern in which economic benefits are expected to be consumed by the Bank and estimates the useful life. The method applied and useful lives estimated are reviewed at each financial year end and if there is a change in the expected pattern or timing of consumption of the future economic benefits embodied in the assets, the estimate would be changed to reflect the change in pattern. Such a change is accounted for as change in accounting estimates in accordance with International Accounting Standard 8 - Accounting Policies, ‘Changes in Accounting Estimates and Errors’. Further, the bank estimates the revalued amount of land and buildings on a regular basis. The estimates are based on the valuations carried out by independent professional valuers under the market conditions.
+
+# 2.4.6 Fair value hierarchy of assets and liabilities
+
+The fair value of the assets and liabilities is the price that would be received to sell an asset or paid to transfer a liability in an orderly transaction between market participants at the measurement date. The Bank categorizes fair value measurements within the following fair value hierarchy:
+
+- a) Level 1 - These are quoted prices (unadjusted) in active markets for identical assets or liabilities that the Bank can access at the measurement date.
+- b) Level 2 - These are inputs other than quoted prices included within Level 1 that are observable for asset or liability, either directly or indirectly.
+- c) Level 3 - These are input for the assets or liabilities that are not based on observable market data (unobservable Inputs).
+
+# 2.4.7 Lease term
+
+The Bank applies judgement to determine the lease term for some lease contracts in which it is a lessee that include renewal options. The assessment of whether the Bank is reasonably certain to exercise such options impacts the lease term, which significantly affects the amount of lease liabilities and right-of-use assets recognized.
+
+The equity investments classified as “fair value through other comprehensive income” are not subject to impairment testing. The gains and losses on these investments is taken to “Other comprehensive income” and are not recycled to “Profit and Loss Account”.
+
+# Notes to the Unconsolidated Financial Statements
+
+# for the year ended December 31, 2024
+
+# 2.4.8 Income taxes
+
+In making estimates for income taxes currently payable by the Bank, the management considers the current income tax laws and the decisions of appellate authorities on certain issues in the past. There are certain matters where the Bank’s view differs with the view taken by the income tax authorities and such amounts are shown as a contingent liability.
+
+# 3 BASIS OF MEASUREMENT
+
+These unconsolidated financial statements have been prepared under the historical cost convention except for the following which are stated at revalued amounts or fair values or present values:
+
+- Certain investments (Note 4.5);
+- Certain operating fixed assets (Note 4.7);
+- Lease liability and related right-of-use assets (Note 4.8).
+- Staff retirement and other benefits (Note 4.10);
+- Non-banking assets acquired in satisfaction of claims (Note 4.11);
+- Derivative financial instruments (Note 4.16.2).
+
+# 4 MATERIAL ACCOUNTING POLICIES
+
+The accounting policies adopted in the preparation of these unconsolidated financial statements have been applied consistently to all periods, except as disclosed in Notes 4.1 and 4.2.
+
+# 4.1 Changes in reporting format
+
+The SBP vide BPRD Circular No. 2 dated February 09, 2023 specified the new format for annual financial statements of banking companies. The new format has revised the disclosure requirements of the Bank for the year ended December 31, 2024 which has resulted in additional disclosures relating to IFRS 9 and reclassification of Lease liabilities and Right of use assets on the face of Statement of Financial Position out of Property and equipment and Other Liabilities, respectively in these financial statements.
+
+# 4.2 IFRS 9 - Financial Instruments
+
+The Bank has adopted IFRS 9 (read with IFRS 9 application instructions issued by SBP) using modified retrospective approach with date of initial application as January 01, 2024, which resulted in changes in accounting policies and adjustments to the amounts previously recognised in the financial statements. In terms of the transitional provisions of IFRS 9, adjustments to the carrying amounts of financial assets and liabilities at the date of transition were recognised in the opening unappropriated profit and surplus on revaluation of assets - net of tax at the beginning of the current period without restating the comparative figures. The impact on carrying amounts of the financial assets and liabilities is disclosed in Note 4.2.4.
+
+# 4.2.1 Scope of IFRS 9 application
+
+IFRS 9 has been applicable in several overseas jurisdictions at various effective dates starting from January 01, 2018. The requirements of this standard were already incorporated in the Bank’s financial statements for the jurisdictions where IFRS 9 has been adopted.
+
+The SBP through BPRD Circular Letter No. 16 dated July 29, 2024 and BPRD Circular Letter No. 01 dated January 22, 2025 (Letters) has made certain amendments and clarified the timelines of some of the SBP’s IFRS 9 Application Instructions. The Letters have provided clarifications / relaxations on measurement of unquoted equity securities, modification accounting, maintenance of general provisions over and above ECL, accounting methodology for Islamic Banking Institutions and treatment of charity. Accordingly, the Bank has adopted the treatment as instructed in the aforementioned Letters in these unconsolidated financial statements. In addition, the SBP in a letter BPRD / RPD / 822456/25 dated January 22, 2025 has allowed extension for application of Effective Interest Rate up to December 31, 2025.
+
+The Bank has not recognised any general provisions over and above expected credit losses in these unconsolidated financial statements.
+
+# 4.2.2 Significant differences from accounting policies applicable till December 31, 2023 before adoption of IFRS 9
+
+# 4.2.2.1 Classification of financial assets
+
+IFRS 9 introduced a new classification model for financial assets that is more principle-based than the previous requirements. Financial assets are classified according to their contractual cash flow characteristics and the business models under which they are held. Instruments will be classified either at amortised cost, the newly established measurement category fair value through other comprehensive income (FVOCI) or fair value through profit or loss (FVTPL). For equity investment that are not held for trading, an election is available to the Bank to classify these either through FVTPL or FVOCI. The previous accounting policies were based on instrument by instrument classification into Held for trading, Held to maturity and Available for Sale categories as disclosed in Note 4.3 to the annual financial statements of the Bank for the year ended December 31, 2023.
+
+# 4.2.2.2 Impairment of debt investments and loans and advances
+
+The new IFRS 9 impairment requirements eliminate the previous approach for the recognition of credit losses, i.e., it is no longer necessary for a credit event to have occurred before credit losses are recognised. Instead, an entity always accounts for ECLs, and updates the loss allowance for changes in these ECLs at each reporting date to reflect changes in credit risk since initial recognition. Consequently, the holder of the financial asset needs to take into account more timely and forward-looking information in order to provide users of financial statements with meaningful information about the ECLs on financial instruments that are in the scope of these impairment requirements. The previous impairment requirements were based solely on Prudential regulations of SBP as disclosed in Note 4.11 to the annual financial statements of the Bank for the year ended December 31, 2023.
+
+# 4.2.2.3 Impairment of equity investments
+
+Previously, investments classified as available for sale were required to be tested for impairment and if there is an objective evidence, impairment was required to be booked. Under IFRS 9 regime, no impairment is required against such investments which are carried at FVOCI as the gain or loss on remeasurement will permanently remain in OCI/Surplus on revaluation of Investments. The previous accounting policies are disclosed in Note 4.3 & 4.11 to the annual financial statements of the Bank for the year ended December 31, 2023.
+
+# 4.2.3 Material accounting policies applicable from January 01, 2024 as a result of adoption of IFRS 9
+
+# 4.2.3.1 Financial assets – initial recognition
+
+Financial assets are initially recognized at fair value, plus in the case of a financial asset not at fair value through profit or loss, transaction costs that are attributable to the acquisition of the financial asset. When the transaction price of the instrument differs from the fair value at origination and the fair value is based on a valuation technique using only inputs observable in market transactions, the Bank recognises the difference between the transaction price and fair value in profit and loss account. In those cases where fair value is based on models for which some of the inputs are not observable, the difference between the transaction price and the fair value is deferred and is only recognised in profit and loss account when the inputs become observable, or when the instrument is derecognised.
+
+# 4.2.3.2 Classification and subsequent measurement of financial assets
+
+Financial assets are classified into following categories for measurement subsequent to initial recognition:
+
+- Financial assets at amortized cost
+- Financial assets at ‘fair value through other comprehensive income’ FVOCI
+- Financial assets at ‘fair value through profit or loss’ FVTPL
+
+# 4.2.3.3 Financial assets at amortized cost
+
+The Bank classifies its financial assets at amortized cost only if both of the following conditions are met:
+
+- The financial asset is held within a business model with the objective to hold financial assets in order to collect contractual cash flows
+- The contractual terms of the financial asset give rise on specified dates to cash flows that are solely payments of principal and interest (SPPI) on the principal amount outstanding
+
+The details of these conditions are outlined below:
+
+# a. Business model assessment
+
+The Bank determines its business model at the level that best reflects how it manages groups of financial assets to achieve its business objective. The Bank’s business model is not assessed on an instrument-by-instrument basis, but at a higher level of aggregated portfolios and is based on observable factors such as:
+
+- How the performance of the business model and the financial assets held within that business model are evaluated and reported to the Bank’s Board/ Board Committees
+- The risks that affect the performance of the business model (and the financial assets held within that business model) and, in particular, the way those risks are managed
+- The expected frequency, value and timing of sales are also important aspects of the Bank’s assessment
+
+The business model assessment is based on reasonably expected scenarios without taking ‘worst case’ or ‘stress case’ scenarios into account. If cash flows after initial recognition are realised in a way that is different from the Bank’s original expectations, the Bank does not change the classification of the remaining financial assets held in that business model, but incorporates such information when assessing newly originated or newly purchased financial assets going forward.
+
+# Notes to the Unconsolidated Financial Statements
+
+# for the year ended December 31, 2024
+
+# b. The SPPI test
+
+As a second step of its classification process the Bank assesses the contractual terms of financial asset to identify whether they meet the SPPI test. The assessment of SPPI aims to identify whether the contractual cash flows are ‘solely payments of principal and interest on the principal amount outstanding’.
+
+‘Principal’ for the purpose of this test is defined as the fair value of the financial asset at initial recognition and may change over the life of the financial asset. The most significant elements of ‘interest’ within a lending arrangement are typically the consideration for the time value of money and credit risk. To make the SPPI assessment, the Bank applies judgement and considers relevant factors such as the currency in which the financial asset is denominated, and the period for which the interest rate is set.
+
+In contrast, contractual terms that introduce a more than trivial exposure to risks or volatility in the contractual cash flows that are unrelated to a basic lending arrangement do not give rise to contractual cash flows that are solely payments of principal and interest on the amount outstanding. In such cases, the financial asset is required to be measured at FVTPL.
+
+After initial measurement, these financial assets are subsequently measured at amortized cost.
+
+# 4.2.3.4 Debt instruments at FVOCI
+
+The Bank applies this new category under IFRS 9 when both of the following conditions are met:
+
+- The instrument is held within a business model, the objective of which is achieved by both collecting contractual cash flows and selling financial assets
+- The contractual terms of the financial asset meet the SPPI test
+
+FVOCI debt instruments are subsequently measured at fair value with gains and losses arising due to changes in fair value recognised in OCI. Interest income at EIR and foreign exchange gains and losses are recognised in the profit and loss account.
+
+The ECLs for debt instruments measured at FVOCI do not reduce the carrying amount of these financial assets in the statement of financial position, which remains at fair value. Instead, an amount equal to the allowance that would arise if the assets were measured at amortised cost is recognised in OCI as an accumulated impairment amount, with a corresponding charge to profit and loss account. The accumulated loss recognised in OCI is recycled to the profit and loss account upon derecognition of the assets.
+
+On derecognition, cumulative gains or losses previously recognised in OCI are reclassified from OCI to profit and loss account.
+
+# 4.2.3.5 Equity instruments at FVOCI
+
+Upon initial recognition, the Bank elects to classify its equity investments at FVOCI which are not held for trading. Such classification is determined on an instrument-by-instrument basis and is irrevocable.
+
+Gains and losses on these equity instruments are never recycled to profit and loss account. Dividends are recognised in profit and loss account when the right of the payment has been established, except when the Bank benefits from such proceeds as a recovery of part of the cost of the instrument, in which case, such gains are recorded in OCI. Equity instruments at FVOCI are not subject to an impairment assessment.
+
+# 4.2.3.6 Financial assets and financial liabilities at FVTPL
+
+Financial assets and financial liabilities in this category are those that are:
+
+- held for trading, that is, they have been purchased or issued primarily for short-term profit-making through trading activities or form part of a portfolio of financial instruments that are managed together, for which there is evidence of a recent pattern of short-term profit taking, or
+- not held for trading and have been either designated by management upon initial recognition, or mandatorily required to be measured at fair value under IFRS 9
+
+Financial assets are recorded in the statement of financial position at fair value. Changes in fair value are recorded in profit and loss account. Interest and dividend income or expense is recorded in net trading income according to the terms of the contract, or when the right to payment has been established.
+
+# 4.2.3.7 Financial liabilities at amortised cost
+
+Financial liabilities with a fixed maturity are measured at amortised cost using the EIR method. These include Bills payable, Borrowings, Deposits and certain items within Other Liabilities.
+
+# 4.2.3.8 Derecognition of financial assets
+
+# 4.2.3.8.1 Derecognition due to substantial modification of terms and conditions
+
+The Bank derecognises a financial asset, such as a loan to a customer, when the terms and conditions have been renegotiated to the extent that, substantially, it becomes a new loan, with the difference recognised as a derecognition gain or loss, to the extent that an impairment loss has not already been recorded. The newly recognised loan is classified as Stage 1 for ECL measurement purposes, unless it is deemed to be purchased originated credit impaired.
+
+If the modification does not result in cash flows that are substantially different, the modification does not result in derecognition. Based on the change in cash flows discounted at the original EIR, the Bank records a modification gain or loss, to the extent that an impairment loss has not already been recorded.
+
+The gain/(loss) on derecognition of financial asset is calculated as the difference between the book value (including impairment) and the proceeds received.
+
+# 4.2.3.8.2 Derecognition other than due to substantial modification of terms and conditions
+
+A financial asset (or, where applicable, a part of a financial asset or part of a group of similar financial assets) is derecognised when the rights to receive cash flows from the financial asset have expired. The Bank also derecognises the financial asset if it has both transferred the financial asset and the transfer qualifies for derecognition.
+
+# 4.2.3.9 Derecognition of financial liabilities
+
+A financial liability is derecognised when the obligation under the liability is discharged, cancelled or expires.
+
+# 4.2.3.10 Impairment of financial assets
+
+# 4.2.3.10.1 Overview of the ECL principles
+
+The adoption of IFRS 9 has fundamentally changed the Bank’s loan loss impairment method by replacing the incurred loss approach of the local regulations with a forward-looking ECL approach. The Bank has been recording the allowance for expected credit losses for all loans and other debt financial assets held at amortized cost or FVOCI, together with loan commitments, letters of credit and financial guarantee contracts. Equity instruments are not subject to impairment under IFRS 9. Under the SBP’s instructions, local currency credit exposures guaranteed by the Government and Government Securities are exempted from the application of ECL.
+
+# 4.2.3.10.2 The calculation of ECLs
+
+The ECL allowance is based on the credit losses expected to arise over the life of the asset (the lifetime expected credit loss (LTECL)), unless there has been no significant increase in credit risk since origination, in which case, the allowance is based on the 12 months’ expected credit loss (12mECL).
+
+The 12mECL is the portion of LTECLs that represent the ECLs that result from default events on a financial instrument that are possible within the 12 months after the reporting date.
+
+Based on the above process, the Bank groups its financial assets into Stage 1, Stage 2 and Stage 3 as described below:
+
+- Stage 1: When loans are first recognized, the Bank recognizes an allowance based on 12mECLs. Stage 1 loans also include facilities where the credit risk has improved and the loan has been reclassified from Stage 2.
+- Stage 2: When a loan has shown a significant increase in credit risk since origination (SICR), the Bank records an allowance for the LTECLs. Stage 2 loans also include facilities, where the credit risk has improved and the loan has been reclassified from Stage 3.
+- Stage 3: Loans considered credit-impaired. The Bank records an allowance for the LTECLs with PD set at 100%. Under SBP’s instructions, until implementation of IFRS 9 has stabilized, Stage 3 allowance would be taken as higher of IFRS 9 ECL or provision computed under Prudential Regulations.
+
+The Bank has established a policy to perform an assessment, at the end of each reporting period, of whether a financial instrument’s credit risk has increased significantly since initial recognition, by considering the change in the risk of default occurring over the remaining life of the financial instrument. The Bank considers an exposure to have significantly increased in credit risk when there is considerable deterioration in the internal rating grade for subject borrower. The Bank also applies a secondary qualitative method for triggering a significant increase in credit risk for an asset, such as moving a customer/facility to the watch list, or the account becoming forborne. Regardless of the change in credit grades, generally, the Bank considers that there has been a significant increase in credit risk when contractual payments are more than 60 days past due.
+
+The key elements of ECL calculations are as follows:
+
+- The Probability of Default (PD) is an estimate of the likelihood of default over a given time horizon. A default may only happen at a certain time over the assessed period, if the facility has not been previously derecognised and.
+
+# Notes to the Unconsolidated Financial Statements
+
+# for the year ended December 31, 2024
+
+# 4.2.5 Impact on equity on adoption of IFRS 9
+
+# Impact on equity
+
+The total estimated adjustment (net of tax) of the adoption of IFRS 9 on the opening balance of the Bank’s equity as at January 01, 2024 is increase in surplus on revaluation of assets of approximately Rs. 9,230.428 million and reduction in unappropriated profits of approximately Rs. 4,035.239 million. Following is the detail of the impact on respective item within equity:
+
+- Opening unappropriated profits
+- A decrease of Rs. 4,428.08 million net of tax related to impairment requirements;
+- An increase of Rs. 392.841 million net of tax related to classification and measurement changes.
+- Opening surplus on revaluation of assets
+- An increase of Rs. 9,230.428 million net of tax related to classification and measurement changes.
+
+# Impact on regulatory capital
+
+The implementation of IFRS 9 has led to a decrease in the regulatory capital of banks, the State Bank of Pakistan (SBP) has concluded that it may be suitable for banks to establish a transitional arrangement regarding the impact on regulatory capital resulting from the adoption of ECL accounting. Annexure B of the Application Instructions issued by the SBP outlines this transitional arrangement.
+
+This arrangement specifically pertains to provisions for Stage 1 and Stage 2 financial assets. It requires adjustments to Common Equity Tier 1 (CET1) capital. If there is a decrease in CET1 capital due to new provisions, after accounting for tax effects, upon the adoption of an ECL accounting model, the reduction in CET1 capital (referred to as the “transitional adjustment amount”) must be partially reinstated (i.e., added back) to CET1 capital over a “transition period” of five years.
+
+Additionally, the SBP has permitted adjustments to the amounts of Stage 1 and Stage 2 provisions in Tier 2 Capital that have not been added back to CET1, and vice versa, as specified in Annexure A of BPRD Circular No. 16 of 2024, dated July 29, 2024. The Bank has not elected to utilize the IFRS 9 transitional arrangement.
+
+# 4.2.3.10.3 Forward looking information
+
+The Bank formulates a base case view of the future direction of relevant economic variables and a representative range of other possible forecast scenarios and consideration of a variety of external actual and forecast information. This process involves developing three different economic scenarios, which represent macro economic inputs.
+
+# 4.2.4 Reconciliation of statement of financial position balances from existing local regulations to IFRS 9
+
+The following table reconciles the carrying amount of financial assets from their previous measurement category in accordance with existing local regulations to their new measurement categories upon transition to IFRS 9 on January 01, 2024.
+
+|Carrying amount as per accounting policy as at December 31, 2023|Classification under IFRS-9|At FVOCI- AT FVTPL|At FVOCI- with recycling|At FVOCI- without recycling|At Amortised Cost|Remeasurement under IFRS 9|IFRS 9 carrying amount as at January 01, 2024|
+|---|---|---|---|---|---|---|---|
+|Cash and balances with treasury banks|156,136,308|-|-|-|156,136,308|(3,495,350)|152,640,958|
+|Balances with other banks|2,455,601|-|-|-|2,455,601|(749)|2,454,852|
+|Lendings to financial institutions|9,418,003|-|-|-|9,418,003|(2)|9,418,001|
+|Advances|781,597,230|-|-|-|781,597,230|(2,237,771)|779,359,459|
+|Investments in financial assets|Held for trading|20,049,848|20,049,848|-|-|-|20,049,848|
+|Held to maturity|59,797,669|-|-|-|59,797,669|120,334,806|180,132,475|
+|Available for sale|1,069,970,572|34,454|946,914,037|18,798,989|104,223,092|(104,223,092)|965,747,480|
+|Other financial assets|88,096,252|-|-|-|88,096,252|(37,823)|88,058,429|
+|Other liabilities|75,442,669|-|-|-|75,442,669|(153,373)|75,289,296|
+|Total|2,262,964,152|20,084,302|946,914,037|18,798,989|1,277,166,824|10,186,646|2,273,150,798|
+|Deferred Tax impact|3,821,594|-|-|-|-|(4,991,457)|(1,169,863)|
+|Effect on net assets on adoption of IFRS 9|194,254,464|-|-|-|-|5,195,189|199,449,653|
+
+
+# Notes to the Unconsolidated Financial Statements
+
+# for the year ended December 31, 2024
+
+# (e) Reclassification from retired categories with no change in measurement
+
+Investments are initially recognized at fair value plus or minus, in the case of a financial asset not at fair value through profit or loss, transaction costs.
+
+In addition to the above, the following debt instruments have been reclassified to new categories under IFRS 9, as their previous categories under existing local regulations were ‘retired’, with no changes to their measurement basis:
+
+- (i) Those previously classified as available for sale and now classified as measured at FVOCI; and
+- (ii) Those previously classified as held to maturity and now classified as measured at amortised cost.
+- (ii) Those previously classified as held for trading and now classified as measured at FVTPL.
+
+Quoted securities, other than those classified as “amortized cost” and investments in subsidiaries, are carried at market value. Debt securities classified as “amortized cost” are subsequently measured at amortized cost.
+
+Unrealized surplus or (deficit) arising on revaluation of the Bank’s “Fair Value Through Profit and Loss” investment portfolio is taken to the profit and loss account. Surplus or (deficit) arising on revaluation of debt securities classified as “Fair Value Through Other Comprehensive Income” is kept in a separate account shown in the statement of financial position as a component of Equity.
+
+On derecognition, the cumulative gains or losses previously recognized in Other Comprehensive Income is reclassified to Profit and Loss Account. The surplus or (deficit) arising on equity securities designated as “Fair Value Through Other Comprehensive Income” is taken to Other Comprehensive Income. Upon disposal, the cumulative surplus or (deficit) previously recognized in Other Comprehensive Income is reclassified from equity to Unappropriated Profit as a reclassification adjustment and is never recycled to Profit and Loss Account.
+
+# 4.3 Cash and cash equivalents
+
+For the purpose of Cash Flow Statement, cash and cash equivalents include cash and balances with treasury banks and balances with other banks (net of overdrawn nostro balances) in current and deposit accounts.
+
+# 4.4 Lendings to or borrowings from financial institutions
+
+The Bank enters into transactions of borrowing (re-purchase) from and lending (reverse re-purchase) to financial institutions, at contracted rates for a specified period of time. These are recorded as under:
+
+- a) Sale under re-purchase agreements
+- Securities sold subject to a re-purchase agreement are retained in the financial statements as investments and the counter party liability is included in borrowings from financial institutions. The differential in sale and re-purchase value is accrued on a prorata basis and recorded as mark-up expense.
+
+b) Purchase under resale agreements
+
+Securities held as collateral are not recognized in the financial statements, unless these are sold to third parties, in which case the obligation to return them is recorded at fair value as a trading liability under borrowings from financial institutions.
+
+In Bai Muajjal, the Bank purchases and sells Shariah Compliant instruments including sukuks on credit to other financial institutions. The credit price is agreed at the time of sale and such proceeds are received at the end of the credit period. Expected profit / expense is recognized on accrual basis.
+
+In Musharaka and Mudaraba, the Bank invests in the Shariah compliant business pools of the financial institutions at the agreed profit and loss sharing ratio. Expected profit is recognized on accrual basis.
+
+Other borrowings including borrowings from SBP are recorded at the proceeds received. Mark-up on such borrowings is charged to the Profit and Loss Account on a time proportion basis.
+
+# 4.6 Advances
+
+# a) Loans and advances
+
+Loans and advances are stated net of Expected Credit Loss (ECL) and specific provisions. ECL is determined as the difference between the cash flows due to the Bank as per contractual terms of the loan and probability weighted cash flows that the Bank expects to receive and is charged to Profit and Loss Account. Specific provision against loans is determined in accordance with the requirements of the Prudential Regulations and other directives issued by SBP and charged to the Profit and Loss Account. Advances are written off when there are no realistic prospects of recovery.
+
+# b) Net investment in finance lease
+
+Leases, where the Bank transfers substantially all the risks and rewards incidental to the ownership of an asset to the lessee are classified as finance leases. A receivable is recognized at an amount equal to the present value of the minimum lease payments, including un-guaranteed residual value, if any. Finance lease receivables are included in advances to the customers. Provision against Net Investment in Finance Lease is maintained in accordance with requirements of prudential regulations. Net investment in Finance Lease is written off when there are no realistic prospects of recovery in accordance with requirement of Prudential Regulations issued by SBP.
+
+# 4. Investments
+
+ABL Asset Management Company Limited and ABL Exchange Private Limited is a subsidiary of the Bank. The investment is stated at the cost less provision for impairment, if any.
+
+# Amortized Cost
+
+These are debt securities which are acquired under the business model “Hold to Collect” where the intention is to hold the security until maturity and collect the contractual cash flows which are based solely on payments of principal and interest (SPPI).
+
+# Fair Value Through Other Comprehensive Income
+
+These are debt investments which are acquired under the business model “Hold to Collect and Sell” where the intentions are to collect contractual cash flows and sell the asset to manage everyday liquidity needs, to maintain a particular interest yield profile or to match the duration of the assets to the duration of the liabilities that those assets are funding. The contractual cash flows are based solely on payments of principal and interest (SPPI). In addition, equity investments which are not held for trading are classified under this category.
+
+# Fair Value Through Profit and Loss
+
+The investments, other than those in subsidiary, which are not classified as Amortized Cost and Fair Value Through Other Comprehensive Income are classified as Fair Value Through Profit and Loss. The business model for such investments is to realize the cash flows through the sale of assets (Held for Trading) or the contractual cash flows of the debt instruments are not solely payments of principal and interest.
+
+# Notes to the Unconsolidated Financial Statements
+
+# for the year ended December 31, 2024
+
+When an asset or class of assets is revalued, any increase in the carrying amount arising on revaluation is recorded through other comprehensive income and credited to the revaluation reserve in equity. However, the increase shall be recognized in the Profit and Loss Account to the extent it reverses previously recognised revaluation decrease/impairment loss of the same asset in the Profit and Loss Account, net of amortization or depreciation had no revaluation decrease/impairment been required for the asset in prior years. A decrease resulting from a revaluation is initially charged directly against any related revaluation surplus held in respect of that asset and the remaining portion being charged as an expense.
+
+The surplus on revaluation of fixed assets to the extent of incremental depreciation (net of deferred tax) charged on the related assets is transferred directly to un-appropriated profit.
+
+Revaluation of entire class of assets is carried out by independent professionally qualified valuers with sufficient regularity (every third year) to ensure that the carrying amount of the entire class of assets does not differ materially from their fair value.
+
+An item of property and equipment is derecognized upon disposal or when no future economic benefits are expected from its use or disposal. Any gain or loss arising on derecognition of the asset is recognized in the Profit and Loss Account in the year the asset is derecognized, except that the related surplus on revaluation of fixed assets (net of deferred tax) is transferred directly to unappropriated profit.
+
+Subsequent costs are included in the asset’s carrying amount only when it is probable that future economic benefits associated with the item will flow to the Bank and the cost of the item can be measured reliably. All other repairs and maintenance are charged to the Profit and Loss Account.
+
+# b) Intangible assets
+
+Intangible assets are carried at cost less any accumulated amortization and impairment losses, if any. The cost of intangible assets is amortized over their estimated useful lives, using the straight line method. Amortization is charged from the month the assets are available for use at the rate stated in note 11.2. The useful lives are reviewed and adjusted, if appropriate, at each reporting date.
+
+# c) Capital work-in-progress
+
+Capital work-in-progress is stated at cost less impairment losses, if any.
+
+# 4.8 Lease liability and right of use asset
+
+The lease liability is initially measured at the present value of lease payments to be made over the term of the lease, discounted using the Banks’s incremental borrowing rate. The lease liability is subsequently measured at amortized cost using the effective interest rate method. The carrying amount is remeasured/adjusted if there are changes in the future cash flows or the lease term.
+
+The right-of-use asset is initially measured at cost, which comprises the initial amount of the lease liability, adjusted for, as applicable, any lease payments made at or before the commencement date. On subsequent measurement, right-of-use assets are stated at cost less any accumulated depreciation and accumulated impairment losses and are adjusted for any remeasurement of the lease liability.
+
+Right-of-use assets are depreciated on a straight line basis over the lease term as this method closely reflects the expected pattern of consumption of future economic benefits. Carrying amount of the lease liability is derecognised upon termination of the lease contract with corresponding adjustment to right-of-use asset. Gain or loss on termination of lease contract is recognised in the Profit and Loss Account.
+
+The Bank has elected not to recognize a right-of-use asset and the corresponding lease liability for short-term leases with terms of 12 months or less and leases of low-value assets. Payments associated with these leases are recognized as an expense in the Profit or Loss Account on a straight-line basis.
+
+# 4.9 Taxation
+
+# a) Current
+
+Provision for current taxation is based on taxable income for the year determined in accordance with the prevailing laws for taxation. The charge for current tax is calculated using the prevailing tax rates or tax rates expected to apply to the profits for the year.
+
+# b) Prior
+
+The taxation charge for prior years represents adjustments to the tax charge relating to prior years, arising from assessments or changes in laws and changes in estimates made during the current year.
+
+# 4.10 Staff retirement and other benefits
+
+# 4.10.1 Staff retirement schemes
+
+a) For employees who opted for the 2002 scheme introduced by the management
+
+An approved pension scheme (defined benefit scheme) under which the benefits on the basis of frozen basic salary, service length and age as on June 30, 2002 are payable to all employees whose date of joining the Bank is on or before July 01, 1992, i.e., who have completed ten years of continuous service as on June 30, 2002.
+
+An approved gratuity scheme (defined benefit scheme) under which the benefits are payable as under:
+
+i. For members whose date of joining the Bank is on or before July 01, 1992, their services would be calculated starting from July 01, 2002 for gratuity benefit purposes.
+
+ii. For members whose date of joining the Bank is after July 01, 1992 their services would be taken at actual for the purpose of calculating the gratuity benefit. This rule will be applicable upon retirement or in service death only, in case of resignation gratuity will be payable from July 01, 2002, even if he or she had joined the Bank before July 01, 2002.
+
+A contributory provident fund scheme to which equal contributions are made by the bank and the employees (defined contribution scheme).
+
+# b) For employees who did not opt for 2002 scheme
+
+An approved pension scheme (defined benefit scheme) under which the benefits on the basis of frozen basic salary as on June 30, 2002 are payable to all employees opting continuation of the previous scheme and whose date of joining the Bank is on or before July 01, 1992, i.e., who had completed ten years of continuous service as on June 30, 2002.
+
+In the light of decision of Honorable Supreme Court of Pakistan in SMC No. 20/2016 dated 13th February 2018 read with Order dated 3rd April 2018 passed in CRP No.72/2018 and Order dated 7th August 2018 in Crl.O.No. 98 and 99 of 2018 and after consultation with Bank’s legal counsel, the monthly pension of eligible pensioners has been fixed with indexation levels for eligible pensioners effective from February 13, 2018.
+
+# c) Post-retirement medical benefits
+
+The Bank provides post-retirement medical benefits to eligible retired employees. Provision is made annually to meet the cost of such medical benefits on the basis of actuarial valuation carried out using the Projected Unit Credit Method.
+
+Annual contributions towards the defined benefit schemes are made on the basis of actuarial valuation carried out using the Projected Unit Credit Method. Actuarial gains or losses arising from experience adjustments and changes in actuarial assumptions are recognized in Other Comprehensive Income in the period of occurrence.
+
+# 4.10.2 Other long term benefit
+
+a) Employees’ compensated absences
+
+Employees’ entitlement to annual leave is recognized when they accrue to employees, up to a maximum of 60 days. A provision is made for estimated liability for annual leaves as a result of services rendered by the employee against un-availed leaves, as per terms of service contract, up to the reporting date, based on actuarial valuation using Projected Unit Credit Method. Actuarial gains or losses arising from experience adjustments and changes in actuarial assumptions are recognized in Profit and Loss Account in the period of occurrence.
+
+# Notes to the Unconsolidated Financial Statements
+
+# for the year ended December 31, 2024
+
+# b) Compensation to certain class of employees
+
+Bank has revised its retirement policy by reducing the retirement age to 58 years for class of employees effective January 01, 2018. Consequent to the revision, these employees shall be compensated with gross salary along with employer’s contribution on provident fund and gratuity for the remaining period up to 60 years in addition to already defined post-employment benefits, payable at the time of retirement, if any.
+
+# 4.16 Financial instruments
+
+# 4.16.1 Financial instruments
+
+Financial assets and financial liabilities are recognized at the time when the Bank becomes a party to the contractual provision of the instrument. Financial assets are de-recognized when the contractual right to future cash flows from the asset expires or is transferred along with the risk and reward of the asset. Financial liabilities are de-recognized when obligation specific in the contract is extinguished. Any gain or loss on de-recognition of the financial asset and liability is recognized in the profit and loss account of the current period. The particular recognition and subsequent measurement methods adopted for significant financial assets and financial liabilities are disclosed in the individual policy statements associated with them.
+
+# 4.16.2 Derivative financial instruments
+
+Derivative financial instruments are initially recognized at fair value on the date on which the derivative contract is entered into and are subsequently re-measured at fair value using appropriate valuation techniques. All derivative financial instruments are carried as assets when fair value is positive and liabilities when fair value is negative. Any change in the fair value of derivative financial instruments is taken to the Profit and Loss Account.
+
+# 4.17 Revenue recognition
+
+Revenue is recognized to the extent that the economic benefits will flow to the Bank and the revenue can be reliably measured. These are recognised as follows:
+
+# a) Advances and investments
+
+Mark-up, return on regular loans and advances and investments is recognized on a time proportion basis. Where debt securities are purchased at premium or discount, the same is amortized through the Profit and Loss Account using the effective interest rate method. Interest or mark-up recoverable on classified loans, advances and investments is recognized on receipt basis. Interest, return or mark-up on classified, rescheduled or restructured loans and advances and investments is recognized as permitted by the regulations of the State Bank of Pakistan. Dividend income is recognized when the right to receive the dividend is established. Gain and losses on sale of debt investments and equity investments classified as Fair Value Through Profit and Loss are recognized in the Profit and Loss Account. Gain and losses on sale of equity investments classified as Fair Value Through Other Comprehensive Income are reclassified from Equity to Unappropriated Profit.
+
+# b) Lease financing
+
+Financing method is used in accounting for income from lease financing. Under this method, the unearned lease income (excess of the sum of total lease rentals and estimated residual value over the cost of leased assets) is deferred and taken to income over the term of the lease period so as to produce a constant periodic rate of return on the outstanding net investment in lease. Unrealised income on classified leases is recognized on receipt basis. Gains or losses on termination of lease contracts and other lease income are recognized when realized.
+
+# c) Islamic financing and related assets
+
+Profit on Business Musharakah financing is booked on accrual basis and is adjusted upon declaration of profit by Musharakah partners. Ijarah and Diminishing Musharakah income is recognised on an accrual basis as and when the rental becomes due. Murabaha, Musawamah and Salam income is recognised on deferred income basis. Profit on Istisna financing is recognized on an accrual basis commencing from time of sale of goods till the realization of sale proceeds by the Bank.
+
+# d) Fees, brokerage and commission
+
+Fee, Commission and Brokerage income is recognized on an accrual basis except where, in the opinion of management, it would not be prudent to do so.
+
+# 4.15 Acceptances
+
+Acceptances comprise of undertakings by the Bank to pay bills of exchange drawn on customers. Acceptances are recognised as financial liability in the statement of financial position with a contractual right of reimbursement from the customer as a financial asset. Therefore, commitments in respect of acceptances have been accounted for as financial assets and financial liabilities.
+
+# Notes to the Unconsolidated Financial Statements
+
+# for the year ended December 31, 2024
+
+# 4.18 Business Segment reporting
+
+A segment is a distinguishable component of the Bank that is subject to risks and rewards that are different from those of other segments. A business segment is one that is engaged either in providing certain products or services, whereas a geographical segment is one engaged in providing certain products or services within a particular economic environment. Segment information is presented as per the Bank’s functional and management reporting structure. The Bank’s primary segment reporting is based on following business segments:
+
+- a) Corporate & investment banking
+This segment offers a wide range of financial services to medium and large sized public and private sector entities and also covers overseas operation of the Bank. These services include, providing and arranging tenured financing, corporate advisory, underwriting, cash management, trade products, corporate finance products and customer services on all bank related matters.
+- b) Trading and sales (Treasury)
+This segment undertakes the Bank’s treasury and money market activities.
+- c) Commercial & retail banking
+Commercial and retail banking provides services to commercial and retail customers including agriculture sector. It includes loans, deposits and other transactions with commercial and retail (conventional and Islamic) customers.
+- d) Islamic Banking
+Islamic banking provides Shariah compliant services to customers including loans, deposits and other transactions.
+- e) Others
+Others includes functions which cannot be classified in any of the above segments.
+
+# 4.19 Geographical Segment Reporting
+
+Geographically the Bank operates in Pakistan, Middle East and China.
+
+|Note|December 31, 2024|December 31, 2023| | | |
+|---|---|---|---|---|---|
+| | |5|CASH AND BALANCES WITH TREASURY BANKS| | |
+|In hand| |Local currency| |37,733,118|34,864,260|
+| | |Foreign currencies| |3,244,559|3,877,058|
+| |Total| | |40,977,677|38,741,318|
+|With State Bank of Pakistan (SBP) in| |Local currency current accounts|5.1|77,335,586|73,799,188|
+| | |Foreign currency current account|5.2|107,534|149,569|
+| | |Foreign currency deposit accounts (non-remunerative)|5.1|6,105,893|5,580,842|
+| | |Foreign currency deposit accounts (remunerative)|5.3|11,743,494|11,695,327|
+| |Total| | |95,292,507|91,224,926|
+|With National Bank of Pakistan in| |Local currency current accounts| |12,987,328|25,519,660|
+| | |Prize Bonds| |677,568|650,404|
+| |Total| | |149,935,080|156,136,308|
+| | |Less: Credit loss allowance held against cash and balances with treasury banks| |(3,166,912)|-|
+| | |Cash and balances with treasury banks - net of credit loss allowance| |146,768,168|156,136,308|
+
+5.1 Deposits with the State Bank of Pakistan (SBP) are maintained to comply with the cash reserve requirement, under section 22 of the Banking Companies Ordinance, 1962 and State Bank of Pakistan statutory requirements issued from time to time.
+
+5.2 This represents US$ settlement account maintained with the State Bank of Pakistan (SBP).
+
+5.3 This represents special cash reserve maintained with the State Bank of Pakistan (SBP). The return on this account is declared by SBP on a monthly basis and carries mark-up at the rate of 3.53% to 4.35% (2023: 3.39% to 4.34%) per annum.
+
+# 6 BALANCES WITH OTHER BANKS
+
+|In Pakistan|In current accounts| |-|7,500|
+|---|---|---|---|---|
+|Outside Pakistan|In current accounts|9,026,773|1,931,547| |
+| |In deposit accounts|6.1|943,546|516,554|
+| |Total|9,970,319|2,448,101| |
+| |Less: Credit loss allowance held against balances with other banks| |(6,095)|-|
+| |Balances with other banks - net of credit loss allowance|9,964,224|2,455,601| |
+
+6.1 Balances with other banks outside Pakistan in deposit accounts carry interest rates of 0.01% to 0.25% (2023: 0.01% to 0.25%) per annum.
+
+# Notes to the Unconsolidated Financial Statements
+
+# for the year ended December 31, 2024
+
+|Note|December 31, 2024|December 31, 2023|Lending|Credit loss allowance held|
+|---|---|---|---|---|
+|7|LENDINGS TO FINANCIAL INSTITUTIONS| | | |
+|7.1|Call money lendings - local currency|7,600,000|1,000,000| |
+|7.2 & 7.5|Repurchase agreement lendings (Reverse Repo)|235,941,105|8,418,003| |
+|7.3|Certificates of investment|70,000|70,000| |
+| |243,611,105|9,488,003| | |
+|7.3 & 7.6|Less: Credit loss allowance held against lending to financial institutions|(70,024)|(70,000)| |
+| |Lendings to financial institutions - net of credit loss allowance|243,541,081|9,418,003| |
+
+7.1 These represent local currency call money lendings to financial institutions at the mark-up rate of 13.70% to 15.65% (2023: 22.50%) per annum, maturing latest by March 26, 2025.
+
+7.2 These are short-term local currency lendings to financial institutions against government securities as shown in note 7.5 below. These carry mark-up at the rate of 12.90% to 13.90% (2023: 21.90% to 22.95%) per annum, maturing latest by January 17, 2025.
+
+7.3 This represents local currency classified certificates of investment and related provisioning, amounting to Rs. 70 million (2023: Rs. 70 million).
+
+| | | | | | | |December 31, 2024| |December 31, 2023| | | |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| | | | |Rupees in ‘000| | | | | | | | |
+|7.7 Lending to FIs - Particulars of credit loss allowance| | | | | | | | | | | | |
+| | | | | | |Balance at the start of the year| |-|-|70,000|70,000| |
+| | | | | | |Impact of adoption of IFRS 9| |2|-|-|2| |
+| | | | | | |Financial assets that have been derecognised| |(2)|-|-|(2)| |
+| | | | | | |Transfer to stage 1| |-|-|-|-| |
+| | | | | | |Transfer to stage 2| |-|-|-|-| |
+| | | | | | |Transfer to stage 3| |-|-|-|-| |
+| | | | | | |Net remeasurement of credit loss allowance| |-|-|70,000|70,000| |
+|New financial assets originated or purchased| | | | | | |24|-|-|24| | |
+| | | | | | |Financial assets that have been derecognised| | |-|-|-|-|
+| | | | | | |Write offs| |-|-|-|-| |
+| | | | | | |Unwind of discount| |-|-|-|-| |
+| | | | | | |Changes in risk parameters (PDs/LGDs/EADs)| |-|-|-|-| |
+| | | | | | |Balance at the end of the year| |24|-|70,000|70,024| |
+
+|December 31, 2024| | | | | |Stage 1|Stage 2|Stage 3|Total|
+|---|---|---|---|---|---|---|---|---|---|
+| | | |Rupees in ‘000| | | | | | |
+|7.5 Securities held as collateral against lending to financial institutions| | | | | | | | | |
+|Pakistan Investment Bonds| |161,175,991|-|161,175,991|8,418,003|-|8,418,003| | |
+|Market Treasury Bills|74,765,114|-|74,765,114|-|-|-| | | |
+| | | |235,941,105| |-|235,941,105|8,418,003|-|8,418,003|
+
+
+# Notes to the Unconsolidated Financial Statements
+
+# for the year ended December 31, 2024
+
+|Note|Fair value / Amortized cost|Credit loss allowance|Surplus / (Deficit)|Carrying Value|Fair value / Amortized cost|Credit loss allowance / Provision for diminution|Surplus / (Deficit)|Carrying Value|Rupees in ‘000|
+|---|---|---|---|---|---|---|---|---|---|
+|8|INVESTMENTS| | | | | | | | |
+|8.1|Investments by type:| | | | | | | | |
+| |Debt Instruments| | | | | | | | |
+| |Market Treasury Bills| | |27,425,460| | | | |-|
+| |Pakistan Investment Bonds|360,585,621|268,646,617| | | | | | |
+| |Federal Government Securities|2,999,397|-|14,420|3,013,817|20,114,447|-|(64,599)|20,049,848|
+| |Euro Bonds|-|-| | | | | |-|
+| |Classified / Measured at FVOCI| | | | | | | | |
+| |Available-for-sale securities| | | | | | | | |
+| |Government of Pakistan Foreign Currency Bonds (US$)|-|-| | | | | |-|
+| |Federal Government Securities*|956,549,845|(1,964,317)|6,287,853|960,873,381|1,047,943,332|(2,452,459)|(19,702,262)|1,025,788,611|
+| |Shares|-|-|-|-|-|-|-|-|
+| |Non Government Debt Securities|20,880,734|(465,121)|505,278|20,920,891|25,391,300|(21,071)|(21,711)|25,348,518|
+| |Foreign securities|-|-|-|-|-|-|-|-|
+| |Open Ended Mutual Funds|-|-|-|-|25,000|-|9,454|34,454|
+|8.5|Investments given as collateral|977,430,579|(2,429,438)|6,793,131|981,794,272|1,073,359,632|(2,473,530)|(19,714,519)|1,051,171,583|
+| |Classified / Measured at Amortized Cost| | | | | | | | |
+| |Held–to–maturity securities| | | | | | | | |
+| |Federal Government Securities|119,351,607|-|-|119,351,607|59,797,669|-|-|59,797,669|
+| |Non Government Debt Securities|285,059|(285,059)|-|-|302,920|(302,920)|-|-|
+|8.6| |119,636,666|(285,059)|-|119,351,607|60,100,589|(302,920)|-|59,797,669|
+| |Instruments mandatorily classified / measured at FVTPL| | | | | | | | |
+| |Open Ended Mutual Funds|25,000|-|9,977|34,977|-|-|-|-|
+| |Equity instruments| | | | | | | | |
+| |FVOCI| | | | | | | | |
+| |Shares| | | | | | | | |
+| |Listed companies|9,949,076|-|13,886,091|23,835,167|12,956,909|(728,410)|6,228,739|18,457,238|
+| |Unlisted companies|372,394|-|(30,048)|342,346|372,393|(32,412)|-|339,981|
+| |Unlisted foreign securities|1,770|-|-|1,770|1,770|-|-|1,770|
+|8.5| |10,323,240|-|13,856,043|24,179,283|13,331,072|(760,822)|6,228,739|18,798,989|
+| |Subsidiaries| | | | | | | | |
+| |ABL Asset Management Company Limited|500,000|-|-|500,000|500,000|-|-|500,000|
+| |ABL Exchange Company Private Limited|1,000,000|-|-|1,000,000|-|-|-|-|
+| |Total Investments|1,111,914,882|(2,714,497)|20,673,571|1,129,873,956|1,167,405,740|(3,537,272)|(13,550,379)|1,150,318,089|
+|8.2|Investments by segments:| | | | | | | | |
+| |Federal Government Securities*| | | | | | | | |
+| |Market Treasury Bills|141,302,377|-|871,599|142,173,976|63,107,685|-|16,839|63,124,524|
+| |Pakistan Investment Bonds|822,897,378|-|1,700,172|824,597,550|1,009,785,089|-|(17,781,318)|992,003,771|
+| |GOP Ijarah Sukuks|88,721,700|-|1,639,880|90,361,580|24,141,346|-|273,079|24,414,425|
+| |GOP Ijarah Sukuks - Bai Muajjal Placement|2,380,562|-|-|2,380,562|-|-|-|-|
+| |Naya Pakistan Certiﬁcate|1,086,092|(31,880)|31,880|1,086,092|1,555,196|-|-|1,555,196|
+| |Foreign Currency Bonds (US$)|22,512,740|(1,932,437)|2,058,742|22,639,045|29,266,132|(2,452,459)|(2,275,461)|24,538,212|
+| |Shares:|1,078,900,849|(1,964,317)|6,302,273|1,083,238,805|1,127,855,448|(2,452,459)|(19,766,861)|1,105,636,128|
+| |Listed Companies|9,949,076|-|13,886,091|23,835,167|12,956,909|(728,410)|6,228,739|18,457,238|
+| |Unlisted Companies|372,394|-|(30,048)|342,346|372,393|(32,412)|-|339,981|
+| |Unlisted foreign securities|1,770|-|-|1,770|1,770|-|-|1,770|
+| |Units of open-ended mutual funds|25,000|-|9,977|34,977|25,000|-|9,454|34,454|
+| |Subsidiaries| | | | | | | | |
+| |ABL Asset Management Company Limited|500,000|-|-|500,000|500,000|-|-|500,000|
+| |ABL Exchange Private Limited|1,000,000|-|-|1,000,000|-|-|-|-|
+| |Total Investments|1,111,914,882|(2,714,497)|20,673,571|1,129,873,956|1,167,405,740|(3,537,272)|(13,550,379)|1,150,318,089|
+|8.4|Credit loss allowance for diminution in value of investments| | | | | | | | |
+| |Opening balance|3,537,272|2,321,414| | | | | | |
+| |Impact of adoption of IFRS 9|1,996,619|-| | | | | | |
+| |Exchange adjustments|(18,659)|69,221| | | | | | |
+| |Charge and reversals| | | | | | | | |
+| |Charge for the year|417,194|2,082,408| | | | | | |
+| |Reversals for the year|(2,356,291)|(17,717)| | | | | | |
+| |Reversal on disposals|(861,638)|-| | | | | | |
+| |Closing Balance|2,714,497|3,537,272| | | | | | |
+
+
+# Notes to the Unconsolidated Financial Statements
+
+# for the year ended December 31, 2024
+
+# 8.5 Quality of Securities
+
+Details regarding quality of securities held under ‘Hold to Collect and Sell’ model are as under:
+
+| | |Outstanding|Credit loss allowance held|Total| | | |
+|---|---|---|---|---|---|---|---|
+| | |amount|Rupees in ‘000| | | | |
+|8.4.4 Particulars of credit loss allowance against debt securities| | | | | | | |
+|Domestic| | | | | | | |
+|Performing|Stage 1|1,072,794,371|4,080|1,072,798,451| | | |
+|Underperforming|Stage 2|10,566,765|978,650|11,545,415| | | |
+|Non-Performing|Stage 3|946,469|741,185|1,687,654| | | |
+|Substandard| |-|-|-| | | |
+|Doubtful| |640,339|435,055|1,075,394| | | |
+|Loss| |306,130|306,130|612,260| | | |
+|Total| |1,084,307,605|1,723,915|1,086,031,520| | | |
+|Overseas| | | | | | | |
+|Performing|Stage 1|-|-|-| | | |
+|Underperforming|Stage 2|12,759,640|990,582|13,750,222| | | |
+|Non-Performing|Stage 3|-|-|-| | | |
+|Substandard| |-|-|-| | | |
+|Doubtful| |-|-|-| | | |
+|Loss| |-|-|-| | | |
+|Total| |12,759,640|990,582|13,750,222| | | |
+
+# December 31, 2024
+
+# December 31, 2023
+
+|Cost| |Rupees in ‘000| | | | | | | | |
+|---|---|---|---|---|---|---|---|---|---|---|
+| | | | | |Unlisted Companies| | | | | |
+|Pakistan Mortgage Refinance Co. Limited| | | | | |200,000|604,131|200,000|482,035| |
+| | | | | |1 Link Private Limited|50,000|1,182,150|50,000|733,214| |
+|Central Depository Company of Pakistan Limited.| | | | | |40,300|74,445|40,300|67,639| |
+| | | | | |First Women Bank Limited|21,200|59,696|21,200|74,692| |
+| | | | | |SME Bank Limited|5,250| |-|5,250|-|
+| | | | | |Arabian Sea Country Club Limited|5,000| |-|5,000|-|
+| | | | | |Eastern Capital Limited|5,000| |-|5,000|-|
+| | | | | |NIFT|1,526|62,037|1,526|52,914| |
+| | | | | |PASSCO|1,000|651,802|1,000|645,805| |
+| | | | | |Pakistan Corporate Restructuring Company|43,118|28,320|43,117|25,955| |
+| | | | | | |372,394|2,662,581|372,393|2,082,254| |
+
+
+# Notes to the Unconsolidated Financial Statements
+
+# for the year ended December 31, 2024
+
+# 8.6
+
+The market value of securities classified as held-to-maturity as at December 31, 2024 amounted to Rs. 111,470 million (December 31, 2023: Rs. 51,778 million). This represents the market value of Pakistan Investment Bonds.
+
+| | |Cost| | | |Performing|Non Performing|Total| | | | | | |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|Rupees in ‘000|Note| | |December 31, 2024| | | |December 31, 2023|December 31, 2024|December 31, 2023|December 31, 2024|December 31, 2023| | |
+|Non Government Debt Securities| | | | |9|ADVANCES|Rupees in ‘000|Loans, cash credits, running finances, etc.|1,020,419,211|699,211,949|11,685,811|11,713,507|1,032,105,022|710,925,456|
+|Islamic financing and related assets| | | |A-II. 3|32,101,884|79,621,981|295,246|5,729|32,397,130|79,627,710| | | | |
+| | | |Bills discounted and purchased| |831,885|2,264,978|1,013,913|1,319,793|1,845,798|3,584,771| | | | |
+| | | |Advances – gross|9.2|1,053,352,980|781,098,908|12,994,970|13,039,029|1,066,347,950|794,137,937| | | | |
+|Credit loss allowance / Provision against advances| | |Stage 1|9.4|(529,283)|-|-|-|(529,283)|-| | | | |
+| | | |Stage 2|9.4|(2,311,052)|-|-|-|(2,311,052)|-| | | | |
+| | | |Stage 3|9.3 & 9.4|-|-|(12,193,722)|-|(12,193,722)|-| | | | |
+|Specific| | | |9.3 & 9.4|-|-|-|-|(12,335,688)|-| | | | |
+| | | |General|9.4|-|(205,019)|-|-|-|(205,019)| | | | |
+| | | |Advances – net of credit loss allowance| |1,050,512,645|780,893,889|801,248|703,341|1,051,313,893|781,597,230| | | | |
+
+# December 31, 2024
+
+# December 31, 2023
+
+|Not later than one year|Later than one and less than five years|Over five years| | | | | |Total|
+|---|---|---|---|---|---|---|---|---|
+| | |Rupees in ‘000| | | | | | |
+| | | | |Lease rentals receivable|2,772,954|1,462,028|18,027|4,253,009|
+| | | | |Residual value|413,129|564,508|26,128|1,003,765|
+| | | | |Minimum lease payments|3,186,083|2,026,536|44,155|5,256,774|
+| | | | |Financial charges for future periods|(514,234)|(159,232)|(1,952)|(675,418)|
+| | | | |Present value of minimum lease payments|2,671,849|1,867,304|42,203|4,581,356|
+
+# Particulars relating to securities classified Under “Hold to Collect” model’ are as follows:
+
+|Federal Government Securities - Government guaranteed| | | | | | | | | | |
+|---|---|---|---|---|---|---|---|---|---|---|
+|Pakistan Investment Bonds|116,971,045|59,797,669| | | | | | | | |
+|GOP Ijarah Sukuks - Bai Muajjal Placement|2,380,562|-| | | | | | | | |
+|Total|119,351,607|59,797,669| | | | | | | | |
+
+# Non Government Debt Securities
+
+|Listed|- Unrated|44,442|62,159|
+|---|---|---|---|
+|Unlisted|- Unrated|240,617|240,761|
+
+# Particulars of advances (Gross)
+
+|In local currency|1,031,303,046|753,527,904|
+|---|---|---|
+|In foreign currencies|35,044,904|40,610,033|
+|Total|1,066,347,950|794,137,937|
+
+# Advances to Women, Women-owned and Managed Enterprises
+
+|Women|7,576,152|2,591,449|
+|---|---|---|
+|Women Owned and Managed Enterprises|50,339,523|20,969,796|
+|Total|57,915,675|23,561,245|
+
+
+# Notes to the Unconsolidated Financial Statements
+
+# for the year ended December 31, 2024
+
+# 9.3
+
+Advances include Rs. 12,994.970 million (2023: Rs. 13,039.029 million) which have been placed under non-performing / Stage 3 status as detailed below:
+
+|Note|Stage 1|Stage 2|Stage 3|Total|
+|---|---|---|---|---|
+|December 31, 2024|Non Performing Loans|Credit loss allowance|Non Performing Loans|Specific Provision|
+|December 31, 2023|Rupees in ‘000| | | |
+| |734,059,561|47,038,140|13,040,236|794,137,937|
+
+Category of Classification
+
+|Domestic|Stage 3|Stage 2|Stage 1|Total|
+|---|---|---|---|---|
+|Other Assets Especially Mentioned|59,594|28,684|31,765|250|
+|Substandard - Stage 3|189,271|101,492|361,480|90,154|
+|Doubtful - Stage 3|871,895|566,361|46,947|23,473|
+|Loss - Stage 3|11,238,973|10,861,948|11,956,050|11,579,024|
+|Total|12,994,970|12,193,722|13,039,029|12,335,688|
+
+# 9.5
+
+Particulars of credit loss allowance
+
+# 9.5.1
+
+Advances - Exposure
+
+|Gross carrying amount - Current year|New advances|Advances derecognised or repaid|Transfer to stage 1|Transfer to stage 2|Transfer to stage 3|
+|---|---|---|---|---|---|
+|734,059,561|681,625,337|(407,113,919)|6,032,844|(37,366,579)|(496,476)|
+
+# 9.5.2
+
+Advances - Credit loss allowance
+
+|Opening balance|New Advances|Advances derecognised or repaid|Transfer to stage 1|Transfer to stage 2|Transfer to stage 3|
+|---|---|---|---|---|---|
+|705,933|244,775|(252,135)|107,576|(98,687)|(1,849)|
+
+# 9.5.3
+
+Advances - Credit loss allowance details
+
+|Internal / External rating / stage classification|Outstanding gross exposure|
+|---|---|
+|Performing - Stage 1|976,740,767|
+|Under Performing - Stage 2|76,612,213|
+|Non-performing - Stage 3|12,994,970|
+|Total|1,066,347,950|
+
+Corresponding ECL
+
+|Stage 1 and Stage 2|Stage 3|
+|---|---|
+|529,283|12,193,722|
+
+
+# Notes to the Unconsolidated Financial Statements
+
+# for the year ended December 31, 2024
+
+# 9.5.4
+
+The table below shows the amortized cost of the Bank’s gross advances, based on the Bank’s internal credit rating system and year-end stage classification.
+
+|Note|Stage 1|Stage 2|Stage 3|Total|
+|---|---|---|---|---|
+|Internal rating grade|Rupees in ‘000|Rupees in ‘000|Rupees in ‘000|Rupees in ‘000|
+|Performing|661,676,903|4,230,153|-|665,907,056|
+|Corporate|305,541,954|32,188,918|-|337,730,872|
+|High grade|-|39,855,021|-|39,855,021|
+|Medium grade|9,521,911|338,120|-|9,860,031|
+|Past due but not impaired|-|-|2,601|2,601|
+|Non-performing (Corporate and Retail)|-|-|56,993|56,993|
+|OAEM|-|-|189,271|189,271|
+|Doubtful|-|-|871,895|871,895|
+|Loss|-|-|11,874,210|11,874,210|
+|Total|976,740,768|76,612,212|12,994,970|1,066,347,950|
+
+# 9.6
+
+There were no principal amounts written off during the year against provisions.
+
+# 9.6.1
+
+Details of loan write-off of Rs. 500,000/- and above
+
+In terms of sub-section (3) of Section 33A of the Banking Companies Ordinance, 1962, the Statement in respect of written-off loans or any other financial relief of five hundred thousand rupees and above allowed to a person(s) during the year ended December 31, 2024 is given in Annexure-’I’. However, these write-offs do not affect the Bank’s right to recover debts from these customers.
+
+# 10 PROPERTY AND EQUIPMENT
+
+|Note|December 31, 2024|December 31, 2023|
+|---|---|---|
+|Capital work-in-progress|10,324,434|9,779,743|
+|Property and equipment|116,936,428|103,998,924|
+|Total|127,260,862|113,778,667|
+
+# 10.1 Capital work-in-progress
+
+|Type|December 31, 2024|December 31, 2023|
+|---|---|---|
+|Civil works|9,192,690|7,759,247|
+|Equipment|-|89,246|
+|Advances to suppliers|1,131,744|1,931,250|
+|Total|10,324,434|9,779,743|
+
+
+# Notes to the Unconsolidated Financial Statements
+
+# for the year ended December 31, 2024
+
+| |December 31, 2024|December 31, 2023|
+|---|---|---|
+|– Land (Freehold and leasehold)|31,264,621|26,924,337|
+|– Building|16,925,052|13,289,397|
+
+10.4 Fair value of property and equipment excluding land and buildings is not expected to be materially different from their carrying amount.
+
+|Note|December 31, 2024|December 31, 2023|
+|---|---|---|
+| |Rupees in ‘000| |
+|12 INTANGIBLE ASSETS| | |
+|Capital work in progress|1,009,355|778,871|
+|Intangible Assets|2,623,269|2,630,420|
+| |3,632,624|3,409,291|
+
+# 12.1 Capital work in progress
+
+|Softwares|1,006,481|775,996|
+|---|---|---|
+|Advances for softwares to suppliers|2,874|2,875|
+| |1,009,355|778,871|
+
+# 12.2 Intangible Assets
+
+| | | |At January 01, 2024| | | |
+|---|---|---|---|---|---|---|
+| | | |Cost|6,400,141|-|6,400,141|
+| | | |Accumulated amortisation and impairment|(3,769,721)|-|(3,769,721)|
+| | | |Net book value|2,630,420|-|2,630,420|
+
+Year ended December 31, 2024
+
+| | |Opening net book value|2,630,420|-|2,630,420|
+|---|---|---|---|---|---|
+|Additions:| |directly purchased / transfers|615,246|-|615,246|
+| | |Amortisation charge|(622,393)|-|(622,393)|
+| | |Closing net book value|2,623,273|-|2,623,273|
+
+# At December 31, 2024
+
+|Cost|7,015,382|-|7,015,382|
+|---|---|---|---|
+|Accumulated amortisation and impairment|(4,392,113)|-|(4,392,113)|
+|Net book value|2,623,269|-|2,623,269|
+|Rate of amortisation (percentage)|5% to 14.28%| | |
+|Useful life|7 to 20 Years| | |
+
+
+# Notes to the Unconsolidated Financial Statements
+
+# for the year ended December 31, 2024
+
+# December 31, 2023
+
+|Computer software| |Others|Total| | | |
+|---|---|---|---|---|---|---|
+|At January 1, 2023| | | | | | |
+|Cost|5,873,124|-|5,873,124| | | |
+|Accumulated amortisation and impairment|(3,184,449)|-|(3,184,449)| | | |
+|Net book value|2,688,675|-|2,688,675| | | |
+|Year ended December 31, 2023| | | | | | |
+|Opening net book value|2,688,675|-|2,688,675| | | |
+|Additions:| | | | | | |
+|directly purchased / transfers|527,017|-|527,017| | | |
+|Amortisation charge|(585,272)|-|(585,272)| | | |
+|Closing net book value|2,630,420|-|2,630,420| | | |
+|At December 31, 2023| | | | | | |
+|Cost|6,400,141|-|6,400,141| | | |
+|Accumulated amortisation and impairment|(3,769,721)|-|(3,769,721)| | | |
+|Net book value|2,630,420|-|2,630,420| | | |
+|Rate of amortisation (percentage)| |5% to 14.28%| | | | |
+|Useful life| |7 to 20 Years| | | | |
+
+# December 31, 2024
+
+| | | | | |Note|December 31, 2024|December 31, 2023|
+|---|---|---|---|---|---|---|---|
+|OTHER ASSETS| | | | | |Rupees in ‘000| |
+| | | | |Income / Mark-up accrued in local currency|55,015,063|69,602,045| |
+| | | | |Income / Mark-up accrued in foreign currency|532,316|953,413| |
+| | | | |Financial assets due to subsidized loans|7,287,676|-| |
+| | | | |Advances, deposits, advance rent and other prepayments|5,702,613|3,081,606| |
+| | | | |Advance taxation (payments less provisions)|2,328,096|-| |
+| | | | |Non-banking assets acquired in satisfaction of claims|13.1|682,237|1,038,270|
+| | | | |Branches adjustment account| |-|1,701,578|
+|Mark to market gain on forward foreign exchange contracts| | | | | |-|80,674|
+|Mark to market gain on forward government securities transactions| | | | |967,333|-| |
+| | | | |Acceptances|7,563,743|8,444,550| |
+|Due from the employees' retirement benefit schemes - Pension fund| | | | |37.4|7,772,440|6,185,041|
+| | | | |Fraud and forgeries|527,738|544,824| |
+| | | | |Stationery and stamps in hand|1,205,896|863,475| |
+| | | | |Home Remittance Cell agent receivable|2,784|1,749| |
+| | | | |Receivable from State Bank of Pakistan| |71|4,375|
+| | | | |Charges receivable|29,924|29,873| |
+| | | | |ATM / Point of Sale settlement account|6,451,615|7,075,342| |
+| | | | |Others|639,010|440,520| |
+| | | | | |96,708,555|100,047,335| |
+| | | | |Less: Credit loss allowance held against other assets|13.2|(1,147,776)|(996,020)|
+| | | | |Other assets (net of credit loss allowance)|95,560,779|99,051,315| |
+|Surplus on revaluation of non-banking assets acquired in satisfaction of claims| | | | |1,265,361|1,043,502| |
+| | | | |Other assets - net|96,826,140|100,094,817| |
+
+# 12.3 The cost of fully amortized assets that are still in use:
+
+|Intangible assets – software|December 31, 2024|December 31, 2023|
+|---|---|---|
+| |1,467,420|894,732|
+
+# 13.1 Market value of non–banking assets acquired in satisfaction of claims
+
+| |December 31, 2024|December 31, 2023|
+|---|---|---|
+|Opening balance|2,081,772|1,505,342|
+|Additions|-|443,214|
+|Constructions|3,744|100|
+|Revaluation|261,756|144,229|
+|Disposals|-|-|
+|Transfers|(375,753)|-|
+|Depreciation|(23,921)|(11,113)|
+|Closing balance|1,947,598|2,081,772|
+
+
+# Notes to the Unconsolidated Financial Statements
+
+# for the year ended December 31, 2024
+
+# 13.1.2
+
+There are no disposals of non banking assets acquired in satisfaction of claims.
+
+# 13.2 Credit loss allowance / Provision held against other assets
+
+|Note|December 31, 2024|December 31, 2023|
+|---|---|---|
+|Unsecured|Rupees in ‘000| |
+|Call borrowings|7,628,102|2,677,677|
+|Overdrawn nostro accounts|426,318|192,355|
+|Musharaka borrowing|7,500,000|14,350,000|
+| |15,554,420|17,220,032|
+|Provision against fraud and forgeries|427,195|444,282|
+|Charges receivable|29,764|29,840|
+|Credit loss allowance against acceptances|109,875|-|
+|Others|294,571|308,569|
+| |1,147,776|996,020|
+
+# 13.2.1 Movement in Credit loss allowance / Provision held against other assets
+
+| |December 31, 2024|December 31, 2023|
+|---|---|---|
+|Opening balance|996,020|755,808|
+|Impact of adoption of IFRS 9|37,823|-|
+|Charge for the year|241,906|505,416|
+|Reversals|(119,745)|(259,078)|
+|Net charge|122,161|246,338|
+|Amounts written off|(8,228)|(6,126)|
+|Closing balance|1,147,776|996,020|
+
+# 14 CONTINGENT ASSETS
+
+There were no contingent assets of the Bank as at December 31, 2024 and December 31, 2023.
+
+# 15 BILLS PAYABLE
+
+|In Pakistan|14,477,225|9,296,223|
+|---|---|---|
+|Outside Pakistan|25,012|26,182|
+
+# 16 BORROWINGS
+
+|Secured| | | | |
+|---|---|---|---|---|
+|Borrowings from State Bank of Pakistan| | | | |
+|Repurchase agreement borrowings|16.1|355,072,900|270,000,000| |
+|Under export refinance scheme|16.2|23,682,355|28,652,901| |
+|Under long term financing facility|16.3|22,806,443|28,265,781| |
+|Under financing scheme for renewable energy|16.4|7,871,360|7,253,956| |
+|Under Temporary Economic Refinance Scheme|16.5|7,490,465|12,741,909| |
+|Under refinance scheme for modernization of SMEs|16.6|13,222|8,182| |
+|Under refinance scheme for SME Asaan Finance (SAAF)| |172,807|-| |
+|Refinance and credit guarantee scheme for women entrepreneurs| |19,310|13,517| |
+|Under refinance scheme for combating COVID-19|16.7|81,016|133,325| |
+| | |417,209,878|347,069,571| |
+|Repurchase agreement borrowings from Financial Institutions|16.8|29,259,260|1,843,392| |
+|Trading liability| |-|7,541,047| |
+| | |446,469,138|356,454,010| |
+
+# Particulars of borrowings with respect to currencies
+
+|In local currency|455,895,458|370,804,011|
+|---|---|---|
+|In foreign currencies|6,128,100|2,870,031|
+| |462,023,558|373,674,042|
+
+
+# Notes to the Unconsolidated Financial Statements
+
+# for the year ended December 31, 2024
+
+| | |December 31, 2024| |December 31, 2023| | | |
+|---|---|---|---|---|---|---|---|
+|Note|In Local Currency|In Foreign Currencies|Total|In Local Currency|In Foreign Currencies|Total| |
+|17|DEPOSITS AND OTHER ACCOUNTS| | | | | | |
+| |Customers| | | | | | |
+| |Current deposits|683,016,032|35,622,173|718,638,205|616,041,518|44,460,629|660,502,147|
+| |Savings deposits|851,899,892|18,177,737|870,077,629|652,715,228|19,697,405|672,412,633|
+| |Term deposits|201,669,126|80,524,496|282,193,622|201,318,101|51,084,504|252,402,605|
+| |Others|37,063,834|78,257|37,142,091|30,467,120|61,278|30,528,398|
+| |Total|1,773,648,884|134,402,663|1,908,051,547|1,500,541,967|115,303,816|1,615,845,783|
+| |Financial Institutions| | | | | | |
+| |Current deposits|15,659,282|1,218,988|16,878,270|14,062,494|853,715|14,916,209|
+| |Savings deposits|88,035,841|-|88,035,841|44,978,314|-|44,978,314|
+| |Term deposits|641,050|4,775,259|5,416,309|819,350|63,419|882,769|
+| |Others|13,100|-|13,100|-|-|-|
+| |Total|104,349,273|5,994,247|110,343,520|59,860,158|917,134|60,777,292|
+| |Grand Total|1,877,998,157|140,396,910|2,018,395,067|1,560,402,125|116,220,950|1,676,623,075|
+
+# 17.1 Composition of deposits
+
+|Individuals|1,197,996,052|952,116,476| | | | | |
+|---|---|---|---|---|---|---|---|
+|Private Sector|276,463,498|312,948,519| | | | | |
+|Government (Federal and Provincial)|236,687,637|209,285,511| | | | | |
+|Public Sector Entities|196,904,360|141,495,277| | | | | |
+|Non–Banking Financial Institutions|96,993,779|46,767,016| | | | | |
+|Banking Companies|13,349,741|14,010,276| | | | | |
+|Total|2,018,395,067|1,676,623,075| | | | | |
+
+# 17.2
+
+This includes deposits eligible to be covered under insurance arrangements amounting to Rs. 1,343,523 million (2023: 1,138,708 million).
+
+# 17.3
+
+Net outstanding value against prepaid cards is Rs. 21.604 million as at reporting date (2023: 25.328 million).
+
+# 19 DEFERRED TAX LIABILITIES / ASSETS
+
+|Deductible Temporary Differences on| | |- Tax losses carried forward|-|-|-| |
+|---|---|---|---|---|---|---|---|
+| | | |- Workers welfare fund|2,657,448|897,558|-|3,555,006|
+| | | |- Credit loss allowance against advances,|492,469|121,647|3,907,145|4,521,261|
+| | | |- Others|102,650|-|-|102,650|
+|Total| | | |3,252,567|1,019,205|3,907,145|8,178,917|
+|Taxable Temporary Differences on| | |- Surplus on revaluation of property and equipment|(4,200,202)|183,652|(274,520)|(4,291,070)|
+| | | |- Surplus on revaluation of investments|6,608,032|-|(17,345,602)|(10,737,570)|
+| | | |- Surplus on revaluation of non-banking assets|(66,251)|20,744|(27,798)|(73,305)|
+| | | |- Accelerated tax depreciation|(1,696,139)|(585,253)|-|(2,281,392)|
+| |- Actuarial gain on retirement benefits| | |(76,413)|-|(549,715)|(626,128)|
+|Total| | | |569,027|(380,857)|(18,197,635)|(18,009,465)|
+|Net Total| | | |3,821,594|638,348|(14,290,490)|(9,830,548)|
+
+
+# Notes to the Unconsolidated Financial Statements
+
+# for the year ended December 31, 2024
+
+# December 31, 2023
+
+|Note|Recognised in profit and loss account|Recognised in other comprehensive Income|At January 1, 2023|At December 31, 2023|
+|---|---|---|---|---|
+|20|OTHER LIABILITIES| | | |
+| |Mark-up / return / interest payable in local currency| |17,523,889|14,143,930|
+| |Mark-up / return / interest payable in foreign currencies| |910,978|1,762,006|
+| |Deferred grant on subsidized loans| |3,772,085|-|
+| |Accrued expenses| |2,994,731|3,920,388|
+| |Provision for taxation (provisions less payments)| |-|7,730,026|
+| |Retention money payable| |1,153,757|679,647|
+| |Deferred income| |1,345,950|855,132|
+| |Unearned commission and income on bills discounted| |1,032,336|759,785|
+| |Acceptances| |7,563,743|8,444,550|
+| |Unclaimed dividends| |496,711|442,049|
+| |Dividend payable| |37,622|26,343|
+| |Branch adjustment account| |2,106,829|-|
+| |Unrealized loss on forward foreign exchange contracts| |1,613,858|-|
+| |Unrealized loss on forward government securities transactions| |-|13,812|
+| |Provision for:| | | |
+|37.4|Gratuity| |252,662|806,365|
+|37.4|Employees' medical benefits| |1,575,050|1,473,496|
+|37.4|Employees' compensated absences| |1,248,767|1,200,318|
+| |Payable to defined contribution plan| |114,216|117,158|
+|20.1|Credit loss allowance against off-balance sheet obligations| |493,983|298,904|
+| |Security deposits against lease| |1,004,808|941,987|
+| |Charity fund balance| |1,417|1,000|
+| |Home Remittance Cell overdraft| |206,321|794,027|
+| |With-holding tax payable| |8,083,663|8,608,289|
+| |Sundry deposits| |4,879,335|4,162,588|
+| |Workers welfare fund payable| |6,836,550|5,423,363|
+| |Others| |2,705,849|2,204,652|
+| |Total| |67,955,110|64,809,815|
+
+# 20.1 Credit loss allowance / Provision against off-balance sheet obligations
+
+|Opening balance|298,904|298,904|
+|---|---|---|
+|Impact of adoption of IFRS 9|153,374|-|
+|Charge for the year|41,705|-|
+|Reversals|-|-|
+|Net reversal|41,705|-|
+|Closing balance|493,983|298,904|
+
+The above provision includes provisions made against letters of guarantee issued by the Bank.
+
+# 20.2 Workers Welfare Fund
+
+Supreme Court of Pakistan vide order dated November 10, 2016 held that the amendments made in the law through Finance Act 2008, introduced by the Federal Government for the levy of Worker Welfare Fund (WWF) were unlawful. Federal Board of Revenue filed review petition against the subject order, which is currently pending for adjudication.
+
+WWF provision from 2014 has been maintained conservatively based on tax advisor’s opinion in view of provincial levy of WWF by the provinces with effect from 2014, including levy by Sindh which is under litigation.
+
+Punjab Government promulgated Punjab Workers Welfare Fund Act 2019 (PWWF) with effect from December 13, 2019, therefore, provision related to Punjab and pertaining to the period from 2014 till the date of promulgation of PWWF was reversed.
+
+# Notes to the Unconsolidated Financial Statements
+
+# for the year ended December 31, 2024
+
+# 21 SHARE CAPITAL
+
+|Note|December 31, 2024|December 31, 2023|
+|---|---|---|
+|21.1 Authorized capital|Rupees in ‘000|Rupees in ‘000|
+| |December 31, 2024|December 31, 2023|
+|No. of shares|Rupees in ‘000| |
+|1,500,000,000 Ordinary shares of Rs.10/– each|15,000,000|15,000,000|
+
+# 21.2 Issued, subscribed and paid–up capital
+
+|Fully paid–up Ordinary shares of Rs. 10/– each|Rupees in ‘000|Rupees in ‘000|
+|---|---|---|
+|December 31, 2024|December 31, 2023| |
+|No. of shares|Rupees in ‘000| |
+|406,780,094 Fully paid in cash|4,067,801|4,067,801|
+|720,745,186 Issued as bonus shares|7,207,452|7,207,452|
+|1,127,525,280 18,348,550 Ordinary shares of Rs. 10 each, determined pursuant to the Scheme of Amalgamation in accordance with the swap ratio stipulated therein less 9,200,000 ordinary shares of Rs. 10 each, held by Ibrahim Leasing Limited on the cut–off date (September 30, 2004)|11,275,253|11,275,253|
+|9,148,550|91,486|91,486|
+|8,400,000 Ordinary shares of Rs. 10 each, determined pursuant to the Scheme of Amalgamation of First Allied Bank Modarabah with Allied Bank Limited in accordance with the share swap ratio stipulated therein.|84,000|84,000|
+|1,145,073,830|11,450,739|11,450,739|
+
+Ibrahim Holdings (Private) Limited (holding company of the Bank), holds 1,030,566,368 (90.00%) [2023: 1,030,566,368 (90.00%)] ordinary shares of Rs. 10 each respectively, as at reporting date.
+
+# 22 SURPLUS ON REVALUATION OF ASSETS – NET OF TAX
+
+|Surplus / (deﬁcit) arising on revaluation of:|December 31, 2024|December 31, 2023|
+|---|---|---|
+|Property and equipment|49,815,868|50,140,331|
+|Non-banking assets acquired in satisfaction of claims|1,265,363|1,043,502|
+|Available-for-sale securities|-|(13,485,780)|
+|Securities measured at FVOCI - Debt|6,793,131|-|
+|Securities measured at FVOCI - Equity|13,856,043|-|
+| |71,730,405|37,698,053|
+
+Deferred tax on surplus / (deﬁcit) on revaluation of:
+
+|Property and equipment|(4,291,070)|(4,200,202)|
+|---|---|---|
+|Non-banking assets acquired in satisfaction of claims|(73,305)|(66,251)|
+|Available-for-sale securities|-|6,608,032|
+|Securities measured at FVOCI - Debt|(3,532,428)|-|
+|Securities measured at FVOCI - Equity|(7,205,142)|-|
+| |(15,101,945)|2,341,579|
+| |56,628,460|40,039,632|
+
+256 Annual Report 2024
+
+257
+
+# Notes to the Unconsolidated Financial Statements
+
+# for the year ended December 31, 2024
+
+# Note
+
+|December 31, 2024|December 31, 2023|
+|---|---|
+|Rupees in ‘000| |
+|23.3.2|The income tax assessments of the Bank have been finalized up to and including tax year 2024 for local, Azad Kashmir and Gilgit Baltistan operations. While finalizing income tax assessments up to tax year 2024 income tax authorities made certain add backs with aggregate tax impact of Rs. 38,524 million (2023: 34,841 million). As a result of appeals filed by the Bank before appellate authorities, most of the add backs have been deleted. However, the Bank and Tax Department are in appeals/references before higher forums against unfavorable decisions. Pending finalization of appeals/references no provision has been made by the Bank on aggregate sum of Rs. 38,524 million (2023: 34,841 million). The management is confident that the outcome of these appeals/references will be in favor of the Bank.|
+
+# 23 CONTINGENCIES AND COMMITMENTS
+
+|Guarantees|23.1|64,704,701|66,315,450|
+|---|---|---|---|
+|Commitments|23.2|611,889,822|495,953,754|
+|Other contingent liabilities|23.3|6,994,409|6,987,410|
+|Total|Total|683,588,932|569,256,614|
+
+# 23.1 Guarantees
+
+| |Financial guarantees| |6,049,698|5,603,283| | |
+|---|---|---|---|---|---|---|
+| |Performance guarantees| |14,299,840|13,503,642| | |
+|Other guarantees| | |44,355,163|47,208,525| | |
+|Total| | |64,704,701|66,315,450| | |
+
+# 23.2 Commitments
+
+|Documentary credits and short term trade related transactions:|letters of credit|130,961,089|153,136,140| |
+|---|---|---|---|---|
+|Commitments in respect of:|- forward foreign exchange contracts|23.2.1|288,283,583|322,127,301|
+| |- forward government securities transactions|23.2.2|182,141,150|11,439,221|
+|- operating leases| |23.2.3|211,271|298,754|
+|Commitments for acquisition of:|- fixed assets|9,362,516|8,054,382| |
+|- intangible assets| |930,213|897,956| |
+|Total| |611,889,822|495,953,754| |
+
+# 23.2.1 Commitments in respect of forward foreign exchange contracts
+
+|Purchase| |181,173,349|180,292,360| |
+|---|---|---|---|---|
+|Sale| |107,110,234|141,834,941| |
+|Total| |288,283,583|322,127,301| |
+
+# 23.2.2 Commitments in respect of forward government securities transactions
+
+|Purchase|182,141,150|10,053,843| | |
+|---|---|---|---|---|
+|Sale|-|1,385,378| | |
+|Total|Total|182,141,150|11,439,221| |
+
+# 23.2.3 Commitments in respect of operating leases
+
+|Not later than one year|105,165|112,416| | | | | |
+|---|---|---|---|---|---|---|---|
+|Later than one year and not later than five years|89,799|162,545| | | | | |
+|Later than five years|16,307|23,793| | | | | |
+|Total|211,271|298,754| | | | | |
+
+# 23.3 Other contingent liabilities
+
+# 23.3.1 Claims against the Bank not acknowledged as debt
+
+23.3.1.1
+This represents certain claims by third parties against the Bank, which are being contested in Courts of law. Based on legal advice and/or internal assessment, the management is confident that these matters will be decided in the Bank’s favour and the possibility of an outflow of economic resource is remote.
+6,994,409
+6,987,410
+
+# Notes to the Unconsolidated Financial Statements
+
+# for the year ended December 31, 2024
+
+# Equity Futures
+
+An equity futures contract is a standardized contract, traded on a futures counter of the stock exchange, to buy or sell a certain underlying script at a certain date in the future, at a specified price. The Bank may use equity futures as a hedging instrument to hedge its equity portfolio, in both ‘held-for-trading’ and ‘available-for-sale’, against equity price risk. Only selected shares are allowed to be traded on futures exchange. Equity futures give flexibility to the Bank either to take delivery on the future settlement date or to settle it by adjusting the notional value of the contract based on the current market rates. Maximum exposure limit to the equity futures is 10% of Tier I Capital of the Bank, based on prevailing SBP regulations. The accounting policies used to recognize and disclose derivatives are given in Note 4.16.2. The risk management framework of derivative instruments is given in note 44.
+
+# 29 OTHER INCOME
+
+| | |Recovery of written off mark-up and charges|68|125,221|
+|---|---|---|---|---|
+|Gain on sale of fixed assets - net| | |632,669|24,033|
+| | |Other assets disposal|51,983|8,580|
+| | |Rent on property|41,181|21,518|
+| | |Fee for attending Board meetings|1,172|1,557|
+| | |Income from data center hosting service|17,716|17,716|
+|Gain on disposal of Islamic financing and related assets| | |13,078|32,246|
+|Total| | |757,867|230,871|
+
+# 30 OPERATING EXPENSES
+
+| | | |Total compensation expense|30.1|20,136,042|18,769,464|
+|---|---|---|---|---|---|---|
+| | | |Property expense:| | | |
+| | | |Rent & taxes| |435,599|396,589|
+| | | |Insurance| |144,854|104,083|
+| | | |Utilities cost| |3,105,050|2,558,057|
+| | | |Security (including guards)| |1,941,530|1,672,869|
+| | | |Repair & maintenance (including janitorial charges)| |1,910,147|1,608,133|
+| | | |Depreciation| |6,402,810|5,049,881|
+|Total| | | |13,939,990|11,389,612| |
+
+# Information technology expenses:
+
+|Software maintenance|2,278,841|2,302,538|
+|---|---|---|
+|Hardware maintenance|480,419|487,420|
+|Depreciation|1,651,527|1,145,471|
+|Amortisation|622,393|585,272|
+|Network charges|942,216|890,938|
+|Others|9,531|5,414|
+
+# Other operating expenses:
+
+| | | |Directors' fees and allowances|83,202|72,011| |
+|---|---|---|---|---|---|---|
+| | | |Fees and allowances to Shariah Board|12,224|8,913| |
+| | | |Legal & professional charges|310,623|246,839| |
+|Outsourced service cost| | | |36.1|1,714,874|1,303,938|
+| | | |Travelling & conveyance|478,317|383,174| |
+| | | |NIFT clearing charges|219,657|182,323| |
+| | | |Depreciation|422,243|311,776| |
+| | | |Training and development|254,837|230,589| |
+| | | |Postage & courier charges|221,097|202,610| |
+| | | |Communication|1,703,606|1,168,499| |
+| | | |Stationery & printing|805,858|715,103| |
+| | | |Marketing, advertisement & publicity|3,316,500|1,236,632| |
+| | | |Auditors Remuneration|30.2|31,249|29,478|
+| | | |Donations|30.3|105,251|84,104|
+| | | |Brokerage expenses|135,040|77,613| |
+| | | |Card related expenses|2,635,978|2,117,582| |
+|CNIC verification| | | |246,608|147,417| |
+| | | |Entertainment|496,195|332,432| |
+| | | |Clearing and settlement|278,942|240,250| |
+| | | |Insurance|2,072,772|1,715,984| |
+| | | |Cash In Transit Service Charge|471,071|458,322| |
+| | | |Others|175,806|143,109| |
+|Total| | | |16,191,950|11,408,698| |
+
+# 28 GAIN ON SECURITIES
+
+|Realised - net|28.1|2,448,270|928,795|
+|---|---|---|---|
+|Unrealised - held for trading| |14,944|(64,599)|
+|Unrealised - forward government securities| |981,145|(19,424)|
+|Total|Total|3,444,359|844,772|
+
+# 28.1 Realised gain / (loss) on:
+
+|Federal government securities|2,448,270|546,524| | | |
+|---|---|---|---|---|---|
+|Shares|-|382,256| | | |
+|Non Government debt securities|-|15| | | |
+|Total|2,448,270|928,795| | | |
+
+
+# Notes to the Unconsolidated Financial Statements
+
+# for the year ended December 31, 2024
+
+|Note|December 31, 2024|December 31, 2023| | | | |
+|---|---|---|---|---|---|---|
+|30.1|Total compensation expense|Rupees in ‘000| | | | |
+| | | |Saleem Memorial Trust Hospital| |10,000| |
+| | | |Anjuman Himayat-i-Islam|30.3.1|442|1,968|
+| | | |Tamir Welfare Organization| |3,500| |
+| | | |Food Security Fund 18 Wing| |500| |
+| | | |Aziz Jehan Begum Trust For The Blind| |2,500|2,500|
+| | | |Saylani Welfare International Trust|30.3.1|476|927|
+| | | |The Citizens Foundation| |3,960|4,470|
+| | | |National Management Foundation (LUMS)| |30,000|30,000|
+| |Jamia Ashrafia Lahore| | |30.3.1|1,948|1,355|
+| | | |Liver Foundation Trust| |5,000|2,500|
+| | | |Abdul Sattar Edhi Foundation| |3,272|2,180|
+| | | |Fatimid Foundation| |1,000|1,000|
+| | | |Fortify Education Foundation| |500|500|
+| | | |Hunza Public School & Degree College| |-|94|
+| | | |Million Smiles Foundation (MSF)| |6,336|1,980|
+| | | |The I Care Foundation| |-|2,000|
+| |The Kidney Centre Post Graduate Training Institute| | | |-|15,000|
+| | | |The Patients Behbud Society (PBS)| |-|5,000|
+| | | |The Layton Rahmatulla Benevolent Trust|-|1,000| |
+| | | |Al Shifa Trust| |500|-|
+| | | |Shaukat Khanum Memorial Trust| |10,000|-|
+| | | |Almarah Foundation| |162|-|
+| | | |Fountain House MHA| |2,500|-|
+| | | |Umpire Aleem Dar Foundation Society| |2,000|-|
+| | | |Sukkur IBA University| |-|1,630|
+| | | |Sundas Foundation| |2,000|-|
+| | | |Namal Education Foundation| |5,000|-|
+| | | |Idar Al Khair Welfare Society| |1,000|-|
+| | | |The I-Care Foundation| |1,000|-|
+| | | |Sarhad Rural Support Programme (SRSP)| |1,000|-|
+| | | |The Noorani Foundation Trust| |10,655|10,000|
+| |30.3.1 This represents charitable contributions on account of sadqa & feeding to under privileged.| | | | | |
+|30.2|Auditors’ remuneration|Rupees in ‘000| | | | |
+| |Audit fee|12,350|10,292| | | |
+| |Fee for other statutory certifications|5,520|6,745| | | |
+| |Annual audit overseas business unit*|3,820|5,128| | | |
+| |Half year review|4,860|4,050| | | |
+| |Special certifications and miscellaneous services|294|203| | | |
+| |Sales tax|1,776|960| | | |
+| |Out-of-pocket expenses|2,629|2,100| | | |
+| |31,249|29,478| | | | |
+|*This includes audit fee amounting to Bahraini Dinar 5,000 (2023: 6,000) & Chinese Yuan 3,000 (2023: 3,000) relating to Wholesale Bahrain Branch & China Representative Office respectively.| | | | | | |
+| | | | | | | |
+| | | | |30.3|None of the directors, executives and their spouses had any interest in the donees, except Mr. Mohammad Naeem Mukhtar (Chairman and Non-Executive Sponsor Director) is director in National Management Foundation.| |
+
+
+# Notes to the Unconsolidated Financial Statements
+
+# for the year ended December 31, 2024
+
+# 32 CREDIT LOSS ALLOWANCE AND WRITE OFFS - NET
+
+|Note|December 31, 2024|December 31, 2023|
+|---|---|---|
+|22|Credit loss allowance against lendings to financial institutions|-|
+|(328,439)|Credit loss allowance against cash and bank balances|-|
+|5,236|Credit loss allowance against nostro accounts|-|
+|8.4|(2,800,735)|Credit loss allowance for diminution in the value of investments|
+|9.4|257,454|Credit loss allowance against loans and advances|
+|13.2.1|122,161|Credit loss allowance against other assets|
+|20.1|41,705|Credit loss allowance against off balance sheet obligations|
+|-|Bad debts written off directly|-|
+|(2,702,596)|Recovery of written off bad debts|(17,105)|
+|-|-|-|
+|(2,710,139)|-|2,976,973|
+
+# 33 TAXATION
+
+|Note|December 31, 2024|December 31, 2023|
+|---|---|---|
+|-|Current – for the year including super tax|47,894,422|
+|-|– for prior year|(2,443,812)|
+|-|-|45,450,610|
+|-|Deferred – current|(638,352)|
+|-|-|(811,512)|
+|-|-|44,812,258|
+
+# 33.1 Relationship between tax expense and accounting profit
+
+|-|December 31, 2024|December 31, 2023|
+|---|---|---|
+|Accounting profit for the year|87,928,162|85,757,170|
+|Tax on income @ 44% (2023: 39%)|38,688,391|33,445,296|
+|Super Tax @ 10%|8,869,337|8,761,435|
+|Impact of tax rate change|169,500|-|
+|Prior Year|(2,443,812)|2,954,666|
+|Others|(471,158)|(87,214)|
+|Tax charge for the year|44,812,258|45,074,183|
+
+# 34 EARNINGS PER SHARE – BASIC AND DILUTED
+
+|-|December 31, 2024|December 31, 2023|
+|---|---|---|
+|Profit after taxation|43,115,904|40,682,987|
+|Weighted average number of ordinary shares outstanding during the year|1,145,073,830|1,145,073,830|
+|Earnings per share – basic and diluted|37.65|35.53|
+|There is no dilution effect on basic earnings per share.|There is no dilution effect on basic earnings per share.|There is no dilution effect on basic earnings per share.|
+
+# 36 STAFF STRENGTH
+
+|-|December 31, 2024|December 31, 2023|
+|---|---|---|
+|Permanent|12,058|11,991|
+|Temporary / on contractual basis / trainee|1,217|537|
+|Bank's own staff strength at the end of the year|13,275|12,528|
+|Average number of employees|12,902|12,229|
+|In addition to the above, 738 (2023: 800) employees of outsourcing services companies were assigned to the Bank as at the end of the year to perform services other than guarding and janitorial services. Further, 9 (2023: 7) employees were posted abroad. The rest were working domestically.|In addition to the above, 738 (2023: 800) employees of outsourcing services companies were assigned to the Bank as at the end of the year to perform services other than guarding and janitorial services. Further, 9 (2023: 7) employees were posted abroad. The rest were working domestically.|In addition to the above, 738 (2023: 800) employees of outsourcing services companies were assigned to the Bank as at the end of the year to perform services other than guarding and janitorial services. Further, 9 (2023: 7) employees were posted abroad. The rest were working domestically.|
+
+# 37 DEFINED BENEFIT PLANS
+
+# 37.1 General description
+
+The Bank operates a funded gratuity scheme for all employees who opted for the staff retirement benefit scheme introduced by the management with effect from July 1, 2002. For those employees who did not opt for the new scheme, the Bank continues to operate a funded pension scheme. The Bank also provides post retirement medical benefits (unfunded scheme) to eligible retired employees.
+
+# 37.2 Number of employees and beneficiaries under the schemes
+
+The number of employees covered under the following defined benefit scheme or plans are:
+
+# Notes to the Unconsolidated Financial Statements
+
+# for the year ended December 31, 2024
+
+# 37.6 Movement in defined benefit obligations
+
+| |December 31, 2024|December 31, 2023|
+|---|---|---|
+|– Pension fund|92|141|
+|– Gratuity fund|12,145|12,077|
+|– Post retirement medical benefits|13,275|12,528|
+|– Employees’ compensated absences|13,275|12,524|
+
+In addition, the number of beneficiaries covered under the following defined benefit scheme / plans are:
+
+| |December 31, 2024|December 31, 2023|
+|---|---|---|
+|– Pension fund|1,971|1,997|
+|– Post retirement medical benefits|1,610|1,610|
+
+# 37.3 Principal actuarial assumptions
+
+The actuarial valuations were carried out for December 31, 2024 based on the Projected Unit Credit Method, using the following significant assumptions:
+
+|Sources of estimation|December 31, 2024|December 31, 2023|
+|---|---|---|
+|Withdrawal rate|Pension fund: Age Based|Pension fund: Age Based|
+| |Gratuity fund: Moderate|Gratuity fund: Moderate|
+| |Post retirement medical benefits: Age Based|Post retirement medical benefits: Age Based|
+| |Employees’ compensated absences: Age Based|Employees’ compensated absences: Age Based|
+|Mortality rate|Adjusted SLIC 2001–2005|Adjusted SLIC 2001–2005|
+|Discount rate|12.25%|15.50%|
+|Expected rate of return on plan assets|Pension fund: Yield on investments in Government Bonds 12.25%|Pension fund: Yield on investments in Government Bonds 15.50%|
+| |Gratuity fund: Yield on investments in Government Bonds 12.25%|Gratuity fund: Yield on investments in Government Bonds 15.50%|
+|Expected rate of salary increase|Rate of salary increase 10.25%|Rate of salary increase 13.50%|
+
+# 37.4 Reconciliation of (receivable from) / payable to defined benefit plans
+
+|Note|December 31, 2024|December 31, 2023| | | | | | | |
+|---|---|---|---|---|---|---|---|---|---|
+| |Pension fund|Gratuity fund|Post retirement medical|Employees’ compensated absences| | | | | |
+|Present value of defined benefit obligations| | | | | |1,049,460|5,213,085|1,575,050|1,248,767|
+|Fair value of plan's and scheme's assets| |(8,821,900)|(4,960,423)|-|-| | | | |
+|Net (asset) / liability| |(7,772,440)|252,662|1,575,050|1,248,767| | | | |
+
+# 37.5 Movement in (receivable from) / payable to defined benefit plans.
+
+|Note|December 31, 2024|December 31, 2023| | | | | | | | | | |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| |Pension fund|Gratuity fund|Post retirement medical|Employees’ compensated absences| | | | | | | | |
+|Opening balance| |(6,185,041)|806,365|1,473,496|1,200,318| | | | | | | |
+|(Reversal) / charge for the year|37.9|(877,579)|555,014|239,477|158,703| | | | | | | |
+|Other comprehensive (income) / losses|37.10|(709,820)|(568,376)|20,425|-| | | | | | | |
+|Contribution to the fund and benefits paid| |-|(540,341)|(158,348)|(110,254)| | | | | | | |
+|Closing balance| |(7,772,440)|252,662|1,575,050|1,248,767| | | | | | | |
+
+
+# Notes to the Unconsolidated Financial Statements
+
+# for the year ended December 31, 2024
+
+# 37.8 Composition of plan assets
+
+| |Pension fund|Gratuity fund|Post retirement medical|Employees’ compensated absences|
+|---|---|---|---|---|
+|December 31, 2024|Rupees in ‘000| | | |
+|Equity securities|2,702,889|-|-|-|
+|Government securities|5,558,258|4,821,570|-|-|
+|Cash and cash equivalents|560,630|138,853|-|-|
+|CDC Advance Deposit|123|-|-|-|
+|Total|8,821,900|4,960,423|-|-|
+
+# December 31, 2023
+
+| |Pension fund|Gratuity fund|Post retirement medical|Employees’ compensated absences|
+|---|---|---|---|---|
+|Rupees in ‘000| | | | |
+|Equity securities|1,766,592|-|-|-|
+|Government securities|5,067,523|3,549,409|-|-|
+|Cash and cash equivalents|230,553|513,221|-|-|
+|Total|7,064,668|4,062,630|-|-|
+
+# 37.9 Charge for defined benefit plan
+
+| |Pension fund|Gratuity fund|Post retirement medical|Employees’ compensated absences|
+|---|---|---|---|---|
+|December 31, 2024|Rupees in ‘000| | | |
+|Current service cost|-|470,104|22,411|71,370|
+|Interest cost|-|-|-|-|
+|Net interest|(958,682)|83,110|216,120|177,505|
+|VRS loss|81,103|1,800|946|399|
+|Re-measurement loss recognised|-|-|-|(90,570)|
+|Total|(877,579)|555,014|239,477|158,704|
+
+# 37.10 Re–measurements recognized in other comprehensive income
+
+| |Pension fund|Gratuity fund|Post retirement medical|Employees’ compensated absences|
+|---|---|---|---|---|
+|December 31, 2024|Rupees in ‘000| | | |
+|Re-measurement (loss) / gain on obligations|-|-|-|-|
+|- Demographic assumptions|-|-|-|-|
+|- Financial assumptions|(31,391)|(1,054,373)|-|-|
+|- Experience adjustments|(202,634)|1,219,138|(20,425)|-|
+|Re-measurement loss on assets|943,846|403,611|-|-|
+|Re-measurement (loss) or gain in OCI|709,821|568,376|(20,425)|-|
+
+# December 31, 2023
+
+| |Pension fund|Gratuity fund|Post retirement medical|Employees’ compensated absences|
+|---|---|---|---|---|
+|Rupees in ‘000| | | | |
+|Re-measurement (loss) / gain on obligations|-|-|-|-|
+|- Demographic assumptions|-|-|-|-|
+|- Financial assumptions|42,020|(27,490)|-|-|
+|- Experience adjustments|(2,131)|68,225|148,845|-|
+|Re-measurement loss on assets|662,605|(19,779)|-|-|
+|Re-measurement (loss) or gain in OCI|702,494|20,956|148,845|-|
+
+
+# Notes to the Unconsolidated Financial Statements
+
+# for the year ended December 31, 2024
+
+|Description|December 31, 2024|December 31, 2023|
+|---|---|---|
+|Actual return on plan assets| | |
+|- Pension fund|2,018,613|1,501,675|
+|- Gratuity fund|1,023,571|500,715|
+
+# 37.14 Sensitivity analysis
+
+|Description|+1% Discount Rate|-1% Discount Rate|+1% Salary Increase|-1% Salary Increase|+10% Withdrawal Rate|-10% Withdrawal Rate|Mortality age set back|Mortality age set forward|
+|---|---|---|---|---|---|---|---|---|
+|Pension fund|992,869|1,112,638|-|-|1,049,463|1,049,457|1,056,724|1,042,774|
+|Gratuity fund|4,838,382|5,645,151|5,674,485|4,807,266|5,199,592|5,226,108|5,210,371|5,215,785|
+|Post retirement medical|1,479,411|1,683,008|1,599,240|1,550,038|1,571,939|1,578,237|1,572,484|1,577,594|
+|Leave compensated absences|1,175,626|1,331,357|1,332,148|1,173,737|1,241,584|1,256,131|1,246,720|1,250,806|
+
+The above sensitivity analysis are based on a change in an assumption while holding all other assumptions constant. In practice, this is unlikely to occur, and changes in assumptions may be correlated. When calculating the sensitivity of the defined benefit obligation to significant actuarial assumptions the same method (present value of defined benefit obligation calculated with the projected unit credit method at the end of the reporting period) has been applied when calculating the defined benefit obligation recognized within the statement of financial position.
+
+# 37.15 Maturity Profile
+
+|Description|Pension fund|Gratuity fund|Post retirement medical|Employees’ compensated absences|
+|---|---|---|---|---|
+|Present value of defined benefit obligation|5,213,085|4,868,996|1,575,050|1,248,767|
+|Fair value of plan assets|(4,960,423)|(4,062,631)|-|-|
+|Experience adjustments on plan obligations / assets|164,765|40,731|(20,425)|90,570|
+
+# 37.16 Funding Policy
+
+The Bank endeavors to ensure that liabilities under the various employee benefit schemes are covered by the Fund on any valuation date having regards to the various actuarial assumptions such as projected future salary increase, expected future contributions to the fund, projected increase in liability associated with future service and the projected investment income of the Fund.
+
+# 37.17 Risk associated with defined benefit plans
+
+The defined benefit plans may expose the bank to actuarial risks such as longevity risk, investment risk, salary increase risk and withdrawal rate risk as described below;
+
+# Longevity risks:
+
+The risk arises when the actual lifetime of retirees is longer than expectation. This risk is measured at the plan level over the entire retiree population.
+
+# Investment risks:
+
+The risk arises when the actual performance level of investment levels is lower than expectation and thus creating a shortfall in the funding objectives.
+
+# Salary increase risk:
+
+The most common type of retirement benefit is one where the final benefit is linked with final salary. The risk arises when the actual increases are higher than expectations and impact the liability accordingly.
+
+# Withdrawal Rate:
+
+The risk of actual withdrawals varying with the actuarial assumptions can impose a risk to the benefit obligation. The movement of the liability can go either way.
+
+# 37.13 Expected contributions to be paid to the funds in the next financial year
+
+The Bank contributes to the gratuity fund as per actuarial expected charge for the next financial year. No contributions are being made to pension due to surplus of fair value of plan’s assets over present value of defined obligation. Based on actuarial advice, management estimates that the charge or (reversal) in respect of defined benefit plans for the year ending December 31, 2025 would be as follows:
+
+|Description|Pension fund|Gratuity fund|Post retirement medical|Employees’ compensated absences|
+|---|---|---|---|---|
+|Expected (reversal) and charge for the next year|(952,229)|471,791|225,770|204,060|
+
+
+# Notes to the Unconsolidated Financial Statements
+
+# for the year ended December 31, 2024
+
+# 39 COMPENSATION OF DIRECTORS AND KEY MANAGEMENT PERSONNEL
+
+# 39.2 Remuneration paid to Directors for participation in Board and Committee Meetings
+
+| | | | | | | | |Directors|Other Material Risk Takers / Key Management Personnel|Board Committees| | | |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|Chairman (other than CEO)*| | |Executive|Non-Executives|President / CEO*|Controllers| | |Audit|Human Resource & Management|Board Risk Monitoring|Strategic Planning|Total Amount|
+|Total compensation expense| | | | | | | | | | |Rupees in ‘000| | |
+|Fees and allowances etc.|7,200|-|73,200|-|-|-| | | | | | | |
+|Managerial remuneration| | | | | | | | | | | | | |
+|- Fixed (including Eid bonus)|-|-|-|4,237|60,000|167,419|203,397| | | | | | |
+|- Total variable|-|-|-|600|50,000|167,850|103,867| | | | | | |
+|of which| | | | | | | | | | | | | |
+|a. Cash bonus and awards|-|-|600|50,000|167,850|103,867| | | | | | | |
+|b. Bonus and awards in shares|-|-|-|-|-|-| | | | | | | |
+|Charge for defined benefit plans| | | | | |-|-|-|-|-|-| | |
+|Contribution to defined contribution plan|-|-|-|327|4,998|12,731|16,341| | | | | | |
+|Rent and house maintenance|-|-|-|2,556|36,000|100,452|117,708| | | | | | |
+|Utilities|-|-|-|786|12,000|33,484|39,236| | | | | | |
+|Medical|-|-|-|786|12,000|34,406|39,236| | | | | | |
+|Conveyance|-|-|-|1,354|5,400|91,450|77,436| | | | | | |
+|Others|-|-|-|1,578|15,485|65,731|107,154| | | | | | |
+|Total|7,200|-|73,200|12,224|195,883|673,523|704,375| | | | | | |
+|Number of persons|1|-|8|3|1|17|65| | | | | | |
+
+# December 31, 2023
+
+| | | | | | | | |Directors|Other Material Risk Takers / Key Management Personnel|Board Committees| | | |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|Chairman (other than CEO)*| | |Executive|Non-Executives|President / CEO*|Controllers| | |Audit|Human Resource & Management|Board Risk Monitoring|Strategic Planning|Total Amount|
+|Total compensation expense| | | | | | | | | | |Rupees in ‘000| | |
+|Fees and allowances etc.|4,200|-|67,200|-|-|-| | | | | | | |
+|Managerial remuneration| | | | | | | | | | | | | |
+|- Fixed (including Eid bonus)|-|-|-|3,947|30,000|135,294|209,435| | | | | | |
+|- Total variable|-|-|-|895|30,500|165,990|140,804| | | | | | |
+|of which| | | | | | | | | | | | | |
+|a. Cash bonus and awards|-|-|895|30,500|165,990|140,804| | | | | | | |
+|b. Bonus and awards in shares|-|-|-|-|-|-| | | | | | | |
+|Charge for defined benefit plans| | | | | |-|-|-|-|-|-| | |
+|Contribution to defined contribution plan|-|-|-|303|2,499|11,221|16,019| | | | | | |
+|Rent and house maintenance|-|-|-|2,186|18,735|80,827|121,585| | | | | | |
+|Utilities|-|-|-|728|6,245|26,943|40,528| | | | | | |
+|Medical|-|-|-|728|6,245|27,962|43,005| | | | | | |
+|Conveyance|-|-|-|1,316|5,850|86,550|88,039| | | | | | |
+|Others|-|-|-|743|1,717|26,877|91,500| | | | | | |
+|Total|4,200|-|67,200|10,846|101,791|561,664|750,915| | | | | | |
+|Number of persons|1|-|6|3|1|21|75| | | | | | |
+
+# 39.3 Remuneration paid to Shariah Board Members
+
+|Items| | | | | | | | | |December 31, 2024| | |December 31, 2023| | |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| |Chairman|Resident Member|Non-Resident Member|Chairman|Resident Member|Non-Resident Member| | | | | | | | | |
+| | | | | | | | |Salaries and allowances| |6,597|2,895|2,732|6,042|2,544|2,260|
+| | | | | | | | |Total Number of Persons| |1|1|1|1|1|1|
+
+# 39.4 Deferred cash bonus and remuneration for MRTs for the year 2024 is Rs. 25,827,600 (2023: 23,607,733).
+
+# 40 FAIR VALUE OF FINANCIAL INSTRUMENTS
+
+# 40.1 Fair value of financial assets
+
+The fair value of traded investments is based on quoted market prices other than those classified as “hold to collect”. Quoted securities classified as hold to collect are carried at cost. The fair value of unquoted equity securities, other than investments in associates and subsidiaries, is determined on the basis of the break-up value of these investments as per their latest available audited financial statements.
+
+The fair value of unquoted debt securities, fixed term loans, other assets, other liabilities, fixed term deposits and borrowings cannot be calculated with sufficient reliability due to the absence of a current and active market for these assets and liabilities and reliable data regarding market rates for similar instruments. The provision for impairment of loans and advances has been calculated in accordance with the Bank’s accounting policy as stated in note 5.4 to these unconsolidated financial statements.
+
+# Notes to the Unconsolidated Financial Statements
+
+# for the year ended December 31, 2024
+
+The Bank measures fair values using the following fair value hierarchy that reflects the significance of the inputs used in making the measurements:
+
+# Level 1:
+
+Fair value measurements using quoted prices (unadjusted) in active markets for identical assets or liabilities. Financial instruments included in level 1 comprise of investments in Listed Ordinary Shares.
+
+# Level 2:
+
+Fair value measurements using inputs other than quoted prices included within Level 1 that are observable for the assets or liability, either directly (i.e. as prices) or indirectly (i.e. derived from prices). Financial instruments included in level 2 comprise of Sukuk Bonds, Units of Mutual Funds, Pakistan Investment Bonds, Market Treasury Bills, Term Finance Certificates and Forward Government & Exchange Contracts.
+
+# Level 3:
+
+Fair value measurements using input for the asset or liability that are not based on observable market data (i.e. unobservable inputs). Currently, no financial instruments are classified in level 3.
+
+The table below analyses financial instruments measured at the end of the reporting period by the level in the fair value hierarchy into which the fair value measurement is categorised:
+
+# 41 SEGMENT INFORMATION
+
+# 41.1 Segment Details with respect to Business Activities
+
+|Segment|December 31, 2024| | | | | | | |
+|---|---|---|---|---|---|---|---|---|
+|Corporate & Investment Banking|Commercial Banking|Trading & Sale (Treasury)|Islamic Banking| | |Other| | |
+|Total|Rupees in ‘000|Net mark-up, return, profit|119,655,553|(180,319,079)|164,541,966|11,124,092|220,595|115,223,127|
+| |Inter segment revenue - net|(105,553,765)|278,855,473|(153,841,091)|-|(19,460,617)|-| |
+| |Non mark-up / return / interest income|6,705,023|9,542,864|9,862,566|710,592|1,159,061|27,980,106| |
+| |Total income|20,806,811|108,079,258|20,563,441|11,834,684|(18,080,961)|143,203,233| |
+| |Segment direct expenses|1,704,162|25,463,491|357,935|2,482,619|27,977,003|57,985,210| |
+| |Total expenses|1,704,162|25,463,491|357,935|2,482,619|27,977,003|57,985,210| |
+| |Credit loss allowance|(1,388,174)|(15,862)|(328,420)|564,660|(1,542,343)|(2,710,139)| |
+|Profit before tax| |20,490,823|82,631,629|20,533,926|8,787,405|(44,515,621)|87,928,162| |
+
+# Statement of Financial Position
+
+|Item|December 31, 2024|
+|---|---|
+|Cash & Bank balances|156,732,392|
+|Investments|1,129,873,956|
+|Net inter segment lending|-|
+|Lendings to financial institutions|243,541,081|
+|Advances - performing|1,053,352,980|
+|Advances - non-performing|12,994,970|
+|Credit loss allowance against advances|(15,034,057)|
+|Advances - net|1,051,313,893|
+|Property and equipment, right of use and intangible assets|138,681,227|
+|Others|96,826,140|
+|Total assets|2,816,968,689|
+
+# Total liabilities
+
+|Item|December 31, 2024|
+|---|---|
+|Borrowings|462,023,558|
+|Deposits & other accounts|2,018,395,067|
+|Others|102,648,863|
+|Total liabilities|2,583,067,488|
+
+# Equity and Reserves
+
+|Item|December 31, 2024|
+|---|---|
+|Total equity and liabilities|2,816,968,689|
+
+# Contingencies and commitments
+
+|Item|December 31, 2024|
+|---|---|
+|Contingencies and commitments|683,588,932|
+
+
+# Notes to the Unconsolidated Financial Statements
+
+# for the year ended December 31, 2024
+
+# 41.2 GEOGRAPHICAL SEGMENT ANALYSIS
+
+|Corporate & Investment Banking|Commercial and Retail Banking|Trading & Sale (Treasury)|Islamic Banking| | | | | | |Total| | |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|Domestic Operations|Middle East| | | | | | | |China| | | |
+| | | |Rupees in ‘000| | |Profit and Loss Account| | | | | | |
+|Net mark-up, return, profit|119,873,099|(156,066,479)|140,324,432|8,561,048|587,212|113,279,312| | | | | | |
+|Inter segment revenue - net|(117,178,022)|281,976,540|(146,027,805)|-|(18,770,713)|-| | | | | | |
+| | | | | | |Non mark-up / return / interest income|27,792,396|187,710|-|27,980,106| | |
+| | | | | | |Total Income|141,601,882|1,601,351|-|143,203,233| | |
+| | | | | | |Segment direct expenses|(57,800,247)|(150,669)|(34,294)|(57,985,210)| | |
+| | | | | | |Total expenses|(57,800,247)|(150,669)|(34,294)|(57,985,210)| | |
+| | | | | | |Credit loss allowance|2,145,457|564,682|-|2,710,139| | |
+|Profit / (loss) before tax| | | | | | |85,947,092|2,015,364|(34,294)|87,928,162| | |
+
+# Statement of Financial Position
+
+|Cash & Bank balances|156,728,318|4,074|-|156,732,392|
+|---|---|---|---|---|
+|Investments|1,116,813,547|13,060,409|-|1,129,873,956|
+|Net inter segment lendings|325,900|-|-|325,900|
+|Lendings to financial institutions|243,215,181|-|-|243,215,181|
+|Advances - performing|1,047,781,980|5,571,000|-|1,053,352,980|
+|Advances - non-performing|12,994,970|-|-|12,994,970|
+|Credit loss allowance against advances|(14,777,727)|(256,330)|-|(15,034,057)|
+|Advances - net|1,045,999,223|5,314,670|-|1,051,313,893|
+|Property and equipment, right of use and intangible assets|138,644,226|37,001|-|138,681,227|
+|Others|96,053,288|772,852|-|96,826,140|
+|Total Assets|2,797,779,683|19,189,006|-|2,816,968,689|
+|Borrowings|455,569,558|6,128,100|-|461,697,658|
+|Subordinated debt|-|-|-|-|
+|Deposits & other accounts|2,015,185,164|3,209,903|-|2,018,395,067|
+|Net inter segment borrowing|-|325,900|-|325,900|
+|Lease liabilities|10,360,968|-|-|10,360,968|
+|Others|92,212,322|75,573|-|92,287,895|
+|Total liabilities|2,573,328,012|9,739,476|-|2,583,067,488|
+|Equity|224,451,671|9,449,530|-|233,901,201|
+|Total Equity and liabilities|2,797,779,683|19,189,006|-|2,816,968,689|
+|Contingencies and commitments|683,588,932|-|-|683,588,932|
+
+
+# Notes to the Unconsolidated Financial Statements
+
+# for the year ended December 31, 2024
+
+# December 31, 2023
+
+|Domestic|Middle East|China|Total|Related parties|
+|---|---|---|---|---|
+|25,000|25,000|2,935|1,125|17,264|
+|Operations|Operations|Operations|Operations|(19,074)|
+
+# Profit and Loss Account
+
+|Net mark-up, return, profit|111,733,893|1,545,419|-|113,279,312|
+|---|---|---|---|---|
+|Inter segment revenue - net|483,113|(483,113)|-|-|
+|Non mark-up, return, interest income|24,421,011|6,030|-|24,427,041|
+|Total Income|136,638,017|1,068,336|-|137,706,353|
+|Segment direct expenses|(48,737,065)|(202,793)|(32,352)|(48,972,210)|
+|Total expenses|(48,737,065)|(202,793)|(32,352)|(48,972,210)|
+|Provisions|(833,592)|(2,143,381)|-|(2,976,973)|
+|Profit or (loss) before tax|87,067,360|(1,277,838)|(32,352)|85,757,170|
+
+# Statement of Financial Position
+
+|Cash & Bank balances|158,589,094|2,815|-|158,591,909|
+|---|---|---|---|---|
+|Investments|1,136,641,091|13,676,998|-|-|
+|Net inter segment lendings|6,716,740|-|-|1,150,318,089|
+|Lendings to financial institutions|2,701,263|-|-|2,701,263|
+|Advances - performing|779,877,512|1,221,396|-|781,098,908|
+|Advances - non-performing|13,039,029|-|-|13,039,029|
+|Provision against advances|(12,396,149)|(144,558)|-|(12,540,707)|
+|Advances - net|780,520,392|1,076,838|-|781,597,230|
+|Property and equipment, right of use and intangible assets|125,392,111|82,902|-|125,475,013|
+|Others|103,505,071|411,340|-|103,916,411|
+|Total Assets|2,314,065,762|15,250,893|-|2,329,316,655|
+|Borrowings|364,279,625|2,677,677|-|366,957,302|
+|Subordinated debt|-|-|-|-|
+|Deposits & other accounts|1,673,290,608|3,332,467|-|1,676,623,075|
+|Net inter segment borrowing|-|6,716,740|-|6,716,740|
+|Others|84,572,361|192,713|-|84,765,074|
+|Total liabilities|2,122,142,594|12,919,597|-|2,135,062,191|
+|Equity|191,923,168|2,331,296|-|194,254,464|
+|Total Equity and liabilities|2,314,065,762|15,250,893|-|2,329,316,655|
+|Contingencies and commitments|569,256,614|-|-|569,256,614|
+
+# RELATED PARTY TRANSACTIONS
+
+The Bank has related party relationships with its parent, subsidiaries, companies with common directorship, directors, employee benefit plans and key management personnel including their associates.
+
+The Bank enters into transactions with related parties in the ordinary course of business and on substantially the same terms as for comparable transactions with persons of similar standing. Contributions to and accruals in respect of staff retirement benefits and other benefit plans are made in accordance with the actuarial valuations / terms of the contribution plan.
+
+Remuneration to the executives / officers is determined in accordance with the terms of their appointment.
+
+Details of transactions with related parties during the year, other than those which have been disclosed elsewhere in these financial statements are as follows:
+
+# Balances with other banks
+
+In current accounts
+
+In deposit accounts
+
+# Lendings to financial institutions
+
+Opening balance
+
+Addition during the year
+
+Repaid during the year
+
+Transfer in and (out) - net
+
+Closing balance
+
+# Investments
+
+Opening balance
+
+Investment made during the year
+
+Investment redeemed and disposed off during the year
+
+Transfer in and (out) - net
+
+Closing balance
+
+# Credit loss allowance for diminution in value of investments
+
+# Advances
+
+Opening balance
+
+Addition during the year
+
+Repaid during the year
+
+Transfer in and (out) - net
+
+Closing balance
+
+Credit loss allowance held against advances
+
+# Notes to the Unconsolidated Financial Statements
+
+# for the year ended December 31, 2024
+
+|Othe related parties|1,035|18,057|
+|---|---|---|
+|5,238,086|2,128,234|7,839,463|
+|Joint venture|-|-|
+|8,660|3,579|1,275|
+|38,444|37,806|111,965|
+|37,125|Associates*|20,396|
+|9,933,381|1,842,309|(10,008,221)|
+|3,616|66,547|21,629|
+|33,398|Subsidiaries|308,865|
+|19,628|10,839|(10,674,436)|
+|58|-|-|
+|Key personnel|277|(94)|
+|4,099|1,268|17,155|
+|23,669|507,353|10,094|
+|94,881|51,333|35,100|
+|1,116,106|10,686,205|-|
+|-|-|-|
+|Directors|99,292|510,062|
+|(516,899)|(1,132,339)|-|
+|-|-|-|
+|Parent|-|15|
+|-|-|-|
+|Other related parties|7,114,833|7,839,463|
+|-|-|-|
+|-|-|-|
+|Joint venture|-|-|
+|Associates*|9,869|37,125|
+|2,090|292,162|7,387|
+|-|(51)|-|
+|-|-|-|
+|(13,126,259)|27,497|39,321|
+|Subsidiaries|20,062|42,648|
+|981,477|1,937,577|-|
+|December 31, 2024|330,388|33,398|
+|329,811|Key|277|
+|250|35|5,319|
+|2,646|-|-|
+|16,979|25,802|(33,516,644)|
+|673,523|12,731|86,824|
+|559,861|-|634,626|
+|December 31, 2024|-|-|
+|-|-|-|
+|Key personnel|104,117|35,100|
+|57,178|133|11|
+|6,656|5,442|4,998|
+|412|-|-|
+|-|-|-|
+|Directors|195,883|-|
+|-|-|-|
+|Parent|18,118,441|(18,128,987)|
+
+# RELATED PARTY TRANSACTIONS
+
+- Interest or mark-up accrued
+- Receivable from staff retirement fund
+- Other receivable
+- Credit loss allowance against other assets
+- Borrowings
+- Opening balance
+- Borrowings during the year
+- Settled during the year
+- Transfer in and (out) - net
+- Closing balance
+- Subordinated debt
+- Opening balance
+- Issued or Purchased during the year
+- Redemption and Sold during the year
+- Closing balance
+- Deposits and other accounts
+- Opening balance
+- Received during the year
+- Withdrawn during the year
+- Transfer in and (out) - net
+- Closing balance
+- Other Liabilities
+- Interest or mark-up payable
+- Payable to staff retirement fund
+- Other liabilities
+- Contingencies and Commitments
+- Other contingencies
+- Income
+- Mark-up, return, interest earned
+- Fee and commission income
+- Dividend income
+- Net gain / (loss) on sale of securities
+- Rental Income
+- Other Income**
+- Expense
+- Mark-up, return, interest paid
+- Directors meeting fee
+- Remuneration
+- Charge for defined benefit plans
+- Contribution to defined contribution plan
+- Other expenses***
+- Rent expense****
+- Charge in respect of staff retirement benefit funds
+- Insurance premium paid
+- Others Transaction
+- Purchase of Government securities
+- Sale of Government securities
+- Purchase of foreign currencies
+- Sale of foreign currencies
+- Insurance claims settled
+
+Shares held by the holding company, outstanding at the end of year are included in note 21 to these unconsolidated financial statements.
+
+* Associated companies are as per IAS 24 ‘Related Party Disclosures’.
+
+**Other income includes income from data hosting services provided to ABL AMC at agreed terms.
+
+***Other expenses mainly include donation of Rs. 30 million to National Management Foundation for construction of hostel building and technology and product development lab.
+
+****Rent expense of ABL Branch with associated companies (Ibrahim Fibres Limited & Ibrahim Agencies Pvt. Limited) was carried out on agreed terms with prior permission of State Bank of Pakistan.
+
+During the year ended December 31, 2024; certain moveable assets which have been fully depreciated were disposed off for Rs. 735,341 to the Key Management Personnel of the Bank.
+
+# Notes to the Unconsolidated Financial Statements
+
+# for the year ended December 31, 2024
+
+December 31, 2024
+
+December 31, 2023
+
+Rupees in ‘000
+
+# 43 CAPITAL ADEQUACY, LEVERAGE RATIO & LIQUIDITY REQUIREMENTS
+
+|Minimum Capital Requirement (MCR):| | | | |
+|---|---|---|---|---|
+|Paid-up capital (net of losses)|11,450,739|11,450,739| | |
+|Capital Adequacy Ratio (CAR):| | | | |
+|Eligible Common Equity Tier 1 (CET 1) Capital|165,125,973|136,415,747| | |
+|Eligible Additional Tier 1 (ADT 1) Capital|-|-| | |
+|Total Eligible Tier 1 Capital|165,125,973|136,415,747| | |
+|Eligible Tier 2 Capital|56,168,881|44,340,488| | |
+|Total Eligible Capital (Tier 1 + Tier 2)|221,294,854|180,756,235| | |
+|Risk Weighted Assets (RWAs):| | | | |
+|Credit Risk|536,062,246|473,684,877| | |
+|Market Risk|65,492,988|40,606,084| | |
+|Operational Risk|226,944,614|175,308,026| | |
+|Total|828,499,848|689,598,987| | |
+
+Common Equity Tier 1 Capital Adequacy ratio 19.93% 19.78%
+
+Tier 1 Capital Adequacy Ratio 19.93% 19.78%
+
+Total Capital Adequacy Ratio 26.71% 26.21%
+
+The SBP through its BSD Circular No. 07 dated April 15, 2009 prescribed the minimum paid up capital (net of losses) for all locally incorporated banks of Rs. 10 billion. The paid up capital of the Bank stood at Rs. 11.451 billion as at 31 December, 2024 and is in compliance with the SBP requirements.
+
+Further, SBP vide its BPRD Circular # 6 of 2013 dated August 15, 2013 required the Banks to maintain the minimum Capital Adequacy Ratio (CAR) of 12.5% inclusive of Capital Conservation Buffer (CCB) of 2.5% on standalone as well as on consolidated basis. To support the banking sector in extending financing or credit facilities to their customers during COVID-19, SBP vide BPRD Circular # 12 of 2020 relaxed the CAR requirement to 11.5% by reducing the Capital Conservation Buffer (CCB) from 2.5% to 1.5% till further instructions.
+
+Bank’s CAR as at December 31, 2024 stood at 26.71% of its total risk weighted assets and complied with all externally imposed capital requirements. Standardized Approach is used for calculating the Credit Risk and Maturity approach for Market risk, whereas, Basic Indicator Approach is used for Operational Risk in the Capital Adequacy calculation.
+
+# Leverage Ratio (LR):
+
+|Eligible Tier-1 Capital|165,125,973|136,415,747|
+|---|---|---|
+|Total Exposures|2,921,466,553|2,470,110,831|
+|Leverage Ratio|5.65%|5.52%|
+
+# Liquidity Coverage Ratio (LCR):
+
+|Total High Quality Liquid Assets|861,351,877|673,797,912|
+|---|---|---|
+|Total Net Cash Outflow|432,705,987|371,108,564|
+|Liquidity Coverage Ratio|199.06%|181.56%|
+
+# Net Stable Funding Ratio (NSFR):
+
+|Total Available Stable Funding|1,745,069,468|1,679,029,185|
+|---|---|---|
+|Total Required Stable Funding|1,121,401,014|1,042,804,071|
+|Net Stable Funding Ratio|155.62%|161.01%|
+
+# RISK MANAGEMENT
+
+The principal risks associated with the Bank’s business are Credit Risk, Market Risk, Liquidity Risk, Reputational Risk, Operational Risk, Information Security & Governance Risk and Shariah Non-Compliance Risk. The Risk Management Framework (henceforth to be referred to as ‘The Framework’) provides principles for identifying, assessing, and monitoring risk within the Bank. The Framework specifies the key elements of the risk management process in order to maximize opportunities, minimize adversities and to achieve improved outputs based on informed decision making.
+
+The Bank performs risk measurement, monitoring and control functions through use of various risk procedures and models. To give it a formal structure, all the policies and guidelines are approved by the Board and relevant management committees.
+
+# Categories of Risk
+
+Credit Risk This risk is defined as the possibility of loss due to unexpected default or a deterioration of credit worthiness of a business partner.
+
+Credit Risk includes Country Risk i.e., the risks that counterparty is unable to meet its foreign currency obligations as a result of adverse economic conditions or actions taken by governments in the relevant country.
+
+Market Risk The risk that the value of on and off-balance sheet positions of the Bank will be adversely affected by movements in market rates or prices such as interest rates / rate of returns, foreign exchange rates, equity prices, credit spreads and / or commodity prices, resulting in a loss to earnings and capital.
+
+Liquidity Risk The risk that the Bank is unable to meet its payment obligations when they fall due and to replace funds when they are withdrawn without incurring unacceptable cost or losses.
+
+Operational Risk Operational Risk is the risk of loss resulting from inadequate or failed internal processes, people, systems or from external events. The definition includes legal risk but excludes strategic risk and reputational risk.
+
+Reputational Risk The Reputational risk arises from the negative perception on the part of stakeholders that can adversely affect a bank’s ability to maintain existing, or establish new, business relationships and continued access to sources of funding.
+
+Information Security & Governance Risk The Reputational risk arises from the negative perception on the part of stakeholders that can adversely affect a bank’s ability to maintain existing, or establish new, business relationships and continued access to sources of funding.
+
+Strategic Risk Risk of an adverse impact on strategic goals. Strategic risk mainly arises from strategic decisions, improper implementation of those decisions, or lack of responsiveness of Bank to industry, economic or technological changes.
+
+Shariah Non-Compliance Risk Shariah Non Compliance Risk arises from the failure to comply with shariah rules and principles determined by the Shariah Board of the Bank and the Regulator.
+
+# Risk Responsibilities
+
+- The Board of Directors shall oversee the risk management process. The Board of Directors are responsible for determining the manner in which risk authorities are set, as well as the approval of all risk policies and ensuring that these are properly implemented. Further, the Board of Directors shall also seek appointment of senior management personnel capable of managing the risk activities conducted by the Bank.
+- The Board Risk Management Committee (BRMC) is responsible for ensuring that the overall risk strategy and risk acceptance criteria of the Bank is appropriately defined in the Strategic Plan and recommend the same to the Board of Directors.
+- The Chief Executive Officer and Group Chiefs shall be responsible for the management of risk collectively through their membership of various committees i.e. Management Committee (MANCO), Asset & Liability Committee (ALCO), Compliance Committee (CC) and Risk Management Committee (RMC). Independent supervision of risk management activities is provided by the Audit Committee of the Board.
+
+# Notes to the Unconsolidated Financial Statements
+
+# for the year ended December 31, 2024
+
+The Risk Management Group is headed by a Group Chief responsible for set-up and implementation of the Risk Management Strategy of the Bank.
+
+# Risk Management Group Organization
+
+Risk management functions have been segregated by business specialization, i.e., Credit Risk, Credit Administration, Technical Appraisal, Information Security and Enterprise Risk which interalia includes Policy and Procedures, Risk Architecture, Operational Risk and Market & Liquidity Risk. All these functions are operating in tandem to monitor the health of assets and liabilities, while ensuring risk mitigants against cyber and information system threats.
+
+# 44.1 Credit Risk
+
+Credit risk is the risk that one party to a financial instrument will cause a financial loss for the other party by failing to discharge an obligation. The Bank is exposed to credit risk through its lending and investment activities. The Bank’s credit risk function is divided into Corporate and Financial Institutions and Risk Shariah and Commercial, SME and Consumer Risk. The functions operate within an integrated framework of credit policies, guidelines and processes. The credit risk management activities are governed by the Credit Policy of the Bank that defines the respective roles and responsibilities, the credit risk management principles and the Bank’s credit risk strategy. The policy is supported by a comprehensive Credit Procedures Manual.
+
+The Bank manages three principal sources of credit risk:
+
+1. Sovereign credit risk on its public sector advances
+2. Counterparty credit risk on its private sector advances
+3. Counterparty credit risk on interbank limits
+
+# Sovereign Credit Risk
+
+When the Bank lends to public sector borrowers, it prefers obtaining a full sovereign guarantee or the equivalent from the Government of Pakistan (GOP). However, certain public sector enterprises have a well-defined cash flow stream and appropriate business model, based on which the lending is secured through collaterals other than GOP guarantee.
+
+# Counterparty credit risk on its private sector advances
+
+Each borrower’s credit worthiness is analyzed on the Credit Application Package that incorporates a formalized and structured approach for credit analysis and directs the focus of evaluation towards a balanced assessment of credit risk with identification of proper mitigants. These risks include Industry Risk, Business Risk, Financial Risk, Security Risk and Account Performance Risk. Financial analysis is further strengthened through use of separate financial spread sheet templates that have been designed for manufacturing / trading concerns, financial institutions and insurance companies.
+
+# Counter Party Credit Risk on Interbank Limits
+
+In the normal course of its business, the Bank’s Treasury utilizes products such as Reverse Repo and Call Lending to meet the needs of interbank borrowers and manage its exposure to fluctuations in market, interest and currency rates. Further, these products are also used to temporarily invest Bank’s liquidity prior to disbursement. All of these financial instruments involve, to varying degrees, the risk that the counterparty in the transaction may be unable to meet its obligation to the Bank. Reflecting a preference for minimizing exposure to counterparty credit risk, the Bank maintains eligibility criteria that link the exposure limits to counterparty credit ratings by external rating agencies.
+
+# A. Country Risk
+
+The Bank has in place a Country Risk Management Framework which has been approved by the Board. This framework focuses on providing detailed roles and responsibilities with respect to country risk assessment as well as limit setting, exposure management and reporting of cross border exposure undertaken by the Bank. The Bank utilizes S&P, Fitch and Moody’s country ratings as well as other macroeconomic and external risk factors in assigning a country risk limit. The Financial Institutions Division is responsible for monitoring of country exposure limits.
+
+# Credit Administration
+
+The Credit Administration department plays a crucial role in minimizing, reducing and mitigating potential losses that could result from inadequacies in security and documentation. This department consistently evaluates the risks associated with security and documentation within the current credit portfolio, operating through four regional credit administration offices in major metropolitan cities. Moreover, the Credit Monitoring Division ensures that all post-disbursement activities are carried out in accordance with bank policies, thereby safeguarding the Bank’s interests through its three specialized units: Classification & Monitoring, Vigilance, and Warehouse Management.
+
+| | |Gross lendings| |Non–performing lendings| |Credit loss allowance held| |
+|---|---|---|---|---|---|---|---|
+|December 31, 2024|December 31, 2023|December 31, 2024|December 31, 2023|December 31, 2024|December 31, 2023| | |
+|44.1.1 Lendings to financial institutions|Public and Government|44,059,437|3,502,103|-|-|-|-|
+|Private|199,551,668|5,985,900|70,000|70,000|70,024|70,000| |
+|Total|243,611,105|9,488,003|70,000|70,000|70,024|70,000| |
+
+|Gross Investments|Non–performing Investments| | | | | |Credit loss allowance held|
+|---|---|---|---|---|---|---|---|
+|December 31, 2024|December 31, 2023|December 31, 2024|December 31, 2023|December 31, 2024|December 31, 2023| | |
+|44.1.2 Investment in debt securities|Basic metals (iron, steel)|340,000|340,000|-|-|231,001|-|
+| |Financial|10,759,324|14,184,078|-|-|8,821|-|
+| |Hotel, restaurant and clubs|300,339|386,150|-|-|204,054|-|
+| |Power, gas, water and sanitary|330,000|910,000|-|-|174|-|
+| |Sugar|10,343|10,487|10,343|10,487|10,343|10,487|
+| |Textile - Spinning|51,345|51,345|51,345|51,345|51,345|51,345|
+| |Textile - Weaving|200,000|200,000|200,000|200,000|200,000|200,000|
+| |Government|1,088,030,849|1,137,405,449|-|-|1,964,317|2,429,689|
+| |Others|44,442|62,159|44,442|62,159|44,442|62,159|
+|Total| |1,100,066,642|1,153,549,668|306,130|323,991|2,714,497|2,753,680|
+
+
+# Notes to the Unconsolidated Financial Statements
+
+# for the year ended December 31, 2024
+
+|Gross advances|Non–performing advances|Credit loss allowance held|December 31|December 31|
+|---|---|---|---|---|
+|December 31, 2024|December 31, 2023|December 31, 2024|December 31, 2023|Rupees in ‘000|
+|44.1.3 Advances| | | | |
+|Credit risk by industry sector| | | | |
+|Agriculture, Forestry and Hunting|38,260,358|178,932,397|501,112|1,141,052|
+|Basic metals (iron, steel)|2,812,035|3,466,684|837,627|671,679|
+|Cement, clay and ceramics|44,426,206|37,021,595|124,933|69,791|
+|Chemical and pharmaceutical|26,677,434|31,855,433|336,741|308,487|
+|Construction|11,739,046|15,198,147|144,338|167,168|
+|Education|128,191|119,231|123|1,445|
+|Financial|447,600,543|99,964,826|5,554|12,154|
+|Footwear and leather garments|4,795,725|3,202,145|25,450|8,472|
+|Furniture and sports goods|947,383|716,601|114,747|116,147|
+|Grains, food and beverages|48,270,093|20,900,865|1,553,326|1,726,564|
+|Health and social welfare|129,238|33,614|2,975|599|
+|Hotel, restaurant and clubs|9,986|4,500|6,686|6,686|
+|Individuals|42,731,778|20,033,249|586,208|677,014|
+|Machinery and equipment|1,628,100|2,594,385|45,659|9,399|
+|Manufacture of transport equipment|2,072,845|6,188,907|126,162|133,073|
+|Paper and paper boards|27,684,642|20,642,488|16,552|199,906|
+|Petroleum products|25,442,623|55,953,186|7,465|8,366|
+|Power, gas, water and sanitary|108,035,860|137,742,145|-|-|
+|Printing, publishing and allied|74,083|80,560|198|378|
+|Real estate, renting, and business activities|7,126,752|4,567,044|456,535|-|
+|Rubber and plastic|836,374|795,219|164,927|205,413|
+|Sugar|5,414,589|6,747,863|-|-|
+|Mining and quarrying|8,062,839|4,334,842|3,039|-|
+|Textile – Manufacture of made up & ready made garments|74,368,360|44,776,101|4,380,540|2,492,454|
+|Textile - Finishing|25,048,510|18,590,819|652,993|2,629,435|
+|Textile - Spinning|23,796,664|25,702,953|569,604|933,855|
+|Textile - Weaving|2,715,365|2,456,362|1,002,716|443,280|
+|Transport, storage and communication|50,650,222|40,873,418|46,642|46,392|
+|Wholesale and retail trade|5,329,543|4,624,396|997,795|589,761|
+|Others - Services|27,953,895|1,844,884|3,638|6,730|
+|Others|1,578,668|4,173,078|280,685|433,329|
+|Total|Total|1,066,347,950|794,137,937|12,994,970|
+
+# 44.1.5 Concentration of Advances
+
+Credit risk by public and private sector
+
+|Public and Government|515,886,522|418,389,947|377,026|377,026|36,656|-|
+|---|---|---|---|---|---|---|
+|Private|550,461,428|375,747,990|12,617,944|12,662,003|14,997,401|12,335,688|
+|Total|Total|1,066,347,950|794,137,937|12,994,970|13,039,029|15,034,057|
+
+# December 31, 2024
+
+# December 31, 2023
+
+Rupees in ‘000
+
+|Funded|524,470,248|361,618,685|
+|---|---|---|
+|Non Funded|33,595,847|66,911,684|
+|Total Exposure|558,066,095|428,530,369|
+
+The sanctioned limits against these top 10 exposures aggregated to Rs. 678,578 million (December 31, 2023: Rs. 472,100 million).
+
+# Notes to the Unconsolidated Financial Statements
+
+# for the year ended December 31, 2024
+
+# 44.1.6 Advances – Province/Region–wise Disbursement and Utilization
+
+# 44.2 Market Risk
+
+Market Risk is the risk of loss in earnings and capital due to adverse changes in interest rates / rate of return, foreign exchange rates, equity prices and market conditions. Thus market risk can be further described into Interest Rate Risk / Rate of Return Risk, Foreign Exchange Risk and Equity Position Risk.
+
+Market Risk performs risk measurement, monitoring and control functions through the use of various risk procedures and models. To give it a formal structure, all the policies and guidelines are approved by the Board of Directors and the relevant management committees.
+
+The Bank uses three types of risk management tools to measure the Bank’s Market Risk: Value-at Risk (VaR), Expected Shortfall (ES) and Stress Testing. In addition, control limits are utilized to maintain the risks within acceptable levels.
+
+The Bank maintains adequate regulatory capital to cover all interest rate risks falling under the “Trading Book” as well as “Banking Book”, as defined by Basel capital accord. The Bank uses Standardized Approach in determining credit risk, market risk and operational risk exposures in the capital adequacy calculation. In Market risk exposures, Maturity method is used to calculate charge on Interest rate risk and FX risk.
+
+In its pursuit of automation, the Bank has successfully implemented Oracle Financial Services Analytical Application (OFSAA) Market Risk Module to automate the risk monitoring and reporting activities pertaining to Market Risk, which allows for more efficient risk monitoring and increased focus on risk analysis to help in making more informed decisions.
+
+# During the year ended December 31, 2023
+
+# 44.2.1 Market Risk Pertaining to the Trading Book
+
+The Trading Book of the Bank consists of positions in financial instruments held either with trading intent or in order to hedge other elements of the trading book. To be eligible for trading book, financial instruments must be held with the intent of trading and free of any restrictive covenants on their tradability. In addition, positions need to be frequently and accurately valued and the portfolio should be actively monitored and managed accordingly.
+
+The Bank’s trading book includes securities classified as Fair Value Through Profit and Loss (FVTPL), Open Ended Mutual Fund and non-strategic listed equity placed in Fair Value Through Other Comprehensive Income (FVOCI) category. These positions are exposed to all forms of market risk and are managed actively.
+
+# Risk Pertaining to Banking Book Investment Portfolio
+
+All investments excluding trading book are considered as part of banking book. Banking book includes:
+
+- Fair Value Through Other Comprehensive Income (FVOCI) - (other than non-strategic listed equity)
+- At Amortised Cost
+
+Treasury investments parked in the banking book include:
+
+- Government securities
+- Capital market investments
+- Investments in bonds, debentures, etc.
+
+Due to the diversified nature of investments in banking book, it is subject to interest rate risk, equity price risk and FX risk.
+
+# Stress Testing
+
+The Bank also conducts Stress Testing of the Bank’s investment portfolio to ascertain the impact of various scenarios on the capital adequacy and sustainability of the Bank. The exercise assumes various stress conditions, with respect to Interest Rate Risk, Equity Price Risk, FX Risk and Liquidity Risk. Stress testing is also conducted on various macro-economic scenarios to test the resilience of the Bank.
+
+# 44.1.7 Sensitivity of ECL to Future Economic Conditions
+
+The Bank performs sensitivity analysis on the ECL recognized on each of its segments. The following table outline the impact of ECL from applying a 100% weighting to each scenario.
+
+|Description|Agriculture|Corporate / Commercial|Medium Enterprise|Small Enterprise|Others|Overseas|Total| |
+|---|---|---|---|---|---|---|---|---|
+|Total ECL|220,638|11,340,022|1,290,222|1,187,645|739,199|256,330|15,034,056| |
+|ECL (Upside)|213,915|9,773,404|1,270,537|1,150,943|697,619|230,697|13,337,116| |
+|ECL (Central)|220,500|11,073,056|1,283,916|1,176,929|733,913|256,330|14,744,645| |
+|ECL (Downside)|228,006|14,152,478|1,339,336|1,274,352|805,446|281,963|18,081,581| |
+|ECL % Inc. / (Dec.)|ECL (Upside)|-3.05%|-13.81%|-1.53%|-3.09%|-5.63%|-10.00%|-11.29%|
+| |ECL (Central)|-0.06%|-2.35%|-0.49%|-0.90%|-0.72%|0.00%|-1.93%|
+| |ECL (Downside)|3.34%|24.80%|3.81%|7.30%|8.96%|10.00%|20.27%|
+
+
+# Notes to the Unconsolidated Financial Statements
+
+# for the year ended December 31, 2024
+
+| | |December 31, 2024| | | |December 31, 2023| |Equity position Risk| | |
+|---|---|---|---|---|---|---|---|---|---|---|
+|Banking book|Trading book| |Total|Total| | | | | | |
+|Cash and balances with treasury banks|146,768,168| |-|146,768,168|156,136,308|-|156,136,308| | | |
+|Balances with other banks|9,964,224| |-|9,964,224|2,455,601|-|2,455,601| | | |
+|Lendings to financial institutions|243,541,081| |-|243,541,081|9,418,003|-|9,418,003| | | |
+|Investments|1,106,845,843|23,028,113|1,129,873,956|1,114,769,066| |35,549,023|1,150,318,089| | | |
+|Advances| | |1,051,313,893| | |-|1,051,313,893|781,597,230|-|781,597,230|
+|Fixed assets|135,048,603| |-|135,048,603|122,065,722|-|122,065,722| | | |
+|Intangible assets|3,632,624| |-|3,632,624|3,409,291|-|3,409,291| | | |
+|Deferred tax assets|-|-|-|3,821,594|-|3,821,594| | | | |
+|Other assets|96,826,140| |-|96,826,140|100,094,817|-|100,094,817| | | |
+|Total|2,793,940,576|23,028,113|2,816,968,689|2,293,767,632| |35,549,023|2,329,316,655| | | |
+
+# 44.2.3 Foreign Exchange Risk
+
+Foreign exchange risk is the current or prospective risk to earnings and capital arising from adverse movements in currency exchange rates.
+
+The majority of the Bank’s net foreign currency exposure is in US$ and the Bank uses system-based monitoring of its intra-day Net Open Position for effective risk management.
+
+The Bank’s FX Risk is largely mitigated by following a matched funding policy, whereas, for any mismatched exposures, the Bank utilizes appropriate derivative instruments such as Forwards and Swaps. The Bank maintains adequate regulatory capital to cover against foreign exchange risk.
+
+| | | |December 31, 2024| | |December 31, 2023|Foreign Currency| |
+|---|---|---|---|---|---|---|---|---|
+| | |Assets|Liabilities|Off–balance sheet items|Net foreign currency exposure| | | |
+|Pakistani Rupee|2,724,781,786|2,434,233,065|(73,610,985)|216,937,736| | | | |
+|United States Dollar| |89,115,771|135,748,117|63,475,958|16,843,612| | | |
+|Great Britain Pound Sterling| |1,419,851|7,404,011|5,987,650|3,490| | | |
+|Japanese Yen| |56,410|402,773|345,980|(383)| | | |
+|Euro| |1,305,042|5,279,522|3,974,097|(383)| | | |
+|Other currencies| |289,829|-|(172,700)|117,129| | | |
+|Total|2,816,968,689|2,583,067,488|-|233,901,201| | | | |
+
+# 44.2.5 Yield and Interest Rate Risk in the Banking Book (IRRBB)-Basel II Specific
+
+Interest rate and Rate of return risk is the current or prospective risk of losses, to both the Bank’s capital and earnings, arising from movements in interest rates and rates of return. The Bank has a robust system in place to monitor Interest rate risk and ALCO regularly analyses the interest rate scenario and devises strategies to minimize adverse impact of interest rate risk on the Bank’s equity and profits.
+
+Interest rate risk is measured through “duration” of an instrument. To assess the interest rate risk at Balance Sheet and Income Statement level, gap analysis on “re-pricing schedule” is utilized.
+
+| |December 31, 2024| |December 31, 2023|Impact of change in Interest Rates by 1%| | | | | |
+|---|---|---|---|---|---|---|---|---|---|
+|Banking book|Trading book|Banking book|Trading book| | | | | | |
+| | | | | |-|-|-|-| |
+| | | | | |- Proﬁt and loss account|(4,653,067)|-|907,128| |
+| | | | | |- Other comprehensive income|3,368,766|36,391|(4,784,526)|(176,322)|
+
+
+# Notes to the Unconsolidated Financial Statements
+
+# for the year ended December 31, 2024
+
+|bearing financial instruments|5,906,871|bearing financial instruments|2,455,601|
+|---|---|---|---|
+|1,603,346|9,322,405|Non–interest|255,763,613|
+|650,400,170|570,356,583|Non–interest|262,897,355|
+|588,981,012|343,042,112|-|135,024,674|
+|-|25,714,260|-|89,117,808|
+|-|14,502,237|-|561,227,783|
+|-|10,360,968|-|64,309,182|
+|-|-|-|144,440,981|
+|-|19,333,444|-|95,063,983|
+|-|-|504,514,842|-|
+|-|75,143,765|-|-|
+|29,191|29,191|Above|3,347,598|
+|3,318,407|(394,636,557)|8,803,096|8,803,096|
+|2,070,550|2,070,550|8,228,402|(326,083,657)|
+|10 Years|12,121,503|(394,636,557)|10 Years|
+|10,298,952|8,626,605|8,626,605|964,993,140|
+|10,298,952|16,855,007|(326,083,657)|669,125,769|
+
+# Exposed to Yield/ Interest risk
+
+|Rupees in ‘000|Over 6 Months to 1 Year|4,249,028|8,749,205|
+|---|---|---|---|
+|1,378,257|1,378,257|Months to|65,392,669|
+|69,641,697|17,457,572|26,449,712|33,300,877|
+|197,192,458|149,904,872|347,097,330|277,455,633|
+|303,905,345|811,130,125|124,950,563|201,734,574|
+|123,185,620|301,566,845|-|-|
+
+# Mismatch of Interest Rate Sensitive Assets and Liabilities
+
+|On–balance sheet financial instruments|Assets|Cash and balances with treasury banks|Balances with other banks|
+|---|---|---|---|
+|Lending to financial institutions|Investments|Advances|Other assets|
+|Liabilities|Bills payable|Borrowings|Deposits and other accounts|
+|Lease Liabilities|Subordinated debt|Other liabilities|On–balance sheet gap|
+|Off–balance sheet financial instruments|Documentary credits and short–term|Commitments in respect of purchase of:|- forward foreign exchange contracts|
+|- forward government securities transactions|- derivatives|- forward lending|Commitments in respect of sale of:|
+|- forward foreign exchange contracts|- forward government securities transactions|- derivatives|- forward lending|
+|Other commitments|Off–balance sheet gap|Total Yield and Interest Risk Sensitivity Gap|Cumulative Yield and Interest Risk Sensitivity Gap|
+
+
+# Notes to the Unconsolidated Financial Statements
+
+# for the year ended December 31, 2024
+
+# Reconciliation to total assets
+
+| |December 31, 2024|December 31, 2023|
+|---|---|---|
+|Balance as per balance sheet|2,816,968,689|2,329,316,655|
+|Less: Non financial assets| | |
+|Fixed assets|138,681,227|125,475,013|
+|Deferred Tax Assets|-|3,821,594|
+|Other assets|7,708,332|5,030,834|
+|Total financial assets|2,670,579,130|2,194,989,214|
+
+# Reconciliation to total liabilities
+
+| |December 31, 2024|December 31, 2023|
+|---|---|---|
+|Balance as per balance sheet|2,583,067,488|2,135,062,191|
+|Less: Non financial liabilities| | |
+|Deferred tax liabilities|9,830,548|-|
+|Other liabilities|3,645,928|298,904|
+|Total financial liabilities|2,569,591,012|2,134,763,287|
+
+# Operational Risk
+
+The Bank, like all financial institutions, is exposed to different types of operational risks, including the potential losses arising from internal activities or external events caused by breakdowns in information, communication, physical safeguards, business continuity, supervision, transaction processing, settlement systems and the execution of legal, fiduciary and agency responsibilities.
+
+In accordance with the BoD approved Operational Risk Management Policy (ORM), Bank maintains a system of internal controls designed to keep operational risk at appropriate levels, in view of the bank’s financial strength and the characteristics of the activities and market in which it operates. These internal controls are periodically updated to conform to industry best practices.
+
+The Bank has implemented workflow based system “Risk Nucleus” for Operational Risk Loss Data Collection & Reporting, Risk Control & Self Assessment (RCSA) and Key Risk Indicators (KRIs) monitoring. Further, major Operational Risk events are also analyzed from the control breaches perspective and mitigating controls are assessed on design and operating effectiveness.
+
+Quarterly updates on Operational Risk events are presented to senior management and Board’s Risk Management Committee & BoD.
+
+# Liquidity Risk
+
+Liquidity Risk is the risk that the Bank is unable to fund its current obligations and operations in the most cost efficient manner. The Bank’s Board of Directors has delegated the responsibility to Asset and Liability Committee (ALCO) for ensuring that Bank’s policy for liquidity management is adhered to on a continual basis. ALCO uses gap analysis based on “maturity schedule” to assess the Bank’s liquidity risk and devise strategy accordingly.
+
+The Bank has in place a robust Recovery Plan in place to deal with any liquidity crisis in the most efficient and effective manner. SBP initiatives such as deferral of principal and rescheduling and restructuring of loans may have an adverse effect on liquidity and maturity profile of the Bank, however the Bank holds sufficient liquidity buffer to absorb any unforeseen shocks during the prevailing situation.
+
+# Notes to the Unconsolidated Financial Statements
+
+# for the year ended December 31, 2024
+
+# Maturities of assets and liabilities – based on expected maturities of the assets and liabilities of the Bank
+
+|Over 5 years|Upto 1 Month|Over 1 to 3 Months|Over 3 to 6 Months|Over 6 Months|Over 1 to 2 Years|Over 2 to 3 Years|Over 3 to 5 Years|Over 5 to 10 Years|Above 10 Years|Total|
+|---|---|---|---|---|---|---|---|---|---|---|
+|975,056|7,470,495|226,034|8,605,464|69,291,545|(3,421,330)|92,510,773|26,820,498|35,651,996|157,522,504|324,349,043|
+|288,697,047|Over 3 to 5 years|4,374,261|688,070|112,337|9,592,260|5,217,638|3,442,185|81,946,011|8,772,160|149,235,263|
+|246,809,558|238,037,398|Assets|Cash and balances with treasury banks|146,768,168|42,753,657|9,007,454|10,197,199|7,413,262|5,389,517|8,531,397|
+|-|-|63,475,682|Balances with other banks|9,964,224|9,964,224|-|-|-|-|-|
+|-|-|Lending to financial institutions|243,541,081|243,441,089|99,992|-|-|-|-|-|
+|Investments - net|1,129,873,956|102,872|6,378,740|144,305,046|304,175,368|226,573,852|91,332,994|283,434,480|69,842,166|3,728,438|
+|Advances - net|1,051,313,893|209,877,278|226,339,073|114,172,392|179,224,270|95,883,988|86,036,328|85,614,060|49,589,199|4,577,305|
+|Property and equipment|127,260,862|1,397,973|2,795,945|4,193,918|8,387,836|6,388,287|6,328,483|4,664,937|5,201,855|87,901,628|
+|Right-of-use assets|7,787,741|129,796|259,591|389,387|778,774|1,557,548|1,557,548|3,115,097|-|-|
+|Intangible assets|3,632,624|43,228|86,456|129,685|259,369|518,739|518,739|1,037,477|1,038,931|-|
+|Deferred tax assets|-|-|-|-|-|-|-|-|-|-|
+|Other assets - net|96,826,140|37,702,936|21,421,477|21,054,504|5,528,015|798,353|364,102|4,027,693|5,929,060|-|
+
+# Liabilities
+
+| | | | | | | | | | |Total|Upto 1 Month|Over 1 to 3 Months|Over 3 to 6 Months|Over 6 Months|Over 1 to 2 Years|Over 2 to 3 Years|Over 3 to 5 Years|Over 5 to 10 Years|Above 10 Years|
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| | | | | | | | | | |2,816,968,689|545,413,053|266,388,728|294,442,131|505,766,894|337,110,284|194,669,591|381,893,744|131,601,211|159,683,053|
+| | | | | | | | | |Bills payable|14,502,237|14,502,237|-|-|-|-|-|-|-|-|
+| | | | | | | | | |Borrowings|462,023,558|394,403,406|3,872,294|27,198,211|4,249,028|7,451,086|6,678,589|10,688,368|7,453,385|29,191|
+| | | | | | | | | |Deposits and other accounts|2,018,395,067|213,433,248|197,906,304|224,046,661|162,879,679|118,738,808|187,588,812|445,531|94,497|913,261,527|
+| | | | | | | | | |Lease Liabilities|10,360,968|86,341|172,683|259,024|518,048|1,036,097|1,036,097|2,072,194|5,180,484|-|
+| | | | | | | | | |Subordinated debt|-|-|-|-|-|-|-|-|-|-|
+| | | | | | | | | |Deferred tax liabilities - net|9,830,548|(520,992)|(1,358,763)|207,520|801,334|2,144,367|900,554|2,748,609|739,568|4,168,351|
+| | | | | | | | | |Other liabilities|67,955,110|49,420,996|2,837,709|1,388,314|2,640,822|5,283,659|1,162,175|1,491,839|3,729,596|-|
+
+# Net assets
+
+| | | | | | | | | |Total|Upto 1 Month|Over 1 to 3 Months|Over 3 to 6 Months|Over 6 Months|Over 1 to 2 Years|Over 2 to 3 Years|Over 3 to 5 Years|Over 5 to 10 Years|Above 10 Years|
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| | | | | | | | | |233,901,201|(125,912,183)|62,958,501|41,342,401|334,677,983|202,456,267|(2,696,636)|364,447,203|114,403,681|(757,776,016)|
+| | | | | | | | |Share capital|11,450,739|Reserves|42,460,536|Unappropriated profit|56,628,460|Surplus on revaluation of assets net of tax|123,361,466|233,901,201|-|-|
+
+
+# Notes to the Unconsolidated Financial Statements
+
+# Annexure I
+
+# for the year ended December 31, 2024
+
+| | |TOTAL|12|1.679|0.706|0.785|1.866|5.894|1.473|0.576|28.778|7.926|0.591|1.747|0.961|0.764|0.907|4.385|0.524|19.032|7.113|
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|44.5|Derivative Risk|Amount in Million|-|-|-|1.378|0.706|0.785|1.866|5.894|1.473|0.576|25.975|7.926|0.591|1.747|0.961|0.751|0.907|4.385|0.524|
+
+Market & Liquidity Risk Division under Risk Management Group is responsible for assessing and monitoring the derivative risk emanating from Bank’s exposures.
+
+# OTHER FINANCIAL RELIEF PROVIDED
+
+| | | | | | | | | |-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|• Forward Exchange Contracts| |0.301| |2.803| |0.013| |19.032|7.113| | | | | | | | | | | | | | | | |
+|• Foreign Exchange Swaps| |10| | | | | | | | | | | | | | | | | | | | | | | |
+|• Equity Futures| | | | | | | | |-| | | | | | | | | | | | | | | | |
+|• Forward Contracts for Government Securities| | | | | | | | |-| | | | | | | | | | | | | | | | |
+
+The Bank’s Risk Management Group, Asset and Liability Committee (ALCO) and Board Risk Management Committee monitor the derivative risk and utilize Off-Balance Sheet gap analysis to implement prudent asset liability management of the Bank’s derivative exposures.
+
+# NON ADJUSTING EVENT AFTER THE REPORTING DATE
+
+3.029
+3.342
+1.885
+6.955
+3.318
+2.948
+1.207
+3.577
+4.254
+1.684
+1.537
+9.785
+2.937
+# 45.1
+
+The Board of Directors of the Bank in its meeting held on February 04, 2025 has proposed a final cash dividend in respect of 2024 of Rs. 4.00 per share (2023: cash dividend Rs. 4.00 per share). This appropriation will be approved in the forthcoming Annual General Meeting. The unconsolidated financial statements of the Bank for the year ended December 31, 2024 do not include the effect of these appropriations which will be accounted for subsequent to the year end.
+
+# GENERAL
+
+# 46.1
+
+Figures have been rounded off to the nearest thousand of rupees unless otherwise stated.
+
+# 46.2
+
+Corresponding figures have been rearranged, reclassified or additionally incorporated where considered necessary, for the purpose of better presentation.
+
+# DATE OF AUTHORIZATION FOR ISSUE
+
+These financial statements were authorized for issue on February 04, 2025 by the Board of Directors of the Bank.
+
+# FATHER’S NAME
+
+| | | | |Khan Mohammad Narejo|Maqbool Ahmad Makhmola|Ahmad Ali|Muhammad Rafique|Malik Abdul Majeed|Malik Mubashir|Shahab Ud Din|Taaj Muhammad| | | | |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|1) Iftikhar Ahmed Khan|2) Ahmed Khan| | | | |Muhammad Khairat|Muhammad Ishaq|Shankar Das|Muhammad Shamsul Huda|Muhammad Ejaz Hussain|Muhammad Rahim| | | | |
+| | | | | | | | |Sher Muhammad|Lal Din|Ilam Ud Din|Muhammad Yar|1. M. Sadiq|2. M. Sadiq|1. Muhammad Sadiq|2. Nayar Qayyum|
+|1. M. Sadiq|2. M. Sadiq|3. M. Sadiq|4. M. Sadiq| | | | | | | | | | | | |
+
+# NIC NOS.
+
+|44103-5772165-7|33201-8782481-1|34302-3132681-3|35103-1339888-3|35103-1339882-9|35103-8368144-0|35202-8108128-3|35202-9995870-8|
+|---|---|---|---|---|---|---|---|
+|42301-7797516-9|31104-1675219-7|1) 33202-120017-8|2) 33202-184173-7|35302-1914974-3|35302-2168396-1|44204-2300159-3|42201-5394485-3|
+|36302-3451121-5|44103-6692435-5|36102-3928784-1|36102-9708910-9|31104-4511974-1|36302-5987125-3|32304-0543235-9|36304-6171909-9|
+|1.37405-477435-6|2.37405-1930907-9|1.37405-477435-6|2.37405-2109572-3|1.61101-1850422-0|2.61101-1926945-1|3.61101-1926942-9|4.61101-1850431-8|
+
+# NAME OF DIRECTORS
+
+| |NAME OF INDIVIDUALS/PARTNERS/DIRECTORS| | | | | | | | | | | |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| |Muhammad Umer Narejo|Muhammad Shafique|Khalid Hussain|Ch. Aftab Ahmed|Ch. Mehtab Ahmad|Mst. Sardaran Bibi|Malik Muzammal Ahmed|Abida Mubashir| | | | |
+|Muhammad Shahid|Asif Nadeem|1) Kishwar Iftikhar|2) Mukhtar Ahmed Khan|Muhammad Ishaq|Zeeshan Ishaq|Wasdev|Muhammad Anwar Jalil| | | | | |
+|Mian Muhammad Umair| |Marral|Yar Muhammad|1. Muhammad Sardar|2. Abdul Razak|Muhammad Latif|Tanveer Ahmed Ghouri|Allah Wasaya| | | | |
+| | | | |Rana Muhammad Hayat|1. Mrs. Sadia Sadiq|2. M. Saad Sadiq|1. Mrs. Sadia Sadiq|2. Muhammad Arsal|1. Ms Aisha Bilal|2. Mr. Salman Sadiq|3. Asif Zubair Sadiq|4. Rasheeda Begum|
+
+# NAME AND ADDRESS OF BORROWER
+
+|MUHAMMAD UMER NAREJO|Deh 125 Village Muhammad Umer Narejo Taluka Mirpur Khas Sindh.|
+|---|---|
+|MUHAMMAD SHAFIQUE|Hno.332/ Mohalla Fatehabad Chiniot|
+|AHMED KARYANA STORE|Sadhoke Road Mohallah Islampura Jalalpur Bhattian Hafizabad|
+|AQSA RICE MILLS|Near Sher Garrh Road Renala Khurd Distt. Okara|
+|ATAS PAPERS PVT LTD|16 K M Lahore - Sheikhupura Road|
+|ALLAHWALA AUTOS|Shop No 3 Nirma Corner Rahchore Line M A Jinnah Road Karachi|
+|MASROOR CORPORATION COMMISSION AGENTS|Grain Market Haroon Abad|
+|KHAN RICE AND EXPORT PROCESSING|Muzaffar Garh Road Ahmed Pur Sial Jhang|
+|DIAMOND RICE MILLS|Chak No 38/D Peer Di Hatti Deplapur Road Depalpur|
+|WASDEV|House No. 54 55 Gali Muhalla Anaj Mandi Shahdadpur|
+|AJ PACKAGING|Malir Township Karachi|
+|MIAN MUHAMMAD UMAIR MARRAL|Saddiqa Masjid House No.2-A/Ex Muhallah New Gulgasht Colony Multan.|
+|YAR MUHAMMAD|Kumbhar Mohola Ward 74 Khipro Sanghar.|
+|M/S PAKISTAN CLOTH HOUSE|Short Bazar Kabirwala.|
+|LAL DIN MLATIF CO|Grain Market Haroonabad|
+|ALLAH WASAYA & RANA MUHAMMAD HAYAT|Chah Allah Yar Walamouza Kaleech Pur|
+|P/O Matotli Shujabad|SADIQ POULTRY FARMS (PVT) LTD|
+|32-A Near Arshi Masjid Sattelite Town Rawalpindi|SADIQ FEEDS (PVT) LTD|
+|32-A Near Arshi Masjid Sattelite Town Rawalpindi|SADIQ POULTRY (PVT) LTD|
+|48-C Satellite Town Rawalpindi| |
+
+# STATEMENT SHOWING WRITTEN OFF LOANS OR ANY OTHER FINANCIAL RELIEF OF FIVE HUNDRED THOUSAND OR ABOVE FROM (JANUARY 1, 2024 TO DECEMBER 31, 2024)
+
+No.
+1
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+Annual Report 2024
+
+# Annexure II
+
+# ISLAMIC BANKING BUSINESS
+
+The Bank is operating with 160 (December 31, 2023: 127) Islamic Banking Branches and 308 (December 31, 2023: 162) Islamic Banking Windows at the end of the year.
+
+# Statement of Financial Position
+
+|Total| | | | | | | | |12.190| |133.573| | | | | | | | |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|Amount in Million| | | | | | | | | | |-| | | | | | | | |
+|Note|December 31, 2024| | | | | | | | | | | |December 31, 2023| | | | | | |
+|OTHER FINANCIAL RELIEF PROVIDED| | | | | | | | | | |-|-| | | | | | | |
+|UP WRITTEN–OFF INTEREST/ MARK–| | | | | | | | | | |-|-| | | | | | | |
+|PRINCIPAL WRITTEN–OFF| | | | | | | | | | |-|-| | | | | | | |
+|TOTAL|8|2.093|1.472|7.014|9.147|2.416|7.332|2.087|3.162|12.245|3.487|5.444|15.190|8.342|1.458|5.211|5.393|6.327|709.396|
+|ASSETS| | | | | | | | | | | | |Cash and balances with treasury banks| |10,380,917|7,728,461| | | |
+| | | | | | | | | | | | | |Balances with other banks| |261,329|253,054| | | |
+|Due from financial institutions| | | | | | | | | | | | | |1|-| | | | |
+| | | | | | | | | | | | | |Investments|2|105,193,809|38,360,057| | | |
+|Islamic financing and related assets - net| | | | | | | | | | | | | |3|32,129,690|79,620,372| | | |
+| | | | | | | | | | | | | |Property and equipment| |2,034,377|420,710| | | |
+| | | | | | | | | | | | | |Right-of-use assets| |1,084,789|963,821| | | |
+| | | | | | | | | | | | | |Intangible assets| |118|1,378| | | |
+|Due from Head Office| | | | | | | | | | | | | | |4|-| | | |
+| | | | | | | | | | | | | |Other assets| |4,504,888|5,126,241| | | |
+| | | | | | | | | | | | | |Total Assets| |155,589,917|132,474,094| | | |
+
+# LIABILITIES
+
+| | | | | | | | | | | | |Bills payable| |525,569|363,436|
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|Due to financial institutions| | | | | | | | | | | | | |9,329,144|17,276,361|
+| | | | | | | | | | | | |Deposits and other accounts|5|109,842,436|95,333,605|
+|Due to Head Office| | | | | |4| | | | | | | |7,565,690|427,931|
+| | | | | | | | | | | | |Lease liabilities| |1,393,192|1,178,259|
+| | | | | | | | | | | | |Subordinated debt| |-|-|
+| | | | | | | | | | | | |Other liabilities| |1,421,579|2,860,622|
+| | | | | | | | | | | | |NET ASSETS| |25,512,307|15,033,880|
+
+# REPRESENTED BY
+
+| | | |Islamic Banking Fund|4,100,000|4,100,000|
+|---|---|---|---|---|---|
+| | | |Reserves|-|-|
+| | | |Surplus on revaluation of assets|2,246,873|351,709|
+|Unappropriated profit| |7| |19,165,434|10,582,171|
+|Total| | | |25,512,307|15,033,880|
+
+# CONTINGENCIES AND COMMITMENTS
+
+8
+
+# NAME OF INDIVIDUALS/PARTNERS/DIRECTORS
+
+Muhammad Saleem Shehzad, Salam Nasir, Muhammad Younis, Allah Dino, Malik Tanweer Hussain, Mst. Ghazala Tanweer, Muhammad Akram, Waqas Tanweer, Ghazala Tannweer, 1.M. Nadeem Khan, 2..Osama Nadeem Khan, 3.Sadia Nadeem, 4.Resham Jan, 5.Sana Khurram, Shazia Aslam, Zahid Majeed Khan, Ch. Muhammad Adeel Ashraf, Babar Iqbal Alvi, Mubarik Ali, Muhammad Shafiq Shahid, Rizwan Shaukat, Muhammad Yousaf, Zafar Hayyat, Ghulam Madni Masood.
+
+# NAME AND ADDRESS OF BORROWER
+
+HAJI MEHDI HASSAN & SONS, Plot No.199 Timber Market Multan.
+
+MUHAMMAD YOUNAS TRACTOR HOUSE, Model Colony Mariam Road Nawabshah.
+
+FAQEER TRADERS, Gohar Shah Colony Daharki.
+
+M/S TANWEER TRADERS GOVT CONT & COMMISSION AGENT, House No.332 Jinnah Colony Bahawalnagar.
+
+M/S AKRAM CORPORATION, House No.59 Street No.6 Block 1 Khanewal.
+
+M/S MALIK TRADING COMPANY, House No.332 Jinnah Colony Bahawalnagar.
+
+STARRIC INTERNATIONAL LTD, 18-D West Mushtaq Mansion Blue Area Isd.
+
+SHAZIA ASLAM, H No 10 St No 1 Behlwan Park Amir Road Lahore.
+
+BONY INDUSTRY, House No 48 Quaid-E-Azam Road Cantt.
+
+M/S INTERNATIONAL TRADERS, House No.23 Block-E Chishtian.
+
+M/S IQBAL RICE MILLS & ALLIED INDUSTRIES, House No. 1314 Baldia Colony Haroon Abad.
+
+M/S BISMILLAH TRADERS AND M/S MUBARIK ALI, House No.119 Willayat Abad No.2 Multan.
+
+M/S MUHAMMAD SHAFIQ SHAHID, Shop No.62 Grain Market Okara.
+
+RIZWAN TRADERS, Near Pso Depot Multan Road Vehari.
+
+M/S BAJWA TRADERS, House No.38 F Block. Vehari.
+
+ZAFAR HAYYAT, Chak No 82 Nb Po Khas Tehsil Sargodha.
+
+MADNI MASOOD MOTORS, House No.6 Near Dubai Palace Mouza Dera Izzat Bahawalpur.
+
+# ISLAMIC BANKING BUSINESS
+
+# Annexure II
+
+# Profit and Loss Account
+
+# for the year ended December 31, 2024
+
+|Note| | | | | | |December 31, 2024| | |December 31, 2023|In Local Currency|In Foreign Currencies|Total|In Local Currency|In Foreign Currencies|Total|
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| |9|23,681,640|19,720,920|DUE FROM FINANCIAL INSTITUTIONS|-|-|-| | | | | | | | | |
+| |10|12,557,548|11,159,872|Secured| | |-|-|-|-|-| | | | | |
+| |11,124,092|8,561,048|Unsecured| | | |-|-|-|-|-| | | | | |
+| | | | |Bai Muajjal Receivable from other Financial Institutions| | |-|-|-|-|-| | | | | |
+| | | | |Bai Mujjal Receivable from State Bank of Pakistan| | |-|-|-|-|-| | | | | |
+| | | |Musharaka Lending|-|-|-|-|-| | | | | | | | |
+| | | |Less: Credit loss allowance| | | |-|-|-|-|-| | | | | |
+| | | |Stage 1| | | |-|-|-|-|-| | | | | |
+| | | |Stage 2| | | |-|-|-|-|-| | | | | |
+| | | |Stage 3| | | |-|-|-|-|-| | | | | |
+| |Due from financial institutions - net of credit loss allowance| | | | | |-|-|-|-|-| | | | | |
+| |TOTAL INCOME|11,834,684|9,228,880| | | | | | | | | | | | | |
+| |OTHER EXPENSES|Operating expenses|2,482,260|1,842,144| | | | | | | | | | | | |
+| |Workers welfare fund|-|-| | | | | | | | | | | | | |
+| |Other charges|359|269| | | | | | | | | | | | | |
+| |Total other expenses|2,482,619|1,842,413| | | | | | | | | | | | | |
+| |PROFIT BEFORE CREDIT LOSS ALLOWANCE HELD|9,352,065|7,386,467| | | | | | | | | | | | | |
+| |Credit loss allowance and write offs - net|564,660|3,451| | | | | | | | | | | | | |
+| |PROFIT BEFORE TAXATION|8,787,405|7,383,016| | | | | | | | | | | | | |
+| |Taxation|-|-| | | | | | | | | | | | | |
+| |PROFIT AFTER TAXATION|8,787,405|7,383,016| | | | | | | | | | | | | |
+
+# Notes to the Annexure II
+
+# for the year ended December 31, 2024
+
+|December 31, 2024| | | | | | | | | |December 31, 2023|Cost/ Amortised cost|Credit loss allowance for (Deficit)|Surplus / Carrying Value|Cost/ Amortised cost|Credit loss allowance for (Deficit)|Surplus / Carrying Value|
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| | | | |91,102,262|-|1,639,880|92,742,142|24,141,346|-|273,079|24,414,425| | | | | |
+| | | | |1,086,092|(31,880)|31,880|1,086,092|1,555,196|-|-|1,555,196| | | | | |
+| | | | |11,295,339|(435,534)|505,770|11,365,575|12,381,149|-|9,287|12,390,436| | | | | |
+| | | |Total Investments|103,483,693|(467,414)|2,177,530|105,193,809|38,077,691|-|282,366|38,360,057| | | | | |
+
+# Particulars of credit loss allowance
+
+|Stage 1| |Stage 2|Stage 3|Total|Stage 1|Stage 2|Stage 3|Total|
+|---|---|---|---|---|---|---|---|---|
+| |Federal Government securities|-|31,880|-|31,880|-|-|-|
+| |Non Government debt securities|479|-|435,055|435,534|-|-|-|
+|Total| |479|31,880|435,055|467,414|-|-| |
+
+
+# ISLAMIC BANKING BUSINESS
+
+# Notes to the Annexure II
+
+# for the year ended December 31, 2024
+
+|Note|December 31, 2024|December 31, 2023|Cost|Accumulated Depreciation|As at Jan 01, 2024|Additions / (deletions)|As at Dec 31, 2024|As at Jan 01, 2024|Charge for the year / Adjustment|As at Dec 31, 2024|Book Value as at 31 Dec 2024|
+|---|---|---|---|---|---|---|---|---|---|---|---|
+|3|ISLAMIC FINANCING AND RELATED ASSETS| | | |Rupees in ‘000| | | | | | |
+|3.1|Ijarah Financing|234,787|344,512| | | | | | | | |
+| |Advance Against Ijarah|26,130|-| | | | | | | | |
+|3.2|Murabaha Financing|262,826|155,607| | | | | | | | |
+| |Diminishing Musharakah|13,924,597|14,886,737| | | | | | | | |
+| |Diminishing Musharakah - Islamic Re-Finance Against Renewable Energy|938,123|466,733| | | | | | | | |
+| |Advance Against Diminishing Musharakah|1,495,272|42,130| | | | | | | | |
+| |Business Musharakah Financing|8,939,893|59,298,890| | | | | | | | |
+| |Business Musharakah - Islamic Export Re-Finance|1,388,000|1,230,000| | | | | | | | |
+| |Istisna - Financing Under Islamic Export Re-Finance|-|407,268| | | | | | | | |
+| |Istisna Inventory|70,000|-| | | | | | | | |
+| |Advance Against Istisna|2,999,858|-| | | | | | | | |
+| |Advance Against Istisna - Financing Under Islamic Export Re-Finance|930,000|1,200,000| | | | | | | | |
+| |Musawamah Financing|25,768|136,708| | | | | | | | |
+| |Advance Against Musawamah|-|42,147| | | | | | | | |
+| |Salam Financing|86,869|40,933| | | | | | | | |
+| |Advance Against Salam|32,827|127,474| | | | | | | | |
+| |Ijarah Financing - Staff|704,990|677,652| | | | | | | | |
+| |Diminishing Musharakah Financing - Staff|174,904|442,928| | | | | | | | |
+| |Advance Against Ijarah - Staff|97,731|83,114| | | | | | | | |
+| |Advance Against Diminishing Musharakah - Staff|64,555|44,877| | | | | | | | |
+| |Gross Islamic financing and related assets|32,397,130|79,627,710| | | | | | | | |
+| |- Stage 1|55,644|-| | | | | | | | |
+| |- Stage 2|10,048|-| | | | | | | | |
+| |- Stage 3|201,748|-| | | | | | | | |
+| | |267,440|-| | | | | | | | |
+| |Less: provision against Islamic financings| | | | | | | | | | |
+| |- Specific|-|5,729| | | | | | | | |
+| |- General|-|1,609| | | | | | | | |
+| | |-|7,338| | | | | | | | |
+| |Islamic financing and related assets - net of credit loss allowance|32,129,690|79,620,372| | | | | | | | |
+
+# December 31, 2023
+
+| | | | |Cost|Accumulated Depreciation|As at Jan 01, 2023|Additions / (deletions)|As at Dec 31, 2023|As at Jan 01, 2023|Charge for the year|As at Dec 31, 2023|Book Value|
+|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| |Rupees in ‘000| | | | | | | | | | | |
+| | | |Vehicles|751,862|(210,768)|541,094|174,549|22,033|196,582|344,512| | |
+| | | |Equipment|22,230|-|22,230|15,224|7,006|22,230|-| | |
+| | | |Total|774,092|(210,768)|563,324|189,773|29,039|218,812|344,512| | |
+
+# December 31, 2024
+
+# December 31, 2023
+
+| |Note| | | | |December 31, 2024|December 31, 2023| | |
+|---|---|---|---|---|---|---|---|---|---|
+| |3.2|Murabaha| | | | | | | |
+| |Murabaha financing| | | | | |262,826|158,542| |
+| | | |Inventory for Murabaha| | | | |-|-|
+| | | |Advances for Murabaha| | | | |-|-|
+| | | | | | | |262,826|158,542| |
+| | | |3.2.1|Murabaha receivable - gross| | | | | |
+| | | |Less: Deferred murabaha income| | | | |-|(2,935)|
+| |Profit receivable shown in other assets|-|-| | | | | | |
+| |Murabaha financings|262,826|155,607| | | | | | |
+| | | |3.2.2|The movement in Murabaha financing during the year is as follows:| | | | | |
+| | | |Opening balance| | | |158,542|661,318| |
+| | | |Sales during the year| | | |104,284|376,256| |
+| | | |Adjusted during the year| | | | |-|(879,032)|
+| | | |Closing balance| | | |262,826|158,542| |
+| | | |3.2.3|Murabaha sale price| | | | | |
+| | | |Murabaha purchase price| | | |(97,158)|(350,103)| |
+| | | | | | | |7,126|26,153| |
+
+
+# ISLAMIC BANKING BUSINESS
+
+# Notes to the Annexure II
+
+for the year ended December 31, 2024
+
+| |December 31, 2024|December 31, 2023|
+|---|---|---|
+| |Rupees in ‘000|Rupees in ‘000|
+|6 CHARITY FUND| | |
+|3.2.4 Deferred Murabaha income| | |
+|Opening balance|2,935|17,944|
+|Arising during the year 3.2.3|7,126|26,153|
+|Less: Recognised during the year|(10,061)|(41,162)|
+|Closing balance|-|2,935|
+
+# 4 DUE FROM AND (DUE TO) HEAD OFFICE
+
+Pak Account Daily settlement with Head Office
+7,565,690
+(427,931)
+
+# 5 DEPOSITS
+
+|Customers| | |
+|---|---|---|
+|Current deposits|30,616,945|31,596,963|
+|Savings deposits|32,663,041|33,031,031|
+|Term deposits|5,123,154|5,151,340|
+|Others|3,104,793|3,104,793|
+|Financial Institutions|71,507,933|72,884,127|
+
+# 6.1 During the year charity exceeding Rs 0.5 million
+
+|Akhuwat Islamic Microfinance|1,000|2,000|
+|---|---|---|
+|Sundas Foundation|800|1,000|
+|Shaukat Khanum Memorial Cancer Hospital|700|-|
+|Indus Hospital & Health Network|700|-|
+
+# 7 ISLAMIC BANKING BUSINESS UNAPPROPRIATED PROFIT
+
+|Opening Balance|10,582,171|3,199,155|
+|---|---|---|
+|ECL Adjustment as per IFRS-9|(204,142)| |
+|Add: Islamic Banking profit for the period|8,787,405|7,383,016|
+|Less: Taxation|-| |
+|Less: Reserves|-| |
+|Less: Transferred / Remitted to Head Office|-| |
+|Closing Balance|19,165,434|10,582,171|
+
+# CONTINGENCIES AND COMMITMENTS
+
+|-Guarantees|2,524,208|2,278,575|
+|---|---|---|
+|-Commitments|1,731,139|2,989,376|
+|-Other contingent liabilities|3,556,631|716,164|
+| |7,811,978|5,984,115|
+
+# 9 PROFIT/RETURN EARNED ON FINANCING, INVESTMENTS AND PLACEMENTS
+
+|Profit earned on:| | |
+|---|---|---|
+|Financings|13,755,517|13,534,311|
+|Investments|9,731,320|6,042,279|
+|Placements|194,803|144,330|
+| |23,681,640|19,720,920|
+
+# 9.1 Profit / return has been calculated as per Islamic Financial Accounting Standards (IFAS). However, profit / return would be increased by Rs. 203 million if it would have been calculated under IFRS 9 requirements.
+
+# 10 PROFIT ON DEPOSITS AND OTHER DUES EXPENSED
+
+|Deposits and other accounts|9,627,355|8,763,328|
+|---|---|---|
+|Due to Financial Institutions|2,741,149|2,253,852|
+|Other Expenses (IFRS-16)|189,044|142,692|
+| |12,557,548|11,159,872|
+
+
+# ISLAMIC BANKING BUSINESS
+
+# Notes to the Annexure II
+
+# for the year ended December 31, 2024
+
+# 11 POOL MANAGEMENT
+
+Parameters associated with risk and rewards:
+
+The risk & reward characteristics of each pool mainly depends on the assets and liability profile of each pool. Allied Bank Limited – Islamic Banking is maintaining general and specific pools for depositors on Mudarabah basis, and Financial Institution pools are maintained for interbank funds on Musharakah / Mudarabah basis.
+
+Following are the considerations attached with risk & reward of Modaraba based pools:
+
+1. General Pool for Local Currency Depositors (Mudarabah)
+2. General Pool for Foreign Currency (US$, Great Britain Pound and EURO) depositors (Mudarabah)
+3. Specific Pools (Mudarabah)
+4. Treasury related FI Pools (Mudarabah, Musharakah)
+5. Islamic Export Refinance Pool (Musharakah)
+6. Equity Pool (Mudarabah)
+7. Charity Pool (Mudarabah)
+
+RISK:
+
+- Period, rate of return, security and liquidity of investment.
+- Risk annexed to investments and financings tagged to pools.
+- Market volatility risk relates to the current and future volatility of market values of specific assets and of foreign exchange rates.
+- Change in deposit base due to early withdrawals of deposits.
+- Maturity mismatch of assets and deposits.
+- Limited avenues for Liquidity deployment, may decline profit earning rates.
+- SBP rules, guidelines.
+- Sharia Non compliance risk.
+
+REWARDS:
+
+- Shariah compliant Halal Profit earnings.
+- Profit distribution according to predetermined weightages / PSR.
+- Sharing of gross profit after direct expenses related to pool, bank bears admin cost.
+- Investments risk mitigation through Portfolio management.
+- Transparency through regulator’s control and periodic audits.
+- Profit equalization reserve and Investment risk reserve to streamline profits.
+- Mitigation of Shariah Non compliance risk through Shariah reviews and Shariah audits.
+
+The deposits and funds accepted under the above mentioned pools are invested in diversified sectors and avenues of the economy and business along with investment in Government of Pakistan backed Ijarah Sukuks and other Shariah Compliant assets.
+
+# 11.1 Avenues and sectors where Mudarabah/Musharakah based funds have been deployed;
+
+|Production & Transmission of Energy|9,859,864|8,884,498|
+|---|---|---|
+|Manufacturing of Miscellaneous Plastic Products|70,000|179,694|
+|Chemicals & Allied Products|10,368,070|5,734,563|
+|Petroleum and Gas|390,625|453,125|
+|Leather / Leather products|-|300,000|
+|Financial Institutions|387,173|340,031|
+|Agriculture & Food Products|2,026,224|55,091,376|
+|Transportation & Logistics|319,768|300,182|
+|Metal products - Steel Foundries|262,825|155,606|
+|Cement|1,000,000|1,000,000|
+|Textile - Knitting|212,500|404,880|
+|Textile - Ginning|1,390,782|44,235|
+|Textile - Spinning|19,036|-|
+|Retail Chain|-|50,000|
+|Communication|3,267,487|3,249,738|
+|Construction & real estate|4,715|968,840|
+|Rice Processing|930,000|-|
+|Shipping Companies|505,115|688,795|
+|Others|1,382,946|1,782,147|
+|Total Gross Financing and Related Assets|32,397,130|79,627,710|
+|GOP Ijarah Sukuks|92,742,143|24,414,711|
+|GOP - Islamic Naya Pakistan Certificates|1,086,093|1,555,196|
+|Power and Energy Generation|9,560,259|10,469,000|
+|Financial Institutions|1,179,889|1,195,000|
+|Chemicals|-|386,150|
+|Hotel Business|293,344|340,000|
+|Steel Processing|332,081|-|
+|Total Investments and Placements|105,193,809|38,360,057|
+|Total Invested Funds|137,590,939|117,987,767|
+
+
+# ISLAMIC BANKING BUSINESS
+
+# Details of Disposal of Fixed Assets to Related Parties
+
+# for the year ended December 31, 2024
+
+# Annexure III
+
+# 11.2 Profit and (loss) distribution to mudaraba based depositor’s pool
+
+The particulars of disposal of fixed assets to related parties are given below:
+
+|Depositor's Pool|No of Pools maintained during 2024|Profit rate and weightage announcement period|Percentage of Mudarib share|Mudarib Share Amount|Profit rate|Profit distributed to Mudarib|Description|Original Cost|Accumulated depreciation|Book value|Sale proceeds|Mode of Disposal|Particulars of purchaser|
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|General Pool|1|Monthly|50.00%|4,907,929|39.91%|1,958,571|Electrical and Computer Equipments|326|326|-|33|As Per Bank Policy|Aizid Gill CEO|
+| | | | | | | | |354|354|-|35|As Per Bank Policy|Aizid Gill CEO|
+| | | | | | | | |519|519|-|52|As Per Bank Policy|Aizid Gill CEO|
+| | | | | | | | |903|863|39|90|As Per Bank Policy|Aizid Gill CEO|
+| | | | | | | | |250|250|-|25|As Per Bank Policy|Tariq Mehmood|
+|Foreign Currency Pool - USD|1|Monthly|99.00%|25,986|0.44%|113.71| |459|459|-|46|As Per Bank Policy|Nauman ul Haq|
+| | | | | | | | |475|475|-|48|As Per Bank Policy|Atif Mirza|
+|Foreign Currency Pool - GBP|1|Monthly|99.00%|490|0.98%|4.78| |380|380|-|38|As Per Bank Policy|Asif Bashir|
+| | | | | | | | |75|75|-|8|As Per Bank Policy|Nauman ul Haq|
+|Foreign Currency Pool - EUR|1|Monthly|99.00%|850|0.00%|-| |58|58|-|6|As Per Bank Policy|Tariq Mehmood|
+| | | | | | | | |375|375|-|37|As Per Bank Policy|Shahid Amir|
+|Charity Pool|1|Monthly|0.00%|-|0.00%|-| |249|249|-|25|As Per Bank Policy|Shahid Amir|
+| | | | | | | | |475|475|-|48|As Per Bank Policy|Shahid Amir|
+|Specific pools for interbank, Investment certificates and remunerative accounts|1|Monthly|15.69%|481,519|25.28%|121,712| |475|475|-|48|As Per Bank Policy|Shaffa Hussain|
+| | | | | | | | |427|427|-|43|As Per Bank Policy|Shaffa Hussain|
+| | | | | | | | |30|30|-|3|As Per Bank Policy|Shaffa Hussain|
+
+# 11.3 Profit and (loss) distribution to Musharkah Based pools
+
+|Pools|Profit rate and weightage announcement period|Average rate of return earned to Musharkah Partner|Average PSR distributed to fund provider|
+|---|---|---|---|
+|Islamic Export Refinance (IERS) Musharka Pool|1|Monthly|20.17%|
+|InterBank Musharka Pools|587|As required|19.30%|
+
+*Profit sharing ratios varies from month on month and case to case basis
+
+310 Annual Report 2024
+
+311
+
+# CONSOLIDATED FINANCIAL STATEMENTS
+
+# FOR THE YEAR ENDED DECEMBER 31, 2024
+
+# Directors’ Report on Consolidated Financial Statements
+
+# Independent Auditor’s Report
+
+# For the year ended December 31, 2024
+
+On behalf of the Board of Directors, we are pleased to present the consolidated Annual Report of Allied Bank Limited (holding company), ABL Asset Management Company Limited (subsidiary company) and ABL Exchange Private Limited (subsidiary company) for the year ended December 31, 2024.
+
+The operating results and appropriations, as recommended by the Board of Directors are included in the appended table:
+
+|Year ended December 31|2024|2023|Growth %|
+|---|---|---|---|
+|Profit after tax for the year|44,389|41,301|7|
+|Accumulated profits brought forward|103,792|82,059|26|
+|Transferred from surplus on revaluation of non-banking assets to un-appropriated profit - net of tax|3|1|200|
+|Transferred from surplus on revaluation of fixed assets to un-appropriated profit - net of tax|221|69|220|
+|Transfer of surplus on account of disposal of equity investments - net of tax|1,330|-|100|
+|Re-measurement on defined benefit obligation - net of tax|601|488|23|
+|Profit available for appropriation|150,336|123,918|21|
+|Final cash dividend for the year ended December 31, 2023: Rs. 4.00 per share (2023: Year ended December 31, 2022: Rs. 2.50 per share)|(4,580)|(2,863)|60|
+|First interim cash dividend for the year ended at December 31, 2024: Rs. 4.00 per share (2023: year ended December 31, 2023: Rs. 2.50 per share)|(4,580)|(2,863)|60|
+|Second interim cash dividend for the year ended at December 31, 2024: Rs. 4.00 per share (2023: year ended December 31, 2023: Rs. 2.50 per share)|(4,580)|(2,863)|60|
+|Third interim cash dividend for the year ended December 31, 2024: Rs. 4.00 per share (2023: year ended December 31, 2023: Rs. 3.00 per share)|(4,580)|(3,434)|33|
+|Transfer to Statutory Reserves|(4,312)|(4,068)|6|
+|Accumulated profits carried forward|127,704|107,827|18|
+|Earnings Per Share (EPS) (Rs.)|38.77|36.07|7|
+
+# Pattern of shareholding
+
+Pattern of Shareholding as at December 31, 2024 is included in the Annual Report.
+
+For and on behalf of the board
+
+Aizid Razzaq Gill
+Chief Executive Officer
+
+Mohammad Naeem Mukhtar
+Chairman Board of Directors
+
+Lahore
+
+Dated: February 04, 2025
+
+# Report on the Audit of the Consolidated Financial Statements
+
+# To the members of Allied Bank Limited
+
+We have audited the annexed consolidated financial statements of Allied Bank Limited and its subsidiaries (“the Group”), which comprise the consolidated statement of financial position as at 31 December 2024, the consolidated profit and loss account, the consolidated statement of comprehensive income, the consolidated statement of changes in equity and the consolidated cash flow statement for the year then ended, and notes to the consolidated financial statements, including material accounting policy information and other explanatory information.
+
+# Opinion
+
+In our opinion, consolidated financial statements give a true and fair view of the consolidated financial position of the Group as at 31 December 2024, and its consolidated financial performance and its consolidated cash flows for the year then ended in accordance with the accounting and reporting standards as applicable in Pakistan.
+
+# Basis for Opinion
+
+We conducted our audit in accordance with International Standards on Auditing (ISAs) as applicable in Pakistan. Our responsibilities under those standards are further described in the Auditor’s Responsibilities for the Audit of the Consolidated Financial Statements section of our report. We are independent of the Group in accordance with the International Ethics Standards Board for Accountants’ Code of Ethics for Professional Accountants as adopted by the Institute of Chartered Accountants of Pakistan (the Code) and we have fulfilled our other ethical responsibilities in accordance with the Code. We believe that the audit evidence we have obtained is sufficient and appropriate to provide a basis for our opinion.
+
+# Key Audit Matter
+
+Key audit matters are those matters that, in our professional judgment, were of most significance in our audit of the consolidated financial statements of the current period. This matter was addressed in the context of our audit of the consolidated financial statements as a whole, and in forming our opinion thereon, and we do not provide a separate opinion on these matters.
+
+|Key Audit Matter|How the matter was addressed in our audit|
+|---|---|
+|Expected credit loss against advances|As disclosed in Note 9 to the consolidated financial statements, the Group’s advances represent 37.26% of its total assets as of 31 December 2024. We applied a range of audit procedures including the following: the Group’s accounting policy and ECL model methodology adopted during the year.|
+
+During the year, the Group has adopted IFRS 9 - “Financial Instruments” (as applicable in Pakistan), which requires a forward-looking approach to estimate the Expected Credit Loss (“ECL”) against advances and other financial instruments. The adoption of IFRS 9 has resulted in a transition adjustment to the retained earnings as of 1 January 2024 of Rs. 4,035 million. The impact of transition is explained in Note 4.2.4 and 4.2.5 to the consolidated financial statements.
+
+In view of the significance of this area in terms of its impact on the consolidated financial statements, and level of involvement of management’s estimates and judgments, we identified adequacy and completeness of ECL against advances as a key audit matter.
+
+The accounting policy and disclosures related to the ECL against advances are included in Notes 4.2 and 9 respectively to the consolidated financial statements. We also assessed adequacy of disclosures as included in Note 9 to the consolidated financial statements regarding the ECL made against advances in accordance with the requirements of the applicable financial reporting framework.
+
+# Information Other than the Consolidated Financial Statements and Auditor’s Report Thereon
+
+Management is responsible for the other information. The other information comprises the information included in the Annual Report but does not include the consolidated financial statements and our auditor’s report thereon. Our opinion on the consolidated financial statements does not cover the other information and we do not express any form of assurance conclusion thereon.
+
+# Independent Auditor’s Report
+
+To the members of Allied Bank Limited
+
+# Report on the Audit of the Consolidated Financial Statements
+
+In connection with our audit of the consolidated financial statements, our responsibility is to read the other information and, in doing so, consider whether the other information is materially inconsistent with the consolidated financial statements, or our knowledge obtained in the audit or otherwise appears to be materially misstated. If, based on the work we have performed, we conclude that there is a material misstatement of this other information, we are required to report that fact. We have nothing to report in this regard.
+
+# Responsibilities of Management and the Board of Directors for the Consolidated Financial Statements
+
+Management is responsible for the preparation and fair presentation of the consolidated financial statements in accordance with accounting and reporting standards as applicable in Pakistan, the requirements of Banking Companies Ordinance, 1962 and the Companies Act, 2017 (XIX of 2017) and for such internal control as management determines is necessary to enable the preparation of consolidated financial statements that are free from material misstatement, whether due to fraud or error.
+
+In preparing the consolidated financial statements, management is responsible for assessing the Group’s ability to continue as a going concern, disclosing, as applicable, matters related to going concern and using the going concern basis of accounting unless management either intends to liquidate the Group or to cease operations, or has no realistic alternative but to do so.
+
+The Board of directors is responsible for overseeing the Group’s financial reporting process.
+
+# Auditor’s Responsibilities for the Audit of the Consolidated Financial Statements
+
+Our objectives are to obtain reasonable assurance about whether the consolidated financial statements as a whole are free from material misstatement, whether due to fraud or error, and to issue an auditor’s report that includes our opinion. Reasonable assurance is a high level of assurance, but is not a guarantee that an audit conducted in accordance with ISAs as applicable in Pakistan will always detect a material misstatement when it exists. Misstatements can arise from fraud or error and are considered material if, individually or in the aggregate, they could reasonably be expected to influence the economic decisions of users taken on the basis of these consolidated financial statements.
+
+As part of an audit in accordance with ISAs as applicable in Pakistan, we exercise professional judgment and maintain professional skepticism throughout the audit. We also:
+
+- Identify and assess the risks of material misstatement of the consolidated financial statements, whether due to fraud or error, design and perform audit procedures responsive to those risks, and obtain audit evidence that is sufficient and appropriate to provide a basis for our opinion. The risk of not detecting a material misstatement resulting from fraud is higher than for one resulting from error, as fraud may involve collusion, forgery, intentional omissions, misrepresentations, or the override of internal control.
+- Obtain an understanding of internal control relevant to the audit in order to design audit procedures that are appropriate in the circumstances, but not for the purpose of expressing an opinion on the effectiveness of the Group’s internal control.
+- Evaluate the appropriateness of accounting policies used and the reasonableness of accounting estimates and related disclosures made by management.
+- Conclude on the appropriateness of management’s use of the going concern basis of accounting and, based on the audit evidence obtained, whether a material uncertainty exists related to events or conditions that may cast significant doubt on the Group’s ability to continue as a going concern. If we conclude that a material uncertainty exists, we are required to draw attention in our auditor’s report to the related disclosures in the consolidated financial statements or, if such disclosures are inadequate, to modify our opinion. Our conclusions are based on the audit evidence obtained up to the date of our auditor’s report. However, future events or conditions may cause the Group to cease to continue as a going concern.
+- Evaluate the overall presentation, structure and content of the consolidated financial statements, including the disclosures, and whether the consolidated financial statements represent the underlying transactions and events in a manner that achieves fair presentation.
+- Obtain sufficient appropriate audit evidence regarding the financial information of the entities or business activities within the Group to express an opinion on the consolidated financial statements. We are responsible for the direction, supervision and performance of the group audit. We remain solely responsible for our audit opinion.
+
+EY Ford Rhodes
+
+Chartered Accountants
+
+Place: Lahore
+
+Date: 3 March 2025
+
+UDIN: AR202410120o1tyTZwi3
+
+# Consolidated Statement of Financial Position
+
+# as at December 31, 2024
+
+|December 31, 2024|December 31, 2023|Note|December 31, 2024|December 31, 2023| | | | | |
+|---|---|---|---|---|---|---|---|---|---|
+|US $ in ‘000| | |Rupees in ‘000| | | | | | |
+|527,061|560,490|Cash and balances with treasury banks|5|146,812,714|156,124,352| | | | |
+|35,772|8,816|Balances with other banks|6|9,964,224|2,455,601| | | | |
+|874,317|33,811|Lendings to financial institutions|7|243,541,081|9,418,003| | | | |
+|4,067,075|4,145,028|Investments|8|1,132,883,403|1,154,597,203| | | | |
+|3,775,069|2,801,280|Advances|9|1,051,545,347|780,296,455| | | | |
+|460,543|409,498|Property and equipment|10|128,284,200|114,065,779| | | | |
+|27,958|29,903|Right-of-use assets|11|7,787,741|8,329,462| | | | |
+|13,104|12,266|Intangible assets|12|3,650,196|3,416,652| | | | |
+|-|13,577|Deferred tax assets| |-|3,781,881| | | | |
+|349,070|361,027|Other assets|13|97,233,559|100,564,585| | | | |
+|10,129,969|8,375,696|TOTAL ASSETS| |2,821,702,465|2,333,049,973| | | | |
+
+# Consolidated Profit and Loss Account
+
+# for the year ended December 31, 2024
+
+|December 31, 2024|December 31, 2023|Note|December 31, 2024|December 31, 2023| | | | | | | |
+|---|---|---|---|---|---|---|---|---|---|---|---|
+|US $ in ‘000| | |Rupees in ‘000| | | | | | | | |
+| | | | | |1,353,105|1,281,669|Mark-up / return / interest earned|25|376,907,387|357,008,968| |
+| | | | | |938,945|876,311|Mark-up / return / interest expensed|26|261,543,253|244,096,459| |
+| | | | | |414,160|405,358|Net mark-up and interest income| |115,364,134|112,912,509| |
+| | | | | | |NON MARK–UP / INTEREST INCOME| | | | | |
+| | | | | |58,079|42,515|Fee and commission income|27|16,177,781|11,842,546| |
+| | | | | |10,834|12,720|Dividend income| |3,017,787|3,543,033| |
+| | | | | |24,015|32,910|Foreign exchange income| |6,689,514|9,167,089| |
+|-|-| | | | |Income from derivatives| |-|-| | |
+| | | | | |12,365|3,033|Gain on securities - net|28|3,444,359|844,772| |
+| | | | | | |-|-|Net gain / (loss) on derecognition of financial assets measured at amortised cost| |-|-|
+| | | | | |3,609|717|Other income|29|1,005,291|199,649| |
+| | | | | |108,902|91,895|Total non-markup / interest income| |30,334,732|25,597,089| |
+| | | | | |523,062|497,253|Total income| |145,698,866|138,509,598| |
+| | | | | | |NON MARK–UP / INTEREST EXPENSES| | | | | |
+| | | | | |207,340|171,175|Operating expenses|30|57,754,498|47,680,724| |
+| | | | | |5,196|6,368|Workers welfare fund - net| |1,447,221|1,773,735| |
+| | | | | |1,146|844|Other charges|31|319,114|235,113| |
+| | | | | |213,682|178,387|Total non-markup / interest expenses| |59,520,833|49,689,572| |
+| | | | | |2,964|3,468|Share of profit of associates| |825,699|965,906| |
+| | | | | |312,344|322,334|Profit before credit loss allowance| |87,003,732|89,785,932| |
+| | | | | |(9,729)|10,687|Credit loss allowance / Provisions and write offs - net|32|(2,710,139)|2,976,973| |
+| | | | | |-|-|Extra-ordinary / unusual items| |-|-| |
+| | | | | | |PROFIT BEFORE TAXATION| | | |89,713,871|86,808,959|
+|159,357|148,274| | | | |Taxation|33|45,324,650|45,507,595| | |
+| | | | | | |PROFIT AFTER TAXATION| | | |44,389,221|41,301,364|
+
+# In US $
+
+# In Rupees
+
+0.14
+0.13
+Basic and diluted earnings per share
+34
+38.77
+36.07
+
+The annexed notes 1 to 47 form an integral part of these consolidated financial statements.
+
+Muhammad Atif Mirza Chief Financial Officer
+
+Aizid Razzaq Gill President and Chief Executive
+
+Muhammad Kamran Shehzad Director
+
+Mian Ikram Ul Haq Director
+
+Mohammad Naeem Mukhtar Chairman
+
+# Consolidated Statement of Comprehensive Income
+
+# for the year ended December 31, 2024
+
+| |December 31, 2024|December 31, 2023| | | | | | | | | | | | | | |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| | | |Rupees in ‘000|US $ in ‘000| | | | | | | | | | | | |
+| | |Proﬁt after taxation for the year|44,389,221|41,301,364| | | | | | | | | | | | |
+|Other Comprehensive Income - net of tax| | | | |Surplus on revaluation of investments - net of tax|-| | | | |11,256,117| | | | | |
+| | | | | |Surplus on revaluation of ﬁxed assets - net of tax|-|23,485,406| | | | | | | | | |
+| | | | | |Surplus on revaluation of non-banking assets - net of tax|-| | | | | | | |96,088| | |
+| | | | | |Remeasurement gain on deﬁned beneﬁt obligation - net of tax|-| | | | | | | | |488,147| |
+| | | | | |Effect of translation of net investment in foreign branches| |2,457,884|-| | | | | | | | |
+|Total Comprehensive Income| | |54,048,544|79,085,006| | | | | | | | | | | | |
+
+# Consolidated Statement of Changes in Equity
+
+# for the year ended December 31, 2024
+
+| | | | | | | |Capital reserve|Revenue|Surplus/(deﬁcit) on revaluation of reserve|Un-appropriated proﬁt|Total| | | |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|Share capital|Exchange translation reserve|Statutory reserve| | | | | |General| |Investments|Fixed assets|Non-banking assets| | |
+| | | | | |Balance as at January 01, 2023|11,450,739|5,333,240|26,096,213|6,000|(18,133,865)|22,570,552|882,450|82,058,979|130,264,308|
+| | | | | |Balance as at December 31, 2024|11,450,739|7,978,434|34,476,102|6,000|9,916,705|45,524,799|1,192,058|127,703,754|238,248,591|
+
+The annexed notes 1 to 47 form an integral part of these consolidated financial statements.
+
+Muhammad Atif Mirza Chief Financial Officer
+
+Aizid Razzaq Gill President and Chief Executive
+
+Mohammad Kamran Shehzad Director
+
+Mian Ikram Ul Haq Director
+
+Mohammad Naeem Mukhtar Chairman
+
+# Consolidated Cash Flow Statement
+
+# for the year ended December 31, 2024
+
+|December 31, 2024|December 31, 2023|US $ in ‘000|Rupees in ‘000|
+|---|---|---|---|
+|322,075|311,646|CASH FLOW FROM OPERATING ACTIVITIES| |
+|(13,798)|(16,187)|Profit before taxation|89,713,871|
+|308,277|295,459|Less: Dividend income and share of profit of associates|(3,843,486)|
+| | |Adjustments:|85,870,385|
+|(414,160)|(405,358)|Net mark-up / interest income|(115,364,134)|
+|23,958|17,079|Depreciation - Operating Fixed Asset|6,673,434|
+|86|40|Depreciation - Non Banking Assets|23,921|
+|6,710|6,394|Depreciation on right of use assets|1,869,048|
+|2,247|2,111|Amortization|626,004|
+|(9,702)|10,749|Credit loss allowance and write offs / Provisions|(2,702,596)|
+|(88)|232|Unrealized (gain) / loss on revaluation of securities measured at FVTPL|(24,397)|
+|5,196|6,368|Provision for workers' welfare fund - net|1,447,221|
+|(31)|657|Charge for defined benefit plans|(8,632)|
+|(3,371)|(86)|Gain on sale of property and equipment|(938,910)|
+|5,019|4,296|Finance charges on leased assets|1,398,015|
+|-|-|Loss on sale / disposal of non-banking assets and other assets|-|
+|(384,136)|(357,518)| |(107,001,026)|
+|(75,859)|(62,059)| |(21,130,641)|
+|(840,506)|67,507|Decrease or (increase) in operating assets| |
+| | |Lendings to financial institutions|(234,123,078)|
+|61,443|(73,649)|Securities classified as FVTPL|17,115,049|
+|(974,713)|227,029|Advances|(271,506,346)|
+|20,621|(84,558)|Other assets (excluding advance taxation)|5,744,022|
+|(1,733,155)|136,329|Increase or (decrease) in operating liabilities|(482,770,353)|
+|18,596|(17,366)|Bills payable|5,179,832|
+|316,337|(561,829)|Borrowings|88,115,553|
+|1,225,920|553,990|Deposits and other accounts|341,479,968|
+|(3,510)|54,961|Other liabilities (excluding current taxation)|(977,586)|
+|1,557,343|29,756| |433,797,767|
+|(251,671)|104,026| |(70,103,227)|
+|1,380,580|1,212,133|Interest Received|384,560,564|
+|(929,867)|(873,081)|Interest Paid|(259,014,322)|
+|(198,766)|(128,805)|Income tax paid|(55,366,136)|
+|(3,071)|(1,733)|Defined benefits paid|(855,333)|
+|(2,795)|312,540|Net cash flow (used in) / generated from operating activities|(778,454)|
+|(214,348)|(1,446)|CASH FLOW FROM INVESTING ACTIVITIES| |
+| | |Net investments in amortised cost securities|(59,706,590)|
+|359,834|33,658|Net realizations in securities classified as FVOCI / AFS|100,231,647|
+|11,055|12,478|Dividend received|3,079,404|
+|(83,760)|(71,665)|Investments in property and equipment and intangible assets|(23,331,273)|
+|672|8,824|Effect of translation of net investment in foreign branch|187,310|
+|9,213|163|Disposals of property and equipment|2,566,248|
+|82,666|(17,988)|Net cash flow used in investing activities|23,026,746|
+|(10,257)|(9,288)|CASH FLOW FROM FINANCING ACTIVITIES| |
+|(65,537)|(43,016)|Payment of lease liability against right of use assets|(2,857,024)|
+| | |Dividend paid|(18,255,239)|
+|(75,794)|(52,304)|Net cash flow used in financing activities|(21,112,263)|
+|4,077|242,248|Increase in cash and cash equivalents during the year|1,136,029|
+|567,649|329,355|Cash and cash equivalents at beginning of the year|158,118,805|
+|965|(2,991)|Effect of exchange rate changes on opening cash and cash equivalents|268,793|
+|568,614|326,364| |158,387,598|
+|572,691|568,612|CASH AND CASH EQUIVALENTS AT END OF THE YEAR|159,523,627|
+
+The annexed notes 1 to 47 form an integral part of these consolidated financial statements.
+
+Muhammad Atif Mirza
+
+Chief Financial Officer
+
+Aizid Razzaq Gill
+
+President and Chief Executive
+
+Mohammad Kamran Shehzad
+
+Director
+
+Mian Ikram Ul Haq
+
+Director
+
+Mohammad Naeem Mukhtar
+
+Chairman
+
+# Notes to the Consolidated Financial Statements
+
+# for the year ended December 31, 2024
+
+- ABL Islamic Money Market Fund Launched on December 23, 2023
+- ABL GOKP Pension Fund Launched on April 23, 2024
+- ABL GOKP Islamic Pension Fund Launched on April 23, 2024
+- ABL Islamic Soverign Fund Launched on July 22, 2024
+
+ABL Exchange (Private) Limited (the Company) is a wholly owned subsidiary of Allied Bank Limited and incorporated on December 15, 2023 as a private limited company under the Companies Act, 2017. The Company obtained license for commencement of operations from the State Bank of Pakistan (SBP) on March 20, 2024. The Company was formed under section 3AA of the Foreign Exchange Regulation Act, 1947. The registered office of the Company (head office) is situated at 21-Z, DHA Phase 3, Lahore and the Company has a head office and 21 payment booths across the country.
+
+# 2 BASIS OF PRESENTATION
+
+These consolidated financial statements consist of holding company and its subsidiary companies for the year ended December 31, 2024.
+
+In accordance with the directives of the Federal Government regarding the shifting of the banking system to Islamic modes, the State Bank of Pakistan (SBP) has issued various circulars from time to time. Permissible forms of trade-related modes of financing include purchase of goods by banks from their customers and immediate resale to them at appropriate profit in price on deferred payment basis. The purchases and sales arising under these arrangements are not reflected in these consolidated financial statements as such but are restricted to the amount of facility actually utilized and the appropriate portion of profit thereon.
+
+The financial results of the Islamic banking branches have been consolidated in these financial statements for reporting purposes, after eliminating inter-branch transactions and balances. Key financial figures of the Islamic banking branches are disclosed in Annexure II to the unconsolidated financial statements.
+
+These consolidated financial statements have been presented in Pakistan Rupees (PKR), which is the currency of the primary economic environment in which the Group operates. The amounts are rounded to nearest thousand of rupees unless otherwise stated.
+
+The US$ Dollar amounts presented in the Statement of Financial Position, Profit and Loss Account, Statement of Comprehensive Income and Statement of Cash Flow are stated as additional information, solely for the convenience of the users of financial statements. For the purpose of translation to US$, spot rate of Rs. 278.55 per US$ has been used for 2024 and 2023, as it was the prevalent rate on reporting date.
+
+The assets and liabilities of subsidiaries company have been consolidated on a line by line basis and the carrying value of investment in subsidiaries held by the Group is eliminated against the shareholders’ equity in the consolidated financial statements.
+
+# 2.1 Statement of Compliance
+
+These consolidated financial statements have been prepared in accordance with the approved accounting and reporting standards as applicable in Pakistan. The accounting and reporting standards comprise of:
+
+- International Financial Reporting Standards (IFRS) issued by the International Accounting Standards Board (IASB) as notified under the Companies Act, 2017;
+- Islamic Financial Accounting Standards (IFAS) issued by the Institute of Chartered Accountants of Pakistan as notified under the Companies Act, 2017;
+- Provisions of and directives issued under the Banking Companies Ordinance, 1962 and the Companies Act, 2017; and
+- Directives issued by the State Bank of Pakistan (SBP) & the Securities and Exchange Commission of Pakistan (SECP).
+
+# 2.1.1
+
+Whenever the requirements of the Banking Companies Ordinance, 1962, the Companies Act, 2017 and/or the directives issued by the SBP and the SECP differ with the requirements of IFRS and IFAS, the requirements of the Banking Companies Ordinance, 1962, the Companies Act, 2017 and the said directives, shall prevail.
+
+# 2.1.2
+
+The SBP, vide BSD Circular Letter No. 10, dated August 26, 2002 has deferred the applicability of International Accounting Standard 40 ‘Investment Property’ (IAS 40) for banking companies till further instructions. Moreover, SBP vide BPRD Circular No. 04, dated February 25, 2015 has deferred the applicability of Islamic Financial Accounting Standard (IFAS) 3, Profit and loss sharing on Deposits. Further, according to a notification of Securities and Exchange Commission of Pakistan (SECP) dated April 28, 2008, International Financial Reporting Standard 7 ‘Financial Instruments Disclosure’ (IFRS 7), has not been made applicable.
+
+# Notes to the Consolidated Financial Statements
+
+# for the year ended December 31, 2024
+
+The amendments are not expected to have a material impact on the Bank’s financial statements.
+
+in IFRS 4, which are largely based on grandfathering previous local accounting policies, IFRS 17 provides a comprehensive model for insurance contracts, covering all relevant accounting aspects. The core of IFRS 17 is the general model, supplemented by:
+
+- A specific adaptation for contracts with direct participation features (the variable fee approach)
+- A simplified approach (the premium allocation approach) mainly for short-duration contracts.
+
+IFRS 17 is effective for reporting periods beginning on or after 1 January 2023, with comparative figures required. Early application is permitted, provided the entity also applies IFRS 9 and IFRS 15 on or before the date it first applies IFRS 17. This standard is not applicable to the Bank.
+
+# IFRS 10 and IAS 28 Consolidated financial statements and Investments in Associates and Joint Ventures - Sale or Contribution of Assets between an Investor and its Associate or Joint Venture (amendment)
+
+On 11 September 2014, the IASB issued Sale or Contribution of Assets between an Investor and its Associate or Joint Venture (Amendments to IFRS 10 and IAS 28). The amendments address the conflict between IFRS 10 Consolidated Financial Statements and IAS 28 Investments in Associates and Joint Ventures in dealing with the loss of control of a subsidiary that is sold or contributed to an associate or joint venture. The amendments clarify that a full gain or loss is recognised when a transfer to an associate or joint venture involves a business as defined in IFRS 3 Business combinations. Any gain or loss resulting from the sale or contribution of assets that does not constitute a business, however, is recognised only to the extent of unrelated investors’ interests in the associate or joint venture.
+
+With respect to the amendments on the derecognition of financial liabilities that are settled through an electronic payment system, the Company/Group is currently performing an assessment of all material electronic payment systems it uses, in order to assess whether the amendments will result in a material change with respect to current practices and whether it meets the conditions to apply the accounting policy option to derecognise such financial liabilities before the settlement date. Moreover, the Company/Group is reviewing all its other payment systems (such as cheques, credit cards, debit cards) to ensure that the corresponding financial assets are derecognised when the right to cash flows are extinguished and that the corresponding financial liabilities are derecognised on settlement date.
+
+In December 2015, the IASB decided to defer the effective date of the amendments until such time as it has finalised any amendments that result from its research project on the equity method. Early application of the amendments is still permitted.
+
+Further, IASB has issued annual improvements in IFRS in July 2024, wherein certain amendments have been made to various standards which are effective for annual periods beginning on and after 01 January 2026. The Group is currently evaluating the impact of these recently announced improvements.
+
+# IAS 7 - adjustments resulting from adoption of IFRS 18 Presentation and Disclosure in Financial Statements
+
+In April 2024, the IASB issued IFRS 18, which replaces IAS 1 Presentation of Financial Statements. IFRS 18 is however still to be notified by Securities and Exchange Commission of Pakistan. Narrow-scope amendments have also been made to IAS 7 Statement of Cash Flows, which include changing the starting point for determining cash flows from operations under the indirect method, from ‘profit or loss’ to ‘operating profit or loss’ and removing the optionality around classification of cash flows from dividends and interest. In addition, there are consequential amendments to several other standards.
+
+IFRS 18, and the amendments to the other standards, is effective for reporting periods beginning on or after 1 January 2027, but earlier application is permitted and must be disclosed. IFRS 18 will apply retrospectively. Upon adoption SECP may, however, prescribe a different effective date.
+
+The Group is currently working to identify all impacts the amendments will have on the primary financial statements and notes to the financial statements.
+
+# Contracts Referencing Nature-dependent Electricity – Amendments to IFRS 9 and IFRS 7
+
+The application of the above standards are not expected to have a material impact on the Bank’s financial statements, in the period of applicability, except for IFRS 18. The Group is currently working to identify all impacts IFRS 18 will have on the consolidated financial statements and notes to the financial statements.
+
+# 2.4 Critical Accounting Estimates And Judgments
+
+The preparation of these financial statements in conformity with the approved accounting standards requires the use of certain critical accounting estimates and assumptions that affect the reported amounts of assets, liabilities, income and expenses. It also requires the management to exercise its judgment in the process of applying the Bank’s accounting policies. Estimates, underlying assumptions and judgments are continually evaluated and are based on historical experience, including expectations of future events that are believed to be reasonable under the circumstances. Revisions to accounting estimates are recognized in the period in which estimates are revised if the revision affects only that period, or in the period of revision and future periods if the revision affects both current and future periods. The areas where various assumptions and estimates are significant to the Bank’s financial statements or where judgment was exercised in application of accounting policies are as follows:
+
+# 2.4.1 Credit loss allowance against performing and non-performing loans and advances and debt securities classified as investments
+
+The Group reviews its loan portfolio and debt securities classified as investments to assess amount of credit loss allowance required on performing and non-performing loans and advances and debt securities. While assessing this requirement various factors including forward looking macroeconomic information, delinquency in the account, financial position of the borrower and the requirements of the Prudential Regulations are considered. (Refer to note 4.13)
+
+# Notes to the Consolidated Financial Statements
+
+# for the year ended December 31, 2024
+
+# 2.4.2 Valuation and impairment of ‘available-for-sale’ equity investments
+
+The equity investments classified as “fair value through other comprehensive income” are not subject to impairment testing. The gains and losses on these investments is taken to “Other comprehensive income” and are not recycled to “Profit and Loss Account.”
+
+# 2.4.3 Defined benefit plans
+
+Liability is determined on the basis of actuarial advice using the Projected Unit Credit Method. The actuarial assumptions used to determine the liability and related expense are disclosed in note 37.
+
+# 2.4.4 Classification of investments
+
+Debt Securities
+
+- In classifying investments under Amortized Cost, the Group determines the business model of the securities as “Hold to Collect” where the intentions are to hold the security until maturity to collect contractual cash flows based solely on payments of principal and interest. However, the sale of securities under this model is still possible under certain circumstances.
+- In classifying investments as “Fair Value Through Other Comprehensive Income”, the Group determines the business model as Hold to Collect and Sell as the intentions are to hold the asset to collect contractual cash flows based solely on payments of principal and interest and sell the asset to manage liquidity needs or in order to maintain a particular interest yield profile or to match the duration of the assets to the duration of the liabilities that those assets are funding.
+- The investments which are not classified as “Amortized Cost” and “Fair Value Through Other Comprehensive Income” are classified as “Fair Value Through Profit and Loss”. The business model for such investments is to realize the cash flows through the sale of assets (Held for Trading).
+
+# 2.4.5 Depreciation, amortization and revaluation of operating fixed assets
+
+In making estimates of depreciation and amortization, the management uses method which reflects the pattern in which economic benefits are expected to be consumed by the Group and estimates the useful life. The method applied and useful lives estimated are reviewed at each financial year end and if there is a change in the expected pattern or timing of consumption of the future economic benefits embodied in the assets, the estimate would be changed to reflect the change in pattern. Such a change is accounted for as change in accounting estimates in accordance with International Accounting Standard 8 - Accounting Policies, ‘Changes in Accounting Estimates and Errors’. Further, the Group estimates the revalued amount of land and buildings on a regular basis. The estimates are based on the valuations carried out by independent professional valuers under the market conditions.
+
+# 2.4.6 Fair value hierarchy of assets and liabilities
+
+The fair value of the assets and liabilities is the price that would be received to sell an asset or paid to transfer a liability in an orderly transaction between market participants at the measurement date. The Group categorizes fair value measurements within the following fair value hierarchy:
+
+- a) Level 1: These are quoted prices (unadjusted) in active markets for identical assets or liabilities that the Group can access at the measurement date.
+- b) Level 2: These are inputs other than quoted prices included within Level 1 that are observable for asset or liability, either directly or indirectly.
+
+# 2.4.7 Lease term
+
+The Group applies judgement to determine the lease term for some lease contracts in which it is a lessee that include renewal options. The assessment of whether the Group is reasonably certain to exercise such options impacts the lease term, which significantly affects the amount of lease liabilities and right-of-use assets recognized.
+
+# 2.4.8 Income taxes
+
+In making estimates for income taxes currently payable by the Bank, the management considers the current income tax laws and the decisions of appellate authorities on certain issues in the past. There are certain matters where the Bank’s view differs with the view taken by the income tax authorities and such amounts are shown as a contingent liability.
+
+# 3 BASIS OF MEASUREMENT
+
+These consolidated financial statements have been prepared under the historical cost convention except for the following which are stated at revalued amounts or fair values or present values:
+
+- Certain investments (Note 4.5);
+- Certain operating fixed assets (Note 4.7);
+- Lease liability and related right of use assets (Note 4.8);
+- Staff retirement and other benefits (Note 4.10);
+- Non-banking assets acquired in satisfaction of claims (Note 4.11);
+- Derivative financial instruments (Note 4.16.2).
+
+# 4 MATERIAL ACCOUNTING POLICIES
+
+The accounting policies adopted in the preparation of these consolidated condensed interim financial statements are consistent with those applied in the preparation of the consolidated financial statements of the Group for the year ended December 31, 2024, except as disclosed in Notes 4.1 and 4.2.
+
+# 4.1 Changes in reporting format
+
+The SBP vide BPRD Circular No. 2 dated February 09, 2023 specified the new format for annual financial statements of banking companies. The new format has revised the disclosure requirements of the Group for the year ended December 31, 2024 which has resulted in additional disclosures relating to IFRS 9 and reclassification of Lease liabilities and Right of use assets on the face of Statement of Financial Position out of Property and equipment and Other Liabilities, respectively in these financial statements.
+
+# 4.2 IFRS 9 - Financial Instruments
+
+The Group has adopted IFRS 9 (read with IFRS 9 application instructions issued by SBP) using modified retrospective approach with date of initial application as January 01, 2024, which resulted in changes in accounting policies and adjustments to the amounts previously recognised in the financial statements. In terms of the transitional provisions of IFRS 9, adjustments to the carrying amounts of financial assets and liabilities at the date of transition were recognised in the opening unappropriated profit and surplus on revaluation of assets - net of tax at the beginning of the current period without restating the comparative figures. The impact on carrying amounts of the financial assets and liabilities is disclosed in Note 4.2.4.
+
+# 4.2.1 Scope of IFRS 9 application
+
+IFRS 9 has been applicable in several overseas jurisdictions at various effective dates starting from January 01, 2018. The requirements of this standard were already incorporated in the Bank’s financial statements for the jurisdictions where IFRS 9 has been adopted.
+
+The SBP through BPRD Circular Letter No. 16 dated July 29, 2024 and BPRD Circular Letter No. 01 dated January 22, 2025 (Letters) has made certain amendments and clarified the timelines of some of the SBP’s IFRS 9 Application Instructions. The Letters have provided clarifications / relaxations on measurement of unquoted equity securities, modification accounting, maintenance of general provisions over and above ECL, accounting methodology for Islamic Banking Institutions and treatment of charity. Accordingly, the Group has adopted the treatment as instructed in the aforementioned Letters in these consolidated financial statements. In addition, the SBP in a letter BPRD / RPD / 822456/25 dated January 22, 2025 has allowed extension for application of Effective Interest Rate up to December 31, 2025.
+
+# Notes to the Consolidated Financial Statements
+
+# for the year ended December 31, 2024
+
+The Group has not recognised any general provisions over and above expected credit losses in these consolidated financial statements.
+
+# 4.2.2 Significant differences from accounting policies applicable till December 31, 2023 before adoption of IFRS 9
+
+# 4.2.2.1 Classification of financial assets
+
+IFRS 9 introduced a new classification model for financial assets that is more principle-based than the previous requirements. Financial assets are classified according to their contractual cash flow characteristics and the business models under which they are held. Instruments will be classified either at amortised cost, the newly established measurement category fair value through other comprehensive income (FVOCI) or fair value through profit or loss (FVTPL). For equity investment that are not held for trading, an election is available to the Group to classify these either through FVTPL or FVOCI. The previous accounting policies were based on instrument by instrument classification into Held for trading, Held to maturity and Available for Sale categories as disclosed in Note 4.3 to the annual financial statements of the Group for the year ended December 31, 2023.
+
+• How the performance of the business model and the financial assets held within that business model are evaluated and reported to the Bank’s Board/ Board Committees
+
+• The risks that affect the performance of the business model (and the financial assets held within that business model) and, in particular, the way those risks are managed
+
+• The expected frequency, value and timing of sales are also important aspects of the Bank’s assessment
+
+# 4.2.2.2 Impairment of debt investments and loans and advances
+
+The new IFRS 9 impairment requirements eliminate the previous approach for the recognition of credit losses, i.e., it is no longer necessary for a credit event to have occurred before credit losses are recognised. Instead, an entity always accounts for ECLs, and updates the loss allowance for changes in these ECLs at each reporting date to reflect changes in credit risk since initial recognition. Consequently, the holder of the financial asset needs to take into account more timely and forward-looking information in order to provide users of financial statements with meaningful information about the ECLs on financial instruments that are in the scope of these impairment requirements. The previous impairment requirements were based solely on Prudential regulations of SBP as disclosed in Note 4.11 to the annual financial statements of the Group for the year ended December 31, 2023.
+
+# 4.2.2.3 Impairment of equity investments
+
+Previously, investments classified as available for sale were required to be tested for impairment and if there is an objective evidence, impairment was required to be booked. Under IFRS 9 regime, no impairment is required against such investments which are carried at FVOCI as the gain or loss on remeasurement will permanently remain in OCI/Surplus on revaluation of Investments. The previous accounting policies are disclosed in Note 4.3 & 4.11 to the annual financial statements of the Group for the year ended December 31, 2023.
+
+# 4.2.3 Material accounting policies applicable from January 01, 2024 as a result of adoption of IFRS 9
+
+# 4.2.3.1 Financial assets – initial recognition
+
+Financial assets are initially recognized at fair value, plus in the case of a financial asset not at fair value through profit or loss, transaction costs that are attributable to the acquisition of the financial asset. When the transaction price of the instrument differs from the fair value at origination and the fair value is based on a valuation technique using only inputs observable in market transactions, the Group recognises the difference between the transaction price and fair value in profit and loss account. In those cases where fair value is based on models for which some of the inputs are not observable, the difference between the transaction price and the fair value is deferred and is only recognised in profit and loss account when the inputs become observable, or when the instrument is derecognised.
+
+# 4.2.3.2 Classification and subsequent measurement of financial assets
+
+Financial assets are classified into following categories for measurement subsequent to initial recognition:
+
+- Financial assets at amortized cost
+- Financial assets at ‘fair value through other comprehensive income’ FVOCI
+- Financial assets at ‘fair value through profit or loss’ FVTPL
+
+# 4.2.3.3 Financial assets at amortized cost
+
+The Group classifies its financial assets at amortized cost only if both of the following conditions are met:
+
+- The financial asset is held within a business model with the objective to hold financial assets in order to collect contractual cash flows
+- The contractual terms of the financial asset give rise on specified dates to cash flows that are solely payments of principal and interest (SPPI) on the principal amount outstanding
+
+# 4.2.3.4 Debt instruments at FVOCI
+
+The Group applies this new category under IFRS 9 when both of the following conditions are met:
+
+- The instrument is held within a business model, the objective of which is achieved by both collecting contractual cash flows and selling financial assets
+- The contractual terms of the financial asset meet the SPPI test
+
+FVOCI debt instruments are subsequently measured at fair value with gains and losses arising due to changes in fair value recognised in OCI. Interest income at EIR and foreign exchange gains and losses are recognised in the profit and loss account.
+
+# 4.2.3.5 Equity instruments at FVOCI
+
+Upon initial recognition, the Group elects to classify its equity investments at FVOCI which are not held for trading. Such classification is determined on an instrument-by-instrument basis and is irrevocable.
+
+# Notes to the Consolidated Financial Statements
+
+# for the year ended December 31, 2024
+
+# 4.2.3.10.2 The calculation of ECLs
+
+Gains and losses on these equity instruments are never recycled to profit and loss account. Dividends are recognised in profit and loss account when the right of the payment has been established, except when the Group benefits from such proceeds as a recovery of part of the cost of the instrument, in which case, such gains are recorded in OCI. Equity instruments at FVOCI are not subject to an impairment assessment.
+
+# 4.2.3.6 Financial assets and financial liabilities at FVTPL
+
+Financial assets and financial liabilities in this category are those that are:
+
+- held for trading, that is, they have been purchased or issued primarily for short-term profit-making through trading activities or form part of a portfolio of financial instruments that are managed together, for which there is evidence of a recent pattern of short-term profit taking, or
+- not held for trading and have been either designated by management upon initial recognition, or mandatorily required to be measured at fair value under IFRS 9.
+
+Financial assets are recorded in the statement of financial position at fair value. Changes in fair value are recorded in profit and loss account. Interest and dividend income or expense is recorded in net trading income according to the terms of the contract, or when the right to payment has been established.
+
+# 4.2.3.7 Financial liabilities at amortised cost
+
+Financial liabilities with a fixed maturity are measured at amortised cost using the EIR method. These include Bills payable, Borrowings, Deposits and certain items within Other Liabilities.
+
+# 4.2.3.8 Derecognition of financial assets
+
+# 4.2.3.8.1 Derecognition due to substantial modification of terms and conditions
+
+The Group derecognises a financial asset, such as a loan to a customer, when the terms and conditions have been renegotiated to the extent that, substantially, it becomes a new loan, with the difference recognised as a derecognition gain or loss, to the extent that an impairment loss has not already been recorded. The newly recognised loan is classified as Stage 1 for ECL measurement purposes, unless it is deemed to be purchased originated credit impaired.
+
+If the modification does not result in cash flows that are substantially different, the modification does not result in derecognition. Based on the change in cash flows discounted at the original EIR, the Group records a modification gain or loss, to the extent that an impairment loss has not already been recorded.
+
+The gain/(loss) on derecognition of financial asset is calculated as the difference between the book value (including impairment) and the proceeds received.
+
+# 4.2.3.8.2 Derecognition other than due to substantial modification of terms and conditions
+
+A financial asset (or, where applicable, a part of a financial asset or part of a group of similar financial assets) is derecognised when the rights to receive cash flows from the financial asset have expired. The Group also derecognises the financial asset if it has both transferred the financial asset and the transfer qualifies for derecognition.
+
+# 4.2.3.9 Derecognition of financial liabilities
+
+A financial liability is derecognised when the obligation under the liability is discharged, cancelled or expires.
+
+# 4.2.3.10 Impairment of financial assets
+
+# 4.2.3.10.1 Overview of the ECL principles
+
+The adoption of IFRS 9 has fundamentally changed the Bank’s loan loss impairment method by replacing the incurred loss approach of the local regulations with a forward-looking ECL approach. The Group has been recording the allowance for expected credit losses for all loans and other debt financial assets held at amortized cost or FVOCI, together with loan commitments, letters of credit and financial guarantee contracts. Equity instruments are not subject to impairment under IFRS 9. Under the SBP’s instructions, local currency credit exposures guaranteed by the Government and Government Securities are exempted from the application of ECL.
+
+The interest rate used to discount the ECLs would be based on the effective interest rate that is expected to be charged over the expected period of exposure to the facilities.
+
+When estimating the ECLs, the Group considers three probability-weighted scenarios (a base case, a best case, and a worse case). Each of these is associated with different PDs, EADs and LGDs. These expected probabilities are applied to a forecast EAD and multiplied by the expected LGD and discounted by an approximation to the original EIR. This calculation is made for each of the three scenarios. When relevant, the assessment of multiple scenarios also incorporates how defaulted loans are expected to be recovered, including the probability that the loans will cure and the value of collateral or the amount that might be received for selling the asset.
+
+The maximum period for which the credit losses are determined is the contractual life of a financial instrument unless the Group has the legal right to call it earlier.
+
+# Notes to the Consolidated Financial Statements
+
+# for the year ended December 31, 2024
+
+Impairment losses and reversals are accounted for and disclosed separately from modification losses or gains that are accounted for as an adjustment of the financial asset’s gross carrying value.
+
+# 4.2.3.10.3 Forward looking information
+
+The Group formulates a base case view of the future direction of relevant economic variables and a representative range of other possible forecast scenarios and consideration of a variety of external actual and forecast information. This process involves developing three different economic scenarios, which represent macro economic inputs.
+
+# 4.2.4 Reconciliation of statement of financial position balances from existing local regulations to IFRS 9
+
+The following table reconciles the carrying amount of financial assets from their previous measurement category in accordance with existing local regulations to their new measurement categories upon transition to IFRS 9 on January 01, 2024.
+
+|Carrying amount as per accounting policy as at December 31, 2023|Classification under IFRS-9|IFRS 9 carrying amount as at January 01, 2024| | | | | | | | | | |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|At FVTPL|At FVOCI- with recycling|At FVOCI- without recycling|At Amortised Cost|Remeasurement under IFRS 9| | | | | | | | |
+| |Cash and balances with treasury banks| |-|-|-|156,136,308|(3,495,350)|152,640,958| | | | |
+| |Balances with other banks| |-|-|-|2,455,601|(749)|2,454,852| | | | |
+|Lendings to financial institutions| | |-|-|-|9,418,003|(2)|9,418,001| | | | |
+|Advances| | |-|-|-|781,597,230|(2,237,771)|779,359,459| | | | |
+|Investments in financial assets|Held for trading|Held for trading|Held for trading|Held for trading|Held for trading|20,049,848|20,049,848| | | | | |
+|Held to maturity| | |-|-|-|59,797,669|120,334,806|180,132,475| | | | |
+|Available for sale| | |34,454|946,914,037|18,798,989|104,223,092|(104,223,092)|965,747,480| | | | |
+|Other financial assets| | |-|-|-|88,096,252|(37,823)|88,058,429| | | | |
+|Other liabilities| | |-|-|-|75,442,669|(153,373)|75,289,296| | | | |
+|Total| |20,084,302|946,914,037|18,798,989|1,277,166,824|10,186,646|2,273,150,798| | | | | |
+|Deferred Tax impact| | |-|-|-|-|(4,991,457)|(1,209,576)| | | | |
+| |Effect on net assets on adoption of IFRS 9| | | | |5,195,189|202,521,227| | | | | |
+
+# 4.2.5 Impact on equity on adoption of IFRS 9
+
+‘The total estimated adjustment (net of tax) of the adoption of IFRS 9 on the opening balance of the Bank’s equity as at January 01, 2024 is increase in surplus on revaluation of assets of approximately Rs. 9,230.428 million and reduction in unappropriated profits of approximately Rs. 4,035.239 million. Following is the detail of the impact on respective item within equity:
+
+Opening unappropriated profits
+
+- A decrease of Rs. 4,428.08 million net of tax related to impairment requirements;
+- An increase of Rs. 392.841 million net of tax related to classification and measurement changes.
+
+Opening surplus on revaluation of assets
+
+- An increase of Rs. 9,230.428 million net of tax related to classification and measurement changes.
+
+# Impact on regulatory capital
+
+The implementation of IFRS 9 has led to a decrease in the regulatory capital of banks, the State Bank of Pakistan (SBP) has concluded that it may be suitable for banks to establish a transitional arrangement regarding the impact on regulatory capital resulting from the adoption of ECL accounting. Annexure B of the Application Instructions issued by the SBP outlines this transitional arrangement. This arrangement specifically pertains to provisions for Stage 1 and Stage 2 financial assets. It requires adjustments to Common Equity Tier 1 (CET1) capital. If there is a decrease in CET1 capital due to new provisions, after accounting for tax effects, upon the adoption of an ECL accounting model, the reduction in CET1 capital (referred to as the “transitional adjustment amount”) must be partially reinstated (i.e., added back) to CET1 capital over a “transition period” of five years.
+
+Additionally, the SBP has permitted adjustments to the amounts of Stage 1 and Stage 2 provisions in Tier 2 Capital that have not been added back to CET1, and vice versa, as specified in Annexure A of BPRD Circular No. 16 of 2024, dated July 29, 2024. The Group has not elected to utilize the IFRS 9 transitional arrangement.
+
+# 4.2.6
+
+The following explains how applying the new classification requirements of IFRS 9 led to changes in classification of certain financial assets held by the Group as shown in the table above:
+
+(a) Open ended mutual funds previously classified as available for sale (AFS) has been reclassified to FVTPL
+
+The Group holds a portfolio of mutual funds investments which was earlier classified as available for sale (AFS) investments. However, these investments do not meet the definition of equity investment from holders perspective, therefore IFRS 9 classification requirements of debt instruments have been applied to these financial assets. The business model of this portfolio is hold to collect and sell, however contractual cash flows failed to meet the ‘solely payments of principal and interest’ (SPPI) test requirement for classification as FVOCI under IFRS 9. Therefore, these financial assets having a carrying value of Rs. 34.454 million have been reclassified mandatorily as FVTPL.
+
+(b) Debt investments previously classified as available for sale (AFS) reclassified to amortised cost
+
+At the date of initial application of IFRS 9, an entity shall assess the business model and the contractual terms of the financial asset on the basis of facts and circumstances that exist at the transition date. The Group has identified certain portfolio of federal government securities under AFS category which have been held to collect the contractual cash flows and the contractual terms of the financial asset give rise to cash flows on specified dates that are solely payments of principal and interest (SPPI) on the principal amount outstanding. As a result, financial assets having fair value amounting to Rs. 104,223.092 million have been reclassified to Amortized cost at Rs. 120,334.806 million, instead of FVOCI.
+
+(c) Investment in debt securities previously designated at held for trading
+
+The Group holds investment of Rs. 20,049.848 million in a portfolio of debt securities which had previously been designated at held for trading as the debt securities were managed on a fair value basis. As part of the transition to IFRS 9, these securities are part of an ‘other’ business model and so required to be classified as FVTPL category under IFRS 9.
+
+(d) Designation of equity instruments at FVOCI
+
+In addition to the above, the following debt instruments have been reclassified to new categories under IFRS 9, as their previous categories under existing local regulations were ‘retired’, with no changes to their measurement basis:
+
+(e) Reclassification from retired categories with no change in measurement
+
+In addition to the above, the following debt instruments have been reclassified to new categories under IFRS 9, as their previous categories under existing local regulations were ‘retired’, with no changes to their measurement basis:
+
+- Those previously classified as available for sale and now classified as measured at FVOCI;
+- Those previously classified as held to maturity and now classified as measured at amortised cost.
+- Those previously classified as held for trading and now classified as measured at FVTPL.
+
+# 4.3 Cash and cash equivalents
+
+For the purpose of Cash Flow Statement, cash and cash equivalents include cash and balances with treasury banks and balances with other banks (net of overdrawn nostro balances) in current and deposit accounts.
+
+# 4.4 Lendings to or borrowings from financial institutions
+
+The Group enters into transactions of borrowing (re-purchase) from and lending (reverse re-purchase) to financial institutions, at contracted rates for a specified period of time. These are recorded as under:
+
+- a) Sale under re-purchase agreements
+- Securities sold subject to a re-purchase agreement are retained in the financial statements as investments and the counter party liability is included in borrowings from financial institutions. The differential in sale and re-purchase value is accrued on a prorata basis and recorded as mark-up expense.
+
+b) Purchase under resale agreements
+
+# Notes to the Consolidated Financial Statements
+
+# for the year ended December 31, 2024
+
+Securities held as collateral are not recognized in the financial statements, unless these are sold to third parties, in which case the obligation to return them is recorded at fair value as a trading liability under borrowings from financial institutions. All “regular way” purchases and sales of investments are recognized on the trade date, i.e., the date that the Group commits to purchase or sell the asset. Regular way purchases or sales are purchases or sales of investments that require settlement within the time frame generally established by regulation or convention in the market place.
+
+In Bai Muajjal, the Group purchases and sells Shariah Compliant instruments including sukuks on credit to other financial institutions. The credit price is agreed at the time of sale and such proceeds are received at the end of the credit period. Expected profit / expense is recognized on accrual basis.
+
+In Musharaka and Mudaraba, the Group invests in the Shariah compliant business pools of the financial institutions at the agreed profit and loss sharing ratio. Expected profit is recognized on accrual basis.
+
+Other borrowings including borrowings from SBP are recorded at the proceeds received. Mark-up on such borrowings is charged to the Profit and Loss Account on a time proportion basis.
+
+Lendings are stated net of provision. Return on such lending is accrued to the Profit and Loss Account on a time proportion basis except mark-up on impaired or delinquent lendings, which is recognized on receipt basis.
+
+# 4. Investments
+
+ABL Asset Management Company Limited and ABL Exchange Private Limited is a subsidiary of the Bank. The investment is stated at the cost less provision for impairment, if any.
+
+# Amortized Cost
+
+These are debt securities which are acquired under the business model “Hold to Collect” where the intention is to hold the security until maturity and collect the contractual cash flows which are based solely on payments of principal and interest (SPPI).
+
+# Fair Value Through Other Comprehensive Income
+
+These are debt investments which are acquired under the business model “Hold to Collect and Sell” where the intentions are to collect contractual cash flows and sell the asset to manage everyday liquidity needs, to maintain a particular interest yield profile or to match the duration of the assets to the duration of the liabilities that those assets are funding. The contractual cash flows are based solely on payments of principal and interest (SPPI). In addition, equity investments which are not held for trading are classified under this category.
+
+# 4.5 Investments
+
+ABL Asset Management Company Limited and ABL Exchange Private Limited is a subsidiary of the Bank. The investment is stated at the cost less provision for impairment, if any.
+
+# Amortized Cost
+
+These are debt securities which are acquired under the business model “Hold to Collect” where the intention is to hold the security until maturity and collect the contractual cash flows which are based solely on payments of principal and interest (SPPI).
+
+# Fair Value Through Other Comprehensive Income
+
+These are debt investments which are acquired under the business model “Hold to Collect and Sell” where the intentions are to collect contractual cash flows and sell the asset to manage everyday liquidity needs, to maintain a particular interest yield profile or to match the duration of the assets to the duration of the liabilities that those assets are funding. The contractual cash flows are based solely on payments of principal and interest (SPPI). In addition, equity investments which are not held for trading are classified under this category.
+
+# Fair Value Through Profit and Loss
+
+The investments, other than those in subsidiary, which are not classified as Amortized Cost and Fair Value Through Other Comprehensive Income are classified as Fair Value Through Profit and Loss. The business model for such investments is to realize the cash flows through the sale of assets (Held for Trading) or the contractual cash flows of the debt instruments are not solely payments of principal and interest.
+
+Investments are initially recognized at fair value plus or minus, in the case of a financial asset not at fair value through profit or loss, transaction costs.
+
+Quoted securities, other than those classified as “amortized cost” and investments in subsidiaries, are carried at market value. Debt securities classified as “amortized cost” are subsequently measured at amortized cost.
+
+Unrealized surplus or (deficit) arising on revaluation of the Bank’s “Fair Value Through Profit and Loss” investment portfolio is taken to the profit and loss account. Surplus or (deficit) arising on revaluation of debt securities classified as “Fair Value Through Other Comprehensive Income” is kept in a separate account shown in the statement of financial position as a component of Equity. On derecognition, the cumulative gains or losses previously recognized in Other Comprehensive Income is reclassified to Profit and Loss Account. The surplus or (deficit) arising on equity securities designated as “Fair Value Through Other Comprehensive Income” is taken to Other Comprehensive Income. Upon disposal, the cumulative surplus or (deficit) previously recognized in Other Comprehensive Income is reclassified from equity to Unappropriated Profit as a reclassification adjustment and is never recycled to Profit and Loss Account.
+
+# Notes to the Consolidated Financial Statements
+
+# for the year ended December 31, 2024
+
+An item of property and equipment is derecognized upon disposal or when no future economic benefits are expected from its use or disposal. Any gain or loss arising on derecognition of the asset is recognized in the Profit and Loss Account in the year the asset is derecognized, except that the related surplus on revaluation of fixed assets (net of deferred tax) is transferred directly to unappropriated profit.
+
+Subsequent costs are included in the asset’s carrying amount only when it is probable that future economic benefits associated with the item will flow to the Group and the cost of the item can be measured reliably. All other repairs and maintenance are charged to the Profit and Loss Account.
+
+# 4.10 Staff retirement and other benefits
+
+# 4.10.1 Staff retirement schemes
+
+a) For employees who opted for the 2002 scheme introduced by the management
+
+An approved pension scheme (defined benefit scheme) under which the benefits on the basis of frozen basic salary, service length and age as on June 30, 2002 are payable to all employees whose date of joining the Group is on or before July 01, 1992, i.e., who have completed ten years of continuous service as on June 30, 2002.
+
+An approved gratuity scheme (defined benefit scheme) under which the benefits are payable as under:
+
+i. For members whose date of joining the Group is on or before July 01, 1992, their services would be calculated starting from July 01, 2002 for gratuity benefit purposes.
+
+ii. For members whose date of joining the Group is after July 01, 1992 their services would be taken at actual for the purpose of calculating the gratuity benefit. This rule will be applicable upon retirement or in service death only, in case of resignation gratuity will be payable from July 01, 2002, even if he or she had joined the Group before July 01, 2002.
+
+b) Intangible assets
+
+Intangible assets are carried at cost less any accumulated amortization and impairment losses, if any. The cost of intangible assets is amortized over their estimated useful lives, using the straight line method. Amortization is charged from the month the assets are available for use at the rate stated in note 11.2. The useful lives are reviewed and adjusted, if appropriate, at each reporting date.
+
+c) Capital work-in-progress
+
+Capital work-in-progress is stated at cost less impairment losses, if any.
+
+# 4.8 Lease liability and right of use asset
+
+The lease liability is initially measured at the present value of lease payments to be made over the term of the lease, discounted using the Banks’s incremental borrowing rate. The lease liability is subsequently measured at amortized cost using the effective interest rate method. The carrying amount is remeasured/adjusted if there are changes in the future cash flows or the lease term.
+
+The right-of-use asset is initially measured at cost, which comprises the initial amount of the lease liability, adjusted for, as applicable, any lease payments made at or before the commencement date. On subsequent measurement, right-of-use assets are stated at cost less any accumulated depreciation and accumulated impairment losses and are adjusted for any remeasurement of the lease liability.
+
+Right-of-use assets are depreciated on a straight line basis over the lease term as this method closely reflects the expected pattern of consumption of future economic benefits. Carrying amount of the lease liability is derecognised upon termination of the lease contract with corresponding adjustment to right-of-use asset. Gain or loss on termination of lease contract is recognised in the Profit and Loss Account.
+
+The Group has elected not to recognize a right-of-use asset and the corresponding lease liability for short-term leases with terms of 12 months or less and leases of low-value assets. Payments associated with these leases are recognized as an expense in the Profit or Loss Account on a straight-line basis.
+
+# 4.9 Taxation
+
+a) Current
+
+Provision for current taxation is based on taxable income for the year determined in accordance with the prevailing laws for taxation. The charge for current tax is calculated using the prevailing tax rates or tax rates expected to apply to the profits for the year.
+
+b) Prior
+
+The taxation charge for prior years represents adjustments to the tax charge relating to prior years, arising from assessments or changes in laws and changes in estimates made during the current year.
+
+c) Deferred
+
+Deferred tax is recognized using the balance sheet liability method on all temporary differences, at the reporting date between the amounts attributed to assets and liabilities for financial reporting purpose and amounts used for taxation purposes. Deferred tax is calculated at the rates that are expected to apply to the periods when the difference will reverse, based on tax rates that have been enacted or substantially enacted at the reporting date.
+
+Deferred tax assets are recognized only to the extent that it is probable that future taxable profits will be available against which the assets can be utilized. Deferred tax assets are reduced to the extent that it is no longer probable that the related tax benefit will be realized.
+
+The Group also recognizes a deferred tax asset or liability on deficit or surplus on revaluation of fixed assets, non-banking assets and investments which is adjusted against the related deficit or surplus in accordance with the requirements of IAS-12 ‘Income Taxes’.
+
+# 4.10.2 Other long term benefit
+
+a) Employees’ compensated absences
+
+Employees’ entitlement to annual leave is recognized when they accrue to employees, up to a maximum of 60 days. A provision is made for estimated liability for annual leaves as a result of services rendered by the employee against un-availed leaves, as per terms of service contract, up to the reporting date, based on actuarial valuation using Projected Unit Credit Method. Actuarial gains or losses arising from experience adjustments and changes in actuarial assumptions are recognized in Profit and Loss Account in the period of occurrence.
+
+b) Compensation to certain class of employees
+
+Group has revised its retirement policy by reducing the retirement age to 58 years for class of employees effective January 01, 2018. Consequent to the revision, these employees shall be compensated with gross salary along with employer’s contribution on provident fund and gratuity for the remaining period up to 60 years in addition to already defined post-employment benefits, payable at the time of retirement, if any.
+
+# 4.11 Non-banking assets acquired in satisfaction of claims
+
+Non-banking assets (NBA) acquired in satisfaction of claims are carried at revalued amounts less accumulated depreciation (excluding land). Revaluation by independent professionally qualified valuers, is carried out with sufficient regularity to ensure that their net carrying value does not differ materially from their fair value. Surplus arising on revaluation of NBA is credited to the ‘surplus on revaluation of assets’ account through statement of comprehensive income and any deficit arising on revaluation is taken to Profit and Loss Account directly. Legal fees, transfer costs and direct costs of acquiring title to property are charged to Profit and Loss Account and not capitalised.
+
+# Notes to the Consolidated Financial Statements
+
+# for the year ended December 31, 2024
+
+# 4.12 Deposits
+
+Deposits are initially recorded at the amount of proceeds received. Mark-up accrued on deposits is recognized separately as part of other liabilities and is accrued to the Profit and Loss Account on time proportion basis. Deposits mobilized under Islamic Banking operations are generated under two modes i.e. ‘Qard’ and ‘Mudaraba’. Deposits taken on Qard basis are classified as ‘Current accounts’ and Deposits generated on Mudaraba basis are classified as ‘Saving deposits or Fixed deposits’.
+
+# 4.13 Impairment
+
+# a) Financial assets
+
+Expected credit loss is measured for all loans and other debt financial assets not held at fair value through Profit and Loss, together with loan commitments and financial guarantee contracts. Equity instruments are not subject to impairment. Determination of expected credit losses is a significant estimate and involves the following judgments:
+
+- Development of ECL models, including the various formulas and the choice of inputs.
+- The segmentation of financial assets when their ECL is assessed on a collective basis.
+- The Bank’s internal credit grading model based on which PDs are assigned to the individual grades.
+- Qualitative and quantitative indicators used as SICR triggers.
+- The definition of default against which parameters of ECL model such as PD, LGD and EAD are evaluated.
+- Selection of forward looking macroeconomic scenarios and their probability weightings.
+- Determination of economic inputs, such as GDP growth and CPI.
+
+# b) Non-financial assets
+
+The carrying amount of the Bank’s assets (other than deferred tax assets) are reviewed at each reporting date to determine whether there is any indication of impairment. If such indication exists, the recoverable amount of the relevant asset is estimated. An impairment loss is recognized whenever the carrying amount of an asset exceeds its recoverable amount. Impairment losses are recognized in the Profit and Loss Account except for an impairment loss on revalued assets which is adjusted against the related revaluation surplus to the extent that the impairment loss does not exceed the revaluation surplus for that same asset. An impairment loss is reversed if the reversal can be objectively related to an event occurring after the impairment loss was recognized.
+
+# 4.14 Provisions
+
+Provisions are recognized when the Group has a present obligation (legal or constructive) as a result of past events and it is probable that an outflow of resources embodying economic benefits will be required to settle the obligation and a reliable estimate of the amount can be made. Provision against identified losses on non-funded exposure is recognized when intimated and reasonable certainty exists for the Group to settle the obligation. The loss is charged to the Profit and Loss Account net of expected recovery and is classified under other liabilities. Provisions are reviewed at the reporting date and are adjusted to reflect the current best estimate.
+
+# 4.15 Acceptances
+
+Acceptances comprise of undertakings by the Group to pay bills of exchange drawn on customers. Acceptances are recognised as financial liability in the statement of financial position with a contractual right of reimbursement from the customer as a financial asset. Therefore, commitments in respect of acceptances have been accounted for as financial assets and financial liabilities.
+
+# 4.16 Financial instruments
+
+# 4.16.1 Financial instruments
+
+Financial assets and financial liabilities are recognized at the time when the Group becomes a party to the contractual provision of the instrument. Financial assets are de-recognized when the contractual right to future cash flows from the asset expires or is transferred along with the risk and reward of the asset. Financial liabilities are de-recognized when obligation specific in the contract is extinguished. Any gain or loss on de-recognition of the financial asset and liability is recognized in the profit and loss account of the current period. The particular recognition and subsequent measurement methods adopted for significant financial assets and financial liabilities are disclosed in the individual policy statements associated with them.
+
+# 4.16.2 Derivative financial instruments
+
+Derivative financial instruments are initially recognized at fair value on the date on which the derivative contract is entered into and are subsequently re-measured at fair value using appropriate valuation techniques. All derivative financial instruments are carried as assets when fair value is positive and liabilities when fair value is negative. Any change in the fair value of derivative financial instruments is taken to the Profit and Loss Account.
+
+# 4.17 Revenue recognition
+
+Revenue is recognized to the extent that the economic benefits will flow to the Group and the revenue can be reliably measured. These are recognised as follows:
+
+- a) Advances and investments: Mark-up, return on regular loans and advances and investments is recognized on a time proportion basis. Where debt securities are purchased at premium or discount, the same is amortized through the Profit and Loss Account using the effective interest rate method. Interest or mark-up recoverable on classified loans, advances and investments is recognized on receipt basis. Interest, return or mark-up on classified, rescheduled or restructured loans and advances and investments is recognized as permitted by the regulations of the State Bank of Pakistan. Dividend income is recognized when the right to receive the dividend is established. Gain and losses on sale of debt investments and equity investments classified as Fair Value Through Profit and Loss are recognized in the Profit and Loss Account. Gain and losses on sale of equity investments classified as Fair Value Through Other Comprehensive Income are reclassified from Equity to Unappropriated Profit.
+- b) Lease financing: Financing method is used in accounting for income from lease financing. Under this method, the unearned lease income (excess of the sum of total lease rentals and estimated residual value over the cost of leased assets) is deferred and taken to income over the term of the lease period so as to produce a constant periodic rate of return on the outstanding net investment in lease. Unrealised income on classified leases is recognized on receipt basis. Gains or losses on termination of lease contracts and other lease income are recognized when realized.
+- c) Islamic financing and related assets: Profit on Business Musharakah financing is booked on accrual basis and is adjusted upon declaration of profit by Musharakah partners. Ijarah and Diminishing Musharakah income is recognised on an accrual basis as and when the rental becomes due. Murabaha, Musawamah and Salam income is recognised on deferred income basis. Profit on Istisna financing is recognized on an accrual basis commencing from time of sale of goods till the realization of sale proceeds by the Bank.
+- d) Fees, brokerage and commission: Fee, Commission and Brokerage income is recognized on an accrual basis except where, in the opinion of management, it would not be prudent to do so.
+
+# 4.18 Business Segment reporting
+
+A segment is a distinguishable component of the Group that is subject to risks and rewards that are different from those of other segments. A business segment is one that is engaged either in providing certain products or services, whereas a geographical segment is one engaged in providing certain products or services within a particular economic environment. Segment information is presented as per the Bank’s functional and management reporting structure. The Bank’s primary segment reporting is based on the following business segments:
+
+- a) Corporate & investment banking: This segment offers a wide range of financial services to medium and large sized public and private sector entities and also covers overseas operation of the Bank. These services include, providing and arranging tenured financing, corporate advisory, underwriting, cash management, trade products, corporate finance products and customer services on all Group related matters.
+- b) Trading and sales (Treasury): This segment undertakes the Bank’s treasury and money market activities.
+- c) Commercial & retail banking: Commercial and retail banking provides services to commercial and retail customers including agriculture sector. It includes loans, deposits and other transactions with commercial and retail (conventional and Islamic) customers.
+- d) Islamic Banking: Islamic banking provides Shariah compliant services to customers including loans, deposits and other transactions.
+- e) Others: Others includes functions which cannot be classified in any of the above segments.
+
+# 4.19 Geographical Segment Reporting
+
+Geographically the Group operates in Pakistan, Middle East and China.
+
+# Notes to the Consolidated Financial Statements
+
+# for the year ended December 31, 2024
+
+|Note| | | | |December 31, 2024|December 31, 2023| |
+|---|---|---|---|---|---|---|---|
+|5|CASH AND BALANCES WITH TREASURY BANKS| | | | | | |
+| |In hand| | | | | | |
+| |Local currency|37,733,223|34,852,304| | | | |
+| |Foreign currencies|3,289,000|3,877,058| | | | |
+| |Total|41,022,223|38,729,362| | | | |
+| |With State Bank of Pakistan (SBP) in| | | | | | |
+| |5.1|Local currency current accounts|77,335,586|73,799,188| | | |
+| |5.2|Foreign currency current account|107,534|149,569| | | |
+| |Foreign currency deposit accounts (non-remunerative)|6,105,893|5,580,842| | | | |
+| |5.3|Foreign currency deposit accounts (remunerative)|11,743,494|11,695,327| | | |
+| |Total|95,292,507|91,224,926| | | | |
+| |With National Bank of Pakistan in| | | | | | |
+| |Local currency current accounts|12,987,328|25,519,660| | | | |
+| |Prize Bonds|677,568|650,404| | | | |
+| |Credit loss allowance held against cash and balances with treasury banks|(3,166,912)|-| | | | |
+| |Total|146,812,714|156,124,352| | | | |
+
+5.1 Deposits with the State Bank of Pakistan (SBP) are maintained to comply with the cash reserve requirement, under section 22 of the Banking Companies Ordinance, 1962 and State Bank of Pakistan statutory requirements issued from time to time.
+
+5.2 This represents US$ settlement account maintained with the State Bank of Pakistan (SBP).
+
+5.3 This represents special cash reserve maintained with the State Bank of Pakistan (SBP). The return on this account is declared by SBP on a monthly basis and carries mark-up at the rate of 3.53% to 4.35% (2023: 3.39% to 4.34%) per annum.
+
+|Note| | | | |December 31, 2024|December 31, 2023|
+|---|---|---|---|---|---|---|
+|6|BALANCES WITH OTHER BANKS| | | | | |
+| |In Pakistan| | | | | |
+| |In current accounts|-|7,500| | | |
+| |Outside Pakistan| | | | | |
+| |In current accounts|9,026,773|1,931,547| | | |
+| |6.1|In deposit accounts|943,546|516,554| | |
+| |Total|9,970,319|2,448,101| | | |
+| |Credit loss allowance held against balances with other banks|(6,095)|-| | | |
+| |Total|9,964,224|2,455,601| | | |
+
+6.1 Balances with other banks outside Pakistan in deposit accounts carry interest rates of 0.01% to 0.25% (2023: 0.01% to 0.25%) per annum.
+
+|Note| | | | |December 31, 2024|December 31, 2023| | |
+|---|---|---|---|---|---|---|---|---|
+| | | | |7|LENDINGS TO FINANCIAL INSTITUTIONS| | | |
+| | | | | |7.1|Call money lendings - local currency|7,600,000|1,000,000|
+| | | | | |7.2|Repurchase agreement lendings (Reverse Repo)|235,941,105|8,418,003|
+| | | | | |7.3|Certificates of investment|70,000|70,000|
+| |Total| | | | |243,611,105|9,488,003| |
+| |Less: Credit loss allowance held against lending to financial institutions| | | | |(70,024)|(70,000)| |
+| |Lendings to financial institutions - net of credit loss allowance| | | | |243,541,081|9,418,003| |
+
+7.1 ‘These represent local currency call money lendings to financial institutions at the mark-up rate of 13.70% to 15.65% (2023: 22.50%) per annum, maturing latest by March 26, 2025.
+
+7.2 These are short-term local currency lendings to financial institutions against government securities as shown in note 7.5 below. These carry mark-up at the rate ranging from 12.90% to 13.90% (2023: 21.90% to 22.95%) per annum, maturing latest by January 17, 2025.
+
+7.3 This represents local currency certificates of investment and related credit loss allowance, amounting to Rs. 70 million (2023: Rs. 70 million).
+
+|Note| | | | |December 31, 2024|December 31, 2023| |
+|---|---|---|---|---|---|---|---|
+| | | | | |7.4|Particulars of lending| |
+| | | | | |In local currency|243,611,105|9,488,003|
+| | | | | |In foreign currencies|-|-|
+| |Total| | | | |243,611,105|9,488,003|
+
+| | | | | | |December 31, 2024|December 31, 2023| | | | |
+|---|---|---|---|---|---|---|---|---|---|---|---|
+|Held by Group|Further given as collateral| | | | |Total|Group|Further given as collateral|Total| | |
+| | | | | | | |7.5|Securities held as collateral against lending to financial institutions| | | |
+| | | | | |Pakistan Investment Bonds|161,175,991|-|161,175,991|8,418,003|-|8,418,003|
+| | | | | |Market Treasury Bills|74,765,114|-|74,765,114|-|-|-|
+|Total| | | | | |235,941,105|-|235,941,105|8,418,003|-|8,418,003|
+
+|Note| | | | | | | |December 31, 2024|December 31, 2023| | |
+|---|---|---|---|---|---|---|---|---|---|---|---|
+| | | | | | | | | |7.6|Category of classification| |
+| | | | | |Domestic| | | | | | |
+| | | | | |Performing - Stage 1| | |243,541,105|24| | |
+| | | | | |Under performing - Stage 2|-|-| | | | |
+| | | | | |Non-performing - Stage 3|-|-| | | | |
+| | | | | |Substandard| | |-|-| | |
+| | | | | |Doubtful| | |-|-| | |
+| | | | | |Loss| | |70,000|70,000| | |
+| |Total| | | | | | |243,611,105|70,024|70,000|70,000|
+
+
+# Notes to the Consolidated Financial Statements
+
+# for the year ended December 31, 2024
+
+# 8 INVESTMENTS
+
+| | |Stage 1|Stage 2|Stage 3|Total| | | | | | | | | | | |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| | | |Rupees in ‘000| | | | | | | | | | | | | |
+|7.7 Lending to FIs - Particulars of credit loss allowance| | | | | | | | | | | | | | | | |
+|Balance at the start of the year| | |-|-|70,000|70,000| | | | | | | | | | |
+|Impact of adoption of IFRS 9| | |2|-|-|2| | | | | | | | | | |
+| |Financial assets that have been derecognised| |(2)|-|-|(2)| | | | | | | | | | |
+| |Net remeasurement of credit loss allowance| |-|-|70,000|70,000| | | | | | | | | | |
+|New financial assets originated or purchased| |24|-|-|24| | | | | | | | | | | |
+| |Financial assets that have been derecognised| |-|-|-|-| | | | | | | | | | |
+|Balance at the end of the year| |24|-|70,000|70,024| | | | | | | | | | | |
+
+# 8.1 Investments by type:
+
+|Classiﬁed / Measured at FVTPL|Fair value / Credit loss allowance|Surplus / (Deﬁcit)| | | | | | | | |Carrying Value| | | | |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| | | | | |Federal Government Securities| |2,999,397| |-|14,420|3,013,817| | | | |
+|Classiﬁed / Measured at FVOCI| | | | |Federal Government Securities*| |957,200,784|(1,964,317)| |6,295,256|961,531,723| | | | |
+| | | | | |Non Government Debt Securities| |20,880,734|(465,121)| |505,278|20,920,891| | | | |
+| | | | | |Foreign securities|-|-|-|-| | | | | | |
+| | | | | |Total Investments| |1,114,926,903|(2,714,497)| |20,670,997|1,132,883,403| | | | |
+
+# 8.2 Investments by segments:
+
+|Federal Government Securities|Market Treasury Bills|Pakistan Investment Bonds|GOP Ijarah Sukuks|Naya Pakistan Certiﬁcate|Foreign Currency Bonds (US$)|
+|---|---|---|---|---|---|
+|141,953,316|-|879,002|142,832,318|63,107,685|-|
+|823,085,606|-|1,700,172|824,785,778|1,009,785,089|-|
+|88,721,700|-|1,639,880|90,361,580|24,141,346|-|
+|2,380,562|-|-|2,380,562|-|-|
+|1,086,092|(31,880)|31,880|1,086,092|1,555,196|-|
+|22,512,740|(1,932,437)|2,058,742|22,639,045|29,266,132|(2,452,459)|
+
+# Total Investments
+
+1,114,926,903
+(2,714,497)
+20,670,997
+1,132,883,403
+
+# Notes to the Consolidated Financial Statements
+
+# for the year ended December 31, 2024
+
+|Note|December 31, 2024|December 31, 2023|
+|---|---|---|
+|8.3|Investments given as collateral| |
+| |Market Treasury Bills|27,425,460|
+| |Pakistan Investment Bonds|360,585,621|
+| |Total Investments given as collateral|388,011,081|
+
+|8.4|Credit loss allowance for diminution in value of investments| |
+|---|---|---|
+|Opening balance|3,537,272|2,321,414|
+|Impact of adoption of IFRS 9|1,996,619| |
+|Exchange adjustments|(18,659)|69,221|
+|Charge and reversals| | |
+|Charge for the year|417,194|2,082,408|
+|Reversals for the year|(2,356,291)|(17,717)|
+|Closing Balance|2,714,497|3,537,272|
+
+# December 31, 2024
+
+|Outstanding amount|Credit loss allowance held| | | | | | | | |
+|---|---|---|---|---|---|---|---|---|---|
+| | | |Rupees in ‘000| | | | | | |
+| | | | | |8.4.4|Particulars of credit loss allowance against debt securities| | | |
+| | | | | |Domestic| | | | |
+| | | | | |Performing|Stage 1|1,073,633,535|4,080|1,073,637,615|
+| | | | | |Underperforming|Stage 2|10,566,765|978,650|11,545,415|
+| | | | | |Non-Performing|Stage 3|946,469|741,185|1,687,654|
+| | | | | |Substandard| | | | |
+| | | | | |Doubtful| |640,339|435,055|1,075,394|
+| | | | | |Loss| |306,130|306,130|612,260|
+| | | | | |Total| |1,085,146,769|1,723,915|1,086,870,684|
+| | | | | |Overseas| | | | |
+| | | | | |Performing| | | | |
+| | | | | |Underperforming| |12,759,640|990,582|13,750,222|
+| | | | | |Non-Performing| | | | |
+| | | | | |Substandard| | | | |
+| | | | | |Doubtful| | | | |
+| | | | | |Loss| | | | |
+| | | | | |Total| |12,759,640|990,582|13,750,222|
+
+
+# Notes to the Consolidated Financial Statements
+
+# for the year ended December 31, 2024
+
+|December 31, 2024|December 31, 2023|Note|December 31, 2024|December 31, 2023|
+|---|---|---|---|---|
+|Cost|Rupees in ‘000| |Cost|Rupees in ‘000|
+
+# 8.5 Quality of Securities
+
+Details regarding quality of Available for Sale (AFS) securities are as follows:
+
+# Non Government Debt Securities
+
+|Federal Government Securities - Government guaranteed|Listed| |- AAA|799,360|1,299,840|
+|---|---|---|---|---|---|
+|Market Treasury Bills|141,268,204|62,362,158|- AA+, AA, AA-|3,947,715|4,067,920|
+|Pakistan Investment Bonds|703,612,047|930,618,501|- A+, A, A-|-|-|
+|Naya Pakistan Certiﬁcate|1,086,093|1,555,195|- Unrated|8,500,000|8,500,000|
+|Foreign Currency Bonds (US$)|22,512,740|29,266,132| | | |
+|GOP Ijarah Sukuks|88,721,700|24,141,346| |13,247,075|13,867,760|
+| |957,200,784|1,047,943,332|Unlisted| | |
+|Shares| | |- AAA|2,877,250|5,596,320|
+|Listed Companies| | |- AA+, AA, AA-|1,445,000|2,530,000|
+|Power Generation and Distribution|947,545|1,650,810|- A+, A, A-|150,000|876,150|
+|Oil & Gas Exploration Companies|2,222,233|2,222,232|- B+, B, B-|300,339| |
+|Fertilizer|2,298,657|2,680,900|- CCC and below|361,070| |
+|Commercial Banks|3,147,311|4,686,843|- Unrated|2,500,000|2,521,070|
+|Oil & Gas Marketing Companies|561,076|561,076| |7,633,659|11,523,540|
+|Real Estate Investment Trust|614,796|997,589| | | |
+|Chemical|55,218|55,218| | | |
+|Close-end Mutual Funds|51,603|51,603| | | |
+|Investment Banks|50,000|50,000| |25,000|25,000|
+|Cement|637|638| | | |
+| |9,949,076|12,956,909|Open Ended Mutual Funds| | |
+|Allied Finergy Fund|25,000|25,000|Foreign Securities| | |
+|Equity Securities - Unlisted|SWIFT|1,770|1,770| | |
+
+# 8.6 Particulars relating to securities classiﬁed Under “Held to Collect” model’ are as follows:
+
+# Federal Government Securities - Government guaranteed
+
+|Pakistan Investment Bonds|117,159,273|59,797,669|
+|---|---|---|
+|GOP Ijarah Sukuks - Bai Muajjal Placement|2,380,562| |
+| |119,539,835|59,797,669|
+
+# Non Government Debt Securities
+
+|Unlisted Companies| | | | | | | |
+|---|---|---|---|---|---|---|---|
+|Pakistan Mortgage Reﬁnance Co. Limited|200,000|604,131|200,000|482,035| | | |
+|1 Link Private Limited|50,000|1,182,150|50,000|733,214| | | |
+|Central Depository Company of Pakistan Limited.|40,300|74,445|40,300|67,639| | | |
+|First Women Bank Limited|21,200|59,696|21,200|74,692| | | |
+|SME Bank Limited|5,250|-|5,250|-| | | |
+|Arabian Sea Country Club Limited|5,000|-|5,000|-| | | |
+|Eastern Capital Limited|5,000|-|5,000|-| | | |
+|NIFT|1,526|62,037|1,526|52,914| | | |
+|PASSCO|1,000|651,802|1,000|645,805| | | |
+|Pakistan Corporate Restructuring Company|43,118|28,320|43,117|25,955| | | |
+| |372,394|2,662,581|372,393|2,082,254| | | |
+
+# 8.6.1 The market value of securities classiﬁed as held-to-collect as at December 31, 2024 amounted to Rs. 111,659 million (December 31, 2023: Rs. 51,778 million). This represents the market value of Pakistan Investment Bonds.
+
+# Notes to the Consolidated Financial Statements
+
+# for the year ended December 31, 2024
+
+|Note|December 31, 2024|December 31, 2023|Performing|Non Performing|Total| | |
+|---|---|---|---|---|---|---|---|
+|9|ADVANCES| | | | | | |
+| |Loans, cash credits, running finances, etc.|1,020,650,665|699,230,728|11,685,811|11,713,507|1,032,336,476|710,944,235|
+| |Islamic financing and related assets|32,101,884|79,621,981|295,246|5,729|32,397,130|79,627,710|
+| |Bills discounted and purchased|831,885|945,424|1,013,913|1,319,793|1,845,798|2,265,217|
+|9.2|Advances - gross|1,053,584,434|780,433,370|12,994,970|12,403,792|1,066,579,404|792,837,162|
+
+|Credit loss allowance / Provision against advances|December 31, 2024|December 31, 2023|
+|---|---|---|
+|Stage 1|(529,283)|-|
+|Stage 2|(2,311,052)|-|
+|Stage 3|-|(12,193,722)|
+|Specific|-|-|
+|General|-|(205,019)|
+|Total|(15,034,057)|(12,540,707)|
+
+# Advances - net of credit loss allowance
+
+1,050,744,099
+
+780,228,351
+
+801,248
+
+68,104
+
+1,051,545,347
+
+780,296,455
+
+# 9.1 Includes net investment in right-of-use assets / finance lease as disclosed below:
+
+|Particulars|December 31, 2024|December 31, 2023|
+|---|---|---|
+|Lease rentals receivable|2,772,954|1,462,028|
+|Residual value|413,129|564,508|
+|Minimum lease payments|3,186,083|2,026,536|
+|Financial charges for future periods|(514,234)|(159,232)|
+|Present value of minimum lease payments|2,671,849|1,867,304|
+
+# 9.2 Particulars of advances (Gross)
+
+|In local currency|December 31, 2024|December 31, 2023|
+|---|---|---|
+|In local currency|1,031,534,500|791,183,849|
+|In foreign currencies|35,044,904|1,653,313|
+|Total|1,066,579,404|792,837,162|
+
+# 9.2.1 Advances to Women, Women-owned and Managed Enterprises
+
+|Category|December 31, 2024|December 31, 2023|
+|---|---|---|
+|Women|17,576,152|2,591,449|
+|Women Owned and Managed Enterprises|460,049|518,423|
+|Total|18,036,201|3,109,872|
+
+
+# Notes to the Consolidated Financial Statements
+
+# for the year ended December 31, 2024
+
+# 9.5 Particulars of credit loss allowance
+
+# 9.5.1 Advances - Exposure
+
+|Note|Stage 1|Stage 2|Stage 3|Total|
+|---|---|---|---|---|
+|Gross carrying amount - Current year|734,258,786|47,038,140|13,040,236|794,337,162|
+|New advances|681,677,912|22,028,894|367,319|704,074,125|
+|Advances derecognised or repaid|(407,134,265)|(23,423,739)|(1,273,879)|(431,831,883)|
+|Transfer to stage 1|6,032,844|(6,032,624)|(220)|-|
+|Transfer to stage 2|(37,366,579)|37,621,143|(254,564)|-|
+|Transfer to stage 3|(496,476)|(619,602)|1,116,078|-|
+|Closing balance - Current year|976,972,222|76,612,212|12,994,970|1,066,579,404|
+
+# 9.5.2 Advances - Credit loss allowance
+
+|Note|Stage 1|Stage 2|Stage 3|Total|
+|---|---|---|---|---|
+|Opening balance|705,933|1,553,814|12,518,731|14,778,478|
+|New Advances|244,775|440,787|314,143|999,705|
+|Advances derecognised or repaid|(252,135)|(276,646)|(754,769)|(1,283,550)|
+|Transfer to stage 1|107,576|(107,427)|(149)|-|
+|Transfer to stage 2|(98,687)|352,857|(254,170)|-|
+|Transfer to stage 3|(1,849)|(33,211)|35,060|-|
+|Closing balance|529,283|2,311,052|12,193,722|15,034,057|
+
+# 9.5.3 Advances - Credit loss allowance details
+
+|Internal / External rating / stage classification|Outstanding gross exposure|
+|---|---|
+|Performing - Stage 1|976,972,221|
+|Under Performing - Stage 2|76,612,213|
+|Non-performing - Stage 3| |
+|OAEM|59,594|
+|Substandard|189,271|
+|Doubtful|871,895|
+|Loss|11,874,210|
+|Total|1,066,579,404|
+
+# 10 PROPERTY AND EQUIPMENT
+
+|Note|December 31, 2024|December 31, 2023| | | | | | | |
+|---|---|---|---|---|---|---|---|---|---|
+| | | | | |Capital work–in–progress| |10.1|10,927,109|9,779,743|
+| | | | | |Property and equipment| |10.2|117,357,091|104,286,036|
+|Total| | | | | | | |128,284,200|114,065,779|
+
+# 10.1 CAPITAL WORK-IN-PROGRESS
+
+|Description|December 31, 2024|December 31, 2023|
+|---|---|---|
+|Civil works|9,795,365|7,759,247|
+|Equipment|-|89,246|
+|Advances to suppliers|1,131,744|1,931,250|
+|Total|10,927,109|9,779,743|
+
+
+# Notes to the Consolidated Financial Statements
+
+# for the year ended December 31, 2024
+
+December 31, 2024
+
+|Freehold Land|Leasehold Land|Building on Freehold Land|Building on Leasehold Land|Furniture and Fixtures|Electrical, Office and Computer Equipment|Vehicles|Building (Leased Premises)|Total|
+|---|---|---|---|---|---|---|---|---|
+|Rupees in ‘000|Rupees in ‘000|Rupees in ‘000|Rupees in ‘000|Rupees in ‘000|Rupees in ‘000|Rupees in ‘000|Rupees in ‘000|Rupees in ‘000|
+|31,264,621|26,924,337|16,925,052|13,289,397|-|-|-|-|104,286,036|
+|At January 1, 2024| | | | | | | | |
+|Cost or Revalued amount|47,782,583|20,973,582|14,851,259|7,277,734|3,375,452|25,295,671|2,329,458|129,980,910|
+|Accumulated depreciation|-|-|(124,331)|(143,423)|(1,992,371)|(16,138,206)|(1,340,973)|(25,694,874)|
+|Net book value|47,782,583|20,973,582|14,726,928|7,134,311|1,383,081|9,157,465|988,485|104,286,036|
+
+# Year ended December 31, 2024
+
+|Opening net book value| | | | | | | | | | | |Rupees in ‘000| |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| |47,782,583|20,973,582|14,726,928|7,134,311|1,383,081|9,157,465|988,485|2,139,601|104,286,036| | | | |
+|Additions|1,482,751|4,875,347|4,224,568|363,705|559,901|7,721,619|904,147|22,103,737| | | | | |
+|Net disposal (book value)|(1,933,563)|(354,614)|(21,923)|(3,979)|(3,289)|(37,901)|(2,065)|(2,357,334)| | | | | |
+|Depreciation charge| |-|-|(859,000)|(377,903)|(343,002)|(3,678,739)|(445,875)|(6,667,657)| | | | |
+|Exchange rate adjustments| |-|-|-|-|-|(454)|(1)|17|(438)| | | |
+|Other adjustments|(818)|2|(6,436)|(1)|(1)|1|(1)|(7,253)| | | | | |
+|Closing net book value|47,330,953|25,494,317|18,064,137|7,116,133|1,596,690|13,161,991|1,444,692|3,148,178|117,357,091| | | | |
+
+# At December 31, 2024
+
+|Cost or Revalued amount|47,330,953|25,494,317|19,045,017|7,636,658|3,899,401|32,627,374|3,046,633|10,061,383|149,141,736|
+|---|---|---|---|---|---|---|---|---|---|
+|Accumulated depreciation|-|-|(980,880)|(520,525)|(2,302,711)|(19,465,383)|(1,601,941)|(6,913,205)|(31,784,645)|
+|Net book value|47,330,953|25,494,317|18,064,137|7,116,133|1,596,690|13,161,991|1,444,692|3,148,178|117,357,091|
+
+# Rate of depreciation (percentage)
+
+-
+-
+5%
+5%
+10%
+10% - 50%
+20%
+20%
+# At January 1, 2023
+
+|Freehold Land|Leasehold Land|Building on Freehold Land|Building on Leasehold Land|Furniture and Fixtures|Electrical, Office and Computer Equipment|Vehicles|Building (Leased Premises)|Total| | | | | |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|Cost or Revalued amount|29,654,594|12,686,611|13,394,912|5,247,888|2,877,350|20,469,424|1,685,325|93,313,504| | | | | |
+|Accumulated depreciation| |-|-|(1,161,582)|(459,461)|(1,736,071)|(14,116,406)|(1,033,148)|(23,689,563)| | | | |
+|Net book value|29,654,594|12,686,611|12,233,330|4,788,427|1,141,279|6,353,018|652,177|2,114,505|69,623,941| | | | |
+
+# Year ended December 31, 2023
+
+|Opening net book value| | | | | | | | | | | | |Rupees in ‘000| |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| |29,654,594|12,686,611|12,233,330|4,788,427|1,141,279|6,353,018|652,177|2,114,505|69,623,941| | | | | |
+|Additions|1,097,092|3,949,782|1,065,849|72,137|513,848|5,345,240|649,284|805,934|13,499,166| | | | | |
+|Movement in surplus on assets revalued during the year|17,064,078|4,339,867|2,120,445|2,447,798|-|-|-|-|25,972,188| | | | | |
+|Net disposal (book value)|-|-|-|-|(2,214)|(14,369)|(538)|-|(17,121)| | | | | |
+|Depreciation charge|-|-|(629,051)|(241,395)|(269,599)|(2,527,600)|(312,413)|(777,409)|(4,757,467)| | | | | |
+|Exchange rate adjustments|-|-|80|674|(233)|1,175|(25)|(16)|1,655| | | | | |
+|Other adjustments|(33,181)|(2,678)|(63,725)|66,670|-|3|(1)|(3,414)|(36,326)| | | | | |
+|Closing net book value|47,782,583|20,973,582|14,726,928|7,134,311|1,383,081|9,157,467|988,484|2,139,600|104,286,036| | | | | |
+
+# At December 31, 2023
+
+|Cost or Revalued amount|47,782,583|20,973,582|14,851,259|7,277,734|3,375,452|25,295,671|2,329,458|8,095,171|129,980,910|
+|---|---|---|---|---|---|---|---|---|---|
+|Accumulated depreciation|-|-|(124,331)|(143,423)|(1,992,371)|(16,138,206)|(1,340,973)|(5,955,570)|(25,694,874)|
+|Net book value|47,782,583|20,973,582|14,726,928|7,134,311|1,383,081|9,157,465|988,485|2,139,601|104,286,036|
+
+# RIGHT-OF-USE ASSETS
+
+# At January 01
+
+|Cost|Accumulated Depreciation|Net carrying amount at January 01|
+|---|---|---|
+|15,930,691|(7,601,229)|8,329,462|
+|13,708,994|(5,827,013)|7,881,981|
+
+# Additions during the year
+
+Rupees in ‘000
+1,894,202
+2,457,404
+# Deletions during the year
+
+Rupees in ‘000
+(568,326)
+(235,706)
+# Depreciation charge during the year
+
+Rupees in ‘000
+(1,869,048)
+(1,781,018)
+# Exchange difference
+
+Rupees in ‘000
+1,451
+6,801
+# Net carrying amount at December 31
+
+Rupees in ‘000
+7,787,741
+8,329,462
+
+# Notes to the Consolidated Financial Statements
+
+# for the year ended December 31, 2024
+
+|Note|December 31, 2024|December 31, 2023| | | | |
+|---|---|---|---|---|---|---|
+|12|INTANGIBLE ASSETS| | | | | |
+| |12.1|Capital work in progress|1,010,773|778,871| | |
+| |Intangible Assets|2,639,423|2,637,781| | | |
+| |Total|3,650,196|3,416,652| | | |
+
+# 12.1 Capital work in progress
+
+|Softwares|1,007,899|775,996|
+|---|---|---|
+|Advances for softwares to suppliers|2,874|2,875|
+|Total|1,010,773|778,871|
+
+# Year ended December 31, 2023
+
+| | | |Opening net book value|2,688,676|-|2,697,918|
+|---|---|---|---|---|---|---|
+|Additions:| | |Directly purchased|527,015|-|527,015|
+| | | |Amortization charges|(587,152)|-|(587,152)|
+| | | |Disposals accumulated depreciation|2,628,539|-|2,637,781|
+
+# At December 31, 2023
+
+|Cost|6,409,382|-|6,409,382|
+|---|---|---|---|
+|Accumulated amortisation and impairment|(3,771,601)|-|(3,771,601)|
+|Net book value|2,637,781|-|2,637,781|
+
+# Rate of amortisation (percentage)
+
+5% to 33.33%
+
+# Useful life
+
+3 to 20 Years
+
+# December 31, 2024
+
+# December 31, 2023
+
+12.3 The cost of fully amortized assets that are still in use:
+Intangible assets – software
+1,493,600
+894,732
+
+# Notes to the Consolidated Financial Statements
+
+# for the year ended December 31, 2024
+
+|Note| | | |December 31, 2024|December 31, 2023| |
+|---|---|---|---|---|---|---|
+|13|OTHER ASSETS| | | | | |
+| |Income / Mark-up accrued in local currency|55,020,672|69,598,428| | | |
+| |Income / Mark-up accrued in foreign currency|532,316|953,413| | | |
+| |Financial assets due to subsidized loans|7,287,676|-| | | |
+| |Advances, deposits, advance rent and other prepayments|6,379,828|3,554,991| | | |
+| |Advance taxation (payments less provisions)|2,052,691|-| | | |
+| |13.1|Non-banking assets acquired in satisfaction of claims|682,237|1,038,270| | |
+| |Branches adjustment account|-|1,701,578| | | |
+| |Mark to market gain on forward foreign exchange contracts|-|80,674| | | |
+| |Mark to market gain on forward government securities transactions|967,333|-| | | |
+| |Acceptances|7,563,743|8,444,550| | | |
+| |Due from the employees' retirement benefit schemes| | | | | |
+| |- Pension fund|7,772,440|6,185,041| | | |
+| |Fraud and forgeries|527,738|544,824| | | |
+| |Stationery and stamps in hand|1,205,896|863,475| | | |
+| |Home Remittance Cell agent receivable|2,784|1,749| | | |
+| |Receivable from State Bank of Pakistan|71|4,375| | | |
+| |Charges receivable|29,924|29,873| | | |
+| |ATM / Point of Sale settlement account|6,451,615|7,075,342| | | |
+| |Others|639,010|440,520| | | |
+| |Total|97,115,974|100,517,103| | | |
+|Less:|Credit loss allowance held against other assets|(1,147,776)|(996,020)| | | |
+| |Other assets (net of Credit loss allowance)|95,968,198|99,521,083| | | |
+| |Surplus on revaluation of non-banking assets acquired in satisfaction of claims|1,265,361|1,043,502| | | |
+| |Other assets - net|97,233,559|100,564,585| | | |
+
+# 13.1 Market value of non–banking assets acquired in satisfaction of claims
+
+| | | | |December 31, 2024|December 31, 2023| |
+|---|---|---|---|---|---|---|
+|13.1.1|Non banking assets acquired in satisfaction of claims|2,081,772|1,505,342| | | |
+| |Additions|-|443,214| | | |
+| |Constructions|3,745|100| | | |
+| |Revaluation|261,755|144,229| | | |
+| |Disposals|-|-| | | |
+| |Transfers|(375,753)|-| | | |
+| |Depreciation|(23,921)|(11,113)| | | |
+| |Closing balance|1,947,598|2,081,772| | | |
+
+# 14 CONTINGENT ASSETS
+
+There were no contingent assets of the Bank as at December 31, 2024 and December 31, 2023.
+
+# 15 BILLS PAYABLE
+
+| |In Pakistan|14,477,225|9,296,223|
+|---|---|---|---|
+| |Outside Pakistan|25,012|26,182|
+| |Total|14,502,237|9,322,405|
+
+# 16 BORROWINGS
+
+| | | |Secured| | | | |
+|---|---|---|---|---|---|---|---|
+| | | |Borrowings from State Bank of Pakistan| | | | |
+| | | | |16.1|Repurchase agreement borrowings|355,072,900|270,000,000|
+| | | | |16.2|Under export refinance scheme|23,682,355|28,652,901|
+| | | | |16.3|Under long term financing facility|22,806,443|28,265,781|
+| | | | |16.4|Under financing scheme for renewable energy|7,871,360|7,253,956|
+| | | | |16.5|Under Temporary Economic Refinance Scheme|7,490,465|12,741,909|
+| | | | |16.6|Under refinance scheme for modernization of SMEs|13,222|8,182|
+|16.7|Under refinance scheme for SME Asaan Finance (SAAF)| | | |172,807|-| |
+|16.8|Refinance and credit guarantee scheme for women entrepreneurs| | | |19,310|13,517| |
+| |Under refinance scheme for combating COVID-19| | | |81,016|133,325| |
+| |Total| | | |417,209,878|347,069,571| |
+| | | |Repurchase agreement borrowings from Financial Institutions| |29,259,260|1,843,392| |
+| | | |Trading liability| |-|7,541,047| |
+| |Total| | | |446,469,138|356,454,010| |
+
+
+# Notes to the Consolidated Financial Statements
+
+# for the year ended December 31, 2024
+
+|Note| | |December 31, 2024| |December 31, 2023|In Local Currency|In Foreign Currencies|Total|In Local Currency|In Foreign Currencies|Total|
+|---|---|---|---|---|---|---|---|---|---|---|---|
+|16.9|7,628,102|2,677,677|Rupees in ‘000| | | | | | | | |
+|Overdrawn nostro accounts|426,318|192,355| | | | | | | | | |
+|16.10|7,500,000|14,350,000| | | | | | | | | |
+| |Customers| | | | | | | | | | |
+|Current deposits|683,016,032|35,622,173|718,638,205|612,491,853|44,460,629|656,952,482| | | | | |
+|Savings deposits|851,574,470|18,177,737|869,752,207|656,231,495|19,697,405|675,928,900| | | | | |
+|Term deposits|201,669,126|80,524,496|282,193,622|201,318,101|51,084,504|252,402,605| | | | | |
+|Others|37,063,834|78,257|37,142,091|30,467,120|61,278|30,528,398| | | | | |
+|Total| |1,773,323,462|134,402,663|1,907,726,125|1,500,508,569|115,303,816|1,615,812,385| | | | |
+|Financial Institutions|Current deposits|15,659,282|1,218,988|16,878,270|14,062,494|853,715|14,916,209| | | | |
+|Savings deposits|88,035,841|-|88,035,841|44,978,314|-|44,978,314| | | | | |
+|Term deposits|641,050|4,775,259|5,416,309|819,350|63,419|882,769| | | | | |
+|Others|13,100|-|13,100|-|-|-| | | | | |
+|Total| |104,349,273|5,994,247|110,343,520|59,860,158|917,134|60,777,292| | | | |
+
+# 16.1
+
+This represents local currency borrowing from the State Bank of Pakistan against government securities, carrying mark-up at the rate of 13.07% to 14.00% (2023: 22.08% to 22.09%) per annum, maturing on various dates latest by January 17, 2025.
+
+# 16.2
+
+The Bank has entered into various agreements for financing with the State Bank of Pakistan for extending export finance to customers. As per agreements, the Bank has granted to State Bank of Pakistan the right to recover the outstanding amount from the Bank at the date of maturity of the finance by directly debiting the current account maintained by the Bank with the SBP. The borrowing carries mark-up at the rate of 1.00% to 2.00% (2023: 1.00% to 2.00%) per annum. These borrowings are repayable within six months from the deal date.
+
+# 16.3
+
+This represents Long Term Financing facility availed by the Bank for further extending the same to its customers, for a maximum period of 10 years. The borrowing carries mark-up at the rate of 1.50%, 2.50% and 3.00% (2023: 16% to 17.5%) per annum for financing up-to 3 years, 5 years & 10 years respectively.
+
+# 16.4
+
+These represent borrowings from the State Bank of Pakistan availed by the Bank for financing power projects and facilities using alternative and renewable energy (solar, wind, hydro, biogas, bio-fuels, bagasse cogeneration, and geothermal as fuel) for a maximum period of 12 years under Category I and for a maximum period of 10 years under Category II and III. The borrowing carries mark-up at the rate of 3% for Category I, 2% for Category II and 3% for Category III.
+
+# 16.5
+
+These borrowings have been obtained from the State Bank of Pakistan for providing concessionary refinancing facility to the industry for purchase of new imported and locally manufactured plant & machinery to set up new projects. These borrowings are repayable within a period of ten years including a grace period of up to 2 years. These carry mark up rate of 1% per annum.
+
+# 16.6
+
+These borrowings have been obtained from the State Bank of Pakistan for providing refinancing facility to wide range of SME clusters / sectors for purchase of new and imported / local plant and machinery for BMR of existing units and setting up new SME units. These borrowings are repayable for a maximum period of 10 years. These carry mark up rate ranging from 6% per annum.
+
+# 16.7
+
+These borrowings have been obtained from the State Bank of Pakistan for providing financing facilities to help businesses in payment of wages and salaries to their workers and employees for supporting continued employment. These borrowing are repayable in 8 equal quarterly installments beginning from January 2021. These carry mark up rates ranging from 0% to 2% per annum.
+
+# 16.8
+
+These represent borrowings in local currency from local interbank markets against government securities, carrying mark-up at the rate of 12.10% to 12.90% (2023: 22%) per annum, maturing on January 17, 2025.
+
+# 16.9
+
+These represent unsecured borrowings in foreign and local currency from foreign and local interbank markets, carrying mark-up at the rate of 6.53% to 18.60% (2023: 9.80% to 11.90%) per annum. These borrowings are maturing on various dates, latest by June 24, 2025.
+
+# 16.10
+
+This represents unsecured local currency borrowings by Islamic banking business under Musharaka agreement at profit of 12.25% (2023: 21.75% to 22.5%) per annum, maturing on various dates, latest by January 07, 2025.
+
+# 16.11
+
+Note 8.3 includes the carrying amount of investments given as collateral against re-purchase agreement borrowings.
+
+# 16.12
+
+Particulars of borrowings with respect to currencies
+
+| |December 31, 2024|December 31, 2023|
+|---|---|---|
+|In local currency|455,895,458|370,804,011|
+|In foreign currencies|6,128,100|2,870,031|
+|Total|462,023,558|373,674,042|
+
+# Annual Report 2024
+
+# Notes to the Consolidated Financial Statements
+
+# for the year ended December 31, 2024
+
+|Note|December 31, 2024|December 31, 2023|Recognised|in other comprehensive Income|At December 31, 2023|
+|---|---|---|---|---|---|
+|18|LEASE LIABILITIES| | | | |
+| |Outstanding amount at the start of the year|10,686,438|9,841,027| | |
+| |Additions during the year|1,894,202|2,457,404| | |
+| |Deletions during the year|(759,800)|(232,906)| | |
+| |Lease payments including interest|(2,808,266)|(2,580,364)| | |
+| |Interest expense|1,349,257|1,189,825| | |
+| |Exchange difference|(863)|11,452| | |
+| |Outstanding amount at the end of the period|10,360,968|10,686,438| | |
+|18.1|Liabilities outstanding| | | | |
+| |Not later than one year|301,451|168,894| | |
+| |Later than one year and upto five years|3,834,226|5,364,418| | |
+| |Five to ten years|4,608,287|4,019,959| | |
+| |Over ten years|1,617,004|1,133,167| | |
+| |Total at the year end|10,360,968|10,686,438| | |
+
+|December 31, 2024|Recognised|in other comprehensive Income|At December 31, 2024|
+|---|---|---|---|
+|19|DEFERRED TAX LIABILITIES / ASSETS| | |
+| |Deductible Temporary Differences on| | |
+| |- Credit loss allowance against advances, off balance sheet etc.|492,469|4,521,261|
+| |- Workers welfare fund|2,657,448|3,555,006|
+| |- Others|112,896|132,164|
+| |Total|3,262,813|8,208,431|
+| |Taxable Temporary Differences on| | |
+| |- Surplus on revaluation of property and equipment|(4,200,202)|(4,291,070)|
+| |- Surplus on revaluation of non banking assets|(66,251)|(73,305)|
+| |- Surplus on revaluation of investments|6,608,032|(10,735,423)|
+| |- Actuarial gain on retirement benefits|(73,611)|(626,113)|
+| |- Investment in associated undertaking|(59,763)|(51,249)|
+| |- Accelerated tax depreciation|(1,689,137)|(2,291,791)|
+| |Total|519,068|(18,068,951)|
+| |Overall Total|3,781,881|(9,860,520)|
+
+
+# Notes to the Consolidated Financial Statements
+
+# for the year ended December 31, 2024
+
+# 20 OTHER LIABILITIES
+
+|Note|December 31, 2024|December 31, 2023| | | |
+|---|---|---|---|---|---|
+|Mark-up / return / interest payable in local currency|17,523,889|14,143,930| | | |
+|Mark-up / return / interest payable in foreign currencies|910,978|1,762,006| | | |
+|Deferred grant on subsidized loans|3,772,085|-| | | |
+|Accrued expenses|3,288,469|4,127,256| | | |
+|Provision for taxation (provisions less payments)|-|7,915,956| | | |
+|Retention money payable|1,153,757|679,647| | | |
+|Deferred income|1,345,950|855,132| | | |
+|Unearned commission and income on bills discounted|1,032,336|759,785| | | |
+|Acceptances|7,563,743|8,444,550| | | |
+|Unclaimed dividends|496,711|442,049| | | |
+|Dividend payable|37,622|26,343| | | |
+|Branch adjustment account|2,106,829|-| | | |
+|Unrealized loss on forward foreign exchange contracts|1,613,858|-| | | |
+|Unrealized loss on forward government securities transactions|-|13,812| | | |
+|Provision for:| | | | | |
+|Gratuity 37.4|331,645|806,365| | | |
+|Employees' medical benefits 37.4|1,575,050|1,500,971| | | |
+|Employees' compensated absences 37.4|1,248,767|1,200,318| | | |
+|Payable to defined contribution plan|114,216|117,158| | | |
+|Credit loss allowance against off-balance sheet obligations 20.1|493,983|298,904| | | |
+|Security deposits against lease|1,004,808|941,987| | | |
+|Charity fund balance|1,417|1,000| | | |
+|Home Remittance Cell overdraft|206,321|794,027| | | |
+|With-holding tax payable|8,091,953|8,610,249| | | |
+|Sundry deposits|4,879,335|4,162,588| | | |
+|Workers welfare fund payable 20.2|6,904,089|5,478,333| | | |
+|Others|2,939,135|2,369,007| | | |
+|Total|68,636,946|65,451,373| | | |
+
+# 20.1 Credit loss allowance / Provision against off-balance sheet obligations
+
+|Note|December 31, 2024|December 31, 2023|
+|---|---|---|
+|Opening balance|298,904|298,904|
+|Impact of adoption of IFRS 9|153,374|-|
+|Charge for the year|41,705|-|
+|Reversals|-|-|
+|Net reversal|41,705|-|
+|Closing balance|493,983|298,904|
+
+The above provision includes provisions made against letters of guarantee issued by the Bank.
+
+# 20.2 Workers Welfare Fund
+
+Supreme Court of Pakistan vide order dated November 10, 2016 held that the amendments made in the law through Finance Act 2008, introduced by the Federal Government for the levy of Worker Welfare Fund (WWF) were unlawful. Federal Board of Revenue filed review petition against the subject order, which is currently pending for adjudication. WWF provision from 2014 has been maintained conservatively based on tax advisor’s opinion in view of provincial levy of WWF by the provinces with effect from 2014, including levy by Sindh which is under litigation. Punjab Government promulgated Punjab Workers Welfare Fund Act 2019 (PWWF) with effect from December 13, 2019, therefore, provision related to Punjab and pertaining to the period from 2014 till the date of promulgation of PWWF was reversed.
+
+# 22 SURPLUS ON REVALUATION OF ASSETS – NET OF TAX
+
+|Note|December 31, 2024|December 31, 2023| | | | |
+|---|---|---|---|---|---|---|
+|Surplus / (deficit) arising on revaluation of:| | | | | | |
+|Property and equipment 22.1| | | | |49,818,521|50,187,068|
+|Non-banking assets acquired in satisfaction of claims 22.2| | | | |1,265,363|1,043,502|
+| | | |Available-for-sale securities|-| |(13,485,780)|
+| | | |Securities measured at FVOCI - Debt| |6,798,233|-|
+| | | |Securities measured at FVOCI - Equity| |13,856,043|-|
+|Total| | | | |71,738,160|37,744,790|
+
+# Deferred tax on surplus / (deficit) on revaluation of:
+
+|Note|December 31, 2024|December 31, 2023| | | | |
+|---|---|---|---|---|---|---|
+|Property and equipment 22.1| | | | |(4,291,070)|(4,200,202)|
+|Non-banking assets acquired in satisfaction of claims 22.2| | | | |(73,305)|(66,251)|
+| | | |Available-for-sale securities|-| |6,608,032|
+| | | |Securities measured at FVOCI - Debt| |(3,535,081)|-|
+| | | |Securities measured at FVOCI - Equity| |(7,205,142)|-|
+|Total| | | | |(15,104,598)|2,341,579|
+
+Total Surplus on Revaluation of Assets: 56,633,562 (2024) 40,086,369 (2023)
+
+# Notes to the Consolidated Financial Statements
+
+# for the year ended December 31, 2024
+
+|Note|December 31, 2024|December 31, 2023| | | | |
+|---|---|---|---|---|---|---|
+|22.1|Surplus on revaluation of fixed assets| | | | | |
+| |Surplus as at January 1, 2024|50,187,068|24,350,352| | | |
+| |Surplus on revaluation during the year|-|25,972,188| | | |
+| |Surplus related to transfer / adjustments|33,397|-| | | |
+| |Surplus realised on disposal during the year|(51,924)|-| | | |
+| |Transferred to unappropriated profit in respect of incremental depreciation charged during the year – net of deferred tax|(168,008)|(69,092)| | | |
+| |10.5|Related deferred tax liability|(182,012)|(66,380)| | |
+| |Surplus on revaluation as at December 31, 2024|49,818,521|50,187,068| | | |
+| |Less: Related deferred tax liability on:| | | | | |
+| |Revaluation surplus as at January 1, 2024|(4,200,202)|(1,779,800)| | | |
+| |Deferred tax liability on revaluation surplus / change in tax rate|(257,155)|(2,486,782)| | | |
+| |Deferred tax liability related to transfer or adjustments|(17,367)|-| | | |
+| |Deferred tax on surplus on disposal during the year|1,642|-| | | |
+| |Deferred tax on incremental depreciation transferred to unappropriated profit|182,012|66,380| | | |
+| |Total|(4,291,070)|(4,200,202)| | | |
+| |Net Surplus|45,527,451|45,986,866| | | |
+|22.2|Surplus on revaluation of non–banking assets acquired in satisfaction of claims| | | | | |
+| |Surplus as at January 1, 2024|1,043,502|901,797| | | |
+| |Surplus on revaluation during the year|261,756|144,229| | | |
+| |Surplus related to transfer or adjustments|(33,397)|-| | | |
+| |Transferred to unappropriated profit in respect of incremental depreciation charged during the year – net of deferred tax|(3,119)|(1,287)| | | |
+| |Related deferred tax liability|(3,379)|(1,237)| | | |
+| |Total|(6,498)|(2,524)| | | |
+| |Surplus on revaluation as at December 31, 2024|1,265,363|1,043,502| | | |
+| |Less: Related deferred tax liability on:| | | | | |
+| |Revaluation surplus as at January 1, 2024|(66,251)|(19,347)| | | |
+| |Deferred tax liability on revaluation surplus / change in tax rate|(27,800)|(48,141)| | | |
+| |Deferred tax liability related to transfer or adjustments|17,367|-| | | |
+| |Deferred tax on surplus on disposal during the year| |-|-| | |
+| |Deferred tax on incremental depreciation transferred to unappropriated profit|3,379|1,237| | | |
+| |Total|(73,305)|(66,251)| | | |
+| |Net Surplus|1,192,058|977,251| | | |
+
+# 23 CONTINGENCIES AND COMMITMENTS
+
+|Note|Guarantees|Commitments|Other contingent liabilities|
+|---|---|---|---|
+|23.1|64,704,701|612,265,251|6,994,409|
+| | | | |
+|23.1.1|This represent certain claims by third parties against the Bank, which are being contested in Courts of law. The management is of the view that these relate to the normal course of the business and the possibility of an outflow of economic resource is remote.| | |
+|23.3.2|The income tax assessments of the Group have been finalized up to and including tax year 2024 for local, Azad Kashmir and Gilgit Baltistan operations. While finalizing income tax assessments up to tax year 2024, income tax authorities made certain add backs with aggregate tax impact of Rs. 38,549 million (2023: Rs.34,866 million). As a result of appeals filed by the Group before appellate authorities, most of the add backs have been deleted. However, the Group and Tax Department are in appeals / references before higher forums against unfavorable decisions. Pending finalization of appeals / references no provision has been made.| | |
+
+
+# Notes to the Consolidated Financial Statements
+
+# for the year ended December 31, 2024
+
+been made by the Group on aggregate sum of Rs.38,549 million (2023: Rs.34,866 million). The management is confident that the outcome of these appeals / references will be in favor of the Group.
+
+Tax Authorities have conducted proceedings of withholding tax audit under section 161/205 of Income Tax Ordinance, 2001 for tax year 2003 to 2006 and tax year 2008 to 2019 and tax year 2022 created an arbitrary demand of Rs. 2,039 million (2023: 2,029 million). The Bank’s appeals before CIR(A)/Appellate Tribunal Inland Revenue (ATIR) are pending for adjudication. The management is confident that these appeals will be decided in favor of the Bank; therefore, no provision has been made against the said demand of Rs. 2,039 million (2023: 2,029 million).
+
+Tax authorities have also issued orders under Federal Excise Act, 2005/Sales Tax Act/Sindh Sales Tax on Services Act, 2011 for the year 2008 to 2017 thereby creating arbitrary aggregate demand of Rs. 1,144 million (2023: 1,144 million). The Bank’s appeals before CIR(A)/Appellate Tribunal Inland Revenue (ATIR) are pending for adjudication. The management is confident that aforesaid demand will be deleted by appellate authorities and therefore no provision has been made against the said demand of Rs. 1,144 million (2023: 1,144 million).
+
+# 23.3.3
+
+While adjudicating foreign exchange repatriation cases of exporter namely: Fateh Textile Mills Limited, the Foreign Exchange Adjudicating Court (FEAC) of the State Bank of Pakistan (SBP) has arbitrarily adjudicated penalties against various banks including Rs.2,173 million in aggregate against Allied Bank Limited (the Bank). Against the said judgments, the Bank had filed appeals before the Appellate Board and Constitutional Petitions (CP) in the High Court of Sindh, Karachi. The Honorable High Court granted relief to the Bank by way of interim orders. Meanwhile, along with other banks, Bank filed a further CP whereby vires of section 23C of the FE Regulations Act, 1947 was sought to be declared ultra vires. On November 8, 2018, the Honorable Court was pleased to Order that the Appellate Board shall not finally decide the appeals. Subsequently, the earlier CP was disposed of vide order dated 15.01.2019 with a direction to the Appellate Board to first decide the stay application of the Bank and till then, the Foreign Exchange Regulation Department has been restrained from taking any coercive action against the Bank. Moreover, on 04.01.2023, the Appellate Board has ordered that ABL’s appeals now stand adjourned sine die till the final disposal of ABL’s constitutional petitions which are pending before the Sindh High Court. Based on merits of the appeals, the management is confident that these appeals shall be decided in favor of the Bank and therefore no provision has been made against the impugned penalty.
+
+# 24 DERIVATIVE INSTRUMENTS
+
+The Bank at present does not offer structured derivative products such as Interest Rate Swaps, Forward Rate Agreements or FX Options. However, the Bank buys and sells derivative instruments such as:
+
+- Forward Exchange Contracts
+- Foreign Exchange Swaps
+- Equity Futures
+- Forward Contracts for Government Securities
+
+# Forward Exchange Contracts
+
+Forward Exchange Contract (FEC) is a product which is offered to the obligor who transact internationally. These obligor use this product to hedge themselves from unfavorable movements in a foreign currency, however, by agreeing to fix the exchange rate, they do not benefit from favorable movements in that currency.
+
+An FEC is a contract between the Obligor and the Bank in which both agree to exchange an amount of one currency for another currency at an agreed forward exchange rate for settlement over more than two business days after the FEC is entered into (the day on which settlement occurs is called the value date). FEC is entered with those Obligors whose credit worthiness has already been assessed, and they have underlined trade transactions.
+
+If the relevant exchange rate moves un-favorably, Obligor will benefit from that movement because the Bank must exchange currencies at the FEC rate. In order to mitigate this risk of adverse exchange rate movement, the Bank hedges its exposure by taking opposite forward position in inter-bank FX.
+
+# Foreign Exchange Swaps
+
+A Foreign Exchange Swap (FX Swap) is used by the Bank if it has a need to exchange one currency for another currency on one day and then re-exchange those currencies at a later date. Exchange rates and forward margins are determined in the “inter-bank” market and fluctuate according to supply and demand.
+
+An FX Swap prevents the Bank from gaining any benefit resulting from a favorable exchange rate movement in the relevant currency pair between the time Bank enters into the transaction deal and when settlement occurs. Cancellation of the swap may also result in exposure to market movements. The key advantage of an FX swap is that it provides the Bank with protection.
+
+# Note
+
+|Note|December 31, 2024|December 31, 2023|
+|---|---|---|
+|25 MARK–UP / RETURN / INTEREST EARNED On:|Rupees in ‘000| |
+|Loans and advances|137,945,552|139,449,883|
+|Investments|234,056,224|211,082,510|
+|Lendings to financial institutions|3,889,625|5,275,814|
+|Balances with banks|1,015,986|1,200,761|
+| |376,907,387|357,008,968|
+|26 MARK–UP / RETURN / INTEREST EXPENSED On:| | |
+|Deposits|193,001,964|169,398,878|
+|Borrowings|61,411,203|67,872,918|
+|Cost of foreign currency swaps against foreign currency deposits|5,780,829|5,627,980|
+|Interest expense on lease liability|1,349,257|1,196,683|
+| |261,543,253|244,096,459|
+|27 FEE AND COMMISSION INCOME On:| | |
+|Branch banking customer fees|2,542,095|2,344,003|
+|Asset management fees|2,096,318|1,201,270|
+|Consumer finance related fees|24,156|28,056|
+|Card related fees (debit and credit cards)|7,321,467|5,430,362|
+|Credit related fees|24,354|45,094|
+|Investment banking fees|597,744|599,387|
+|Commission on trade|706,640|616,940|
+|Commission on guarantees|176,508|167,752|
+|Commission on cash management|373,782|413,797|
+|Commission on remittances including home remittances|2,141,375|978,648|
+|Commission on bancassurance|14,144|17,237|
+|Card acquiring business|159,198| |
+| |16,177,781|11,842,546|
+|28 GAIN ON SECURITIES| | |
+|Realised - net|2,448,270|928,795|
+|Unrealised - held for trading|14,944|(64,599)|
+|Unrealised - forward government securities|981,145|(19,424)|
+| |3,444,359|844,772|
+|28.1 Realised gain / (loss) on:| | |
+|Federal government securities|2,448,270|546,524|
+|Shares|-|382,256|
+|Non Government debt securities|-|15|
+| |2,448,270|928,795|
+
+
+# Notes to the Consolidated Financial Statements
+
+# for the year ended December 31, 2024
+
+|Note|December 31, 2024|December 31, 2023|Rupees in ‘000|
+|---|---|---|---|
+|29|OTHER INCOME| | |
+| |Recovery of written off mark-up and charges|68|125,221|
+| |Gain on sale of property and equipment - net|938,910|23,924|
+| |Other assets disposal|52,063|16,701|
+| |Fee for attending Board meetings|1,172|1,557|
+| |Gain on disposal of Islamic financing and related assets|13,078|32,246|
+| |Total|1,005,291|199,649|
+
+|Note|December 31, 2024|December 31, 2023|Rupees in ‘000|
+|---|---|---|---|
+|30|OPERATING EXPENSES| | |
+|30.1|Total compensation expense|20,958,387|19,221,520|
+| |Property expense:| | |
+| |Rent & taxes|406,797|375,296|
+| |Insurance|160,552|110,889|
+| |Utilities cost|3,123,477|2,571,122|
+| |Security (including guards)|1,941,530|1,672,869|
+| |Repair & maintenance (including janitorial charges)|1,911,339|1,648,930|
+| |Depreciation|6,439,303|5,070,263|
+| |Total Property Expense|13,982,998|11,449,369|
+| |Information technology expenses:| | |
+| |Software maintenance|2,329,288|2,302,538|
+| |Hardware maintenance|480,419|487,420|
+| |Depreciation|1,651,527|1,145,471|
+| |Amortisation|626,004|587,995|
+| |Network charges|942,216|890,938|
+| |Others|9,531|5,414|
+| |Total Information Technology Expenses|6,038,985|5,419,776|
+| |Other operating expenses:| | |
+| |Directors' fees and allowances|88,602|75,211|
+| |Fees and allowances to Shariah Board|12,224|8,913|
+| |Legal & professional charges|316,074|250,081|
+|36.1|Outsourced service cost|1,714,874|1,303,938|
+| |Travelling & conveyance|488,508|389,212|
+| |NIFT clearing charges|219,657|182,323|
+| |Depreciation|445,875|322,751|
+| |Training and development|254,837|230,589|
+| |Postage & courier charges|221,097|202,610|
+| |Communication|1,713,244|1,176,002|
+| |Stationery & printing|810,778|718,209|
+| |Marketing, advertisement & publicity|3,348,090|1,252,963|
+|30.3|Donations|105,251|84,104|
+|30.2|Auditors’ remuneration|38,049|29,478|
+| |Brokerage expenses|135,040|77,613|
+| |Card related expenses|2,635,978|2,139,728|
+| |CNIC verification|246,608|147,417|
+| |Entertainment|506,778|332,432|
+| |Clearing and settlement|278,942|240,250|
+| |Insurance|2,072,772|1,715,984|
+| |Cash In Transit Service Charge|471,071|458,322|
+| |Others|649,779|251,929|
+| |Total Other Operating Expenses|16,774,128|11,590,059|
+| |Grand Total|57,754,498|47,680,724|
+
+# 30.1.1
+
+The Group announced the Voluntary Retirement Scheme (VRS) for its employees. Sixteen (16) employees (2023: 20) of the Bank opted for retirement under this scheme.
+
+# 30.1.2
+
+Total cost for the year included in Other Operating Expenses relating to outsourced activities is Rs. 2,002.191 million (2023: Rs.1,599.215 million). This includes payments other than outsourced services costs, which are disclosed above. Total cost of outsourced activities for the year given to related parties is nil.
+
+# 30.2
+
+Auditors’ remuneration
+
+|Type|December 31, 2024|December 31, 2023|
+|---|---|---|
+|Audit fee|17,230|11,401|
+|Fee for other statutory certifications|6,330|6,745|
+|Annual audit overseas business unit*|3,820|5,128|
+|Half year review|5,184|4,050|
+|Special certifications and miscellaneous services|494|203|
+|Sales tax|1,854|960|
+|Out-of-pocket expenses|3,137|2,100|
+|Total|38,049|30,587|
+
+*This includes audit fee amounting to Bahraini Dinar 5,000 (2023: 6,000) & Chinese Yuan 3,000 (2023: 3,000) relating to Wholesale Bahrain Branch & China Representative Office respectively.
+
+# 30.3
+
+None of the directors, executives and their spouses had any interest in the donees, except Mr. Mohammad Naeem Mukhtar (Chairman and Non-Executive Sponsor Director) is director in National Management Foundation.
+
+# Notes to the Consolidated Financial Statements
+
+# for the year ended December 31, 2024
+
+|Note|December 31, 2024|December 31, 2023| | | |
+|---|---|---|---|---|---|
+|Saleem Memorial Trust Hospital|10,000|-| | | |
+|Anjuman Himayat-i-Islam|30.3.1|442|1,968| | |
+|Tamir Welfare Organization|3,500|-| | | |
+|Food Security Fund 18 Wing|500|-| | | |
+|Aziz Jehan Begum Trust For The Blind|2,500|2,500| | | |
+|Saylani Welfare International Trust|30.3.1|476|927| | |
+|The Citizens Foundation|3,960|4,470| | | |
+|National Management Foundation (LUMS)|30,000|30,000| | | |
+|Jamia Ashrafia Lahore|30.3.1|1,948|1,355| | |
+|Liver Foundation Trust|5,000|2,500| | | |
+|Abdul Sattar Edhi Foundation|3,272|2,180| | | |
+|Fatimid Foundation|1,000|1,000| | | |
+|Fortify Education Foundation|500|500| | | |
+|Hunza Public School & Degree College|-|94| | | |
+|Million Smiles Foundation (MSF)|6,336|1,980| | | |
+|The I Care Foundation|-|2,000| | | |
+|The Kidney Centre Post Graduate Training Institute|-|15,000| | | |
+|The Patients Behbud Society (PBS)|-|5,000| | | |
+|The Layton Rahmatulla Benevolent Trust|-|1,000| | | |
+|Al Shifa Trust|500|-| | | |
+|Shaukat Khanum Memorial Trust|10,000|-| | | |
+|Almarah Foundation|162|-| | | |
+|Fountain House MHA|2,500|-| | | |
+|Umpire Aleem Dar Foundation Society|2,000|-| | | |
+|Sukkur IBA University|-|1,630| | | |
+|Sundas Foundation|2,000|-| | | |
+|Namal Education Foundation|5,000|-| | | |
+|Idar Al Khair Welfare Society|1,000|-| | | |
+|The I-Care Foundation|1,000|-| | | |
+|Sarhad Rural Support Programme (SRSP)|1,000|-| | | |
+|The Noorani Foundation Trust|10,655|10,000| | | |
+|Total|105,251|84,104| | | |
+
+# 32 CREDIT LOSS ALLOWANCE AND WRITE OFFS - NET
+
+|Credit loss allowance against lendings to financial institutions| | | | |22|-|
+|---|---|---|---|---|---|---|
+| | | |Credit loss allowance against cash and bank balances| |(328,439)|-|
+| | | |Credit loss allowance against nostro accounts| |5,236|-|
+| | | |Credit loss allowance for diminution in the value of investments|8.4|(2,800,735)|2,064,691|
+| | | |Credit loss allowance against loans and advances|9.4|257,454|683,049|
+|Credit loss allowance against other assets| | | |13.2.1|122,161|246,338|
+| | | |Credit loss allowance against off balance sheet obligations|20.1|41,705|-|
+| | | |Bad debts written off directly| |-|-|
+|Total| | | | |(2,702,596)|2,994,078|
+
+# 33 TAXATION
+
+|Current - for the year including super tax| | | |48,417,191|43,364,441|
+|---|---|---|---|---|---|
+| | | |- for prior year|(2,443,812)|2,954,666|
+| | | |Deferred - current|(648,729)|(811,512)|
+|Total Tax Charge for the year| | | |45,324,650|45,507,595|
+
+# 34 EARNINGS PER SHARE – BASIC AND DILUTED
+
+|Profit after taxation|44,389,221|41,301,364|
+|---|---|---|
+|Weighted average number of ordinary shares outstanding during the year|1,145,073,830|1,145,073,830|
+|Earnings per share – basic and diluted|38.77|36.07|
+|Note|Note|There is no dilution effect on basic earnings per share.|
+
+30.3.1 This represents charitable contributions on account of sadqa & feeding to under privileged.
+
+# Notes to the Consolidated Financial Statements
+
+# for the year ended December 31, 2024
+
+# 35 CASH AND CASH EQUIVALENTS
+
+|Note|December 31, 2024|December 31, 2023| | | | |
+|---|---|---|---|---|---|---|
+| |35.1|Cash and balances with treasury banks|149,979,626|156,124,352| | |
+| |Balances with other banks|9,970,319|2,455,601| | | |
+| |Overdrawn nostro accounts|(426,318)|(192,355)| | | |
+| |Total|159,523,627|158,387,598| | | |
+
+35.1 This includes balances with SBP amounting to Rs.7,653.525 million (2023: Rs. 91,125.620 million) related to statutory cash reserve to comply with SBP requirements.
+
+# 35.2 Reconciliation of movement of liabilities and equity to cash flows arising from financing activities
+
+| | |December 31, 2024| | |December 31, 2023| | | | |
+|---|---|---|---|---|---|---|---|---|---|
+| |Liabilities| |Equity|Liabilities|Equity| | | | |
+| |Lease|Dividend payable|Unappropriated Profit|Total| | | | | |
+|Balance as at January 01|10,899,950|498,593|107,827,294|119,225,837| | | | | |
+|Changes from Financing cash flows| | | | | | | | | |
+|Payment of lease liability against right-of-use-assets|(2,857,024)|-|-|(2,857,024)| | | | | |
+|Dividend Paid|-|(18,255,239)|-|(18,255,239)| | | | | |
+|Total changes from financing cash flows|(2,857,024)|(18,255,239)|-|(21,112,263)| | | | | |
+|Liability related Changes in Other liabilities| | | | | | | | | |
+|- Dividend announced|-|18,321,180|(18,321,180)|-| | | | | |
+|- Lease liability recognised|2,318,042|-|-|2,318,042| | | | | |
+|Total liability related other changes|2,318,042|18,321,180|(18,321,180)|2,318,042| | | | | |
+|Total equity related other changes|-|-|38,197,640|38,197,640| | | | | |
+|Balance as at December 31, 2024|10,360,968|564,534|127,703,754|138,629,256| | | | | |
+
+35.3 Markup receipts and markup payments during the year amounted to Rs. 391,706.732 million and Rs. 258,977.960 million respectively. (2023: Rs. 361,768.543 million and Rs. 243,204.268 million respectively).
+
+# 36 STAFF STRENGTH
+
+| |December 31, 2024|December 31, 2023|
+|---|---|---|
+|Permanent|12,453|12,228|
+|Temporary / on contractual basis / trainee|1,217|537|
+|Bank's own staff strength at the end of the year|13,670|12,765|
+|Average number of employees|13,218|12,451|
+
+36.1 In addition to the above, 738 (2023: 800) employees of outsourcing services companies were assigned to the Bank as at the end of the year to perform services other than guarding and janitorial services. Further, 9 (2023: 7) employees were posted abroad. The rest were working domestically.
+
+# 37 DEFINED BENEFIT PLANS
+
+# 37.1 General description
+
+The Group operates a funded gratuity scheme for all employees who opted for the staff retirement benefit scheme introduced by the management with effect from July 1, 2002. For those employees who did not opt for the new scheme, the Group continues to operate a funded pension scheme. The Group also provides post retirement medical benefits (unfunded scheme) to eligible retired employees.
+
+# 37.2 Number of employees and beneficiaries under the schemes
+
+The number of employees covered under the following defined benefit scheme or plans are:
+
+| |December 31, 2024|December 31, 2023|
+|---|---|---|
+|- Pension fund|92|141|
+|- Gratuity fund|12,448|12,077|
+|- Post retirement medical benefits|13,275|12,528|
+|- Employees’ compensated absences|13,275|12,524|
+
+In addition, the number of beneficiaries covered under the following defined benefit scheme or plans are:
+
+| |December 31, 2024|December 31, 2023|
+|---|---|---|
+|- Pension fund|1,971|1,997|
+|- Post retirement medical benefits|1,610|1,610|
+
+# 37.3 Principal actuarial assumptions
+
+The actuarial valuations were carried out for December 31, 2024 based on the Projected Unit Credit Method, using the following significant assumptions:
+
+|Sources of estimation| |December 31, 2024| |December 31, 2023| | | | | | | |
+|---|---|---|---|---|---|---|---|---|---|---|---|
+|Withdrawal rate| | | | | | |Pension fund| | |Age Based|Age Based|
+| | | | | | | |Gratuity fund| | |Moderate|Moderate|
+| |Post retirement medical benefits| | | | | | | | |Age Based|Age Based|
+| | | | | | | |Employees' compensated absences| | |Age Based|Age Based|
+| | | | | | | |Mortality rate| | |Adjusted SLIC|Adjusted SLIC|
+| | | | | | | |Discount rate| |Yield on investments in Government Bonds|2001–2005|2001–2005|
+| | | | | | | | | | |12.25%|15.50%|
+|Expected rate of return on plan assets| | | | | | |Pension fund| |Yield on investments in Government Bonds|12.25%|15.5%|
+| | | | | | | |Gratuity fund| |Yield on investments in Government Bonds|12.25%|15.5%|
+| | | | | | | |Expected rate of salary increase| |Rate of salary increase|10.25%|13.5%|
+
+
+# Notes to the Consolidated Financial Statements
+
+# for the year ended December 31, 2024
+
+# 37.4 Reconciliation of (receivable from) / payable to defined benefit plans
+
+|Note|Pension fund|Gratuity fund|Post retirement medical|Employees’ compensated absences|Pension fund|Gratuity fund|Post retirement medical|Employees’ compensated absences|
+|---|---|---|---|---|---|---|---|---|
+|37.6|1,049,460|5,292,068|1,575,050|1,248,767|879,630|4,896,472|1,473,496|1,200,318|
+|37.7|(8,821,900)|(4,960,423)|-|-|(7,064,670)|(4,062,631)|-|-|
+| |(7,772,440)|331,645|1,575,050|1,248,767|(6,185,040)|833,841|1,473,496|1,200,318|
+
+# 37.5 Movement in (receivable from) / payable to defined benefit plans
+
+|Note|Pension fund|Gratuity fund|Post retirement medical|Employees’ compensated absences|Pension fund|Gratuity fund|Post retirement medical|Employees’ compensated absences| |
+|---|---|---|---|---|---|---|---|---|---|
+| |(6,185,041)|833,841|1,473,496|1,200,318|(4,943,030)|829,048|1,508,820|1,124,542| |
+| |37.9|(877,579)|605,370|239,477|158,703|(539,516)|509,690|235,577|169,122|
+| |(709,820)|(564,111)|20,425|-|(702,494)|21,439|(148,845)|-| |
+| |-|(543,455)|(158,348)|(110,254)|-|(526,336)|(122,056)|(93,346)| |
+| | | |Closing balance|8,821,900|4,960,423|-|-| | |
+
+# 37.6 Movement in defined benefit obligations
+
+|Note|Pension fund|Gratuity fund|Post retirement medical|Employees’ compensated absences| | |
+|---|---|---|---|---|---|---|
+| |Opening balance|879,630|4,896,472|1,473,496|1,200,318| |
+| |Current service cost|-|476,951|22,411|71,369| |
+| |Interest cost|116,085|707,087|216,120|177,505| |
+| |Past service cost|-|39,492|-|-| |
+| |Beneﬁts paid|(261,383)|(669,234)|(158,348)|(110,254)| |
+| |37.6.1|VRS settlement loss / (gain)|81,103|1,800|946|399|
+| |Re-measurement loss / (gain)|234,025|(160,500)|20,425|(90,570)| |
+| |Closing balance|1,049,460|5,292,068|1,575,050|1,248,767| |
+
+# 37.8 Composition of plan assets
+
+|Pension fund|Gratuity fund|Post retirement medical|Employees’ compensated absences|
+|---|---|---|---|
+|December 31, 2024|2,702,888|-|-|
+|Government securities|5,558,258|4,821,570|-|
+|Cash and cash equivalents|560,630|138,853|-|
+|CDC Advance Deposit|123|-|-|
+| |8,821,899|4,960,423|-|
+
+# 37.6.1
+
+During the year, the active pensioners and in-service pensionable employees were given a voluntary option to settle their monthly pension with a lump sum payment. Those who will not opt for the lump sum option, will continue to receive monthly pension (defined benefit scheme).
+
+# Notes to the Consolidated Financial Statements
+
+# for the year ended December 31, 2024
+
+# 37.10 Re–measurements recognized in other comprehensive income
+
+| |Pension fund|Gratuity fund|Post retirement medical|Employees’ compensated absences|
+|---|---|---|---|---|
+|December 31, 2024|Rupees in ‘000| | | |
+|Fair value of Group’s financial instruments included in plan assets|5,558,258|4,821,570|-|-|
+|Bank balances with ABL|560,630|138,853|-|-|
+|Total|6,118,888|4,960,423|-|-|
+
+# Re-measurement (loss) / gain on obligations
+
+| |Pension fund|Gratuity fund|Post retirement medical|Employees’ compensated absences|
+|---|---|---|---|---|
+|- Demographic assumptions|-|-|-|-|
+|- Financial assumptions|(31,391)|(1,058,638)|-|-|
+|- Experience adjustments|(202,634)|1,219,138|(20,425)|-|
+|Re-measurement gain on assets|943,845|403,611|-|-|
+|Re-measurement (loss) or gain in OCI|709,820|564,111|(20,425)|-|
+
+# 37.8.2 Investment in term deposit receipts
+
+Investment in term deposit receipts are subject to credit risk and interest rate risks, while equity securities are subject to price risk. These risks are regularly monitored by Trustees of the employee funds.
+
+# 37.9 Charge for defined benefit plan
+
+| |Pension fund|Gratuity fund|Post retirement medical|Employees’ compensated absences|
+|---|---|---|---|---|
+|December 31, 2024|Rupees in ‘000| | | |
+|Current service cost|-|476,951|22,411|71,370|
+|Interest cost|-|-|-|-|
+|Past service cost|-|39,492|-|-|
+|Net interest|(958,682)|87,127|216,120|177,505|
+|VRS loss|81,103|1,800|946|399|
+|Re-measurement loss recognised|-|-|-|(90,570)|
+|Total|(877,579)|605,370|239,477|158,704|
+
+# 37.12 Five year data of defined benefit plan and experience adjustments
+
+|Pension fund|2024|2023|2022|2021|2020|
+|---|---|---|---|---|---|
+|Present value of defined benefit obligation|1,049,460|879,630|1,067,361|1,389,295|1,707,213|
+|Fair value of plan assets|(8,821,900)|(7,064,671)|(6,010,391)|(5,769,269)|(5,493,653)|
+|Experience adjustments on plan obligations and assets|(7,772,440)|(6,185,041)|(4,943,030)|(4,379,974)|(3,786,440)|
+|Re-measurement (loss) / gain on obligation|(234,025)|39,889|24,380|259,608|(87,632)|
+|Re-measurement (loss) / gain on assets|(943,846)|662,605|95,859|(35,118)|(1,063,774)|
+
+
+# Notes to the Consolidated Financial Statements
+
+# for the year ended December 31, 2024
+
+# Gratuity fund
+
+|Year|2024|2023|2022|2021|2020|
+|---|---|---|---|---|---|
+|Present value of defined benefit obligation|5,292,068|4,868,996|4,421,505|4,083,960|3,655,868|
+|Fair value of plan assets|(4,960,423)|(4,062,631)|(3,617,311)|(3,367,829)|(3,046,593)|
+|Net defined benefit obligation|331,645|806,365|804,194|716,131|609,275|
+
+# Sensitivity analysis
+
+| |Description|+1% Discount Rate|-1% Discount Rate|+1% Salary Increase|-1% Salary Increase|+10% Withdrawal Rate|-10% Withdrawal Rate|1 Year Mortality age set back|1 Year Mortality age set forward|
+|---|---|---|---|---|---|---|---|---|---|
+|Present value of defined benefit obligation|5,292,068|4,868,996|4,421,505|4,083,960|3,655,868| | | | |
+
+# Pension fund
+
+|Year|2024|2023|2022|2021|2020|
+|---|---|---|---|---|---|
+|Present value of defined benefit obligation|1,575,050|1,473,496|1,508,820|1,515,000|1,514,300|
+|Fair value of plan assets|-|-|-|-|-|
+|Experience adjustments on plan obligations and assets|1,575,050|1,473,496|1,508,820|1,515,000|1,514,300|
+|Re-measurement (loss) and gain on obligation|(20,425)|148,845|99,452|52,599|(95,729)|
+
+# Employees’ compensated absences
+
+|Year|2024|2023|2022|2021|2020|
+|---|---|---|---|---|---|
+|Present value of defined benefit obligation|1,248,767|1,200,318|1,124,542|923,138|774,381|
+|Fair value of plan assets|-|-|-|-|-|
+|Experience adjustments on plan obligations|1,248,767|1,200,318|1,124,542|923,138|774,381|
+|Re-measurement (loss) and gain on obligation|90,570|53,056|(118,350)|(131,808)|(120,571)|
+
+# Expected contributions to be paid to the funds in the next financial year
+
+The Bank contributes to the gratuity fund as per actuarial expected charge for the next financial year. No contributions are being made to pension due to surplus of fair value of plan’s assets over present value of defined obligation. Based on actuarial advice, management estimates that the charge or (reversal) in respect of defined benefit plans for the year ending December 31, 2025 would be as follows:
+
+| |Pension fund|Gratuity fund|Post retirement medical|Employees’ compensated absences|
+|---|---|---|---|---|
+|Expected (reversal) and charge for the next year|(952,229)|471,791|225,770|204,060|
+
+# Risk associated with defined benefit plans
+
+The defined benefit plans may expose the bank to actuarial risks such as longevity risk, investment risk, salary increase risk and withdrawal rate risk as described below:
+
+- Longevity risks: The risk arises when the actual lifetime of retirees is longer than expectation. This risk is measured at the plan level over the entire retiree population.
+- Investment risks: The risk arises when the actual performance level of investment levels is lower than expectation and thus creating a shortfall in the funding objectives.
+- Salary increase risk: The most common type of retirement benefit is one where the final benefit is linked with final salary. The risk arises when the actual increases are higher than expectations and impact the liability accordingly.
+- Withdrawal Rate: The risk of actual withdrawals varying with the actuarial assumptions can impose a risk to the benefit obligation. The movement of the liability can go either way.
+
+# DEFINED CONTRIBUTION PLAN
+
+The Bank operates an approved contributory provident fund for 10,760 (2023: 9,471) employees where contributions are made by the Bank at 8.33% per annum (2023: 8.33% per annum), whereas employees have the option to contribute at 8.33%, 12% or 15% per annum (2023: 8.33%, 12% or 15% per annum) of the basic salary every month.
+
+# Notes to the Consolidated Financial Statements
+
+# for the year ended December 31, 2024
+
+# 39 COMPENSATION OF DIRECTORS AND KEY MANAGEMENT PERSONNEL
+
+# 39.1 Total compensation expense
+
+|Directors|Other Material Risk Takers / Key Management Personnel|Board Committees|Total| | | | | | | | | | | | |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| | | | | | |CEO*|Human Resource Management|Strategic Planning and Monitoring|Audit Committee|Board Risk Committee| | | | | |
+|Fees and allowances etc.|7,200| |-|78,600|-|-|-|-|7,200| | | | | | |
+|Managerial remuneration|-|-|-| |4,237|60,000|183,419|203,397|-| | | | | | |
+|- Fixed (including Eid bonus)|-|-|-| |600|50,000|182,395|103,867|-| | | | | | |
+|- Total Variable|-|-|-| |600|50,000|182,395|103,867|-| | | | | | |
+|a. Cash Bonus and awards|-|-|-| |600|50,000|182,395|103,867|-| | | | | | |
+|b. Bonus and awards in Shares|-|-|-|-|-|-|-|-| | | | | | | |
+|Charge for defined benefit plans| | | | | | | |-|-|-|-|-|-|-|-|
+|Contribution to defined contribution plan|-|-|-| |327|4,998|14,629|16,341|-| | | | | | |
+|Rent and house maintenance|-|-|-| |2,556|36,000|104,052|117,708|-| | | | | | |
+|Utilities|-|-|-| |786|12,000|34,684|39,236|-| | | | | | |
+|Medical|-|-|-| |786|12,000|35,006|39,236|-| | | | | | |
+|Conveyance|-|-|-| |1,354|5,400|93,070|77,436|-| | | | | | |
+|Others|-|-|-| |1,578|15,485|84,788|107,154|-| | | | | | |
+|Total|7,200| |-|78,600|12,224|195,883|732,043|704,375|-| | | | | | |
+|Number of persons|1| |-|10|3|1|19|65|-| | | | | | |
+
+* CEO stands for Chief Executive Officer
+
+# December 31, 2023
+
+# Board Committees
+
+|Directors|Other Material Risk Takers / Key Management Personnel|Board Committees|Total| | | | | | | | | | | | | |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| | | | | | |CEO*|Human Resource Management|Strategic Planning and Monitoring|Audit Committee|Board Risk Committee| | | | | | |
+|Fees and allowances etc.|4,200| |-|70,400|-|-|-|-|4,200| | | | | | | |
+|Managerial remuneration|-|-|-| |3,947|30,000|143,794|209,435|-| | | | | | | |
+|- Fixed (including Eid bonus)|-|-|-| |895|30,500|182,206|140,804|-| | | | | | | |
+|- Total Variable|-|-|-| |895|30,500|182,206|140,804|-| | | | | | | |
+|a. Cash Bonus and awards|-|-|-| |895|30,500|182,206|140,804|-| | | | | | | |
+|b. Bonus and awards in Shares|-|-|-|-|-|-|-|-| | | | | | | | |
+|Charge for defined benefit plans| | | | | | | |-|-|-|-|-|-|-|-| |
+|Contribution to defined contribution plan|-|-|-| |303|2,499|11,221|16,019|-| | | | | | | |
+|Rent and house maintenance|-|-|-| |2,186|18,735|80,827|121,585|-| | | | | | | |
+|Utilities|-|-|-| |728|6,245|26,943|40,528|-| | | | | | | |
+|Medical|-|-|-| |728|6,245|27,962|43,005|-| | | | | | | |
+|Conveyance|-|-|-| |1,316|5,850|87,847|88,039|-| | | | | | | |
+|Others|-|-|-| |743|1,717|27,638|91,500|-| | | | | | | |
+|Total|4,200| |-|70,400|10,846|101,791|588,438|750,915|-| | | | | | | |
+|Number of persons|1| |-|8|3|1|22|75|-| | | | | | | |
+
+* CEO stands for Chief Executive Officer
+
+# 39.3 Remuneration paid to Shariah Board Members
+
+|Items| | | | | | | | | | |December 31, 2024| | |December 31, 2023| | |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| |Chairman|Resident Member|Non-Resident Member|Chairman|Resident Member|Non-Resident Member| | | | | | | | | | |
+| | | | | | | | | |Salaries and allowances| |6,597|2,895|2,732|6,042|2,544|2,260|
+| | | | | | | | | |Total Number of Persons| |1|1|1|1|1|1|
+
+39.4 Deferred cash bonus and remuneration for MRTs for the year 2024 is Rs. 25,827,600 (2023: 23,607,733).
+
+# Notes to the Consolidated Financial Statements
+
+# for the year ended December 31, 2024
+
+# 40 FAIR VALUE OF FINANCIAL INSTRUMENTS
+
+# 40.1 Fair value of financial assets
+
+The fair value of traded investments is based on quoted market prices other than those classified as “hold to collect”. Quoted securities classified as hold to collect are carried at cost. The fair value of unquoted equity securities, other than investments in associates and subsidiaries, is determined on the basis of the break-up value of these investments as per their latest available audited financial statements.
+
+The fair value of unquoted debt securities, fixed term loans, other assets, other liabilities, fixed term deposits and borrowings cannot be calculated with sufficient reliability due to the absence of a current and active market for these assets and liabilities and reliable data regarding market rates for similar instruments. The provision for impairment of loans and advances has been calculated in accordance with the Bank’s accounting policy as stated in note 5.4 to these consolidated financial statements.
+
+The Bank measures fair values using the following fair value hierarchy that reflects the significance of the inputs used in making the measurements:
+
+- Level 1: Fair value measurements using quoted prices (unadjusted) in active markets for identical assets or liabilities. Financial instruments included in level 1 comprise of investments in Listed Ordinary Shares.
+- Level 2: Fair value measurements using inputs other than quoted prices included within Level 1 that are observable for the assets or liability, either directly (i.e. as prices) or indirectly (i.e. derived from prices). Financial instruments included in level 2 comprise of Sukuk Bonds, Units of Mutual Funds, Pakistan Investment Bonds, Market Treasury Bills, Term Finance Certificates and Forward Government & Exchange Contracts.
+- Level 3: Fair value measurements using input for the asset or liability that are not based on observable market data (i.e. unobservable inputs). Currently, no financial instruments are classified in level 3.
+
+The table below analyses financial instruments measured at the end of the reporting period by the level in the fair value hierarchy into which the fair value measurement is categorised:
+
+|Carrying Value| | |Level| | |Total|
+|---|---|---|---|---|---|---|
+| | | |Level 1|Level 2|Level 3| |
+|On balance sheet financial instruments| | | | | | |
+| |Financial assets - measured at fair value| | | | | |
+|Investments|Federal Government Securities|963,647,675|-|963,647,675| | |
+| |Shares|27,533,021|23,835,166|3,697,855|27,533,021| |
+| |Non-Government Debt Securities|13,322,779|-|13,322,779|13,322,779| |
+| |Financial assets - disclosed but not measured at fair value| | | | | |
+|Investments (Federal government securities, unlisted ordinary shares, term certificates, sukuks, subsidiaries, Bai muajjal)| |128,379,928|-|-|-| |
+| |Cash and balances with treasury banks|146,812,714|-|-|-| |
+| |Balances with other banks|9,964,224|-|-|-| |
+| |Lendings|243,541,081|-|-|-| |
+| |Advances|1,051,545,347|-|-|-| |
+| |Other assets|78,161,477|-|-|-| |
+| |Non - Financial Assets measured at fair value| | | | | |
+|Operating fixed assets| |98,005,540|-|98,005,540|98,005,540| |
+| |Non-banking assets|1,947,598|-|1,947,598|1,947,598| |
+|Off-balance sheet financial instruments - measured at fair value| | | | | | |
+| |Forward purchase of foreign exchange|181,173,349|-|181,173,349|181,173,349| |
+| |Forward sale of foreign exchange|107,110,234|-|107,110,234|107,110,234| |
+| |Forward purchase of government securities transactions|182,141,150|-|182,141,150|182,141,150| |
+| |Forward sale of government securities transactions|-|-|-|-| |
+
+# December 31, 2023
+
+|Carrying Value| | | | | |Level| | |Total|
+|---|---|---|---|---|---|---|---|---|---|
+| | | | | | |Level 1|Level 2|Level 3| |
+|On balance sheet financial instruments| | | | | | | | | |
+| | | | |Financial assets - measured at fair value| | | | | |
+|Investments| | | |Federal Government Securities|1,044,283,263|-|1,044,283,263| | |
+| | | | |Shares|23,270,806|18,457,238|4,813,568|23,270,806| |
+| | | | |Non-Government Debt Securities|13,274,049|-|13,274,049|13,274,049| |
+| | | | |Financial assets - disclosed but not measured at fair value| | | | | |
+|Investments (Federal government securities, unlisted ordinary shares, term certificates, sukuks, subsidiaries, Bai muajjal)| | | | |73,769,085|-|-|-| |
+| | | | |Cash and balances with treasury banks|156,124,352|-|-|-| |
+| | | | |Balances with other banks|2,455,601|-|-|-| |
+| | | | |Lendings|9,418,003|-|-|-| |
+| | | | |Advances|780,296,455|-|-|-| |
+| | | | |Other assets|88,092,635|-|-|-| |
+| | | | |Non - Financial Assets measured at fair value| | | | | |
+|Operating fixed assets| | | | |90,617,404|-|90,617,404|90,617,404| |
+| | | | |Non-banking assets|2,081,772|-|2,081,772|2,081,772| |
+|Off-balance sheet financial instruments - measured at fair value| | | | | | | | | |
+| | | | |Forward purchase of foreign exchange|180,292,360|-|180,292,360|180,292,360| |
+| | | | |Forward sale of foreign exchange|141,834,941|-|141,834,941|141,834,941| |
+| | | | |Forward purchase of government securities transactions|10,053,843|-|10,053,843|10,053,843| |
+| | | | |Forward sale of government securities transactions|1,385,378|-|1,385,378|1,385,378| |
+
+384 Annual Report 2024
+
+# Notes to the Consolidated Financial Statements
+
+# for the year ended December 31, 2024
+
+# 41 SEGMENT INFORMATION
+
+# 41.1 Segment Details with respect to Business Activities
+
+| |Corporate & Investment Banking|Commercial Banking|Trading & Sale (Treasury)|Islamic Banking|Asset Management Company|Others|Total|
+|---|---|---|---|---|---|---|---|
+|Rupees in ‘000|December 31, 2024| | | | | | |
+|Net mark-up, return, profit|119,873,099|(156,066,479)|140,324,432|8,561,047|(366,804)|587,214|112,912,509|
+|Inter segment revenue - net|(117,178,022)|281,976,540|(146,027,805)|-|-|(18,770,713)|-|
+|Non mark-up, return, interest income|6,179,654|7,465,828|9,492,779|641,564|2,183,009|600,161|26,562,995|
+|Total Income|8,874,731|133,375,889|3,789,406|9,202,611|1,816,205|(17,583,338)|139,475,504|
+|Segment direct expenses|812,765|22,269,329|251,608|1,905,712|764,416|23,685,742|49,689,572|
+|Total expenses|812,765|22,269,329|251,608|1,905,712|764,416|23,685,742|49,689,572|
+|Provisions|(3,171,735)|(574,914)|(287,719)|(3,451)|-|1,060,846|(2,976,973)|
+|Profit before tax|4,890,231|110,531,646|3,250,079|7,293,448|1,051,789|(40,208,234)|86,808,959|
+
+# Statement of Financial Position
+
+|Cash & Bank balances|63,911|52,567,988|87,420,356|7,981,515|21,442|10,524,741|158,579,953|
+|---|---|---|---|---|---|---|---|
+|Investments|56,323,830| |1,055,128,295|38,360,057|4,779,114|5,907|1,154,597,203|
+|Net inter segment lending|(637,179,804)|1,431,073,960|(920,483,266)|(427,931)|-|127,017,041|-|
+|Lendings to financial institutions|-|-|16,191,116|-|-|(6,773,113)|9,418,003|
+|Advances - performing|658,585,879|32,393,352|-|79,621,981|199,225|8,997,696|779,798,133|
+|Advances - non-performing|296,254|174,347|-|5,729|12,562,699|13,039,029|-|
+|Provision against advances|(226,742)|(129,247)|-|(7,338)|(12,177,380)|(12,540,707)|-|
+|Advances - net|658,655,391|32,438,452|-|79,620,372|199,225|9,383,015|780,296,455|
+|Operating fixed assets|152,919|74,579,541|5,707|887,783|412,017|49,773,926|125,811,893|
+|Others|8,271,993|15,956,020|40,787,167|5,126,241|530,232|33,674,813|104,346,466|
+|Total Assets|86,288,240|1,606,615,961|279,049,375|131,548,037|5,942,030|223,606,330|2,333,049,973|
+
+# Borrowings
+
+|Borrowings|80,418,586|3,160,687|279,576,794|17,276,361|-|(6,758,386)|373,674,042|
+|---|---|---|---|---|---|---|---|
+|Deposits & other accounts|3,332,467|1,573,043,102|-|95,333,605|-|4,880,503|1,676,589,677|
+|Others|2,537,187|30,412,171|(527,419)|3,904,191|2,295,319|46,838,767|85,460,216|
+|Total liabilities|86,288,240|1,606,615,960|279,049,375|116,514,157|2,295,319|44,960,884|2,135,723,935|
+
+# Equity and Reserves
+
+Total Equity and Liabilities
+86,288,240
+1,606,615,960
+279,049,375
+131,548,037
+5,942,030
+223,606,331
+2,333,049,973
+# Contingencies and Commitments
+
+Contingencies and Commitments
+192,589,491
+20,824,987
+333,566,522
+5,984,115
+-
+16,291,499
+569,256,614
+
+# Notes to the Consolidated Financial Statements
+
+# for the year ended December 31, 2024
+
+# 41.2 GEOGRAPHICAL SEGMENT ANALYSIS
+
+| |Domestic Operations|Middle East| | | | | |China|Total| | |
+|---|---|---|---|---|---|---|---|---|---|---|---|
+| | | | | | | | |Rupees in ‘000|Rupees in ‘000|Rupees in ‘000|Rupees in ‘000|
+|Profit & Loss Account|Net mark-up, return, profit| | | | |111,367,090|1,545,419|-|112,912,509| | |
+| |Net mark-up, return, profit|113,950,057|1,414,077|-|115,364,134| | | | | | |
+| |Inter segment revenue - net|102,703|(102,703)|-|-| | | | | | |
+| | | | | |Non mark-up, return, interest income|26,556,965|6,030|-|26,562,995| | |
+| | | | | |Total Income|138,407,168|1,068,336|-|139,475,504| | |
+| | | | | |Segment direct expenses|(49,454,427)|(202,793)|(32,352)|(49,689,572)| | |
+| | | | | |Total expenses|(49,454,427)|(202,793)|(32,352)|(49,689,572)| | |
+| | | | | |Provisions|(1,633,639)|(1,343,334)|-|(2,976,973)| | |
+| |Profit or (loss) before tax| | | | |87,319,102|(477,791)|(32,352)|86,808,959| | |
+| |Profit / (loss) before tax|88,086,079|1,662,086|(34,294)|89,713,871| | | | | | |
+
+# Statement of Financial Position
+
+|Cash & Bank balances|158,577,138|2,815|-|158,579,953|
+|---|---|---|---|---|
+|Investments|1,140,920,205|13,676,998|-|1,154,597,203|
+|Net inter segment lendings|6,716,740|-|-|6,716,740|
+|Lendings to financial institutions|236,824,341|-|-|236,824,341|
+|Advances - performing|778,576,737|1,221,396|-|779,798,133|
+|Advances - non-performing|13,039,029|-|-|13,039,029|
+|Provision against advances|(12,396,149)|(144,558)|-|(12,540,707)|
+|Advances - net|779,219,617|1,076,838|-|780,296,455|
+|Operating fixed assets|125,728,991|82,902|-|125,811,893|
+|Others|103,935,126|411,340|-|104,346,466|
+|Total Assets|2,317,799,080|15,250,893|-|2,333,049,973|
+|Borrowings|364,279,625|2,677,677|-|366,957,302|
+|Subordinated debt|-|-|-|-|
+|Deposits & other accounts|1,673,257,210|3,332,467|-|1,676,589,677|
+|Net inter segment borrowing|-|6,716,740|-|6,716,740|
+|Others|85,267,504|192,713|-|85,460,217|
+|Total liabilities|2,122,804,339|12,919,597|-|2,135,723,936|
+|Equity|194,194,694|3,131,343|-|197,326,037|
+|Total Equity & liabilities|2,316,999,033|16,050,940|-|2,333,049,973|
+|Contingencies and commitments|569,256,614|-|-|569,256,614|
+
+
+# Notes to the Consolidated Financial Statements
+
+# for the year ended December 31, 2024
+
+|Othe|related parties|222,164|209,873|5,238,086|2,128,234|7,839,463|
+|---|---|---|---|---|---|---|
+|-|-|-|-|-|-|292,662,647|
+|Joint venture|-|965,906|961,477|-|-|-|
+|Associates*|36,608,802|4,779,114|81,408,541|8,660|(82,370,017)|111,965|
+|-|9,933,381|1,842,309|-|-|-|(36,688,574)|
+|Associates*|-|(10,008,221)|416,615|-|-|-|
+|Key personnel management|202,400|394,496|(224,519)|December 31, 2023|94,881|51,333|
+|-|-|1,116,106|-|-|-|-|
+|Key personnel management|66,875|90,791|(40,882)|Directors|116,784|-|
+|-|13,464|53,731|46,894|2,165|-|510,062|
+|-|-|-|-|-|-|(516,899)|
+|Parent|-|-|-|-|1,716|12,963|
+|Rupees in ‘000|-|1,125|-|-|Parent|21,582,782|
+|Other related parties|238,752|76,741|(21,571,535)|(163,136)|-|-|
+|-|-|-|-|-|-|-|
+|Other related parties|40,702|7,839,463|7,114,833|34,629,097|Joint venture|618,177,846|
+|-|-|-|-|-|-|(591,388,212)|
+|-|-|-|-|-|-|-|
+|Joint venture|825,699|22,289|4,779,114|(339,693)|4,302,729|3,662,877|
+|Associates*|(5,904,972)|90,095,479|(90,073,191)|-|-|-|
+|-|-|-|-|-|-|-|
+|Key personnel management|13,091,224|(13,126,259)|107,214|396,383|(105,327)|-|
+|-|-|-|-|-|-|-|
+|December 31, 2024|104,117|35,100|57,178|Key personnel|1,704,479|(1,682,401)|
+|Directors|177,896|144,372|(150,308)|management|-|-|
+|-|-|-|-|-|-|-|
+|Parent|26,631|46,894|73,275|2,359,496|Directors|(2,333,115)|
+|-|-|-|-|-|-|-|
+|Parent|12,963|2,417|Parent|18,118,441|(18,128,987)|-|
+
+# RELATED PARTY TRANSACTIONS
+
+The Group has related party relationships with its parent, subsidiaries, companies with common directorship, directors, employee benefit plans and key management personnel including their associates.
+
+The Bank enters into transactions with related parties in the ordinary course of business and on substantially the same terms as for comparable transactions with person of similar standing. Contributions to and accruals in respect of staff retirement benefits and other benefit plans are made in accordance with the actuarial valuations / terms of the contribution plan. Remuneration to the executives / officers is determined in accordance with the terms of their appointment.
+
+# Details of transactions with related parties during the year, other than those which have been disclosed elsewhere in these financial statements are as follows:
+
+# Balances with other banks
+
+- In current accounts
+- In deposit accounts
+- Lendings to financial institutions
+
+# Opening balance
+
+- Addition during the year
+- Repaid during the year
+- Transfer in and (out) - net
+- Closing balance
+
+# Investments
+
+- Opening balance
+- Investment made during the year
+- Investment redeemed and disposed off during the year
+- Share of profit/(loss) from associate
+- Dividend income
+- Closing balance
+- Provision for diminution in value of investments
+
+# Advances
+
+- Opening balance
+- Addition during the year
+- Repaid during the year
+- Transfer in and (out) – net
+- Closing balance
+- Provision held against advances
+
+# Other Assets
+
+- Interest or mark-up accrued
+- Receivable from staff retirement fund
+- Other receivable
+- Provision against other assets
+
+# Borrowings
+
+- Opening balance
+- Borrowings during the year
+- Settled during the year
+- Transfer in and (out) - net
+- Closing balance
+- Subordinated debt
+- Opening balance
+- Issued or Purchased during the year
+- Redemption and Sold during the year
+- Closing balance
+
+# Deposits and other accounts
+
+- Opening balance
+- Received during the year
+- Withdrawn during the year
+- Transfer in and (out) - net
+- Closing balance
+
+# Other Liabilities
+
+- Interest or mark-up payable
+- Payable to staff retirement fund
+- Other liabilities
+- Contingencies and Commitments
+- Other contingencies
+
+# Notes to the Consolidated Financial Statements
+
+# for the year ended December 31, 2024
+
+|December 31,|2024|December 31,|2023|
+|---|---|---|---|
+|Other related parties|620,393|851,330|189,812|
+|Joint venture|-|-|-|
+|Associates*|965,906|20,396|-|
+|Key personnel management|507,353|-|-|
+|Directors|-|-|-|
+|Parent|-|-|-|
+
+# CAPITAL ADEQUACY, LEVERAGE RATIO & LIQUIDITY REQUIREMENTS
+
+|Minimum Capital Requirement (MCR):| | | | | | | |Paid–up capital (net of losses)|11,450,739|11,450,739| | |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|Capital Adequacy Ratio (CAR):| | | | | | | |Eligible Common Equity Tier 1 (CET 1) Capital|168,294,347|137,272,038| | |
+| | | | | | | | |Eligible Additional Tier 1 (ADT 1) Capital| |-|-|-|
+| | | | | | | | |Total Eligible Tier 1 Capital|168,294,347|137,272,038| | |
+| | | | | | | | |Eligible Tier 2 Capital|56,173,983|44,070,701| | |
+| | | | | | | | |Total Eligible Capital (Tier 1 + Tier 2)|224,468,330|181,342,739| | |
+|Risk Weighted Assets (RWAs):| | | | | | | |Credit Risk|533,916,593|472,828,682| | |
+| | | | | | | | |Market Risk|67,657,552|41,288,208| | |
+| | | | | | | | |Operational Risk|230,573,031|177,359,474| | |
+| | | | | | | | |Total|832,147,176|691,476,364| | |
+
+# Leverage Ratio (LR):
+
+|Eligible Tier-1 Capital|168,294,347|137,272,038|
+|---|---|---|
+|Total Exposures|2,926,044,749|2,473,204,725|
+|Leverage Ratio|5.75%|5.55%|
+
+# Liquidity Coverage Ratio (LCR):
+
+|Total High Quality Liquid Assets|859,692,417|729,610,915|
+|---|---|---|
+|Total Net Cash Outﬂow|412,690,392|395,703,808|
+|Liquidity Coverage Ratio|208.31%|184.38%|
+
+# Net Stable Funding Ratio (NSFR):
+
+|Total Available Stable Funding|1,749,536,478|1,682,223,313|
+|---|---|---|
+|Total Required Stable Funding|1,124,598,870|1,046,798,062|
+
+# RELATED PARTY TRANSACTIONS
+
+# Income
+
+- Mark-up, return, interest earned
+- Sales Commission
+- Fee and commission income
+- Share of Profit from Associate
+- Net gain / (loss) on sale of securities
+- Rental Income
+- Other Income
+
+# Expense
+
+- Mark-up, return, interest paid
+- Directors meeting fee
+- Remuneration
+- Charge for defined benefit plans
+- Contribution to defined contribution plan
+- Other expenses**
+- Rent expense***
+- Charge in respect of staff retirement benefit funds
+- Insurance premium paid
+- Others Transaction
+- Purchase of Government securities
+- Sale of Government securities
+- Purchase of foreign currencies
+- Sale of foreign currencies
+- Insurance claims settled
+
+# Footnotes
+
+42.1 Shares held by the holding company, outstanding at the end of year are included in note 21 to these consolidated financial statements.
+
+* Associated companies are as per IAS 24 ‘Related Party Disclosures’.
+
+**Other expenses mainly include donation of Rs. 30 million to National Management Foundation for construction of hostel building and technology and product development lab.
+
+***Rent expense of ABL Branch with associated companies (Ibrahim Fibres Limited & Ibrahim Agencies Pvt. Limited) was carried out on agreed terms with prior permission of State Bank of Pakistan.
+
+During the year ended December 31, 2024; certain moveable assets which have been fully depreciated were disposed off for Rs. 735,341 to the Key Management Personnel of the Bank.
+
+43.1 The link to the full disclosure is available at https://www.abl.com/investor-relations/
+
+# Notes to the Consolidated Financial Statements
+
+# for the year ended December 31, 2024
+
+# 44 RISK MANAGEMENT
+
+The principal risks associated with the Bank’s business are Credit Risk, Market Risk, Liquidity Risk, Reputational Risk, Operational Risk, Information Security & Governance Risk and Shariah Non-Compliance Risk. The Risk Management Framework (henceforth to be referred to as ‘The Framework’) provides principles for identifying, assessing, and monitoring risk within the Bank. The Framework specifies the key elements of the risk management process in order to maximize opportunities, minimize adversities and to achieve improved outputs based on informed decision making.
+
+# 44.1 Credit Risk
+
+The Bank performs risk measurement, monitoring and control functions through use of various risk procedures and models. To give it a formal structure, all the policies and guidelines are approved by the Board and relevant management committees.
+
+# Categories of Risk
+
+|Credit Risk|This risk is defined as the possibility of loss due to unexpected default or a deterioration of credit worthiness of a business partner.|
+|---|---|
+| |Credit Risk includes Country Risk i.e., the risks that counterparty is unable to meet its foreign currency obligations as a result of adverse economic conditions or actions taken by governments in the relevant country.|
+|Market Risk|The risk that the value of on and off-balance sheet positions of the Bank will be adversely affected by movements in market rates or prices such as interest rates / rate of returns, foreign exchange rates, equity prices, credit spreads and / or commodity prices, resulting in a loss to earnings and capital.|
+|Liquidity Risk|The risk that the Bank is unable to meet its payment obligations when they fall due and to replace funds when they are withdrawn without incurring unacceptable cost or losses.|
+|Operational Risk|Operational Risk is the risk of loss resulting from inadequate or failed internal processes, people, systems or from external events. The definition includes legal risk but excludes strategic risk and reputational risk.|
+|Reputational Risk|The Reputational risk arises from the negative perception on the part of stakeholders that can adversely affect a bank’s ability to maintain existing, or establish new, business relationships and continued access to sources of funding.|
+|Information Security & Governance Risk|Information Security and Governance Risk Management involves the identification of an organization’s information assets and the development, documentation, and implementation of policies, standards, procedures and controls that ensure confidentiality, integrity and availability of the information.|
+|Strategic Risk|Risk of an adverse impact on strategic goals. Strategic risk mainly arises from strategic decisions, improper implementation of those decisions, or lack of responsiveness of Bank to industry, economic or technological changes.|
+|Shariah Non-Compliance Risk|Shariah Non Compliance Risk arises from the failure to comply with shariah rules and principles determined by the Shariah Board of the Bank and the Regulator.|
+
+# Risk Responsibilities
+
+- The Board of Directors shall oversee the risk management process. The Board of Directors is responsible for determining the manner in which risk authorities are set, as well as the approval of all risk policies and ensuring that these are properly implemented. Further, the Board of Directors shall also seek appointment of senior management personnel capable of managing the risk activities conducted by the Bank.
+- The Board Risk Management Committee (BRMC) is responsible for ensuring that the overall risk strategy and risk acceptance criteria of the Bank is appropriately defined in the Strategic Plan and recommend the same to the Board of Directors.
+- The Chief Executive Officer and Group Chiefs shall be responsible for the management of risk collectively through their membership of various committees i.e. Management Committee (MANCO), Asset & Liability Committee (ALCO), Compliance Committee (CC) and Risk Management Committee (RMC). Independent supervision of risk management activities is provided by the Audit Committee of the Board.
+- The Risk Management Group is headed by a Group Chief responsible for set-up and implementation of the Risk Management Strategy of the Bank.
+
+# 394 Annual Report 2024
+
+# 395
+
+# Notes to the Consolidated Financial Statements
+
+# for the year ended December 31, 2024
+
+# 44.1.1 Lendings to financial institutions
+
+|Credit risk by public and private sector| | | | | | | |Gross advances| |Non–performing advances| | |Credit loss allowance held|
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|December 31, 2024|December 31, 2023|December 31, 2024|December 31, 2023|December 31, 2024|December 31, 2023| | | | | | | | |
+|Public / Government|44,059,437|3,502,103|-|-|-|-| | | | | | | |
+|Private|199,551,668|5,985,900|70,000|70,000|70,013|70,000| | | | | | | |
+|Total|243,611,105|9,488,003|70,000|70,000|70,013|70,000| | | | | | | |
+
+# 44.1.2 Investment in debt securities
+
+|Credit risk by industry sector|Gross Investments| | |Non–performing Investments|Credit loss allowance held| | | | | | | | |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|December 31, 2024|December 31, 2023|December 31, 2024|December 31, 2023|December 31, 2024|December 31, 2023| | | | | | | | |
+| | | | | | | |Agriculture, Forestry and Hunting|38,260,358|178,932,397|501,112|1,141,052|616,875|917,675|
+| | | | | | | |Basic metals (iron, steel)|2,812,035|3,466,684|837,627|671,679|460,601|287,160|
+| | | | | | | |Cement, clay and ceramics|44,426,206|37,021,595|124,933|69,791|142,521|69,791|
+| | | | | | | |Chemical and pharmaceutical|26,677,434|31,855,433|336,741|308,487|372,610|308,487|
+| | | | | | | |Construction|11,739,046|15,198,147|144,338|167,168|186,942|167,168|
+| | | | | | | |Education|128,191|119,231|123|1,445|636|1,445|
+| | | | | | | |Financial|447,600,543|99,964,826|5,554|12,154|306,536|12,154|
+| | | | | | | |Footwear and leather garments|4,795,725|3,202,145|25,450|8,472|80,213|8,473|
+| | | | | | | |Furniture and sports goods|947,383|716,601|114,747|116,147|137,589|116,147|
+| | | | | | | |Grains, food and beverages|48,270,093|20,900,865|1,553,326|1,726,564|1,614,353|1,726,564|
+| | | | | | | |Health and social welfare|129,238|33,614|2,975|599|5,236|599|
+| | | | | | | |Hotel, restaurant and clubs|9,986|4,500|6,686|6,686|6,689|6,686|
+| | | | | | | |Individuals|42,731,778|20,033,249|586,208|677,014|744,344|649,375|
+| | | | | | | |Machinery and equipment|1,628,100|2,594,385|45,659|9,399|52,191|9,399|
+| | | | | | | |Manufacture of transport equipment|2,072,845|6,188,907|126,162|133,073|130,489|130,003|
+| | | | | | | |Paper and paper boards|27,684,642|20,642,488|16,552|199,906|437,499|199,906|
+| | | | | | | |Petroleum products|25,442,623|55,953,186|7,465|8,366|8,997|8,366|
+| | | | | | | |Power, gas, water and sanitary|108,035,860|137,742,145|-|-|28,995|-|
+| | | | | | | |Printing, publishing and allied|74,083|80,560|198|378|666|378|
+| | | | | | | |Real estate, renting, and business activities|7,126,752|4,567,044|456,535|-|473,569|-|
+| | | | | | | |Rubber and plastic|836,374|795,219|164,927|205,413|165,226|176,596|
+| | | | | | | |Sugar|5,414,589|6,747,863|-|-|97,843|-|
+| | | | | | | |Mining and quarrying|8,062,839|4,334,842|3,039|-|3,926|-|
+|Textile - Manufacture of made up and ready made garments| | | | | | | |74,368,360|44,776,101|4,380,540|2,492,454|4,501,264|2,492,454|
+| | | | | | | |Textile - Finishing|25,048,510|18,590,819|652,993|2,629,435|755,304|2,629,435|
+| | | | | | | |Textile - Spinning|23,796,664|25,702,953|569,604|933,855|716,505|933,855|
+| | | | | | | |Textile - Weaving|2,715,365|2,456,362|1,002,716|443,280|1,009,222|443,280|
+| | | | | | | |Transport, storage and communication|50,650,222|40,873,418|46,642|46,392|682,665|30,150|
+| | | | | | | |Wholesale and retail trade|5,329,543|4,624,396|997,795|589,761|1,008,240|574,748|
+| | | | | | | |Others - Services|27,953,895|1,844,884|3,638|6,730|5,132|6,730|
+| | | | | | | |Others|1,810,122|4,173,078|280,685|433,329|281,179|428,664|
+
+# Credit risk by public and private sector
+
+|Public and Government|1,088,030,850|1,137,405,450|22,827,109|19,392,275|1,956,777|2,429,689|
+|---|---|---|---|---|---|---|
+|Private|12,035,795|16,144,221|306,274|323,991|726,505|323,991|
+|Total|1,100,066,645|1,153,549,671|23,133,383|19,716,266|2,683,282|2,753,680|
+
+# Credit risk by public and private sector
+
+|Public and Government|515,886,522|418,389,947|377,026|377,026|36,656|-|
+|---|---|---|---|---|---|---|
+|Private|550,692,882|375,747,990|12,617,944|12,662,003|14,997,401|12,335,688|
+|Total|1,066,579,404|794,137,937|12,994,970|13,039,029|15,034,057|12,335,688|
+
+
+# Notes to the Consolidated Financial Statements
+
+# for the year ended December 31, 2024
+
+# 44.1.4 Contingencies and Commitments
+
+# Credit risk by industry sector
+
+|Industry Sector|December 31, 2024|December 31, 2023|
+|---|---|---|
+|Agribusiness|2,565,068|1,625,127|
+|Automobile & transportation equipment|45,782,880|91,646,813|
+|Cement|4,128,004|5,880,882|
+|Chemical & Pharmaceuticals|16,660,526|12,074,183|
+|Construction|6,099,908|6,035,868|
+|Electronic & electrical appliances|807,309|5,231,217|
+|Exports/Imports|167,267|110,744|
+|Financial|493,510,707|356,580,032|
+|Gas, water, sanitary|857,042|1,464,789|
+|Individuals|7,521,497|6,472,528|
+|Insurance|25,819|25,819|
+|Mining and quarrying|444,136|91,642|
+|Other Leather Garments|2,118,205|16,955|
+|Production & transmission of energy|43,116,769|26,924,683|
+|Services|25,075,378|1,638,716|
+|Shoes & leather garments|250,649|1,560,886|
+|Sugar|1,019,618|1,540,675|
+|Textile - Others|1,105,142|1,553,192|
+|Textile - weaving|2,019,724|1,201,162|
+|Textile - composite|4,264,186|4,778,297|
+|Textile - spinning|446,634|2,262,568|
+|Transport, storage and communication|5,260,825|6,630,863|
+|Wholesale and retail trade|14,471,074|26,223,915|
+|Others|6,245,994|7,685,058|
+
+# 44.1.5 Concentration of Advances
+
+The Bank’s top 10 exposures on the basis of total (funded and non-funded) exposures aggregating to Rs. 558,066.09 million (December 31, 2023: Rs. 428,530.37 million) are as following:
+
+| |December 31, 2024|December 31, 2023|
+|---|---|---|
+|Funded|524,470,248|361,618,685|
+|Non Funded|33,595,847|66,911,684|
+|Total Exposure|558,066,095|428,530,369|
+
+The sanctioned limits against these top 10 exposures aggregated to Rs. 678,578 million (December 31, 2023: Rs. 472,100 million).
+
+# 44.1.6 Advances – Province/Region–wise Disbursement & Utilization
+
+During the year ended December 31, 2024
+
+|Province/Region|Disbursements|Utilization|Azad Jammu|Khyber|Punjab|Sindh|Pakhtunkhwa|Balochistan|Islamabad|including FATA|Gilgit-Baltistan|
+|---|---|---|---|---|---|---|---|---|---|---|---|
+| | | |Punjab|1,365,984,656|1,034,443,275|326,048,307|4,274,850|7,656|1,200,894|9,674| |
+| | | |Sindh|2,069,021,978|32,818,628|2,036,203,350|-|-|-|-| |
+| | | |KPK including FATA|2,782,810|-|-|2,782,810|-|-|-| |
+| | | |Balochistan|1,564,711|-|-|-|1,564,711|-|-| |
+| | | |Islamabad|702,270,994|169,018,345|17,664,050|-|-|515,588,599|-| |
+| | | |AJK including Gilgit-Baltistan|435,344|-|-|-|-|-|435,344| |
+| | | |Total|4,142,060,493|1,236,280,248|2,379,915,707|7,057,660|1,572,367|516,789,493|445,018| |
+
+During the year ended December 31, 2023
+
+|Province/Region|Disbursements|Utilization|Khyber|Azad Jammu|Punjab|Sindh|Pakhtunkhwa|Balochistan|Islamabad|including FATA|Gilgit-Baltistan|
+|---|---|---|---|---|---|---|---|---|---|---|---|
+|Punjab|1,314,725,318|1,013,930,187|288,909,408|9,429,631|183,977|1,761,673|510,442| | | | |
+|Sindh|1,688,018,427|27,829,287|1,660,189,140|-|-|-|-| | | | |
+|KPK including FATA|3,796,745|-|-|3,796,745|-|-|-| | | | |
+|Balochistan|1,605,872|-|-|-|1,605,872|-|-| | | | |
+|Islamabad|746,899,662|166,822,965|23,368,139|-|-|556,708,558|-| | | | |
+|AJK including Gilgit-Baltistan|414,912|-|-|-|-|-|414,912| | | | |
+|Total|3,755,460,936|1,208,582,439|1,972,466,687|13,226,376|1,789,849|558,470,231|925,354| | | | |
+
+
+# Notes to the Consolidated Financial Statements
+
+# for the year ended December 31, 2024
+
+# 44.1.7 Sensitivity of ECL to Future Economic Conditions
+
+The Group performs sensitivity analysis on the ECL recognized on each of its segments. The following table outline the impact of ECL from applying a 100% weighting to each scenario.
+
+|Description|Agriculture|Corporate / Commercial|Medium Enterprise|Small Enterprise|Others|Overseas|Total| | | | | | | |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|Total ECL|220,638|11,340,022|1,290,222|1,187,645|739,199|256,330|15,034,056| | | | | | | |
+|ECL (Upside)|213,915|9,773,404|1,270,537|1,150,943|697,619|230,697|13,337,116| | | | | | | |
+|ECL (Central)|220,500|11,073,056|1,283,916|1,176,929|733,913|256,330|14,744,645| | | | | | | |
+|ECL (Downside)|228,006|14,152,478|1,339,336|1,274,352|805,446|281,963|18,081,581| | | | | | | |
+|ECL % Inc. / (Dec.)|ECL (Upside)|-3.05%|-13.81%|-1.53%|-3.09%|-5.63%|-10.00%|-11.29%| | | | | | |
+| |ECL (Central)|-0.06%|-2.35%|-0.49%|-0.90%|-0.72%|0.00%|-1.93%| | | | | | |
+| |ECL (Downside)|3.34%|24.80%|3.81%|7.30%|8.96%|10.00%|20.27%| | | | | | |
+
+# 44.2 Market Risk
+
+Market Risk is the risk of loss in earnings and capital due to adverse changes in interest rates / rate of return, foreign exchange rates, equity prices and market conditions. Thus market risk can be further described into Interest Rate Risk / Rate of Return Risk, Foreign Exchange Risk and Equity Position.
+
+Market Risk performs risk measurement, monitoring and control functions through the use of various risk procedures and models. To give it a formal structure, all the policies and guidelines are approved by the Board of Directors and the relevant management committees.
+
+The Bank uses three types of risk management tools to measure the Bank’s Market Risk: Value-at Risk (VaR), Expected Shortfall (ES) and Stress Testing. In addition, control limits are utilized to maintain the risks within acceptable levels.
+
+The Bank maintains adequate regulatory capital to cover all interest rate risks falling under the “Trading Book” as well as “Banking Book”, as defined by Basel capital accord. The Bank uses Standardized Approach in determining credit risk, market risk and operational risk exposures in the capital adequacy calculation. In Market risk exposures, Maturity method is used to calculate charge on Interest rate risk and FX risk.
+
+In its pursuit of automation, the Bank has successfully implemented Oracle Financial Services Analytical Application (OFSAA) Market Risk Module to automate the risk monitoring and reporting activities pertaining to Market Risk, which allows for more efficient risk monitoring and increased focus on risk analysis to help in making more informed decisions.
+
+# 44.2.1 Market Risk Pertaining to the Trading Book
+
+The Trading Book of the Bank consists of positions in financial instruments held either with trading intent or in order to hedge other elements of the trading book. To be eligible for trading book, financial instruments must be held with the intent of trading and free of any restrictive covenants on their tradability. In addition, positions need to be frequently and accurately valued and the portfolio should be actively monitored and managed accordingly.
+
+| |December 31, 2024|December 31, 2023|
+|---|---|---|
+| |Banking book|Trading book|
+|Pakistani Rupee|2,729,735,537|2,434,606,782|
+|United States Dollar|88,898,497|135,763,361|
+|Great Britain Pound Sterling|1,417,150|7,401,436|
+|Japanese Yen|56,410|402,773|
+|Euro|1,305,042|5,279,522|
+|Other currencies|289,829|-|
+
+# 44.2.2 Balance sheet split by trading and banking books
+
+| |December 31, 2024|December 31, 2023|
+|---|---|---|
+|Banking book|2,795,011,474|2,292,721,836|
+|Trading book|26,690,991|40,328,137|
+|Total|2,821,702,465|2,333,049,973|
+
+# 44.2.3 Foreign Exchange Risk
+
+Foreign exchange risk is the current or prospective risk to earnings and capital arising from adverse movements in currency exchange rates.
+
+The majority of the Bank’s net foreign currency exposure is in US$ and the Bank uses system-based monitoring of its intra-day Net Open Position for effective risk management.
+
+The Bank’s FX Risk is largely mitigated by following a matched funding policy, whereas, for any mismatched exposures, the Bank utilizes appropriate derivative instruments such as Forwards and Swaps. The Bank maintains adequate regulatory capital to cover against foreign exchange risk.
+
+# After tax Impact of 1% change in foreign exchange rates on:
+
+| |Banking book|Trading book|
+|---|---|---|
+|Profit and loss account|-|-|
+|Other comprehensive income|-|(167,308)|
+
+
+# Notes to the Consolidated Financial Statements
+
+# for the year ended December 31, 2024
+
+# 42.2.4 Equity position Risk
+
+Equity Price Risk is risk to earnings or capital that results from adverse changes in stock prices (single stocks, or a basket of financial stocks, or overall stock market). ABL holds a diversified portfolio of equity investments in order to minimize non-systematic risk while retaining acceptable systematic risk. ALCO ensures that equity price risk is mitigated through prudent portfolio management. The Bank maintains adequate regulatory capital to cover against equity price risk.
+
+|Rupees in ‘000|December 31, 2024|December 31, 2023|to 10 Years|Above|
+|---|---|---|---|---|
+|Financial instruments|5,906,871|651,082,006|573,015,820|3,497,794|
+|Non–interest|135,069,220|-|27,877,137|88,848,012|
+|After tax Impact of 5% change in equity prices on|-|28,639,997|21,819,271|-|
+|- Profit and loss account|-|-|-|-|
+|- Other comprehensive income|(192,550)|(1,004,327)|(76,309)|(517,096)|
+
+# 44.2.5 Yield and Interest Rate Risk in the Banking Book (IRRBB)–Basel II Specific
+
+Interest rate and Rate of return risk is the current or prospective risk of losses, to both the Bank’s capital and earnings, arising from movements in interest rates and rates of return. The Bank has a robust system in place to monitor Interest rate risk and ALCO regularly analyses the interest rate scenario and devises strategies to minimize adverse impact of interest rate risk on the Bank’s equity and profits.
+
+|Rupees in ‘000|December 31, 2024|1 Year|Over 6 Months to|Exposed to Yield/ Interest risk|
+|---|---|---|---|---|
+|Cash and balances with treasury banks|242,935|4,249,028|65,392,669|347,102,315|
+|Advances|149,909,857|-|-|-|
+|Off–balance sheet gap|-|-|-|-|
+
+# Mismatch of Interest Rate Sensitive Assets and Liabilities
+
+|On–balance sheet financial instruments|Assets|Liabilities|
+|---|---|---|
+|Cash and balances with treasury banks|Advances|Other liabilities|
+|On–balance sheet gap|Off–balance sheet financial instruments|Total Yield and Interest Risk Sensitivity Gap|
+
+
+# Notes to the Consolidated Financial Statements
+
+# for the year ended December 31, 2024
+
+|Reconciliation to total assets|December 31, 2024|December 31, 2023|
+|---|---|---|
+|(Rupees in ‘000)|2,455,601|1,603,347|
+|bearing financial instruments|9,322,405|267,160,897|
+|Non–interest|-|144,429,025|
+|-|-|23,612,558|
+|-|-|95,060,366|
+|-|-|504,514,842|
+|-|-|75,838,908|
+|Balance as per balance sheet|2,821,702,465|2,333,049,973|
+|Balance as per balance sheet|2,583,453,874|2,135,723,936|
+|Less: Non financial assets|2,070,550|2,070,550|
+|Less: Non financial liabilities|8,228,402|(322,515,258)|
+|Property and equipment|128,284,200|125,811,893|
+|Deferred tax liabilities|9,860,520|-|
+|Right-of-use assets|7,787,741|-|
+|Intangible assets|3,650,196|-|
+|Deferred Tax Assets|-|3,781,881|
+|Other assets|8,385,547|5,504,219|
+|Total financial liabilities|3,645,928|298,904|
+|Other liabilities|148,107,684|135,097,993|
+|Total|2,673,594,781|2,197,951,980|
+
+# Operational Risk
+
+The Bank, like all financial institutions, is exposed to different types of operational risks, including the potential losses arising from internal activities or external events caused by breakdowns in information, communication, physical safeguards, business continuity, supervision, transaction processing, settlement systems and the execution of legal, fiduciary and agency responsibilities.
+
+In accordance with the BoD approved Operational Risk Management Policy (ORM), Bank maintains a system of internal controls designed to keep operational risk at appropriate levels, in view of the bank’s financial strength and the characteristics of the activities and market in which it operates. These internal controls are periodically updated to conform to industry best practices.
+
+The Bank has implemented workflow based system “Risk Nucleus” for Operational Risk Loss Data Collection & Reporting, Risk Control & Self Assessment (RCSA) and Key Risk Indicators (KRIs) monitoring. Further, major Operational Risk events are also analyzed from the control breaches perspective and mitigating controls are assessed on design and operating effectiveness. Quarterly updates on Operational Risk events are presented to senior management and Board’s Risk Management Committee & BoD.
+
+The Bank has a BoD approved BCP policy and Business Continuity Plan applicable to all its functional areas. The Bank updates functional BCPs on annual basis or at any process change.
+
+# Liquidity Risk
+
+Liquidity Risk is the risk that the Bank is unable to fund its current obligations and operations in the most cost efficient manner. The Bank’s Board of Directors has delegated the responsibility to Asset and Liability Committee (ALCO) for ensuring that Bank’s policy for liquidity management is adhered to on a continual basis. ALCO uses gap analysis based on “maturity schedule” to assess the Bank’s liquidity risk and devise strategy accordingly.
+
+The Bank has various limits and triggers in place to monitor liquidity risk on a periodic basis, while it also utilizes stress testing to assess adequacy of Bank’s liquid assets. The Bank complies with State Bank of Pakistan’s instructions on Liquidity Standards as prescribed under the Basel III Framework.
+
+Daily liquidity management is carried out centrally by the Asset and Liability Management (ALM) Desk in Treasury Group which manages the day to day liquidity needs of the Bank. Funding and liquidity management strategies are regularly discussed during Asset and Liability Committee (ALCO) meetings. The discussions include analysis on composition of deposits and tenure, funding gaps and concentration, monitoring of short and long-term liquidity ratios (including Liquidity Coverage Ratio and Net Stable Funding Ratio).
+
+The Bank utilizes internal Management Action Triggers and Limits which act as early warning indicators and safeguards to ensure sufficient liquidity buffers at all times. Additionally, stress tests are performed to evaluate available liquidity under a range of adverse scenarios and to identify potential vulnerabilities in portfolios. The Bank also has in place contingency funding plan that identifies specific management actions that can be invoked in times of liquidity crisis.
+
+# Liquidity Risk Management
+
+The Bank has in place a robust Recovery Plan in place to deal with any liquidity crisis in the most efficient and effective manner. SBP initiatives such as deferral of principal and rescheduling and restructuring of loans may have an adverse effect on liquidity and maturity profile of the Bank, however the Bank holds sufficient liquidity buffer to absorb any unforeseen shocks during the prevailing situation.
+
+Moreover, the Asset and Liability Committee (ALCO) of the Bank continues to regularly monitor the liquidity position of the Bank in view of emerging risks.
+
+# Liquidity Risk Mitigation Techniques
+
+The Group uses the following tools to identify and mitigate Liquidity Risk:
+
+- Gap Analysis
+- Liquidity Ratios
+- Liquidity Stress Testing
+- Contingency Funding Plan
+- Risk Control Limits (RCLs)
+
+# Notes to the Consolidated Financial Statements
+
+# for the year ended December 31, 2024
+
+|Over| | |1,043,958|5,929,058|94,497| | | | | | | | | | |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|Over| | | | | | | | | | |977,161|226,034| | | |
+|5 years| | | | | |3,769,089|5 years| | | |69,323,003|7,470,148|8,645,994| | |
+| | | | | | | | | | | |92,765,749| | | | |
+| | | |75,661,238| | | | | | | |(3,425,796)|26,820,498| |35,692,526|54,352,043|
+| | | |93,145,816|230,132,113| |21,437,355| | | |159,651,087|326,761,352| | |291,068,826| |
+| | | | | | |208,694,758| | | | | | | | | |
+|Over 3| | |4,734,332| | | | | | | |677,657|112,337| | | |
+|3,115,096| | |1,042,496|4,027,693| | |Over 3| | | |4,401,806|9,591,198| | | |
+|5,217,638|3,458,397| | | |2,072,194|2,747,376| | | | | | |8,788,372| | |
+| | | |85,629,512| |10,688,368|1,507,635| | | | | | | | | |
+|to 5 years| | | | | |17,461,104|to 5 years| | |149,235,263| | | | | |
+| | | |283,622,708|382,171,837| |364,710,733| | | | |136,830,986|301,712,706| |292,924,334| |
+| | | |521,248|364,102|142,137| | | | | |487,898| | | | |
+| | | | | |901,849| | | | | |5,075,660|930,703|278,898| | |
+| | | | | | | | | | | |5,522,378|1,693,268|2,129,304| | |
+| | | |6,431,462| | | | | | | | | |4,101,470| | |
+| | | |1,557,548| |6,678,589|1,036,097|1,170,073| | | | | | | | |
+| | | |91,369,116| | |9,928,745| | | | | | | | | |
+| | | |86,046,694|186,290,170| |176,361,425| | | |197,084,195| | | | | |
+|Upto 3 years|Upto 3 years| | | | | | | | | |115,352,873|324,453,707| |320,352,237| |
+| | | |521,248|798,353|323,621| | | | | |487,898|976,050| | | |
+|Upto| | |6,491,265|Upto| | | | | | | |307,933| | | |
+| | | |1,557,548| | | | | | | |5,148,045|1,543,701| | | |
+| | | | | | | | | | | |5,482,254| |5,611,477| | |
+|2 years| | | | |7,451,086|1,036,097|2,143,183| | | | | |6,895,460| | |
+| | | |95,894,072| | |5,325,327|2 years| | | | | | | | |
+| | | | | | |16,279,314| | | |305,577,388| | | | | |
+| | | |226,609,974|331,872,460| |315,593,146| | | | |114,184,031|432,423,317| |425,527,857| |
+| | | |389,387| | | | | | | |121,975|79,513| | | |
+|Upto| | |130,312| |259,024|388,305|Upto| | | | | | | | |
+|1 year|1 year| | | | | | | | | |3,750,995|1,749,019| | | |
+| | | |4,370,331|2,585,131|2,103,612| | | | | |2,135,938| |3,381,858| | |
+| | | | | |5,439,037|1,330,662| | | | | | | | | |
+| | | |179,353,964| | |9,520,640| | | | |73,718,161|74,306,557| |77,767,928| |
+| | | |150,636,600|337,465,725| |327,945,085| | | |214,463,544|295,939,632| | |218,171,704| |
+| | | |389,387| | | | | | | |121,975|29,395| | | |
+|Over 6| | |130,312| |259,024|414,385|Over 6| | | | | | | | |
+|3,750,995|1,052,522| |4,370,331|3,143,790|2,145,416|1,330,994| | | | | | | | | |
+| | | | | | | | | | |99,985,413|3,745,918| |3,381,858| | |
+| | | | | | | | | | | |20,134,143|28,643,971| |32,055,224| |
+|to 9 Months| | |25,019,284| |39,025,454|43,175,273| | | | |128,790,966| | |96,735,742| |
+| | | |124,821,405|157,874,509| |114,699,236| |to 9 Months| | | | | | | |
+| | | | | | | | | | | |121,975| | | | |
+| | | |389,387| | | | | | | |554,271| | | | |
+|Over 3| | |4,370,331|130,312|259,024|224,635| | | | | | | | | |
+| | | | | | |1,398,730|Over 3| | |3,025,203|3,750,995|9,315,624|3,381,894| | |
+| | | | | | | | | | | |79,344,330|13,403,661|58,257,692|70,955,210| |
+|to 6 Months| | |144,657,126|21,154,957|27,198,211| | | | | |100,200,435| | |29,245,225| |
+| | | |114,744,086|285,446,199|104,891,382|133,971,982| | | | | | | | | |
+| | | | | | |151,474,217| |to 6 Months| | | | | | | |
+| | |99,992|43,437| |86,341| | | | | |40,658| | | | |
+|Upto| | |6,082,455|129,796|(519,554)|Upto| | | | | | | | | |
+| | | | | | | | | | | |358,758| | | | |
+|3 Months| | |1,456,777| |2,469,561|1,509,364| | | | |1,250,332|7,634,170|2,503,038| | |
+| | | |83,092,474|16,291,586|70,732,641|74,278,353| | | | | | | | | |
+| | | | | | |32,918,164| | | |25,068,535| | | | | |
+| | | | | | | | | | | |83,364,375|20,617,547| | | |
+| | | | | | | | | | | | |25,915,012| |49,035,597| |
+| | | | |107,196,517| | |3 Months| | | |117,716,828| | |68,681,231| |
+| |Rupees in ‘000| |471,606|43,437|86,341|Rupees in ‘000| | | | |40,658| | | | |
+|Upto| | |129,796| | | |December 31, 2023| | | |168,695| | | | |
+|December 31, 2024| | |1,456,777|5,196,860|1,402,733|(830,961)|Upto| | | | | | | | |
+| | | | | | | | | | | |1,250,332|3,742,617|5,129,658|2,503,038| |
+|2 Months| | | | |22,615,548|1,702,326| | | | | | | |(7,468,846)| |
+| | | |144,830,372|152,128,848| |24,975,987|2 Months| | | | | | | | |
+| | | | | | | | | | | |10,531,501|15,733,803|15,569,953|23,202,649| |
+| | | | | | | | | | | |22,296| | | | |
+| | | |71,178| | | | | | | |94,515| | | | |
+|Upto| |5,463,982|189,547|798,878|23,820|47,349|(284,835)| | | | | | | | |
+|Upto| | | | | | | | | |492,659|685,666| | | | |
+|1 Month| |20,000,000| |21,060,109|22,904,776|27,196,022|1 Month| | | | | | | | |
+| | | | | | | | | | |2,000,000|25,495,149|22,942,489| | | |
+| | | | | | | | | | | |51,732,774|28,811,017|22,567,406| | |
+| | | |198,086,215|245,693,729|378,551,485|428,414,797| | | | | | | | | |
+| | | | | | |(182,721,068)| | | | | | | |(285,942,701)| |
+| | | |9,808| | | | | | |13,916|9,181| | | | |
+| | | |44,264|29,309|19,496| | | | | |38,918| | | | |
+|Upto| |699,992|328,950| |195,000|(117,285)|Upto| | | | | | | | |
+| | | | | | | | | | |1,967,200|282,333|9,446,907|2,233,142|9,286,774| |
+|14 Days| |2,250,121|7,832,136|8,340,960|14 Days| | | | | | | | | | |
+| | | | |19,535,540|17,234,275|11,198,362| | | | | | | | | |
+|28,529,848| | | | | |(8,994,308)| | | | |32,921,859|44,680,314|10,957,841|22,477,757| |
+| | | |8,407| | | | | | | |7,869| | | | |
+| | | |25,122| |16,711| | | | | |242,000|33,358| |(35,036)| |
+|Upto| | |281,957| |(100,530)|Upto| | | | | | | | | |
+| | | | | | | | | | |5,450,803|8,097,349|9,898,130|7,960,092| | |
+|7 Days| |1,928,675|3,918,697|7,149,394|3,753,133|9,598,596| | | | | | | | | |
+|7 Days| | | | | | | | | | |19,046,459|32,877,838|15,054,652|32,912,874| |
+| | |222,741,097| |236,053,349|15,230,600|28,498,510|207,554,839| | | | | | | | |
+|4,187| | |1,401| |2,785| | | | | |1,312| | | | |
+| | | | | | | | | | |49,585|5,560| | | | |
+|Upto| |321,446|46,993| |426,320|(16,755)|Upto| | | | | | | | |
+| | | | | | | | | | | |40,333|210,005| | | |
+|1 Day| | |1,463,162|1,191,566|14,502,237|1,599,766|1 Day| | | | | | | | |
+| | | | | | | | | | |2,455,601|1,349,558|9,322,405|1,326,681| | |
+| | |146,812,714| |-|149,841,469|1,730,467,613|1,746,981,966| | | | | | | | |
+| | | | | | | | | |156,124,352| |160,026,301|-|-|-|(1,274,137,092)|
+| | | | | | | |Total| | |2,455,601| | | | | |
+| | | | | | | | | | |9,418,003|3,416,652| | | | |
+|Total| |9,964,224|7,787,741| | | | | | | |3,781,881|9,322,405| | | |
+| | | |3,650,196|97,233,559|14,502,237|9,860,520| | | | | | |76,137,811| | |
+| | | | | |10,360,968|68,636,946|11,450,739| | | | | | | | |
+|42,460,536| | | | | |56,633,562| | |156,124,352| |780,296,455| | | | |
+| | | | | | | | | | | |122,395,241|100,564,585|373,674,042|197,326,038| |
+| | | | | | |11,450,739|37,961,636| | | | | | | | |
+| | |146,812,714| | | | | | | | | | | |40,086,369| |
+| | |243,541,081|128,284,200| |462,023,558|238,248,591|(1,597,140,497)| | | | | | | | |
+| | | | | | |127,703,754| | | | | | | | | |
+| | | | | | |238,248,591| | | | | | | |107,827,294| |
+| | | | | | | | | | |1,154,597,203|2,333,049,973|1,676,589,677|1,423,304,302|197,326,038| |
+| | | |1,132,883,403| | | | | | | | | | |2,135,723,935|1,434,163,393|
+| | | |1,051,545,347|2,821,702,465|2,018,069,645|2,583,453,874| | | | | | | | | |
+
+# Maturities of Assets and Liabilities - based on contractual maturity of the assets and liabilities of the Group
+
+# Assets
+
+- Cash and balances with treasury banks
+- Balances with other banks
+- Lendings to financial institutions
+- Investments
+- Advances
+- Property and equipment
+- Right-of-use assets
+- Intangible assets
+- Deferred tax assets
+- Other assets
+
+# Liabilities
+
+- Bills payable
+- Borrowings
+- Deposits and other accounts
+- Lease Liabilities
+- Subordinated debt
+- Deferred tax liabilities - net
+- Other liabilities
+
+# Net assets
+
+- Share capital
+- Reserves
+- Surplus on revaluation of assets
+- Unappropriated profit
+
+# Notes to the Consolidated Financial Statements
+
+# for the year ended December 31, 2024
+
+|Rupees in ‘000|December 31, 2024|December 31, 2023|
+|---|---|---|
+|Cash and balances with treasury banks|2,228,439|326,569|
+|Balances with other banks|63,520,228|4,135,631|
+|Lendings to financial institutions|87,901,630|73,566,832|
+|Investments|158,377,798|158,824,973|
+|Advances|802,314,960|804,385,510|
+|Property and equipment|94,497|977,161|
+|Right-of-use assets|5,244,187|609,497|
+|Intangible assets|1,043,956| |
+|Deferred tax assets|5,929,060|7,453,385|
+|Other assets|73,432,799|17,272,532|
+|Liabilities| | |
+|Bills payable|49,624,543|135,274,545|
+|Borrowings|118,002,013|69,323,003|
+|Deposits and other accounts|157,425,243|241,503,211|
+|Lease Liabilities|207,881,233| |
+|Subordinated debt| | |
+|Deferred tax liabilities - net| | |
+|Other liabilities| | |
+|Net assets| | |
+|Share capital| | |
+|Reserves| | |
+|Unappropriated profit| | |
+|Surplus on revaluation of assets net of tax| | |
+
+# Maturities of assets and liabilities - based on expected maturities of the assets and liabilities of the Group
+
+|Over 10 Years|10 Years|Over 5 to 10 Years|5 Years|Over 3 to 5 Years|3 Years|Over 2 to 3 Years|2 Years|Over 1 to 2 Years|1 Year|Over 6 Months|6 Months|Over 1 Month|1 Month|
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|97,233,559|14,502,237|10,360,968|68,636,946|11,450,739|3,781,881|9,322,405|76,137,811|11,450,739|37,961,636|146,812,714|243,541,081|128,284,200|462,023,558|
+
+
+# Notes to the Consolidated Financial Statements
+
+# for the year ended December 31, 2024
+
+# 44.5 Derivative Risk
+
+Market & Liquidity Risk Division under Risk Management Group is responsible for assessing and monitoring the derivative risk emanating from Bank’s exposures. The Bank buys and sells derivative instruments, for hedging and market making purposes, such as:
+
+- Forward Exchange Contracts
+- Foreign Exchange Swaps
+- Equity Futures
+- Forward Contracts for Government Securities
+
+The Bank’s Risk Management Group, Asset and Liability Committee (ALCO) and Board Risk Management Committee monitor the derivative risk and utilize Off-Balance Sheet gap analysis to implement prudent asset liability management of the Bank’s derivative exposures.
+
+# 45 NON ADJUSTING EVENT AFTER THE REPORTING DATE
+
+45.1 The Board of Directors of the Bank in its meeting held on February 04, 2025 has proposed a final cash dividend in respect of 2024 of Rs. 4.00 per share (2023: cash dividend Rs. 4.00 per share). This appropriation will be approved in the forthcoming Annual General Meeting. The consolidated financial statements of the Bank for the year ended December 31, 2024 do not include the effect of these appropriations which will be accounted for subsequent to the year end.
+
+# 46 GENERAL
+
+46.1 Figures have been rounded off to the nearest thousand of rupees unless otherwise stated.
+
+46.2 Corresponding figures have been rearranged, reclassified or additionally incorporated where considered necessary, for the purpose of better presentation.
+
+# 47 DATE OF AUTHORIZATION FOR ISSUE
+
+These financial statements were authorized for issue on February 04, 2025 by the Board of Directors of the Bank.
+
+# Pattern of Shareholding
+
+# As at December 31, 2024
+
+# 1 Issued, Subscribed and Paid-up Capital
+
+| |Ordinary Shares|No. of Shares|Amount (Rs.)|No. of Shares|Amount (Rs.)| |
+|---|---|---|---|---|---|---|
+| |Fully paid in Cash|406,780,094|4,067,800,940|406,780,094|4,067,800,940| |
+| |Increase in Share Capital|-|-|-|-| |
+| |Issued as Bonus Shares|720,745,186|7,207,451,860|720,745,186|7,207,451,860| |
+| |Issued for consideration other than cash|17,548,550|175,485,500|17,548,550|175,485,500| |
+|Total|Total|1,145,073,830|11,450,738,300|1,145,073,830|11,450,738,300| |
+
+# 2 Major Shareholding
+
+Holding more than 5% of the total paid-up capital
+
+|Name of Shareholder|No. of Shares|Percentage|
+|---|---|---|
+|Ibrahim Holdings (Private) Limited|1,030,566,368|90.0000|
+|Total|1,030,566,368|90.0000|
+
+# 3 Pattern of Shareholding
+
+|No. of Shareholders|Shareholdings’ Slab|Total Shares|
+|---|---|---|
+|6,450|1 to 100|241,413|
+|8,960|101 to 500|2,484,905|
+|1,101|501 to 1,000|808,793|
+|1,939|1,001 to 5,000|4,142,994|
+|329|5,001 to 10,000|2,443,069|
+|252|10,001 to 25,000|4,080,047|
+|90|25,001 to 50,000|3,218,912|
+|42|50,001 to 100,000|3,030,494|
+|22|100,001 to 200,000|3,192,340|
+|15|200,001 to 500,000|4,505,581|
+|5|500,001 to 1,000,000|4,405,826|
+|7|1,000,001 to 3,000,000|9,909,902|
+|2|3,000,001 to 5,000,000|8,011,041|
+|3|5,000,001 to 10,000,000|22,473,804|
+|2|10,000,001 to 50,000,000|41,558,341|
+|1|50,000,001 & Above|1,030,566,368|
+|19,220| |1,145,073,830|
+
+Muhammad Atif Mirza
+
+Chief Financial Officer
+
+Aizid Razzaq Gill
+
+President and Chief Executive
+
+Muhammad Kamran Shehzad
+
+Director
+
+Mian Ikram Ul Haq
+
+Director
+
+Mohammad Naeem Mukhtar
+
+Chairman
+
+# NOTICE OF 79ᵗʰ ANNUAL GENERAL MEETING
+
+Notice is hereby given that 79th Annual General Meeting (“AGM”) of Allied Bank Limited (“ABL” or the “Bank”) will be held physically as well virtually (through Zoom) on Monday, March 24, 2025 at 11:00 a.m. at Palace Hall, Pearl Continental Hotel, Lahore, Pakistan to transact the following business:
+
+# Ordinary Business:
+
+1. To confirm the minutes of Extraordinary General Meeting of Allied Bank Limited held on August 27, 2024.
+2. To receive, consider and adopt Annual Audited Financial Statements of the Bank (consolidated and unconsolidated) for the year ended December 31, 2024 together with the Auditors’ Report, Directors’ Report and Chairman’s Review Report thereon.
+3. To consider and approve Final Cash Dividend @ 40% (i.e. Rs. 4.00 per share) as recommended by the Board of Directors. This Final Cash Dividend would be in addition to 120% Interim Cash Dividend (i.e., Rs. 12.00 per share) already paid to the shareholders for the year ended December 31, 2024.
+4. To appoint Statutory Auditors of the Bank for the year ending December 31, 2025 and fix their remuneration. The retiring Auditors, M/s. EY Ford Rhodes Chartered Accountants have completed their term. The Board of Directors of the Bank has recommended appointment of M/s. KPMG Taseer Hadi & Co., Chartered Accountants for the year ending December 31, 2025. The audit firm appointed will hold office till conclusion of the next Annual General Meeting to be held in the year 2026.
+5. To transact any other business with the permission of the Chair.
+
+# Categories of Shareholders
+
+|CATEGORIES OF SHAREHOLDERS|NO. OF SHAREHOLDERS|SHARES|PERCENTAGE|
+|---|---|---|---|
+|DIRECTORS AND THEIR SPOUSE(S) AND MINOR CHILDREN|7|13,100|0.0011|
+|MOHAMMAD NAEEM MUKHTAR|1|2,500|0.0002|
+|MUHAMMAD WASEEM MUKHTAR|1|2,500|0.0002|
+|SHEIKH MUKHTAR AHMAD|1|2,500|0.0002|
+|MIAN IKRAM UL HAQ|1|2,500|0.0002|
+|MUHAMMAD KAMRAN SHEHZAD|1|500|0.0000|
+|ZAFAR IQBAL|1|2,500|0.0002|
+|NAZRAT BASHIR|1|100|0.0000|
+|PARENT, ASSOCIATED COMPANIES, UNDERTAKINGS AND RELATED PARTIES|2|1,041,124,709|90.9221|
+|IBRAHIM HOLDINGS (PRIVATE) LIMITED|1|1,030,566,368|90.0000|
+|TRUSTEES OF ABL EMPLOYEES SUPERANNUATION (PENSION) FUND A/C|1|10,558,341|0.9221|
+|EXECUTIVES*|1|10,035|0.0009|
+|EMPLOYEES|267|315,178|0.0275|
+|NIT AND ICP|3|14,438|0.0013|
+|BANKS DEVELOPMENT FINANCIAL INSTITUTIONS, NON-BANKING FINANCIAL INSTITUTIONS|10|7,728,122|0.6749|
+|INSURANCE COMPANIES|6|10,259,055|0.8959|
+|MODARABAS AND MUTUAL FUNDS|6|1,437,307|0.1255|
+|GENERAL PUBLIC|18,780|41,652,172|3.6375|
+|FOREIGN COMPANIES|1|1|0.0000|
+|OTHERS|137|42,519,713|3.7133|
+|GRAND TOTAL|19,220|1,145,073,830|100.0000|
+
+*CEO, all Chiefs and Group Heads are termed as Executives
+
+There was no trade in shares carried out by the Sponsors, Directors, Executives, their Spouses and Minor Children during the year 2024.
+
+# NOTES:
+
+1. Minutes of Extraordinary General Meeting held on August 27, 2024 can be downloaded from following Weblink / QR Code. The minutes are sent to members at their registered email (if any) and are also available for inspection at registered office of the Bank.
+2. In case of individuals, the Account Holder or Sub-account Holder and / or the person whose securities are in group account and their registration details are uploaded as per Central Depository Company of Pakistan Limited (“CDC”) Regulations, shall authenticate their identity by showing original valid Computerized National Identity Card (“CNIC”) or original Passport at the time of attending the Meeting.
+3. In case of corporate entity, the resolution of Board of Directors / Power of Attorney with specimen signature of the nominee shall be produced (if not provided earlier) at the time of attending the Meeting.
+4. The proxy form shall be witnessed by two persons whose names, addresses and CNIC numbers shall be mentioned on the form.
+5. Attested copies of valid CNIC or the Passport of the beneficial owners and the proxy shall be furnished with the proxy form.
+6. The proxy shall produce his / her original CNIC or original Passport at the time of the Meeting.
+7. In case of corporate entity, the resolution of Board of Directors / Power of Attorney with specimen signature shall be produced along with the proxy form of the Company.
+
+By Order of the Board
+
+Date: March 03, 2025
+
+Adeel Javaid
+
+Company Secretary
+
+# NOTICE OF 79ᵗʰ ANNUAL GENERAL MEETING
+
+8. Proxy Form is being sent to the Members along with Notice of AGM. The form of proxy can also be downloaded from the following weblink / QR Code on bank’s website: Proxy Form
+
+Requirement of Valid Tax Exemption Certificate for Claim of Exemption U/S 150 of the Income Tax Ordinance, 2001: If the entity is available with valid exemption certificate issued u/s 159 of the Income Tax Ordinance, 2001 or has filed a petition against the FBR for acquiring exemption certificate, in any relevant court, a copy of valid exemption certificate or certified true copy of the Stay Order of Honorable Court along with latest court proceedings (if any) would be required latest by Friday, March 14, 2025 in lieu of valid exemption certificate for non-deduction of withholding tax. In case of non-availability of valid tax exemption certificate or relevant court order, tax under the relevant sections shall be deducted accordingly.
+
+Shareholders are once again requested to lodge their claims for cash dividends, right / bonus shares kept with the Share Registrar and Transfer Agent of the Bank, on the address given above.
+
+9. The instrument of proxy duly completed and signed as per above mentioned requirements must be deposited at the Registered Office of the Bank i.e. Allied Bank Limited, 3-Tipu Block, New Garden Town, Lahore not less than 48 hours before the start time of the Meeting. In calculating the 48 hours, no account shall be taken of any part of the day that is not a working day.
+
+10. If a member appoints more than one proxy, all such instruments of proxy shall be rendered invalid.
+
+11. Members are requested to immediately notify changes in their registered addresses, if any, to the Bank’s Shares Registrar before start of the book closure period.
+
+12. As per guidelines issued by SECP, arrangements have also been made by the Bank to facilitate maximum participation of the shareholders in the Meeting through online platform/facility (i.e., zoom). Those shareholders who are interested to participate in the meeting virtually are requested to forward their following particulars along with snapshot of their valid CNIC (both sides) by March 20, 2025 at WhatsApp # +92 321 9472547 / +92 300 0458140 or email at Shahbaz.ahmed@abl.com / Farhan.ali2@abl.com:
+
+|Name|CNIC Number|Folio Number|Cell Number|Email Address|
+|---|---|---|---|---|
+|(Please attach snapshot of valid CNIC)| | | | |
+
+Further, in compliance with the requirements of the Act and Companies (Distribution of Dividends) Regulations, 2017, the Bank has withheld dividend(s) of those shareholders who have not yet provided their CNIC(s) along with correct and complete bank account details including valid IBAN of their own bank accounts.
+
+In order to receive cash dividend(s) withheld by the Bank, shareholders are requested to contact the Bank’s Share Registrar at the below given address or Participant/ Investor Account Services of CDC (as the case may be) along with a legible copy of their respective valid CNIC(s) and provide their complete and correct bank account details including valid IBAN by filling the form available at the Bank’s website link: Bank Mandate Form
+
+On receipt of the request, link/credentials to join the meeting through zoom will be sent to the said shareholders on the given email address or through WhatsApp messages.
+
+13. In accordance with the Companies (Postal Ballot) Regulation, 2018, (“Regulations”), if required, the right to vote through electronic voting facility (“e-Voting”) and voting by Post (“Postal Ballot”) shall be provided to members of the Bank for “Special Business” in the manner and subject to the conditions contained in the Regulations.
+
+# FOR SHAREHOLDERS’ ATTENTION:
+
+Transmission of Annual Report 2024: In compliance with the Section 223(6) of Companies Act, 2017 (the “Act”) the Bank has transmitted the Annual Report 2024 through email to those shareholders whose email addresses are available with the Bank’s Share Registrar.
+
+Besides, in accordance with the shareholders’ approval accorded in 78th Annual General Meeting held on March 28, 2024, shareholders may scan above mentioned QR Code or click on Weblink for downloading/ reviewing Annual Report 2024 of the Bank. However, the Bank would provide hard copies of the Annual Report to the shareholders on their demand at their registered addresses, free of cost.
+
+# Deduction of Withholding Tax:
+
+Please note that withholding tax will be deducted on the basis of latest “Active Taxpayers List” (ATL) available at FBR website as per following rates:
+
+|Persons appearing in Active Taxpayers List (ATL):|15%|
+|---|---|
+|Persons not appearing in Active Taxpayers List (ATL):|30%|
+
+Further, in respect of joint shareholders tax will be deducted as per their respective ratio / share (if any) intimated by the shareholder to the Bank’s Share Registrar, otherwise their shareholding will be treated as equal.
+
+This Notice along-with Proxy Form has been sent to all members of the Bank in accordance with Section 134(1) of the Companies Act, 2017.
+
+M/s. CDC Share Registrar Services Limited
+
+CDC House, 99-B, Block-B, S.M.C.H.S, Main Shahra-e-Faisal, Karachi
+
+Customer Support Service 0800-23275 (Toll Free) Fax: +92-21-34326053
+
+# Glossary of Financial & Banking Terms
+
+|Accrual Basis|Call Deposits|Euro-pay, Master-card and Visa (EMV)|
+|---|---|---|
+|Recognizing the effects of transactions and other events when they occur without waiting for receipt or payment of cash or its equivalent.|These include short notice and special notice deposits.|EMV is a global standard for cards equipped with computer chips and the technology used to authenticate chip-card transactions.|
+|Non-Performing Loan|Reverse Repurchase Agreement| |
+|A non-performing loan is a loan that is in default or close to being in default. Loans become non-performing in accordance with provision of prudential regulations issued by SBP.|Transaction involving the purchase of securities by a bank or dealer and resale back to the seller at a future date and specified price.| |
+
+|Automated Teller Machine (ATM)|Alternate Delivery Channels (ADCs)|CAGR|
+|---|---|---|
+|ATM is an e-banking delivery channel that enables the customers to perform financial transactions 24/7.|ADCs are those access points that expand the reach of banking services beyond the traditional over the counter banking and includes internet banking, mobile banking, Point of Sale (POS) transactions, ATM, SMS and Phone banking.|An abbreviation for Compound Annual Growth Rate.|
+
+|Corporate Governance|Basis point|Bonus Issue (Scrip Issue)|
+|---|---|---|
+|It is “the system by which companies are directed and controlled” by the Securities and Exchange Commission of Pakistan.|One hundredth of a per cent i.e. 0.01 percent. 100 basis points is 1 per cent. Used when quoting movements in interest rates or yields on securities.|The issue of new shares to existing shareholders in proportion to their shareholdings.|
+
+|Cash Equivalents|Capital Adequacy Ratio|Call Money Rate|
+|---|---|---|
+|Short–term highly liquid investments that are readily convertible to known amounts of cash.|The relationship between capital and risk weighted assets as defined in the framework developed by the State Bank of Pakistan and Basel Committee.|It is settled at a future date.|
+
+|Common Equity Tier (CET)|Consumer Price Index (CPI)|Discount rate|
+|---|---|---|
+|CET capital is sum of fully paid share capital, reserves and un-appropriated profit adjusted by regulatory adjustments as specified in Basel III.|The CPI measure changes in the cost of buying a representative fixed basket of goods and generally indicates inflation rate in the country.|Discount is the rate at which SBP provides three-day Repo facility to banks, acting as the lender of last resort.|
+
+|Effective Tax Rate|Deﬁned Contribution|Deﬁned Beneﬁts|
+|---|---|---|
+|Provision for taxation excluding deferred tax divided by the profit before taxation.|A post-employment benefit plan under which entity and employee pays fixed contribution into a separate entity (a fund).|In a defined benefit plan, an employer typically guarantees a worker a specific lifetime annual retirement benefit.|
+
+|Financial Capital|Gross Domestic Product (GDP)|Human Capital|
+|---|---|---|
+|Financial Capital represent shareholder’s equity.|GDP is a monetary value of all the finished goods and services produced in a country in a specified time period.|The collective skills, knowledge, and other intangible assets of individuals that can be used to create economic value for our customers.|
+
+|Intellectual Capital|Liquid Assets|Market Capitalization|
+|---|---|---|
+|Brand value, research and development, innovation capacity, reputation and strategic partnerships.|An asset that can be converted into cash quickly and with minimal impact to the price received.|Number of ordinary shares in issue multiplied by the market value of share as at any cutoff date.|
+
+|Natural Capital|Off Balance Sheet Transactions|Shareholders’ Funds|
+|---|---|---|
+|Impact on natural resources through operations and business activities.|Transactions that are not recognized as assets or liabilities in the statement of financial position but which give rise to contingencies and commitments.|Total of Issued and fully paid share capital and revenue reserves.|
+
+|Statutory Reserve Funds|Subsidary Company|Trade Bill (Import or Export or Inland Bills)|
+|---|---|---|
+|A capital reserve created as per the provisions of the Banking Companies Ordinance, 1962.|A company is a subsidiary of another company if the parent company holds more than 50% of the nominal value of its equity capital.|Are not paid or adjusted within 180 days of the due date.|
+
+|YOY|Glossary – Acronyms| |
+|---|---|---|
+|Year on Year (2024 vs 2023)|AGM Annual General Meeting| |
+|BCP Business Continuity Planning|BOD Board of Directors|CEO Chief Executive Officer|
+|CFO Chief Financial Officer|CSR Corporate Social Responsibility|ERP Enterprise Resource Planning|
+|IAS International Accounting Standards|IFRS International Financial Reporting Standards|AFS Available for Sale|
+|HFT Held for Trading|HTM Held to Maturity|FVTPL Fair Value Through Profit and Loss|
+|FVOCI Fair Value Through Other Comprehensive Income|FBR Federal Board of Revenue|KYC Know Your Customer|
+|MTM Mark to Market|PACRA Pakistan Credit Rating Agency| |
+
+
+# Financial Ratios Formulas
+
+|Profit before Tax Ratio|=|Profit before Tax|
+|---|---|---|
+| | |Interest Income + Non-Interest Income|
+|Gross Spread Ratio|=|Net markup Income|
+| | |Gross Markup Income|
+|Cost / Income Ratio|=|Operating expenses|
+| | |Gross Income|
+|Return on Equity|=|Net Income|
+| | |Shareholder’s Equity-CET1|
+|Profit Margin|=|Net Profit|
+| | |Markup + Non Markup Income|
+|Advances to Deposits Ratio (Net)|=|Loans & Advances (Net)|
+| | |Deposits|
+|Total Asset to Shareholder Fund (Tier 1)|=|Total Assets|
+| | |Shareholder’s Equity-CET1|
+|NPL Ratio|=|Non-Performing Loans|
+| | |Gross Advances|
+|Net Infection Ratio|=|Non-performing Loans - Provision on NPL’s|
+| | |Net Advances|
+|Earnings Per Share (EPS)|=|Profit after Tax|
+| | |Weighted Average Number of Ordinary Shares|
+|Price Earnings Ratio|=|Market value of share at Year End|
+| | |EPS|
+|Dividend Yield Ratio|=|Annual Dividends per Ordinary Share|
+| | |Market Price of Share at Year End|
+|Dividend Payout Ratio|=|Dividend per Share|
+| | |EPS|
+|Dividend Cover Ratio|=|Basic EPS|
+| | |Annual Total Dividend per Share|
+|Break-up Value per share without Surplus|=|Total Equity - Revaluation Surplus|
+| | |Total Ordinary Shares Outstanding|
+|Break-up Value per share including Surplus|=|Total Shareholders’ Equity|
+| | |Total Ordinary Shares Outstanding|
+|Capital Adequacy Ratio|=|Tier One Capital + Tier Two Capital|
+| | |Risk Weighted Assets|
+|Earning Assets to Total Assets Ratio|=|Earning Assets|
+| | |Total Assets|
+|Net Assets per Share|=|Net Assets|
+| | |Number of Shares outstanding|
+|Assets Turnover|=|Mark-up Income + Non mark-up Income|
+| | |Total Assets|
+|Price to Book Ratio|=|Market value of share at Year End|
+| | |Net Assets|
+| | |No of Shares|
+|NPL Coverage Ratio|=|Provision against NPL’s|
+| | |Non-performing Loans|
+
+# Form of Proxy
+
+# 79ᵗʰ Annual General Meeting
+
+Allied Bank Limited
+
+I/We S/o, D/o, W/o resident of being a member of Allied Bank Limited and holder of ordinary shares as per Folio/CDC Account No. do hereby appoint Mr./Ms. Folio No./ CDC Account No. having CNIC failing him/her, Mr./Ms. Folio No./ CDC Account No. having CNIC of as my / our proxy and to attend, act and vote on my / our behalf at the 79th Annual General Meeting of the Bank to be held on Monday, the March 24, 2025, at 11:00 a.m. at Palace Hall, Pearl Continental Hotel, Lahore, Pakistan and at any adjournment thereof.
+
+Signed this day of 2025.
+
+Witness AFFIX Revenue Stamp of Rs. 50/-
+
+1. Signature
+
+Name
+
+CNIC# Signature of Member (s) [The signature should agree with the specimen registered with the Company]
+
+Address
+
+Witness
+
+2. Signature
+
+Name
+
+CNIC#
+
+Address
+
+# NOTES:
+
+1. A member entitled to attend and vote at the Meeting may appoint another member as a proxy to attend, speak and vote on his/her behalf; and the proxy appointed should be a member of Allied Bank Limited.
+2. A corporate entity, being a member, may authorize through resolution of its Board / power of attorney or other governing body, an individual to act as its representative and the individual so authorized shall be entitled to exercise the same powers on behalf of the corporate entity which he represents.
+3. Requirements for appointing proxies are as below:
+1. In case of individuals, the Account Holder or Sub-account Holder and / or the person whose securities are in group account and their registration details are uploaded as per CDC’s Regulations, shall submit proxy form.
+2. The proxy form shall be witnessed by two persons whose names, addresses and CNIC numbers shall be mentioned on the form.
+3. Attested copies of valid CNIC or the Passport of the beneficial owners and the proxy shall be furnished with the proxy form.
+4. The proxy shall produce his / her original CNIC or original Passport at the time of the Meeting.
+5. In case of corporate entity, the resolution of Board of Directors / Power of Attorney with specimen signature shall be produced along with the proxy form of the Company.
+4. The instrument of proxy duly completed and signed as per above mentioned requirements must be deposited at the Registered Office of the Bank i.e., Allied Bank Limited, 3-Tipu Block, New Garden Town, Lahore not less than 48 hours before the start time of the Meeting. In calculating the 48 hours, no account shall be taken of any part of the day that is not a working day.
+5. If a member appoints more than one proxy, all such instruments of proxy shall be rendered invalid.
+6. Members are requested to immediately notify changes in their registered addresses, if any, to the Bank’s Shares Registrar M/s. CDC Share Registrar Services Limited at CDC House, 99-B, Block-B, S.M.C.H.S, Main Shahrah-e-Faisal, Karachi before start of the book closure period.
+
+# Annual Report 2024
+
+# Company Secretary
+
+Allied Bank Limited
+
+Head Office / Registered Office
+
+3 Tipu Block, Main Boulevard
+
+New Garden Town
+
+Lahore – Pakistan.
+
+Postal Code: 54000
+
+Phone: +92 42 35880043
+
+Website: www.abl.com
+
+79
+
+AFFIX CORRECT POSTAGE
+
+11 2025 24 79
+
+# Annual Report 2024
+
+Company Secretary
+
+Allied Bank Limited
+
+Head Office / Registered Office
+
+3 Tipu Block, Main Boulevard
+
+New Garden Town
+
+Lahore – Pakistan.
+
+Postal Code: 54000
+
+Phone: +92 42 35880043
+
+Website: www.abl.com
+
+# Allied Bank
+
+3 - Tipu Block, New Garden Town, Lahore
+
+Tel 92 42 3588 0043
+
+www.abl.com
+

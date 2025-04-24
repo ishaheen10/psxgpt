@@ -1,0 +1,4985 @@
+# Custom Chunks for: Askari_Bank_Limited_Quarterly_2024-06-30.md
+
+Source File: Askari_Bank_Limited_Quarterly_2024-06-30.md
+Minimum Chunk Length Applied: 300 characters
+Total Final Chunks: 190
+
+---
+
+{"chunk_number": 0, "metadata_status": "not_found_in_source", "financial_data_identified": "no", "ticker": "AKBL", "entity_name": "Askari Bank Limited", "filing_type": "quarterly", "filing_period": ["Q2-2024", "Q2-2023"]}
+## Chunk 0
+
+
+# Contents
+
+- Directors' Review 1
+- Directors' Review (Urdu) 6
+- Independent Auditor's Review Report 7
+- Unconsolidated Condensed Interim Statement of Financial Position 8
+- Unconsolidated Condensed Interim Profit and Loss Account 9
+- Unconsolidated Condensed Interim Statement of Comprehensive Income 10
+- Unconsolidated Condensed Interim Statement of Changes in Equity 11
+- Unconsolidated Condensed Interim Cash Flow Statement 12
+- Notes to the Unconsolidated Condensed Interim Financial Statements 13
+- Consolidated Condensed Interim Statement of Financial Position 46
+- Consolidated Condensed Interim Profit and Loss Account 47
+- Consolidated Condensed Interim Statement of Comprehensive Income 48
+- Consolidated Condensed Interim Statement of Changes in Equity 49
+- Consolidated Condensed Interim Cash Flow Statement 50
+- Notes to the Consolidated Condensed Interim Financial Statements 51
+---
+
+---
+
+{"chunk_number": 1, "metadata_status": "not_found_in_source", "financial_data_identified": "no", "ticker": "AKBL", "entity_name": "Askari Bank Limited", "filing_type": "quarterly", "filing_period": ["Q2-2024", "Q2-2023"]}
+## Chunk 1
+
+
+# Corporate Information
+
+# Board Of Directors
+
+Lt. Gen Anwar Ali Hyder, HI(M) (Retd) - Chairman
+
+Mr. Jahangir Piracha
+
+Mr. Arif Ur Rehman
+
+Lt. Gen Ghayur Mahmood Awan, HI(M) T Bt (Retd)
+
+Syed Bakhtiyar Kazmi
+
+Mr. Manzoor Ahmed
+
+Raja Muhammad Abbas
+
+Ms. Zoya Mohsin Nathani
+
+Mr. Kamran Yousuf Mirza
+
+Ms. Samina Rizwan
+
+Mr. Saleem Anwar - Acting President & Chief Executive
+
+# Board Audit Committee
+
+Mr. Kamran Yousuf Mirza - Chairman
+
+Lt. Gen Ghayur Mahmood Awan, HI(M) T Bt (Retd)
+
+Syed Bakhtiyar Kazmi
+
+Mr. Manzoor Ahmed
+
+Raja Muhammad Abbas
+
+# Auditors
+
+KPMG Taseer Hadi & Co.
+
+Chartered Accountants
+
+# Legal Advisors
+
+M/s RIAA, Barker Gillette
+
+Advocates & Corporate Counselors
+
+# Company Secretary
+
+Syed Ali Safdar Naqvi
+
+# Registered Office
+
+AWT Plaza, The Mall, P. O. Box No. 1084
+
+Rawalpindi - 46000, Pakistan
+
+Tel: (92 51) 8092624, UAN: (92 51) 111 000 787
+
+Fax: (92 51) 2857448
+
+Email: ir@askaribank.com.pk
+
+---
+
+{"chunk_number": 2, "financial_data": "yes", "financial_statement_scope": "none", "is_statement": "no", "statement_type": "none", "is_note": "no", "note_link": "none", "auditor_report": "no", "director_report": "yes", "annual_report_discussion": "no", "file_name": "Askari_Bank_Limited_Quarterly_2024-06-30_chunks.md", "ticker": "AKBL", "entity_name": "Askari Bank Limited", "filing_type": "quarterly", "filing_period": ["Q2-2024", "Q2-2023"]}
+## Chunk 2
+
+
+# Registrar & Share Transfer Office
+
+CDC Share Registrar Services Limited (CDCSRSL)
+
+Mezzanine Floor, South Tower, LSE Plaza
+
+19-Khayaban-e-Aiwan-e-Iqbal, Lahore
+
+Tel: Customer Support Services (Toll Free) 0800-CDCPL (23275)
+
+Tel: (92 42) 36362061-66
+
+Fax: (92 42) 36300072
+
+Email: info@cdcsrsl.com
+
+Website: www.cdcsrsl.com
+
+# Entity Ratings
+
+Long Term: AA+
+
+Short Term: A1+
+
+By PACRA
+
+# Website
+
+www.askaribank.com
+
+# Social Media
+
+askaribankpakistan
+
+Askari_Bank
+
+askaribankpk
+
+askaribanklimited
+
+AskariBankOfficial
+---
+
+# DIRECTORS’ REVIEW
+
+Dear Shareholders
+
+The Directors present the unaudited condensed interim unconsolidated financial statements for the half year ended June 30, 2024.
+
+---
+
+{"chunk_number": 3, "financial_data": "yes", "financial_statement_scope": "none", "is_statement": "no", "statement_type": "none", "is_note": "no", "note_link": "none", "auditor_report": "no", "director_report": "yes", "annual_report_discussion": "no", "file_name": "Askari_Bank_Limited_Quarterly_2024-06-30_chunks.md", "ticker": "AKBL", "entity_name": "Askari Bank Limited", "filing_type": "quarterly", "filing_period": ["Q2-2024", "Q2-2023"]}
+## Chunk 3
+
+
+# Economy:
+
+The new fiscal year is showing tentative signs of activity pick up and external pressure easing with declining inflation, negligible current account deficit, stable exchange rate and upgrade in sovereign rating. The recovery efforts supported by IMF’s SBA, will gain traction as the government is engaged for a 37‑month Extended Fund Facility Arrangement (EFF) program. Continued strong ownership remains critical to ensure that the momentum sustains and stabilization of Pakistan’s economy becomes entrenched.
+
+Inflation is moving towards a single digit range as CPI was recorded at 12.6 percent yoy in Jun and at 11.1 percent in Jul’24. The external account position continued to improve as reflected by build‑up of reserves to US$ 9.4 bn, despite repayments of debt and other obligations. The rise in economic activity in line with growth outlook is likely to cause modest increase in imports, however improving trends of remittances and exports are expected to contain the current account deficit within acceptable range during the current fiscal year. Inflows under the IMF program will further help finance the deficit and strengthen reserve buffers.
+
+After four years, SBP Monetary Policy Committee initiated monetary easing during the period in review with a 150bps cut in Jun, followed by another 100bps in Jul’24. The rate cut decisions were driven by receding inflation and aligns with several central banks that have already announced rate cuts. Further cuts are expected in near term as monetary policy remains focused on supporting disinflation and help protect real incomes. The stock market maintained steady growth during the six months period with the benchmark KSE100 Index recording an increase of 26 percent to close at 78,445 points, reflecting improvement in investor confidence.
+
+Energy sector remains pivotal for the economic outlook and restoring its viability, minimizing fiscal risks through timely adjustment of energy tariffs, decisive cost‑reducing reforms, and evading capacity expansion are key imperatives for the growth and stability of the energy sector. Alongside, promoting private sector and export dynamism by improving the business environment, removing state distortions, strong governance in SOEs and a level playing field are vital for improving investment landscape, particularly for projects channelled through the SIFC. The new IMF program is expected to cement macroeconomic stability and create conditions for a stronger, more inclusive, and resilient growth. Continued strong financial support from Pakistan’s development and bilateral partners will be critical for the program to achieve its objectives.
+---
+
+---
+
+{"chunk_number": 4, "financial_data": "yes", "financial_statement_scope": "none", "is_statement": "no", "statement_type": "none", "is_note": "no", "note_link": "none", "auditor_report": "no", "director_report": "yes", "annual_report_discussion": "no", "file_name": "Askari_Bank_Limited_Quarterly_2024-06-30_chunks.md", "ticker": "AKBL", "entity_name": "Askari Bank Limited", "filing_type": "quarterly", "filing_period": ["Q2-2024", "Q2-2023"]}
+## Chunk 4
+
+
+# Financial Performance:
+
+The financial results of the Bank for the half year ended June 30, 2024 are summarized as under:
+
+| |Six months ended June 30,|2024|2023|
+|---|---|---|---|
+|Net mark‑up and non fund income| |32,269|31,584|
+|Administrative and other expenses| |(16,516)|(13,961)|
+|Operating profit| |15,753|17,623|
+|Credit loss allowance / provisions and write offs ‑ net| |454|(617)|
+|Profit before taxation| |16,207|17,006|
+|Taxation| |(8,136)|(8,168)|
+|Profit after taxation| |8,071|8,838|
+|Basic earnings per share ‑ Rupees| |5.57|6.10|
+
+Profit after tax for the half year ended June 30, 2024 is reported at Rs.8.1 billion, a decline of 9 percent yoy mainly due to reduction in markup income upon restructuring of loan to a large PSE during the current period. Earnings per share at Rs.5.57 for the current period compares with Rs.6.10 for same period last year.
+
+Aggregate revenues for the half year at Rs.32.3 billion increased by 2 percent, net markup remained almost unchanged at Rs.24.8 billion as contributions by price and volume changes were largely offset by the above referred reduction in markup income. Non markup income increased by 11 percent reflecting increase in business momentum and better performance of stock market. Operating and other expenses at Rs.16.5 billion recorded increase an 18 percent increase over corresponding period last year in line with high inflation levels and cost of additional branches added to the network.
+
+Customer deposits closed at Rs.1.4 trillion at June 30, 2024, a 9 percent growth during the period. Current and saving accounts constitutes 87 percent of the total deposit at the period end, an improvement from 84 percent. Advances registered a growth of 14 percent, from Rs.681 billion at year end 2023 to Rs 754 billion. The Bank recognized a net credit loss allowance (provision reversal) of Rs.454 million compared to a net provision charge of Rs.617 million for the comparable period. During the period, IFRS‑9 has been adopted as per regulatory guidance and requisite financial disclosures have been made in the annexed financial statements.
+
+The Bank is well capitalized with adequate buffers over regulatory requirements. At June 30, 2024, CAR improved to 19.33 from 18.35 percent while common equity tier‑1 ratio improved to 15.50 against 15.11 percent.
+---
+The Bank’s entity rating was reaffirmed at ‘AA+’ (Double A Plus) for the long‑term by Pakistan Credit Rating Agency Limited (PACRA), with outlook assigned as ‘Stable’. The Bank’s strong brand and affiliation with Fauji Foundation are recognized as the key rating drivers, supported by Bank's experienced management team, prudent risk management policies, and deep‑rooted relationship with clients. Lately, retention of profits in the Bank to bolster the capital structure is also a testimonial of support. The short‑term rating was maintained at ‘A1+’ (A One Plus).
+
+Askari Bank continues to expand its market positioning for sustainable growth and commitment to improve value proposition. Branch banking comprising of both conventional and Islamic segments, remains the core of the franchise with an aim to expand customer base, build deposit market share particularly retail and low‑cost deposits, improve service levels and increased focus on trade. Risk management will remain the key across all lines of businesses as environment remains challenging. The Bank will continue to pursue strong governance and compliance discipline and will continue to invest in talent and technology enabling its teams to do more to help our customers achieve their ambitions and in‑turn drive Askari Bank to grow in the future.
+
+---
+
+{"chunk_number": 5, "financial_data": "yes", "financial_statement_scope": "none", "is_statement": "no", "statement_type": "none", "is_note": "no", "note_link": "none", "auditor_report": "no", "director_report": "yes", "annual_report_discussion": "no", "file_name": "Askari_Bank_Limited_Quarterly_2024-06-30_chunks.md", "ticker": "AKBL", "entity_name": "Askari Bank Limited", "filing_type": "quarterly", "filing_period": ["Q2-2024", "Q2-2023"]}
+## Chunk 5
+
+
+# Acknowledgment:
+
+On behalf of the Board, we would like to place on record our gratitude to our valued customers and shareholders for their continued patronage to the Askari brand; our profound thanks to the State Bank of Pakistan, Securities and Exchange Commission of Pakistan and other regulatory authorities for their guidance and assistance. We would also like to place on record our appreciation for the efforts of the Shariah Board for strengthening shariah compliance and governance framework for Askari Ikhlas Islamic Banking. Lastly, we express our deepest appreciation and gratitude to our staff for the hard work and dedication.
+
+‑sd‑ A. President & Chief Executive
+
+Chairman, Board of Directors
+
+Rawalpindi: August 29, 2024
+---
+|1|19.33|18.35|CAR|2024|30|
+|---|---|---|---|---|---|
+| |15.50|15.11|AA|PACRA|A One Plus) A1+|
+|0| | |2024|29|4|
+
+---
+|2023|2024| | | |
+|---|---|---|---|---|
+|31,584|32,269| | | |
+|13,961|16,516| | | |
+|17,623|15,753| | | |
+|617|454| | | |
+|17,006|16,207| | | |
+|8,168|8,136| | | |
+|8,838|8,071| | | |
+|6.10|5.57| | | |
+| |9|8.1| | |
+| |5.57|J| | |
+|24.8| |32.3| | |
+| | | |2|11|
+| |18| |16.5| |
+|J|9| | | |
+| | |1.4|2024| |
+|754|14|681| | |
+| | |2023|84|87|
+| |454| |617| |
+| |Us| |IFRS-9| |
+|5| | | | |
+
+---
+
+# 2024
+
+|37|U|SBA|IMF|EFF|
+|---|---|---|---|---|
+|11.1|24|12.6|CPI|Uf|
+|9.4| | | | |
+|150 bps|100 bps|24| | |
+|78,445|26Uf|100| |6|
+|SIFC|SOEs|SOEs|SOEs|SOEs|
+
+---
+
+# KPMG Taseer Hadi & Co.
+
+Chartered Accountants
+
+351 Shadman-1, Jail Road,
+
+Lahore 54000 Pakistan
+
++92 (42) 111-KPMGTH (576484), Fax +92 (42) 3742 9907
+
+# INDEPENDENT AUDITOR'S REVIEW REPORT
+
+To the members of Askari Bank Limited
+
+---
+
+{"chunk_number": 6, "financial_data": "yes", "financial_statement_scope": "unconsolidated", "is_statement": "no", "statement_type": "none", "is_note": "no", "note_link": "none", "auditor_report": "yes", "director_report": "no", "annual_report_discussion": "no", "file_name": "Askari_Bank_Limited_Quarterly_2024-06-30_chunks.md", "ticker": "AKBL", "entity_name": "Askari Bank Limited", "filing_type": "quarterly", "filing_period": ["Q2-2024", "Q2-2023"]}
+## Chunk 6
+
+
+# Report on review of the Unconsolidated Condensed Interim Financial Statements
+
+# Introduction
+
+We have reviewed the accompanying unconsolidated condensed interim statement of financial position of Askari Bank Limited ("the Bank") as at 30 June 2024 and the related unconsolidated condensed interim statement of profit or loss, unconsolidated condensed interim statement of comprehensive income, unconsolidated condensed interim statement of changes in equity, unconsolidated condensed interim statement of cash flows and notes to the financial statements for the six-month period then ended (hereinafter referred to as the "interim financial statements"). Management is responsible for the preparation and presentation of this interim financial statements in accordance with accounting and reporting standards as applicable in Pakistan for interim financial reporting. Our responsibility is to express a conclusion on these financial statements based on our review.
+
+---
+
+{"chunk_number": 7, "financial_data": "yes", "financial_statement_scope": "unconsolidated", "is_statement": "no", "statement_type": "none", "is_note": "no", "note_link": "none", "auditor_report": "yes", "director_report": "no", "annual_report_discussion": "no", "file_name": "Askari_Bank_Limited_Quarterly_2024-06-30_chunks.md", "ticker": "AKBL", "entity_name": "Askari Bank Limited", "filing_type": "quarterly", "filing_period": ["Q2-2024", "Q2-2023"]}
+## Chunk 7
+
+
+# Scope of Review
+
+We conducted our review in accordance with International Standard on Review Engagements 2410, "Review of Interim Financial Information Performed by the Independent Auditor of the Entity". A review of interim financial statements consists of making inquiries primarily of persons responsible for financial and accounting matters and applying analytical and other review procedures. A review is substantially less in scope than an audit conducted in accordance with International Standards on Auditing and consequently does not enable us to obtain assurance that we would become aware of all significant matters that might be identified in an audit. Accordingly, we do not express an audit opinion.
+
+---
+
+{"chunk_number": 8, "financial_data": "yes", "financial_statement_scope": "unconsolidated", "is_statement": "no", "statement_type": "none", "is_note": "no", "note_link": "none", "auditor_report": "yes", "director_report": "no", "annual_report_discussion": "no", "file_name": "Askari_Bank_Limited_Quarterly_2024-06-30_chunks.md", "ticker": "AKBL", "entity_name": "Askari Bank Limited", "filing_type": "quarterly", "filing_period": ["Q2-2024", "Q2-2023"]}
+## Chunk 8
+
+
+# Conclusion
+
+Based on our review, nothing has come to our attention that causes us to believe that the accompanying interim financial statements is not prepared, in all material respects in accordance with the accounting and reporting standards as applicable in Pakistan for interim financial reporting.
+
+---
+
+{"chunk_number": 9, "financial_data": "yes", "financial_statement_scope": "unconsolidated", "is_statement": "no", "statement_type": "none", "is_note": "no", "note_link": "none", "auditor_report": "yes", "director_report": "no", "annual_report_discussion": "no", "file_name": "Askari_Bank_Limited_Quarterly_2024-06-30_chunks.md", "ticker": "AKBL", "entity_name": "Askari Bank Limited", "filing_type": "quarterly", "filing_period": ["Q2-2024", "Q2-2023"]}
+## Chunk 9
+
+
+# Other Matters
+
+The figures for the unconsolidated condensed interim statement of profit or loss account and unconsolidated condensed interim statement of comprehensive income for the quarter ended 30 June 2024 have not been reviewed and we do not express a conclusion on them.
+
+The engagement partner on the review resulting in this independent auditor's review report is M. Rehan Chughtai.
+
+Lahore
+
+KPMG Taseer Hadi & Co.
+
+Chartered Accountants
+
+Date: 29 August 2024
+
+UDJN: RR2024101834v3AWfnmM
+
+KPMG Taseer Hadi & Co., a Partnership firm registered in Pakistan and a member firm of the KPMG global organization or independent member firms affiliated with KPMG International Limited, a private English company limited by guarantee.
+---
+
+---
+
+{"chunk_number": 10, "financial_data": "yes", "financial_statement_scope": "unconsolidated", "is_statement": "yes", "statement_type": "balance_sheet", "is_note": "no", "note_link": "none", "auditor_report": "no", "director_report": "no", "annual_report_discussion": "no", "file_name": "Askari_Bank_Limited_Quarterly_2024-06-30_chunks.md", "ticker": "AKBL", "entity_name": "Askari Bank Limited", "filing_type": "quarterly", "filing_period": ["Q2-2024", "Q2-2023"]}
+## Chunk 10
+
+
+# ASKARI BANK LIMITED
+
+# Unconsolidated Condensed Interim Statement of Financial Position
+
+# As at June 30, 2024
+
+|(Un-audited)| | |(Audited)|
+|---|---|---|---|
+|June 30, 2024|December 31, 2023| | |
+| |Note| |(Rupees in '000)|
+|ASSETS| | | |
+|Cash and balances with treasury banks| |119,301,623|160,087,394|
+|Balances with other banks| |12,160,356|13,789,031|
+|Lendings to financial institutions| |86,184,640|-|
+|Investments| |1,370,949,485|1,182,537,688|
+|Advances| |717,280,136|633,132,827|
+|Property and equipment| |19,929,712|18,698,072|
+|Right-of-use assets| |9,576,179|8,312,812|
+|Intangible assets| |1,945,725|1,855,607|
+|Assets held for sale| |1,750,000|1,750,000|
+|Deferred tax assets| |10,206,746|8,072,702|
+|Other assets| |119,766,451|95,769,826|
+|Total Assets| |2,469,051,053|2,124,005,959|
+|LIABILITIES| | | |
+|Bills payable| |13,561,049|12,394,336|
+|Borrowings| |862,532,195|643,362,665|
+|Deposits and other accounts| |1,413,602,627|1,293,145,575|
+|Lease liabilities| |11,351,842|9,699,474|
+|Subordinated debts| |12,000,000|12,000,000|
+|Deferred tax liabilities| |-|-|
+|Other liabilities| |55,868,171|56,281,088|
+|Total Liabilities| |2,368,915,884|2,026,883,138|
+|NET ASSETS| |100,135,169|97,122,821|
+|REPRESENTED BY| | | |
+|Share capital| |14,492,992|14,492,992|
+|Reserves| |75,293,592|57,739,655|
+|Surplus on revaluation of assets - net of tax| |7,771,927|4,458,362|
+|Unappropriated profit| |2,576,658|20,431,812|
+| | |100,135,169|97,122,821|
+
+# CONTINGENCIES AND COMMITMENTS
+
+24
+
+The annexed notes 1 to 41 form an integral part of these unconsolidated condensed interim financial statements.
+
+-sd- -sd- -sd- -sd-
+
+Chief Financial Officer / A. President & CE Director Director Chairman
+---
+
+---
+
+{"chunk_number": 11, "financial_data": "yes", "financial_statement_scope": "unconsolidated", "is_statement": "yes", "statement_type": "profit_and_loss", "is_note": "no", "note_link": "none", "auditor_report": "no", "director_report": "no", "annual_report_discussion": "no", "file_name": "Askari_Bank_Limited_Quarterly_2024-06-30_chunks.md", "ticker": "AKBL", "entity_name": "Askari Bank Limited", "filing_type": "quarterly", "filing_period": ["Q2-2024", "Q2-2023"]}
+## Chunk 11
+
+
+# ASKARI BANK LIMITED
+
+# Unconsolidated Condensed Interim Profit and Loss Account (Un-audited)
+
+# For the half year ended June 30, 2024
+
+|Note| |For the quarter ended| | |For the half year ended|
+|---|---|---|---|---|---|
+|June 30, 2024|June 30, 2023|June 30, 2024|June 30, 2023| | |
+| |26|104,899,856|70,864,396|205,341,247|128,011,880|
+| |27|92,999,916|57,979,011|180,577,331|103,190,618|
+| | |11,899,940|12,885,385|24,763,916|24,821,262|
+|Non mark-up / interest income| | | | | |
+| |28|1,725,618|1,718,135|3,457,382|3,393,147|
+| | |326,350|175,267|533,956|360,789|
+| | |962,818|1,503,436|2,414,466|2,783,441|
+| |-|-|-|-| |
+| |29|621,136|117,086|896,328|25,765|
+| |-|-|-|-| |
+| |30|106,312|108,452|202,823|199,804|
+| | |3,742,234|3,622,376|7,504,955|6,762,946|
+| | |15,642,174|16,507,761|32,268,871|31,584,208|
+|Non mark-up / interest expenses| | | | | |
+| |31|8,257,840|7,042,106|16,236,239|13,599,088|
+| | |135,000|119,679|270,000|237,899|
+| |32|8,894|16,813|9,272|124,165|
+| | |8,401,734|7,178,598|16,515,511|13,961,152|
+| | |7,240,440|9,329,163|15,753,360|17,623,056|
+| |33|(1,627,465)|675,085|(453,792)|617,276|
+| |-|-|-|-| |
+| | |8,867,905|8,654,078|16,207,152|17,005,780|
+| |34|4,511,512|4,519,956|8,135,701|8,168,237|
+| | |4,356,393|4,134,122|8,071,451|8,837,543|
+| |35|3.01|2.85|5.57|6.10|
+
+The annexed notes 1 to 41 form an integral part of these unconsolidated condensed interim financial statements.
+
+-sd- Chief Financial Officer / A. President & CE
+
+-sd- Director
+
+-sd- Director
+
+-sd- Chairman
+---
+
+---
+
+{"chunk_number": 12, "financial_data": "yes", "financial_statement_scope": "unconsolidated", "is_statement": "yes", "statement_type": "comprehensive_income", "is_note": "no", "note_link": "none", "auditor_report": "no", "director_report": "no", "annual_report_discussion": "no", "file_name": "Askari_Bank_Limited_Quarterly_2024-06-30_chunks.md", "ticker": "AKBL", "entity_name": "Askari Bank Limited", "filing_type": "quarterly", "filing_period": ["Q2-2024", "Q2-2023"]}
+## Chunk 12
+
+
+# ASKARI BANK LIMITED
+
+# Unconsolidated Condensed Interim Statement of Comprehensive Income (Un-audited)
+
+# For the half year ended June 30, 2024
+
+|Note|For the quarter ended|For the quarter ended|For the half year ended|For the half year ended|
+|---|---|---|---|---|
+| |June 30, 2024|June 30, 2023|June 30, 2024|June 30, 2023|
+|Profit after taxation|4,356,393|4,134,122|8,071,451|8,837,543|
+|Other comprehensive income|Other comprehensive income|Other comprehensive income|Other comprehensive income|Other comprehensive income|
+|Items that may be reclassified to profit and loss account in subsequent periods:|Items that may be reclassified to profit and loss account in subsequent periods:|Items that may be reclassified to profit and loss account in subsequent periods:|Items that may be reclassified to profit and loss account in subsequent periods:|Items that may be reclassified to profit and loss account in subsequent periods:|
+|Effect of translation of net investment in Wholesale Bank Branch|6,984|36,380|(61,772)|907,083|
+|Movement in surplus / (deficit) on revaluation of debt investments - net of tax|1,878,620|481,043|1,108,859|(6,545,919)|
+|Movement in surplus on revaluation of investments - net of tax|-|84,938|-|12,045|
+|Total|1,885,604|602,361|1,047,087|(5,626,791)|
+|Items that will not be reclassified to profit and loss account in subsequent periods:|Items that will not be reclassified to profit and loss account in subsequent periods:|Items that will not be reclassified to profit and loss account in subsequent periods:|Items that will not be reclassified to profit and loss account in subsequent periods:|Items that will not be reclassified to profit and loss account in subsequent periods:|
+|Movement in surplus on revaluation of equity investments through FVOCI - net of tax|956,364|-|627,182|-|
+|Remeasurement gain on defined benefit plan|367,245|287,833|367,245|287,833|
+|Total|1,323,609|287,833|994,427|287,833|
+|Total comprehensive income|7,565,606|5,024,316|10,112,965|3,498,585|
+
+The annexed notes 1 to 41 form an integral part of these unconsolidated condensed interim financial statements.
+
+-sd- Chief Financial Officer / A. President & CE
+
+-sd- Director
+
+-sd- Director
+
+-sd- Chairman
+---
+
+---
+
+{"chunk_number": 13, "financial_data": "yes", "financial_statement_scope": "unconsolidated", "is_statement": "yes", "statement_type": "changes_in_equity", "is_note": "no", "note_link": "none", "auditor_report": "no", "director_report": "no", "annual_report_discussion": "no", "file_name": "Askari_Bank_Limited_Quarterly_2024-06-30_chunks.md", "ticker": "AKBL", "entity_name": "Askari Bank Limited", "filing_type": "quarterly", "filing_period": ["Q2-2024", "Q2-2023"]}
+## Chunk 13
+
+
+# ASKARI BANK LIMITED
+
+# Unconsolidated Condensed Interim Statement of Changes in Equity (Un-audited)
+
+# For the half year ended June 30, 2024
+
+|Share capital|Exchange translation reserve|Share premium|Statutory reserve|General reserve|Surplus / (deficit) on revaluation of Fixed / Non banking assets|Un-appropriated profit / (loss)| | |Total|
+|---|---|---|---|---|---|---|---|---|---|
+|Balance as at January 1, 2023 (Audited)|12,602,602|1,192,942|234,669|15,605,063|26,353,180|(7,549,155)|11,501,511|13,381,441|73,322,253|
+|Total comprehensive income for the half year ended June 30, 2023|-|-|-|-|-|-| |8,837,543|8,837,543|
+|Other comprehensive income related to equity|-|907,083|-|-|-|(6,533,874)|-|287,833|(5,338,958)|
+| |-|907,083|-|-|-|(6,533,874)|-|9,125,376|3,498,585|
+|Transfer to Statutory reserve|-|-|-|883,754|-|-| |(883,754)|-|
+|Transfer to General reserve|-|-|-|-|13,381,441|-| |(13,381,441)|-|
+|Transactions with owners, recorded directly in equity|Bonus shares issued|1,890,390|-|(234,669)|-|(1,655,721)|-|-|-|
+|Balance as at June 30, 2023 (Un-audited)|14,492,992|2,100,025|-|16,488,817|38,078,900|(14,083,029)|11,501,511|8,241,622|76,820,838|
+|Total comprehensive income for the six months ended December 31, 2023|-|-|-|-|-|-| |12,597,116|12,597,116|
+|Other comprehensive income related to equity|-|(187,799)|-|-|-|7,715,706|126,715|50,245|7,704,867|
+| |-|(187,799)|-|-|-|7,715,706|126,715|12,647,361|20,301,983|
+|Transfer to Statutory reserve|-|-|-|1,259,712|-|-| |(1,259,712)|-|
+|Transfer to General reserve|-|-|-|-|-|-|-|-| |
+|Transfer from surplus on revaluation of assets to unappropriated profit - net of tax|-|-|-|-|-| |(802,541)|802,541|-|
+|Balance as at December 31, 2023 (Audited)|14,492,992|1,912,226|-|17,748,529|38,078,900|(6,367,323)|10,825,685|20,431,812|97,122,821|
+|Effect of reclassification on adoption of IFRS 9 (net of tax)|-|-|-|-|-|1,766,774|-|416,924|2,183,698|
+|Effect of adoption of IFRS 9 - ECL (net of tax)|-|-|-|-|-|-| |(5,661,067)|(5,661,067)|
+|Balance as at December 31, 2023 - restated|14,492,992|1,912,226|-|17,748,529|38,078,900|(4,600,549)|10,825,685|15,187,669|93,645,452|
+|Total comprehensive income for the half year ended June 30, 2024|-|-|-|-|-|-| |8,071,451|8,071,451|
+|Other comprehensive income related to equity|-|(61,772)|-|-|-|1,736,041|-|367,245|2,041,514|
+| |-|(61,772)|-|-|-|1,736,041|-|8,438,696|10,112,965|
+|Transfer to Statutory reserve|-|-|-|807,145|-|-| |(807,145)|-|
+|Transfer to General reserve|-|-|-|-|16,808,564|-|(16,808,564)|p|-|
+|Gain on disposal of equity securities measured at FVOCI - net of tax|-|-|-|-|-|(189,250)|-|189,250|-|
+|Transactions with owners, recorded directly in equity|Final dividend 2023: Rs. 2.5 per share|-|-|-|-|-|-|(3,623,248)|(3,623,248)|
+|Balance as at June 30, 2024 (Un-audited)|14,492,992|1,850,454|-|18,555,674|54,887,464|(3,053,758)|10,825,685|2,576,658|100,135,169|
+
+The annexed notes 1 to 41 form an integral part of these unconsolidated condensed interim financial statements.
+
+-sd- Chief Financial Officer / A. President & CE
+
+-sd- Director
+
+-sd- Director
+
+-sd- Chairman
+---
+
+# ASKARI BANK LIMITED
+
+# Unconsolidated Condensed Interim Cash Flow Statement (Un-audited)
+
+# For the half year ended June 30, 2024
+
+|For the half year ended|June 30, 2024|June 30, 2023|
+|---|---|---|
+|Note|(Rupees in '000)| |
+
+# Cash flow from operating activities
+
+|Profit before taxation|16,207,152|17,005,780|
+|---|---|---|
+|Less: dividend income|(533,956)|(360,789)|
+| |15,673,196|16,644,991|
+
+---
+
+{"chunk_number": 14, "financial_data": "yes", "financial_statement_scope": "unconsolidated", "is_statement": "yes", "statement_type": "cash_flow", "is_note": "no", "note_link": "none", "auditor_report": "no", "director_report": "no", "annual_report_discussion": "no", "file_name": "Askari_Bank_Limited_Quarterly_2024-06-30_chunks.md", "ticker": "AKBL", "entity_name": "Askari Bank Limited", "filing_type": "quarterly", "filing_period": ["Q2-2024", "Q2-2023"]}
+## Chunk 14
+
+
+# Adjustments:
+
+|Depreciation|634,407|472,859|
+|---|---|---|
+|Amortization|110,749|82,922|
+|Depreciation on ROU assets|1,079,163|811,224|
+|Markup expense on lease liability|697,985|495,230|
+|Termination of lease contracts under IFRS - 16 Leases|(5,524)|(9,900)|
+|Fair value loss on recognition of financial asset at fair value|259,574|-|
+|Charge for defined benefit plan|333,264|256,877|
+|Credit loss allowance and write offs - net|(400,480)|663,472|
+|Unrealised gain on securities measured at FVTPL|(577,883)|(9,476)|
+|Gain on sale of property and equipment|(6,687)|(4,019)|
+| |2,124,568|2,759,189|
+
+17,797,764
+19,404,180
+
+---
+
+{"chunk_number": 15, "financial_data": "yes", "financial_statement_scope": "unconsolidated", "is_statement": "yes", "statement_type": "cash_flow", "is_note": "no", "note_link": "none", "auditor_report": "no", "director_report": "no", "annual_report_discussion": "no", "file_name": "Askari_Bank_Limited_Quarterly_2024-06-30_chunks.md", "ticker": "AKBL", "entity_name": "Askari Bank Limited", "filing_type": "quarterly", "filing_period": ["Q2-2024", "Q2-2023"]}
+## Chunk 15
+
+
+# (Increase) / decrease in operating assets
+
+|Lendings to financial institutions|(86,184,576)|321,795|
+|---|---|---|
+|Securities classified as FVPL / HFT|332,123|274,747|
+|Advances|(98,244,094)|(39,474,073)|
+|Other assets (excluding advance taxation)|(15,714,400)|(17,149,438)|
+| |(199,810,947)|(56,026,969)|
+
+# Increase / (decrease) in operating liabilities
+
+|Bills payable|1,166,713|16,083,723|
+|---|---|---|
+|Borrowings from financial institutions|219,169,530|306,923,780|
+|Deposits|120,457,052|127,052,463|
+|Other liabilities|(1,816,479)|9,884,853|
+| |338,976,816|459,944,819|
+
+# Net cash generated from operations
+
+156,963,633
+423,322,030
+
+# Payment made to defined benefit plan
+
+(131,408)
+(221,353)
+
+# Income tax paid
+
+(12,307,088)
+(6,205,499)
+
+# Net cash flow from operating activities
+
+144,525,137
+416,895,178
+
+---
+
+{"chunk_number": 16, "financial_data": "yes", "financial_statement_scope": "unconsolidated", "is_statement": "yes", "statement_type": "cash_flow", "is_note": "no", "note_link": "none", "auditor_report": "no", "director_report": "no", "annual_report_discussion": "no", "file_name": "Askari_Bank_Limited_Quarterly_2024-06-30_chunks.md", "ticker": "AKBL", "entity_name": "Askari Bank Limited", "filing_type": "quarterly", "filing_period": ["Q2-2024", "Q2-2023"]}
+## Chunk 16
+
+
+# Cash flow from investing activities
+
+|Net investments in securities measured at FVOCI / AFS|(188,134,410)|(349,509,447)|
+|---|---|---|
+|Net investments in securities measured at amortised cost|8,393,015|(1,635,665)|
+|Dividend received|531,000|333,498|
+|Investments in property and equipment|(1,875,641)|(580,787)|
+|Investment made in subsidiary|(700,000)|-|
+|Investments in intangible assets|(199,305)|(225,782)|
+|Proceeds from sale of property and equipment|16,284|6,869|
+|Effect of translation of net investment in Wholesale Bank Branch|(61,772)|907,083|
+| |(182,030,829)|(350,704,231)|
+
+# Cash flow from financing activities
+
+|Payments under IFRS 16|(1,325,171)|(975,538)|
+|---|---|---|
+|Dividend paid|(3,583,583)|(1,170)|
+| |(4,908,754)|(976,708)|
+
+# (Decrease) / increase in cash and cash equivalents
+
+(42,414,446)
+65,214,239
+
+# Cash and cash equivalents at beginning of the period
+
+173,876,425
+80,627,190
+
+# Cash and cash equivalents at end of the period
+
+131,461,979
+145,841,429
+The annexed notes 1 to 41 form an integral part of these unconsolidated condensed interim financial statements.
+
+-sd -sd -sd -sd
+
+Chief Financial Officer / A. President & CE Director Director Chairman
+---
+
+---
+
+{"chunk_number": 17, "financial_data": "yes", "financial_statement_scope": "unconsolidated", "is_statement": "no", "statement_type": "none", "is_note": "yes", "note_link": "none", "auditor_report": "no", "director_report": "no", "annual_report_discussion": "no", "file_name": "Askari_Bank_Limited_Quarterly_2024-06-30_chunks.md", "ticker": "AKBL", "entity_name": "Askari Bank Limited", "filing_type": "quarterly", "filing_period": ["Q2-2024", "Q2-2023"]}
+## Chunk 17
+
+
+# ASKARI BANK LIMITED
+
+# Notes to the Unconsolidated Condensed Interim Financial Statements (Un-audited)
+
+# For the half year ended June 30, 2024
+
+# 1 STATUS AND NATURE OF BUSINESS
+
+Askari Bank Limited (the Bank) was incorporated in Pakistan on October 9, 1991 as a Public Limited Company and is listed on the Pakistan Stock Exchange. The registered office of the Bank is situated at AWT Plaza, the Mall, Rawalpindi. The Bank is a scheduled commercial bank and is principally engaged in the business of banking as defined in the Banking Companies Ordinance, 1962. The Fauji Consortium: comprising of Fauji Foundation (FF), Fauji Fertilizer Company Limited (FFCL) and Fauji Fertilizer Bin Qasim Limited (FFBL) collectively owned 71.91 (2023: 71.91) percent shares of the Bank as on June 30, 2024. The ultimate parent of the Bank is Fauji Foundation. The Bank has 660 branches (2023: 660 branches); 659 in Pakistan and Azad Jammu and Kashmir including 142 (2023: 137) Islamic Banking branches and 63 (2023: 63) sub–branches and a Wholesale Bank Branch (WBB) in the Kingdom of Bahrain.
+
+---
+
+{"chunk_number": 18, "financial_data": "yes", "financial_statement_scope": "unconsolidated", "is_statement": "no", "statement_type": "none", "is_note": "yes", "note_link": "none", "auditor_report": "no", "director_report": "no", "annual_report_discussion": "no", "file_name": "Askari_Bank_Limited_Quarterly_2024-06-30_chunks.md", "ticker": "AKBL", "entity_name": "Askari Bank Limited", "filing_type": "quarterly", "filing_period": ["Q2-2024", "Q2-2023"]}
+## Chunk 18
+
+
+# 2 BASIS OF PREPARATION AND STATEMENT OF COMPLIANCE
+
+# 2.1 BASIS OF PREPARATION
+
+# 2.1.1
+
+These unconsolidated condensed interim financial statements represent separate financial statements of Askari Bank Limited. The consolidated condensed interim financial statements of the Group are being issued separately.
+
+# 2.1.2
+
+The unconsolidated condensed interim financial statements are presented in Pak Rupees, which is the Bank's functional and presentation currency. The amounts are rounded off to the nearest thousand.
+
+---
+
+{"chunk_number": 19, "financial_data": "yes", "financial_statement_scope": "unconsolidated", "is_statement": "no", "statement_type": "none", "is_note": "yes", "note_link": "none", "auditor_report": "no", "director_report": "no", "annual_report_discussion": "no", "file_name": "Askari_Bank_Limited_Quarterly_2024-06-30_chunks.md", "ticker": "AKBL", "entity_name": "Askari Bank Limited", "filing_type": "quarterly", "filing_period": ["Q2-2024", "Q2-2023"]}
+## Chunk 19
+
+
+# 2.1.3
+
+These unconsolidated condensed interim financial statements have been prepared under the historical cost convention except that certain classes of fixed assets and non-banking assets acquired in satisfaction of claims are stated at revalued amounts and certain investments have been marked to market and are carried at fair value. In addition, obligations in respect of staff retirement benefits are carried at present value.
+
+---
+
+{"chunk_number": 20, "financial_data": "yes", "financial_statement_scope": "unconsolidated", "is_statement": "no", "statement_type": "none", "is_note": "yes", "note_link": "none", "auditor_report": "no", "director_report": "no", "annual_report_discussion": "no", "file_name": "Askari_Bank_Limited_Quarterly_2024-06-30_chunks.md", "ticker": "AKBL", "entity_name": "Askari Bank Limited", "filing_type": "quarterly", "filing_period": ["Q2-2024", "Q2-2023"]}
+## Chunk 20
+
+
+# 2.2 STATEMENT OF COMPLIANCE
+
+# 2.2.1
+
+These unconsolidated condensed interim financial statements have been prepared in accordance with the approved accounting and reporting standards as applicable in Pakistan. The approved accounting and reporting standards comprise of:
+
+- International Accounting Standard (IAS) 34, Interim Financial Reporting, issued by the International Accounting Standards Board (IASB) as notified under the Companies Act, 2017;
+- Islamic Financial Accounting Standards (IFAS) issued by the Institute of Chartered Accountants of Pakistan as are notified under the Companies Act, 2017;
+- Provisions of and directives issued under the Banking Companies Ordinance, 1962 and the Companies Act, 2017;
+---
+- Directives issued by the State Bank of Pakistan (SBP) and the Securities and Exchange Commission of Pakistan (SECP).
+
+Whenever the requirements of the Banking Companies Ordinance, 1962, the Companies Act, 2017 or the directives issued by the SBP and the SECP differ with the requirements of IFRS or IFAS the requirements of the Banking Companies Ordinance, 1962, the Companies Act, 2017 and the said directives, shall prevail.
+
+---
+
+{"chunk_number": 21, "financial_data": "yes", "financial_statement_scope": "unconsolidated", "is_statement": "no", "statement_type": "none", "is_note": "yes", "note_link": "none", "auditor_report": "no", "director_report": "no", "annual_report_discussion": "no", "file_name": "Askari_Bank_Limited_Quarterly_2024-06-30_chunks.md", "ticker": "AKBL", "entity_name": "Askari Bank Limited", "filing_type": "quarterly", "filing_period": ["Q2-2024", "Q2-2023"]}
+## Chunk 21
+
+
+# 2.2.2
+
+The State Bank of Pakistan has deferred the applicability of IFAS 3 'Profit and Loss Sharing on Deposits', vide BPRD Circular No.04 dated February 25, 2015 and International Accounting Standard 40, Investment Property, vide BSD Circular Letter no. 10 dated August 26, 2002, for banking companies till further instructions. Further, the SECP, through S.R.O 411(1)/2008 dated April 28, 2008, has deferred the applicability of IFRS 7, Financial Instruments: Disclosures, to banks. Accordingly, the requirements of these standards have not been considered in the preparation of these unconsolidated condensed interim financial statements.
+
+---
+
+{"chunk_number": 22, "financial_data": "yes", "financial_statement_scope": "unconsolidated", "is_statement": "no", "statement_type": "none", "is_note": "yes", "note_link": "none", "auditor_report": "no", "director_report": "no", "annual_report_discussion": "no", "file_name": "Askari_Bank_Limited_Quarterly_2024-06-30_chunks.md", "ticker": "AKBL", "entity_name": "Askari Bank Limited", "filing_type": "quarterly", "filing_period": ["Q2-2024", "Q2-2023"]}
+## Chunk 22
+
+
+# 2.2.3
+
+These unconsolidated condensed interim financial statements have been presented in accordance with the requirements of format prescribed by SBP vide BPRD Circular No. 2 dated February 09, 2023 and International Accounting Standard 34 'Interim Financial Reporting' and do not include all the information and disclosures required in the audited annual unconsolidated financial statements, and should be read in conjunction with the audited annual unconsolidated financial statements of the Bank for the financial year ended December 31, 2023.
+
+---
+
+{"chunk_number": 23, "financial_data": "yes", "financial_statement_scope": "unconsolidated", "is_statement": "no", "statement_type": "none", "is_note": "yes", "note_link": "none", "auditor_report": "no", "director_report": "no", "annual_report_discussion": "no", "file_name": "Askari_Bank_Limited_Quarterly_2024-06-30_chunks.md", "ticker": "AKBL", "entity_name": "Askari Bank Limited", "filing_type": "quarterly", "filing_period": ["Q2-2024", "Q2-2023"]}
+## Chunk 23
+
+
+# 3
+
+# Standards, interpretations of and amendments to published approved accounting standards that are effective in the current period
+
+During the year, the Bank has adopted IFRS 9 as applicable in Pakistan with effect from 01 January 2024 (refer note 4.1 for details). There are certain other amendments to accounting and reporting standards that are mandatory for the Bank's accounting periods beginning on or after January 1, 2024. Except for IFRS 9, these are either considered not to be relevant or do not have any significant effect on the Bank's operations and are therefore not detailed in these unconsolidated condensed interim financial statements.
+
+---
+
+{"chunk_number": 24, "financial_data": "yes", "financial_statement_scope": "unconsolidated", "is_statement": "no", "statement_type": "none", "is_note": "yes", "note_link": "none", "auditor_report": "no", "director_report": "no", "annual_report_discussion": "no", "file_name": "Askari_Bank_Limited_Quarterly_2024-06-30_chunks.md", "ticker": "AKBL", "entity_name": "Askari Bank Limited", "filing_type": "quarterly", "filing_period": ["Q2-2024", "Q2-2023"]}
+## Chunk 24
+
+
+# 3.1
+
+# Standards, interpretations of and amendments to published approved accounting standards that are not yet effective
+
+There are various amendments to accounting and reporting standards as applicable in Pakistan that are not yet effective in the current period. These are not likely to have material effect on the Bank's financial statements.
+
+---
+
+{"chunk_number": 25, "financial_data": "yes", "financial_statement_scope": "unconsolidated", "is_statement": "no", "statement_type": "none", "is_note": "yes", "note_link": "none", "auditor_report": "no", "director_report": "no", "annual_report_discussion": "no", "file_name": "Askari_Bank_Limited_Quarterly_2024-06-30_chunks.md", "ticker": "AKBL", "entity_name": "Askari Bank Limited", "filing_type": "quarterly", "filing_period": ["Q2-2024", "Q2-2023"]}
+## Chunk 25
+
+
+# 4
+
+# MATERIAL ACCOUNTING POLICY INFORMATION
+
+The material accounting policies applied in preparation of these condensed interim unconsolidated financial statements are consistent with those as applied in the preparation of annual unconsolidated financial statements of the Bank for the year ended December 31, 2023, except for the following:
+
+---
+
+{"chunk_number": 26, "financial_data": "yes", "financial_statement_scope": "unconsolidated", "is_statement": "no", "statement_type": "none", "is_note": "yes", "note_link": "none", "auditor_report": "no", "director_report": "no", "annual_report_discussion": "no", "file_name": "Askari_Bank_Limited_Quarterly_2024-06-30_chunks.md", "ticker": "AKBL", "entity_name": "Askari Bank Limited", "filing_type": "quarterly", "filing_period": ["Q2-2024", "Q2-2023"]}
+## Chunk 26
+
+
+# 4.1
+
+# IFRS 9 - Financial Instruments
+
+During the period, as directed by the SBP vide its BPRD Circular No. 07 of 2023 dated April 13, 2023, IFRS 9: ‘Financial Instruments' (the Standard) became applicable to the Bank. BPRD Circular No. 03 of 2022 issued by SBP provides detailed instructions on implementation of IFRS 9 (the Application Instructions) for ensuring smooth and consistent implementation of the standard across banks. The SBP vide its BPRD Circular Letter No. 16 of 2024 have made amendments and extend the timelines of IFRS 9 application instructions.
+---
+The standard addresses recognition, classification, measurement and derecognition of financial assets and financial liabilities. The standard has also introduced a new impairment model for financial assets which requires recognition of impairment charge based on ‘expected credit losses' (ECL) approach rather than ‘incurred credit losses' approach as previously followed. The ECL has impact on all the assets of the Bank which are exposed to credit risk.
+
+The Bank has adopted IFRS 9 in accordance with the Application Instructions from January 1, 2024, using the modified retrospective approach and has not restated comparatives for the 2023 reporting period and the differences in carrying amount of financial assets and financial liabilities resulting from the adoption of IFRS 9 are recognised in retained earnings and reserves as at 1 January 2024, as permitted under the specific transitional provisions in the Standard. Accordingly, the information presented for 2023 does not reflect the requirements of IFRS 9 and therefore is not comparable to the information presented for 2024 under IFRS 9. The accounting policies applicable to the 2023 presented information is consistent with the policies mentioned in 31 December 2023 annual financial statements.
+
+SBP vide its BPRD Circular Letter No. 16 of 2024 have made certain amendments and extended timelines of application instructions for certain areas where the banking industry has sought more time. These amendments and relaxations include use modification accounting for financial assets and liabilities as per IFRS 9 standard and recording and treatment of staff loan and advances at reduced rates to given effect from 1 October 2024. Further, the banks have been asked to use existing practices of recordings of interest/markup income using effective interest rate and ensure full recognition from 1 October 2024, this in turn also effects the reduced rate loans and modified assets accounting. Moreover, SBP have allowed an extension to Banks up to December 31, 2024 for developing the requisite models for calculating EAD for revolving products beyond the contractual date. In addition the banks have also been allowed to continue the existing practice of valuing unquoted equity investment at their cost or breakup value, whichever is lower, till 31 December 2024 and perform fair valuation of these securities afterwards.
+
+---
+
+{"chunk_number": 27, "financial_data": "yes", "financial_statement_scope": "unconsolidated", "is_statement": "no", "statement_type": "none", "is_note": "yes", "note_link": "balance_sheet", "auditor_report": "no", "director_report": "no", "annual_report_discussion": "no", "file_name": "Askari_Bank_Limited_Quarterly_2024-06-30_chunks.md", "ticker": "AKBL", "entity_name": "Askari Bank Limited", "filing_type": "quarterly", "filing_period": ["Q2-2024", "Q2-2023"]}
+## Chunk 27
+
+
+# 4.1.1 Impact on the condensed interim unconsolidated statement of financial position:
+
+The effect of this change in accounting policy on the financial assets and financial liabilities is as follows:
+
+|Financial Asset / Liabilities|Balances as of December 31, 2023 (Audited)|Remeasurements / reclassifications|Recognition of expected credit loss (ECL)|Balances as of January 01, 2024|
+|---|---|---|---|---|
+|ASSETS| | | | |
+|Cash and balances with treasury banks|160,087,394|-|-|160,087,394|
+|Balances with other banks|13,789,031|-|(172)|13,788,859|
+|Investments| | | | |
+|- Classified as available for sale|1,124,989,158|(1,124,989,158)|-|-|
+|- Classified as fair value through other comprehensive income|-|1,105,542,060|(166,857)|1,105,375,203|
+|- Classified as held to maturity|56,798,998|(56,798,998)|-|-|
+|- Classified as amortised cost|-|74,879,606|-|74,879,606|
+|- Classified as held for trading|552,832|(552,832)|-|-|
+|- Classified as fair value through profit or loss|-|6,201,322|-|6,201,322|
+|Total Investments|1,182,340,988|4,282,000|(166,857)|1,186,456,131|
+|Advances| | | | |
+|Gross amount|661,308,049|-|-|661,308,049|
+|- Provision|(28,175,222)|-|(10,322,295)|(38,497,517)|
+|Total Advances|633,132,827|-|(10,322,295)|622,810,532|
+|Other assets - financial assets|90,069,257|-|(383,971)|89,685,286|
+|LIABILITIES| | | | |
+|Bills payable|12,394,336|-|-|12,394,336|
+|Borrowings|643,362,665|-|-|643,362,665|
+|Deposits and other accounts|1,293,145,575|-|-|1,293,145,575|
+|Subordinated debt|12,000,000|-|-|12,000,000|
+|Other liabilities - financial liabilities|45,249,204|-|226,837|45,476,041|
+|Total Liabilities|2,006,151,780|-|226,837|2,006,378,617|
+
+---
+
+---
+
+{"chunk_number": 28, "financial_data": "yes", "financial_statement_scope": "unconsolidated", "is_statement": "no", "statement_type": "none", "is_note": "yes", "note_link": "balance_sheet", "auditor_report": "no", "director_report": "no", "annual_report_discussion": "no", "file_name": "Askari_Bank_Limited_Quarterly_2024-06-30_chunks.md", "ticker": "AKBL", "entity_name": "Askari Bank Limited", "filing_type": "quarterly", "filing_period": ["Q2-2024", "Q2-2023"]}
+## Chunk 28
+
+
+# The following table and the accompanying notes below explain the original measurement categories under the regulation established by the regulator / SBP and the new measurement categories under IFRS 9 for each class of the Bank’s financial assets / liability as at 1 January 2024:
+
+|Financial Asset / Liabilities|Measurement Category – before adoption of IFRS 9|Measurement Category - after adoption of IFRS 9|Carrying amount at December 31, 2023 – before adoption of IFRS 9|Carrying amount at January 01, 2024 - after adoption of IFRS 9|
+|---|---|---|---|---|
+|Cash and balances with treasury banks|Loans and receivables|Amortised cost|160,087,394|160,087,394|
+|Balances with other banks|Loans and receivables|Amortised cost|13,789,031|13,788,859|
+| |Held for trading|Fair value through profit or loss|552,832|552,832|
+| |Available for sale|Fair value through profit or loss|5,648,490|5,648,490|
+|Investments|Available for sale|Fair value through other comprehensive income|1,105,542,060|1,105,375,203|
+| |Available for sale|Amortised cost|13,798,608|18,080,608|
+| |Held to maturity|Amortised cost|56,798,998|56,798,998|
+|Advances|Loans and receivables|Amortised cost|633,132,827|622,810,532|
+|Other assets|Loans and receivables|Amortised cost|90,069,257|89,685,286|
+|Bills payable|Amortised Cost|Amortised Cost|12,394,336|12,394,336|
+|Borrowings|Amortised Cost|Amortised Cost|643,362,665|643,362,665|
+|Deposits and other accounts|Amortised Cost|Amortised Cost|1,293,145,575|1,293,145,575|
+|Subordinated debt|Amortised Cost|Amortised Cost|12,000,000|12,000,000|
+|Other liabilities|Amortised Cost|Amortised Cost|45,249,204|45,476,041|
+
+---
+
+{"chunk_number": 29, "financial_data": "yes", "financial_statement_scope": "unconsolidated", "is_statement": "no", "statement_type": "none", "is_note": "yes", "note_link": "changes_in_equity", "auditor_report": "no", "director_report": "no", "annual_report_discussion": "no", "file_name": "Askari_Bank_Limited_Quarterly_2024-06-30_chunks.md", "ticker": "AKBL", "entity_name": "Askari Bank Limited", "filing_type": "quarterly", "filing_period": ["Q2-2024", "Q2-2023"]}
+## Chunk 29
+
+
+# 4.1.2 Impact on reserve of deficit on revaluation of investments:
+
+| |Impact of adopting IFRS 9 at January 1, 2024|
+|---|---|
+|Closing balances as at December 31, 2023|(6,367,323)|
+|Reclassification of investment securities (debt) from available-for-sale to amortised cost|4,282,000|
+|Reclassification of net surplus on investment securities (debt and equity) from available-for-sale to FVTPL|(220,594)|
+|Reclassification of provision for diminution in value of investment securities (equity) from available-for-sale to FVOCI|(597,143)|
+|Recognition of expected credit losses under IFRS 9 for debt financial assets at FVOCI|-|
+|Related tax|(1,697,489)|
+| |1,766,774|
+|Opening balance under IFRS 9 as at January 1, 2024|(4,600,549)|
+
+---
+
+{"chunk_number": 30, "financial_data": "yes", "financial_statement_scope": "unconsolidated", "is_statement": "no", "statement_type": "none", "is_note": "yes", "note_link": "changes_in_equity", "auditor_report": "no", "director_report": "no", "annual_report_discussion": "no", "file_name": "Askari_Bank_Limited_Quarterly_2024-06-30_chunks.md", "ticker": "AKBL", "entity_name": "Askari Bank Limited", "filing_type": "quarterly", "filing_period": ["Q2-2024", "Q2-2023"]}
+## Chunk 30
+
+
+# 4.1.3 Impact on Retained Earnings
+
+| | |
+|---|---|
+|Closing balances as at December 31, 2023|20,431,812|
+|Reclassification under IFRS 9 (net of tax)|416,924|
+|Recognition of expected credit losses under IFRS 9|(11,100,132)|
+|Related tax|5,439,065|
+| |(5,661,067)|
+|Opening balance under IFRS 9 as at January 1, 2024|15,187,669|
+
+---
+
+---
+
+{"chunk_number": 31, "financial_data": "yes", "financial_statement_scope": "unconsolidated", "is_statement": "no", "statement_type": "none", "is_note": "yes", "note_link": "none", "auditor_report": "no", "director_report": "no", "annual_report_discussion": "no", "file_name": "Askari_Bank_Limited_Quarterly_2024-06-30_chunks.md", "ticker": "AKBL", "entity_name": "Askari Bank Limited", "filing_type": "quarterly", "filing_period": ["Q2-2024", "Q2-2023"]}
+## Chunk 31
+
+
+# 4.1.4 Impact on regulatory capital
+
+In order to mitigate the impact of ECL models on capital, SBP has determined that it may be appropriate for the banks to introduce a transitional arrangement for the impact on regulatory capital from the application of ECL accounting. Annexure B of the 'Application Instructions' issued by SBP has detailed the transitional arrangement.
+
+The transitional arrangement applies only to provisions for stage 1 and stage 2 financial assets. The transitional arrangement must adjust CET1 capital. Where there is a reduction in CET1 capital due to new provisions, net of tax effect, upon adoption of an ECL accounting model, the decline in CET1 capital (the “transitional adjustment amount”) must be partially included (i.e., added back) to CET1 capital over the “transition period” of five years.
+
+Moreover, SBP has allowed to adjust the amount of Stage 1 and Stage 2 provisions in Tier 2 Capital that have not been added back to CET 1 and vice versa as per Annexure-A of BPRD Circular no 16 of 2024.
+
+The impact of adoption of IFRS 9 on the capital ratios of the Bank are as follows:
+
+| |As per previous Reporting (31 December 2023)|At 1 January 2024 after adoption of IFRS 9|
+|---|---|---|
+|Common Equity Tier 1 Capital Adequacy ratio|15.11%|14.15%|
+|Tier 1 Capital Adequacy Ratio|16.08%|15.12%|
+|Total Capital Adequacy Ratio|18.35%|17.52%|
+
+---
+
+{"chunk_number": 32, "financial_data": "yes", "financial_statement_scope": "unconsolidated", "is_statement": "no", "statement_type": "none", "is_note": "yes", "note_link": "none", "auditor_report": "no", "director_report": "no", "annual_report_discussion": "no", "file_name": "Askari_Bank_Limited_Quarterly_2024-06-30_chunks.md", "ticker": "AKBL", "entity_name": "Askari Bank Limited", "filing_type": "quarterly", "filing_period": ["Q2-2024", "Q2-2023"]}
+## Chunk 32
+
+
+# 4.1.5 Classification and measurement
+
+Under the new standard, classification and measurement of financial assets depends on how these are managed based on business model and their contractual cash flow characteristics. Financial assets that do not meet the Solely Payment of Principal and Interest (SPPI) criteria are required to be measured at fair value through profit or loss (FVTPL) regardless of the business model in which they are held.
+
+---
+
+{"chunk_number": 33, "financial_data": "yes", "financial_statement_scope": "unconsolidated", "is_statement": "no", "statement_type": "none", "is_note": "yes", "note_link": "none", "auditor_report": "no", "director_report": "no", "annual_report_discussion": "no", "file_name": "Askari_Bank_Limited_Quarterly_2024-06-30_chunks.md", "ticker": "AKBL", "entity_name": "Askari Bank Limited", "filing_type": "quarterly", "filing_period": ["Q2-2024", "Q2-2023"]}
+## Chunk 33
+
+
+# Recognition / derecognition and initial measurement
+
+Trade receivable and debt securities issued are initially recorded when they are originated. All other financial assets and financial liabilities are initially recognised when the Bank becomes a party to the contractual provisions of the instrument.
+
+A financial asset (unless it is a trade receivable without a significant financing component) or financial liability is initially measured at fair value plus, for an item not at FVTPL, transaction costs that are directly attributable to its acquisition or issue. A trade receivable without a significant financing component is initially measured at transaction price.
+
+The policy for derecognition of financial asset and liabilities are consistent with the annual unconsolidated financials statements of the bank for the year ended December 31, 2023.
+
+---
+
+{"chunk_number": 34, "financial_data": "yes", "financial_statement_scope": "unconsolidated", "is_statement": "no", "statement_type": "none", "is_note": "yes", "note_link": "none", "auditor_report": "no", "director_report": "no", "annual_report_discussion": "no", "file_name": "Askari_Bank_Limited_Quarterly_2024-06-30_chunks.md", "ticker": "AKBL", "entity_name": "Askari Bank Limited", "filing_type": "quarterly", "filing_period": ["Q2-2024", "Q2-2023"]}
+## Chunk 34
+
+
+# Classification
+
+Financial Assets
+
+On initial recognition, a financial asset is classified as measured at: amortised cost, FVOCI or FVTPL.
+---
+A financial asset is measured at amortised cost if it meets both of the following conditions and is not designated as at FVTPL:
+
+- the asset is held within a business model whose objective is to hold assets to collect contractual cash flows; and
+- the contractual terms of the financial asset give rise on specified dates to cash flows that are SPPI.
+
+A debt instrument is measured at FVOCI only if it meets both of the following conditions and is not designated as at FVTPL:
+
+- the asset is held within a business model whose objective is achieved by both collecting contractual cashflows and selling financial assets; and
+- the contractual terms of the financial asset give rise on specified dates to cash flows that are SPPI.
+
+On initial recognition of an equity investment that is not held for trading, the Bank may irrevocably elect to present subsequent changes in fair value in OCI. This election is made on an investment-by-investment basis.
+
+Financial assets are not reclassified subsequent to their initial recognition unless the Bank changes its business models for managing financial assets, in which cases all affected financial assets are reclassified on the first day of the first reporting period following changes in the business model.
+
+IFRS 9 allows entities to irrevocably designate, at initial recognition, a financial asset as measured at FVTPL if doing so eliminates or significantly reduces any 'accounting mismatch' that would otherwise arise from measuring assets or liabilities or recognizing gains and losses on them on different basis. SBP instructions state that banks may apply the fair value option if, in addition to the IFRS 9 criterion, (a) it is consistent with a documented risk management strategy, and (b) fair values are reliable at inception and throughout life of the instrument. Nonetheless, banks should avoid this option for financial instruments that are categorized as Level 3 in terms of the IFRS 13 hierarchy.
+
+---
+
+{"chunk_number": 35, "financial_data": "yes", "financial_statement_scope": "unconsolidated", "is_statement": "no", "statement_type": "none", "is_note": "yes", "note_link": "none", "auditor_report": "no", "director_report": "no", "annual_report_discussion": "no", "file_name": "Askari_Bank_Limited_Quarterly_2024-06-30_chunks.md", "ticker": "AKBL", "entity_name": "Askari Bank Limited", "filing_type": "quarterly", "filing_period": ["Q2-2024", "Q2-2023"]}
+## Chunk 35
+
+
+# 4.1.6 Business model assessment
+
+A financial asset is classified as either Held to collect, Held to collect and sale and Others based on Business model assessment. The Bank makes an assessment of the objective of a business model in which a financial asset is held at a portfolio level because this best reflects the way the business is managed, and information is provided to management. The assessment requires judgement based on facts and circumstances on the date of assessment.
+
+Financial assets that are held for trading or managed and whose performance is evaluated on a fair value basis are measured at FVTPL because they are neither held to collect contractual cash flows nor held both to collect contractual cash flows and to sell financial assets.
+---
+The assessment considers the policies and objectives for the portfolio of financial assets, risk affecting, performance evaluation, historical sales information etc.
+
+---
+
+{"chunk_number": 36, "financial_data": "yes", "financial_statement_scope": "unconsolidated", "is_statement": "no", "statement_type": "none", "is_note": "yes", "note_link": "none", "auditor_report": "no", "director_report": "no", "annual_report_discussion": "no", "file_name": "Askari_Bank_Limited_Quarterly_2024-06-30_chunks.md", "ticker": "AKBL", "entity_name": "Askari Bank Limited", "filing_type": "quarterly", "filing_period": ["Q2-2024", "Q2-2023"]}
+## Chunk 36
+
+
+# 4.1.7 Assessment of whether contractual cash flows are solely payments of principal and interest (SPPI)
+
+The Bank assesses whether the contractual cash flows of a financial asset meet the Solely Payments of Principal and Interest (SPPI) criterion by examining the contractual terms. This includes checking for terms that could alter the amount and timings of cash flows, such as contingent events, leverage, or prepayment features, etc.
+
+A prepayment feature aligns with SPPI if it mainly represents unpaid principal and profit, including reasonable compensation for early termination.
+
+For fixed-rate financings with periodic profit rate resets, the Bank considers these SPPI-compliant as the revised rates reflect time value, credit risk, and other associated risks.
+
+---
+
+{"chunk_number": 37, "financial_data": "yes", "financial_statement_scope": "unconsolidated", "is_statement": "no", "statement_type": "none", "is_note": "yes", "note_link": "none", "auditor_report": "no", "director_report": "no", "annual_report_discussion": "no", "file_name": "Askari_Bank_Limited_Quarterly_2024-06-30_chunks.md", "ticker": "AKBL", "entity_name": "Askari Bank Limited", "filing_type": "quarterly", "filing_period": ["Q2-2024", "Q2-2023"]}
+## Chunk 37
+
+
+# 4.1.8 Subsequent measurement
+
+The following accounting policies apply to the subsequent measurement of financial assets:
+
+|Financial assets at FVTPL|These assets are subsequently measured at fair value. Net gains and losses, including any markup or dividend income, are recognised in profit or loss.|
+|---|---|
+|Financial assets at amortised cost|These assets are subsequently measured at amortised cost using the effective interest method. The amortised cost is reduced by impairment losses. Markup, foreign exchange gains and losses and impairment are recognised in profit or loss.|
+|Debt investments at FVOCI|These assets are subsequently measured at fair value and are assessed for impairment under the new ECL model. Markup income is calculated using the effective interest method and includes amortization of premiums and accretion of discount, foreign exchange gains and losses and impairment are recognised in income statement. Other net gains and losses are recognised in OCI. On derecognition, gains and losses accumulated in OCI are reclassified to income statement.|
+|Equity investments at FVOCI|These assets are subsequently measured at fair value. Dividends are recognised as income in profit or loss unless the dividend clearly represents a recovery of part of the cost of the investment, in which case they are adjusted from the carrying value of investment. Other net gains and losses are recognised in OCI and are never reclassified to income statement.|
+
+The banks are allowed to continue measuring unquoted equity securities at the lower of cost or break-up value up to December 31, 2024. However, the Bank shall be required to measure unquoted equity securities at fair value, as required in the IFRS 9 application instructions, with effect from January 1, 2025.
+
+---
+
+{"chunk_number": 38, "financial_data": "yes", "financial_statement_scope": "unconsolidated", "is_statement": "no", "statement_type": "none", "is_note": "yes", "note_link": "none", "auditor_report": "no", "director_report": "no", "annual_report_discussion": "no", "file_name": "Askari_Bank_Limited_Quarterly_2024-06-30_chunks.md", "ticker": "AKBL", "entity_name": "Askari Bank Limited", "filing_type": "quarterly", "filing_period": ["Q2-2024", "Q2-2023"]}
+## Chunk 38
+
+
+# 4.1.9 Modification
+
+Financial assets
+
+The Bank sometimes renegotiates or otherwise modifies the contractual cash flows of loans to its customers. If the cash flows are substantially different, then the contractual rights to cash flows from the original financial asset are deemed to have expired. In this case, the original financial asset is derecognized and a new financial asset is recognised at fair value plus any eligible transaction costs.
+---
+If cash flows are modified when the borrower is in financial difficulties, then the objective of the modification is usually to maximise recovery of the original contractual terms rather than to originate a new asset with substantially different terms. If the bank plans to modify a financial asset in a way that would result in forgiveness of cash flows, then it first considers whether a portion of the asset should be written off before the modification takes place. This approach impacts the result of the quantitative evaluation and means that the derecognition criteria are not usually met in such cases.
+
+If the modification of a financial asset measured at amortised cost or FVOCI does not result in derecognition of the financial asset, then the bank first recalculates the gross carrying amount of the financial asset using the original effective interest rate of the asset and recognized the resulting adjustment as a modification gain or loss in profit or loss. Any costs or fees incurred, and fees received as part of the modification adjust the gross carrying amount of the modified financial asset and are amortised over the remaining term of the modified financial asset.
+
+---
+
+{"chunk_number": 39, "financial_data": "yes", "financial_statement_scope": "unconsolidated", "is_statement": "no", "statement_type": "none", "is_note": "yes", "note_link": "none", "auditor_report": "no", "director_report": "no", "annual_report_discussion": "no", "file_name": "Askari_Bank_Limited_Quarterly_2024-06-30_chunks.md", "ticker": "AKBL", "entity_name": "Askari Bank Limited", "filing_type": "quarterly", "filing_period": ["Q2-2024", "Q2-2023"]}
+## Chunk 39
+
+
+# Financial liabilities
+
+The Bank derecognises a financial liability when its terms are modified and the cash flows of the modified liability are substantially different. In this case, a new financial liability based on the modified terms is recognized at fair value. The difference between the carrying amount of the financial liability recognized and consideration paid is recognized in profit or loss. Consideration paid includes non-financial assets transferred, if any, and the assumption of liabilities, including the new modified financial liability.
+
+If the modification of a financial liability is not accounted for as derecognition, then the amortised cost of the liability is recalculated by discounting the modified cash flows at the original effective interest rate and the resulting gain or loss is recognized in profit or loss. For floating-rate financial liabilities, the original effective interest rate used to calculate the modification gain or loss is adjusted to reflect current market terms at the time of the modification. Any costs and fees incurred are recognized as an adjustment to the carrying amount of the liability and amortised over the remaining term of the modified financial liability by re-computing the effective interest rate on the instrument.
+
+---
+
+{"chunk_number": 40, "financial_data": "yes", "financial_statement_scope": "unconsolidated", "is_statement": "no", "statement_type": "none", "is_note": "yes", "note_link": "none", "auditor_report": "no", "director_report": "no", "annual_report_discussion": "no", "file_name": "Askari_Bank_Limited_Quarterly_2024-06-30_chunks.md", "ticker": "AKBL", "entity_name": "Askari Bank Limited", "filing_type": "quarterly", "filing_period": ["Q2-2024", "Q2-2023"]}
+## Chunk 40
+
+
+# 4.1.10 Impairment
+
+The impairment requirements apply to financial assets measured at amortised cost and FVOCI (other than equity instruments), lease receivables, and certain loan commitments and financial guarantee contracts. At initial recognition, an impairment allowance (or provision in the case of commitments and guarantees) is required for expected credit losses (‘ECL’) resulting from default events that are possible within the next 12 months (‘12-month ECL’). In the event of a significant increase in credit risk, a provision is required for ECL resulting from all possible default events over the expected life of the financial instrument (‘lifetime ECL’).
+
+Financial assets where 12-month ECL is recognized are in 'Stage 1'; financial assets that are considered to have experienced a significant increase in credit risk are in 'Stage 2'; and financial assets for which there is objective evidence of impairment, so are considered to be in default or otherwise credit impaired, are in 'Stage 3'. Under the SBP's instructions, the Bank is not required to compute ECL on Government Securities and on Government guaranteed credit exposure in local currency.
+
+Based on the requirements of IFRS 9 and SBP's IFRS 9 application instructions, the Bank has performed an ECL assessment considering the following key elements:
+
+- PD: The probability that a counterparty will default over the next 12 months from the reporting date (12-month ECL, Stage 1) or over the lifetime of the product (lifetime ECL, Stage 2).
+---
+- EAD: The expected balance sheet exposure at the time of default, incorporating expectations on drawdowns, amortization, pre-payments and forward-looking information where relevant.
+
+- LGD: An estimate of the loss incurred on a facility upon default by a customer. LGD is calculated as the difference between contractual cash flows due and those that the Bank expects to receive, including from the liquidation of any form of collateral. It is expressed as a percentage of the exposure outstanding on the date of classification of an obligor.
+
+---
+
+{"chunk_number": 41, "financial_data": "yes", "financial_statement_scope": "unconsolidated", "is_statement": "no", "statement_type": "none", "is_note": "yes", "note_link": "none", "auditor_report": "no", "director_report": "no", "annual_report_discussion": "no", "file_name": "Askari_Bank_Limited_Quarterly_2024-06-30_chunks.md", "ticker": "AKBL", "entity_name": "Askari Bank Limited", "filing_type": "quarterly", "filing_period": ["Q2-2024", "Q2-2023"]}
+## Chunk 41
+
+
+# 4.1.11 Significant increase in credit risk (SICR)
+
+A SICR is assessed in the context of an increase in the risk of a default occurring over the life of the financial instrument when compared to that expected at the time of initial recognition. It is not assessed in the context of an increase in the ECL. The Bank used several qualitative and quantitative measures in assessing SICR. Quantitative measures relate to deterioration of Obligor Risk Ratings (ORR) or where principal and / or profit payments are 60 days or more past due. Qualitative factors include unavailability of financial information and pending litigations. A financial asset is transitioned to a backward stage in line with SBP instructions.
+
+---
+
+{"chunk_number": 42, "financial_data": "yes", "financial_statement_scope": "unconsolidated", "is_statement": "no", "statement_type": "none", "is_note": "yes", "note_link": "none", "auditor_report": "no", "director_report": "no", "annual_report_discussion": "no", "file_name": "Askari_Bank_Limited_Quarterly_2024-06-30_chunks.md", "ticker": "AKBL", "entity_name": "Askari Bank Limited", "filing_type": "quarterly", "filing_period": ["Q2-2024", "Q2-2023"]}
+## Chunk 42
+
+
+# 4.1.12 Governance, ownership and responsibilities
+
+The Bank has adopted a governance framework requiring multiple functions to effectively work together to ensure input from all business lines. The Risk Department defines the staging criteria for the new impairment model and take ownership of all models, methodologies and the ECL calculation approach. Additionally, the Risk department also take the ownership of the impact of ECL on bank's capital.
+
+The Bank's Finance Division performs ECL calculation. As a result, the department then assess the financial impact, meet the financial reporting requirements and further monitor the impact on the financial ratios.
+
+As per the Bank's policy, the Bank's Internal Audit function carries out periodic review of IFRS 9 methodology and impacts calculated by the Management.
+
+---
+
+{"chunk_number": 43, "financial_data": "yes", "financial_statement_scope": "unconsolidated", "is_statement": "no", "statement_type": "none", "is_note": "yes", "note_link": "balance_sheet", "auditor_report": "no", "director_report": "no", "annual_report_discussion": "no", "file_name": "Askari_Bank_Limited_Quarterly_2024-06-30_chunks.md", "ticker": "AKBL", "entity_name": "Askari Bank Limited", "filing_type": "quarterly", "filing_period": ["Q2-2024", "Q2-2023"]}
+## Chunk 43
+
+
+# 4.2 Revised format of condensed interim financial statements
+
+The SBP through its BPRD Circular No. 02 dated February 9, 2023, and BPRD Circular Letter No. 07 of 2023 dated April 13, 2023, has amended the format of quarterly and half yearly financial statements of banks. All banks are directed to prepare their quarterly and half yearly financial statements on the revised format effective from accounting year starting from January 1, 2024.
+
+Accordingly, the Bank has prepared these condensed interim unconsolidated financial statements on the new format prescribed by the SBP.
+
+The adoption of revised format has resulted in following significant changes:
+
+- Right-of-use-assets (note 12) amounting to Rs 9,576,179 thousand (December 31, 2023: Rs 8,312,812 thousand) which were previously shown as part of fixed assets are now shown separately on the unconsolidated statement of financial position.
+- Lease liabilities (note 20) amounting to Rs 11,351,842 thousand (December 31, 2023: Rs 9,699,474 thousand) which were previously shown as part of other liabilities (note 22) are now shown separately on the unconsolidated statement of financial position.
+---
+
+---
+
+{"chunk_number": 44, "financial_data": "yes", "financial_statement_scope": "unconsolidated", "is_statement": "no", "statement_type": "none", "is_note": "yes", "note_link": "none", "auditor_report": "no", "director_report": "no", "annual_report_discussion": "no", "file_name": "Askari_Bank_Limited_Quarterly_2024-06-30_chunks.md", "ticker": "AKBL", "entity_name": "Askari Bank Limited", "filing_type": "quarterly", "filing_period": ["Q2-2024", "Q2-2023"]}
+## Chunk 44
+
+
+# FINANCIAL RISK MANAGEMENT
+
+The financial risk management objectives and policies adopted by the Bank are consistent with those disclosed in the audited annual unconsolidated financial statements for the year ended December 31, 2023.
+
+|(Un-audited)|(Audited)|
+|---|---|
+|June 30, 2024|December 31, 2023|
+
+---
+
+{"chunk_number": 45, "financial_data": "yes", "financial_statement_scope": "unconsolidated", "is_statement": "no", "statement_type": "none", "is_note": "yes", "note_link": "balance_sheet", "auditor_report": "no", "director_report": "no", "annual_report_discussion": "no", "file_name": "Askari_Bank_Limited_Quarterly_2024-06-30_chunks.md", "ticker": "AKBL", "entity_name": "Askari Bank Limited", "filing_type": "quarterly", "filing_period": ["Q2-2024", "Q2-2023"]}
+## Chunk 45
+
+
+# CASH AND BALANCES WITH TREASURY BANKS
+
+Rupees in '000
+
+|In hand:|Local currency|31,198,399|27,760,784|
+|---|---|---|---|
+| |Foreign currencies|5,718,808|4,318,238|
+| |Total|36,917,207|32,079,022|
+|With the State Bank of Pakistan in:|Local currency current accounts|56,474,614|104,626,342|
+| |Foreign currency current account|6,929,175|6,885,755|
+| |Foreign currency deposit account|13,106,172|12,873,026|
+| |Total|76,509,961|124,385,123|
+|With National Bank of Pakistan in:|Local currency current accounts|5,841,254|3,573,496|
+|Prize Bonds|33,201|49,753| |
+|Less: Credit loss allowance held against cash and balances with other banks|-|-| |
+|Cash and balances with treasury banks - net of credit loss allowance|119,301,623|160,087,394| |
+
+---
+
+{"chunk_number": 46, "financial_data": "yes", "financial_statement_scope": "unconsolidated", "is_statement": "no", "statement_type": "none", "is_note": "yes", "note_link": "balance_sheet", "auditor_report": "no", "director_report": "no", "annual_report_discussion": "no", "file_name": "Askari_Bank_Limited_Quarterly_2024-06-30_chunks.md", "ticker": "AKBL", "entity_name": "Askari Bank Limited", "filing_type": "quarterly", "filing_period": ["Q2-2024", "Q2-2023"]}
+## Chunk 46
+
+
+# BALANCES WITH OTHER BANKS
+
+|In Pakistan|In current accounts|67,540|2,802|
+|---|---|---|---|
+|Outside Pakistan|In current accounts|1,190,480|1,557,101|
+| |In deposit accounts|10,902,505|12,229,132|
+| |Total|12,092,985|13,786,233|
+|Less: Credit loss allowance held against balances with other banks|(169)|(4)| |
+|Balances with other banks - net of credit loss allowance|12,160,356|13,789,031| |
+
+---
+
+{"chunk_number": 47, "financial_data": "yes", "financial_statement_scope": "unconsolidated", "is_statement": "no", "statement_type": "none", "is_note": "yes", "note_link": "balance_sheet", "auditor_report": "no", "director_report": "no", "annual_report_discussion": "no", "file_name": "Askari_Bank_Limited_Quarterly_2024-06-30_chunks.md", "ticker": "AKBL", "entity_name": "Askari Bank Limited", "filing_type": "quarterly", "filing_period": ["Q2-2024", "Q2-2023"]}
+## Chunk 47
+
+
+# LENDINGS TO FINANCIAL INSTITUTIONS
+
+Rupees in '000
+
+|Repurchase agreement lendings (reverse repo)|66,199,437|-|
+|---|---|---|
+|Call money lendings|20,000,000|-|
+|Purchase under resale arrangement of equity securities|74,303|89,164|
+|Total|86,273,740|89,164|
+|Less: Credit loss allowance / provision held against lending to financial institutions|(89,100)|(89,164)|
+|Lendings to financial institutions - net of credit loss allowance / provision|86,184,640|-|
+
+# Particulars of credit loss allowance / provision
+
+Rupees in '000
+
+|Domestic|Performing|Stage 1|86,199,437|14,798|-|-|
+|---|---|---|---|---|---|---|
+|Non-performing|Loss|Stage 3|74,303|74,302|89,164|89,164|
+|Total| | |86,273,740|89,100|89,164|89,164|
+
+---
+
+---
+
+{"chunk_number": 48, "financial_data": "yes", "financial_statement_scope": "unconsolidated", "is_statement": "no", "statement_type": "none", "is_note": "yes", "note_link": "balance_sheet", "auditor_report": "no", "director_report": "no", "annual_report_discussion": "no", "file_name": "Askari_Bank_Limited_Quarterly_2024-06-30_chunks.md", "ticker": "AKBL", "entity_name": "Askari Bank Limited", "filing_type": "quarterly", "filing_period": ["Q2-2024", "Q2-2023"]}
+## Chunk 48
+
+
+# 9 INVESTMENTS
+
+June 30, 2024 (Un-audited) December 31, 2023 (Audited)
+
+|Cost / amortised cost|Credit Loss allowance|Surplus / (deficit)|Carrying value|Cost / amortised cost|Provision for diminution in value|Surplus / (deficit)|Carrying value| |
+|---|---|---|---|---|---|---|---|---|
+| | | | | |Rupees in '000|Rupees in '000| | |
+|9.1 Investments by type:| | | | | | | | |
+|FVTPL / (2023: Held for trading)| | | | | | | | |
+|Fully paid ordinary shares|343,338|-|(1,621)|341,717|534,439|-|18,393|552,832|
+|Units of mutual funds|1,781,063|-|652,287|2,433,350|-|-|-|-|
+|Non Government Debt Securities|3,622,900|-|(3,734)|3,619,166|-|-|-|-|
+|Total FVTPL|5,747,301|-|646,932|6,394,233|534,439|-|18,393|552,832|
+|FVOCI / (2023: Available for sale)| | | | | | | | |
+|Federal Government Securities|1,288,033,016|(564,518)|(8,132,042)|1,279,336,456|1,117,640,852|(524,796)|(14,605,232)|1,102,510,824|
+|Shares|4,811,884|(5,680)|2,147,114|6,953,318|4,752,010|(597,143)|1,885,567|6,040,434|
+|Units of mutual funds|-|-|-|-|1,874,328|(168,124)|254,392|1,960,596|
+|Fully paid preference shares|27,314|(2,235)|(1,500)|23,579|27,314|(11,914)|12,750|28,150|
+|Non Government Debt Securities|11,767,754|(1,303,453)|(1,332)|10,462,969|15,836,647|(1,355,068)|(32,425)|14,449,154|
+|Total FVOCI|1,304,639,968|(1,875,886)|(5,987,760)|1,296,776,322|1,140,131,151|(2,657,045)|(12,484,948)|1,124,989,158|
+|Amortised cost / (2023: Held to maturity)| | | | | | | | |
+|Federal Government Securities|67,072,233|(190,003)|-|66,882,230|57,384,640|(585,642)|-|56,798,998|
+|Non Government Debt Securities|110,000|(110,000)|-|-|110,000|(110,000)|-|-|
+|Total Amortised cost|67,182,233|(300,003)|-|66,882,230|57,494,640|(695,642)|-|56,798,998|
+|Subsidiaries|896,700|-|-|896,700|196,700|-|-|196,700|
+|Total investments|1,378,466,202|(2,175,889)|(5,340,828)|1,370,949,485|1,198,356,930|(3,352,687)|(12,466,555)|1,182,537,688|
+
+# 9.1.1 Investments given as collateral
+
+The market value of investment given as collateral is as follows
+
+|Market Treasury Bills|20,455,390|13,586,080| |
+|---|---|---|---|
+|Pakistan Investment Bonds|775,203,500|570,673,900| |
+|Shares|158,914|141,491| |
+|Total| |795,817,804|584,401,471|
+
+---
+
+{"chunk_number": 49, "financial_data": "yes", "financial_statement_scope": "unconsolidated", "is_statement": "no", "statement_type": "none", "is_note": "yes", "note_link": "balance_sheet", "auditor_report": "no", "director_report": "no", "annual_report_discussion": "no", "file_name": "Askari_Bank_Limited_Quarterly_2024-06-30_chunks.md", "ticker": "AKBL", "entity_name": "Askari Bank Limited", "filing_type": "quarterly", "filing_period": ["Q2-2024", "Q2-2023"]}
+## Chunk 49
+
+
+# 9.2 Summary of financial information of subsidiaries (Un-audited)
+
+|Country of incorporation|Holding %| |Assets|Liabilities|Revenue / Income|Profit after tax|Total comprehensive income for the period|
+|---|---|---|---|---|---|---|---|
+|Foundation Securities (Private) Limited|Pakistan|51|2,537,582|1,635,838|339,791|89,402|-|
+|Askari Currency Exchange (Private) Limited|Pakistan|100|723,918|22,231|14,899|1,687|-|
+
+---
+
+---
+
+{"chunk_number": 50, "financial_data": "yes", "financial_statement_scope": "unconsolidated", "is_statement": "no", "statement_type": "none", "is_note": "yes", "note_link": "balance_sheet", "auditor_report": "no", "director_report": "no", "annual_report_discussion": "no", "file_name": "Askari_Bank_Limited_Quarterly_2024-06-30_chunks.md", "ticker": "AKBL", "entity_name": "Askari Bank Limited", "filing_type": "quarterly", "filing_period": ["Q2-2024", "Q2-2023"]}
+## Chunk 50
+
+
+# 9.3 Credit loss allowance / provision for diminution in value of investments
+
+| |(Un-audited)|(Audited)|
+|---|---|---|
+| |June 30, 2024|December 31, 2023|
+| |(Rupees in '000)| |
+|9.3.1 Opening balance|3,352,687|3,512,177|
+|Impact of reclassification on adoption of IFRS 9|(847,767)|-|
+|Impact of ECL recognized on adoption of IFRS 9|166,857|-|
+| |2,671,777|3,512,177|
+|Exchange adjustments|(1,093)|274,611|
+|Charge / (reversals)| | |
+|Charge for the period / year|-|180,392|
+|Reversal for the period / year|(494,795)|(328,207)|
+|Reversal on disposals|-|(286,286)|
+| |(494,795)|(434,101)|
+|Closing balance|2,175,889|3,352,687|
+
+---
+
+{"chunk_number": 51, "financial_data": "yes", "financial_statement_scope": "unconsolidated", "is_statement": "no", "statement_type": "none", "is_note": "yes", "note_link": "balance_sheet", "auditor_report": "no", "director_report": "no", "annual_report_discussion": "no", "file_name": "Askari_Bank_Limited_Quarterly_2024-06-30_chunks.md", "ticker": "AKBL", "entity_name": "Askari Bank Limited", "filing_type": "quarterly", "filing_period": ["Q2-2024", "Q2-2023"]}
+## Chunk 51
+
+
+# 9.3.2 Particulars of credit loss allowance / provision against debt securities
+
+| |June 30, 2024 (Un-audited)| |December 31, 2023 (Un-audited)| |
+|---|---|---|---|---|
+| |Amount|Credit loss allowance|Amount|Provision held|
+| |Outstanding| |Outstanding| |
+| |(cost)| |(cost)| |
+|Category of classification| | | | |
+|Domestic| | | | |
+|Performing - Stage 1|1,355,606,015|129,472|-|-|
+|Non-performing - Stage 3| | | | |
+|Loss|1,383,823|1,383,823|1,577,096|1,476,982|
+| |1,356,989,838|1,513,295|1,577,096|1,476,982|
+|Overseas| | | | |
+|Performing - Stage 1|10,020,479|656,914|20,287,925|1,110,438|
+| |1,367,010,317|2,170,209|21,865,021|2,587,420|
+
+# 9.4
+
+The market value of securities classified as amortised cost / held to maturity as at June 30, 2024 is Rs. 58,898,064 thousand (2023: Rs. 50,430,873 thousand).
+---
+
+---
+
+{"chunk_number": 52, "financial_data": "yes", "financial_statement_scope": "unconsolidated", "is_statement": "no", "statement_type": "none", "is_note": "yes", "note_link": "balance_sheet", "auditor_report": "no", "director_report": "no", "annual_report_discussion": "no", "file_name": "Askari_Bank_Limited_Quarterly_2024-06-30_chunks.md", "ticker": "AKBL", "entity_name": "Askari Bank Limited", "filing_type": "quarterly", "filing_period": ["Q2-2024", "Q2-2023"]}
+## Chunk 52
+
+
+# ADVANCES
+
+|Performing| | |Non Performing| |Total| | | | | |
+|---|---|---|---|---|---|---|---|---|---|---|
+| |(Un-audited)|(Audited)| | | | | | | | |
+| | | |June 30, 2024| |December 31, 2023|June 30, 2024|December 31, 2023|June 30, 2024|December 31, 2023| |
+|Loans, cash credits, running finances, etc.|562,672,076|498,706,097|27,744,488|25,198,876|590,416,564|523,904,973| | | | |
+|Islamic financing and related assets|136,636,633|114,772,652|4,355,830|2,781,125|140,992,463|117,553,777| | | | |
+|Bills discounted and purchased|20,608,553|18,765,713|2,343,084|1,083,586|22,951,637|19,849,299| | | | |
+|Advances - gross|719,917,262|632,244,462|34,443,402|29,063,587|754,360,664|661,308,049| | | | |
+|Credit loss allowance / provision against advances|- Stage 1|- Stage 1|(2,489,300)|-|(2,489,300)|-| | | | |
+|- Stage 2|-|-|(2,167,883)|-|(2,167,883)|-| | | | |
+|- Stage 3|-|-|(32,423,345)|-|(32,423,345)|-| | | | |
+|- General|-|(2,538,527)|-|-|-|(2,538,527)| | | | |
+|- Specific|-|-|-|(25,636,695)|-|(25,636,695)| | | | |
+|Total|(4,657,183)|(2,538,527)|(32,423,345)|(25,636,695)|(37,080,528)|(28,175,222)| | | | |
+|Advances - net of credit loss allowance / (provision)|715,260,079|629,705,935|2,020,057|3,426,892|717,280,136|633,132,827| | | | |
+
+# Particulars of advances (Gross)
+
+|In local currency|715,258,195|622,805,589|
+|---|---|---|
+|In foreign currencies|39,102,469|38,502,460|
+|Total|754,360,664|661,308,049|
+
+---
+
+{"chunk_number": 53, "financial_data": "yes", "financial_statement_scope": "unconsolidated", "is_statement": "no", "statement_type": "none", "is_note": "yes", "note_link": "balance_sheet", "auditor_report": "no", "director_report": "no", "annual_report_discussion": "no", "file_name": "Askari_Bank_Limited_Quarterly_2024-06-30_chunks.md", "ticker": "AKBL", "entity_name": "Askari Bank Limited", "filing_type": "quarterly", "filing_period": ["Q2-2024", "Q2-2023"]}
+## Chunk 53
+
+
+# Advances include Rs.34,443,402 thousand (2023: Rs. 29,063,587 thousand) which have been placed under non-performing status as detailed below:
+
+|Category of classification (Stage 3)|Non Performing Loans|Credit loss Allowance|Non Performing Loans|Provision|
+|---|---|---|---|---|
+|Domestic|(Rupees in '000)| | | |
+|Other Assets Especially Mentioned|276,723|252,870|133,619|1,423|
+|Substandard|4,080,006|3,289,442|2,112,910|523,884|
+|Doubtful|1,711,422|1,331,104|1,301,511|599,345|
+|Loss|28,375,251|27,549,929|25,515,547|24,512,043|
+|Total|34,443,402|32,423,345|29,063,587|25,636,695|
+
+---
+
+{"chunk_number": 54, "financial_data": "yes", "financial_statement_scope": "unconsolidated", "is_statement": "no", "statement_type": "none", "is_note": "yes", "note_link": "balance_sheet", "auditor_report": "no", "director_report": "no", "annual_report_discussion": "no", "file_name": "Askari_Bank_Limited_Quarterly_2024-06-30_chunks.md", "ticker": "AKBL", "entity_name": "Askari Bank Limited", "filing_type": "quarterly", "filing_period": ["Q2-2024", "Q2-2023"]}
+## Chunk 54
+
+
+# Particulars of credit loss allowance / provision against advances
+
+|Stage 3| |Stage 2|Stage 1|Total|
+|---|---|---|---|---|
+|Opening balance|25,636,695|-|2,538,527|28,175,222|
+|Impact of ECL recognized on adoption of IFRS 9|5,782,432|3,987,283|552,578|10,322,293|
+|Total|31,419,127|3,987,283|3,091,105|38,497,515|
+|Charge for the period|4,211,359|274,486|190,698|4,676,543|
+|Reversal for the period|(3,207,141)|(2,093,886)|(792,503)|(6,093,530)|
+|Total|1,004,218|(1,819,400)|(601,805)|(1,416,987)|
+|Closing balance|32,423,345|2,167,883|2,489,300|37,080,528|
+
+---
+
+{"chunk_number": 55, "financial_data": "yes", "financial_statement_scope": "unconsolidated", "is_statement": "no", "statement_type": "none", "is_note": "yes", "note_link": "balance_sheet", "auditor_report": "no", "director_report": "no", "annual_report_discussion": "no", "file_name": "Askari_Bank_Limited_Quarterly_2024-06-30_chunks.md", "ticker": "AKBL", "entity_name": "Askari Bank Limited", "filing_type": "quarterly", "filing_period": ["Q2-2024", "Q2-2023"]}
+## Chunk 55
+
+
+# Particulars of credit loss allowance
+
+|Specific|General|Consumer financing - General|Total| |
+|---|---|---|---|---|
+|Opening balance|29,297,528|1,010,000|815,586|31,123,114|
+|Exchange adjustments|-|22,369|-|22,369|
+|Charge for the year|2,657,741|1,152,111|52,676|3,862,528|
+|Reversal under IFRS 9 related to WBB|-|(86,544)|-|(86,544)|
+|Reversal for the year|(2,105,630)|(108,551)|(319,120)|(2,533,301)|
+|Total|552,111|957,016|(266,444)|1,242,683|
+|Amounts written off|(2,505,910)|-|-|(2,505,910)|
+|Amounts charged off|(1,707,034)|-|-|(1,707,034)|
+|Closing balance|25,636,695|1,989,385|549,142|28,175,222|
+
+---
+
+{"chunk_number": 56, "financial_data": "yes", "financial_statement_scope": "unconsolidated", "is_statement": "no", "statement_type": "none", "is_note": "yes", "note_link": "balance_sheet", "auditor_report": "no", "director_report": "no", "annual_report_discussion": "no", "file_name": "Askari_Bank_Limited_Quarterly_2024-06-30_chunks.md", "ticker": "AKBL", "entity_name": "Askari Bank Limited", "filing_type": "quarterly", "filing_period": ["Q2-2024", "Q2-2023"]}
+## Chunk 56
+
+
+# Advances - particulars of credit loss allowance
+
+|Stage 1| |Stage 2|Stage 3| | |
+|---|---|---|---|---|---|
+|Opening balance (including impact of ECL on adoption of IFRS 9)| |3,091,105|3,987,283|31,419,127| |
+|New Advances| |159,367|34,502|11,322| |
+|Advances repaid| |(94,267)|(96,369)|(653,799)| |
+|Transfer to stage 1| |31,330|(86,660)|-| |
+|Transfer to stage 2| |(116,774)|239,984|-| |
+|Transfer to stage 3| |(3,521)|(356,016)|4,200,038| |
+|Changes in risk parameters| |(577,940)|(1,554,841)|(2,553,343)| |
+|Closing balance| | |2,489,300|2,167,883|32,423,345|
+
+---
+
+---
+
+{"chunk_number": 57, "financial_data": "yes", "financial_statement_scope": "unconsolidated", "is_statement": "no", "statement_type": "none", "is_note": "yes", "note_link": "balance_sheet", "auditor_report": "no", "director_report": "no", "annual_report_discussion": "no", "file_name": "Askari_Bank_Limited_Quarterly_2024-06-30_chunks.md", "ticker": "AKBL", "entity_name": "Askari Bank Limited", "filing_type": "quarterly", "filing_period": ["Q2-2024", "Q2-2023"]}
+## Chunk 57
+
+
+# June 30, 2024 (Un-audited)
+
+# Loans Outstanding
+
+|Category of Classification|Loans Outstanding (Rupees in '000)|Credit Loss Allowance Held|Loans Outstanding| |Provision| |
+|---|---|---|---|---|---|---|
+|Domestic|Performing (Stage 1)|636,218,808|2,489,300|629,342,140|2,512,841| |
+|Underperforming (Stage 2)| |82,770,650|2,157,073|-|-| |
+|Non-Performing (Stage 3)|Other assets specially mentioned|276,723|252,870|133,619|1,423| |
+|Substandard| |4,080,006|3,289,442|2,112,910|523,884| |
+|Doubtful| |1,711,422|1,331,104|1,301,511|599,345| |
+|Loss| |28,375,251|27,549,929|25,515,547|24,512,043| |
+|Sub Total|Sub Total|753,432,860|37,069,718|658,405,727|28,149,536| |
+|Overseas|Underperforming (Stage 2)|927,804|10,810|2,902,322|25,686| |
+|Total|Total|754,360,664|37,080,528|661,308,049|28,175,222| |
+
+# PROPERTY AND EQUIPMENT
+
+|Item|June 30, 2024 (Un-audited)|December 31, 2023 (Audited)|
+|---|---|---|
+|Capital work-in-progress - note 11.1|516,207|491,050|
+|Property and equipment|19,413,505|18,207,022|
+|Total|19,929,712|18,698,072|
+
+11.1 This represents advances to suppliers and contractors.
+
+---
+
+{"chunk_number": 58, "financial_data": "yes", "financial_statement_scope": "unconsolidated", "is_statement": "no", "statement_type": "none", "is_note": "yes", "note_link": "balance_sheet", "auditor_report": "no", "director_report": "no", "annual_report_discussion": "no", "file_name": "Askari_Bank_Limited_Quarterly_2024-06-30_chunks.md", "ticker": "AKBL", "entity_name": "Askari Bank Limited", "filing_type": "quarterly", "filing_period": ["Q2-2024", "Q2-2023"]}
+## Chunk 58
+
+
+# Additions to property and equipment
+
+|Item|Period ended June 30, 2024 (Un-audited)|Period ended June 30, 2023|
+|---|---|---|
+|Capital work-in-progress|260,884|98,355|
+|Renovation of premises|396,366|165,657|
+|Furniture, fixtures and office equipment|280,587|118,694|
+|Machine and equipment|722,465|191,419|
+|Computer equipment|410,097|107,728|
+|Vehicles|40,969|7,716|
+|Total|2,111,368|689,569|
+
+# Disposal of property and equipment
+
+|Item|June 30, 2024 (Un-audited)|June 30, 2023|
+|---|---|---|
+|Renovation of premises|117|-|
+|Furniture, fixtures and office equipment|4,982|2,193|
+|Machine and equipment|1,828|657|
+|Computer equipment|360|-|
+|Vehicles|2,310|-|
+|Total|9,597|2,850|
+
+---
+
+{"chunk_number": 59, "financial_data": "yes", "financial_statement_scope": "unconsolidated", "is_statement": "no", "statement_type": "none", "is_note": "yes", "note_link": "balance_sheet", "auditor_report": "no", "director_report": "no", "annual_report_discussion": "no", "file_name": "Askari_Bank_Limited_Quarterly_2024-06-30_chunks.md", "ticker": "AKBL", "entity_name": "Askari Bank Limited", "filing_type": "quarterly", "filing_period": ["Q2-2024", "Q2-2023"]}
+## Chunk 59
+
+
+# RIGHT-OF-USE ASSETS
+
+|Item|June 30, 2024 (Un-audited)|December 31, 2023 (Audited)|
+|---|---|---|
+|Net carrying amount at January 1|8,312,812|6,891,568|
+|Additions during the period / year|2,318,296|3,227,516|
+|Depreciation for the period / year|(1,079,163)|(1,722,707)|
+|Deletions and other adjustments|24,234|(83,565)|
+|Net carrying amount at period / year end|9,576,179|8,312,812|
+
+# INTANGIBLE ASSETS
+
+|Item|June 30, 2024 (Un-audited)|December 31, 2023 (Audited)|
+|---|---|---|
+|Computer software|1,557,677|1,496,132|
+|Capital work in progress|388,048|359,475|
+|Total|1,945,725|1,855,607|
+
+---
+
+---
+
+{"chunk_number": 60, "financial_data": "yes", "financial_statement_scope": "unconsolidated", "is_statement": "no", "statement_type": "none", "is_note": "yes", "note_link": "balance_sheet", "auditor_report": "no", "director_report": "no", "annual_report_discussion": "no", "file_name": "Askari_Bank_Limited_Quarterly_2024-06-30_chunks.md", "ticker": "AKBL", "entity_name": "Askari Bank Limited", "filing_type": "quarterly", "filing_period": ["Q2-2024", "Q2-2023"]}
+## Chunk 60
+
+
+# (Un-audited)
+
+# Period ended June 30, 2024
+
+# Period ended June 30, 2023
+
+# 13.1 Additions to intangible assets (Rupees in '000)
+
+The following additions have been made to intangible assets during the period:
+
+|Capital work-in-progress|97,518|179,625|
+|---|---|---|
+|Directly purchased|101,787|46,157|
+|Total|199,305|225,782|
+
+---
+
+{"chunk_number": 61, "financial_data": "yes", "financial_statement_scope": "unconsolidated", "is_statement": "no", "statement_type": "none", "is_note": "yes", "note_link": "balance_sheet", "auditor_report": "no", "director_report": "no", "annual_report_discussion": "no", "file_name": "Askari_Bank_Limited_Quarterly_2024-06-30_chunks.md", "ticker": "AKBL", "entity_name": "Askari Bank Limited", "filing_type": "quarterly", "filing_period": ["Q2-2024", "Q2-2023"]}
+## Chunk 61
+
+
+# 14
+
+This represents carrying amount of land located at Haider Road, Rawalpindi, which was classified to non-current asset held for sale in 2022 consequent to a sale agreement. The carrying amount includes revaluation surplus of Rs. 980,987 thousand at which amount the asset was transferred from property and equipment.
+
+---
+
+{"chunk_number": 62, "financial_data": "yes", "financial_statement_scope": "unconsolidated", "is_statement": "no", "statement_type": "none", "is_note": "yes", "note_link": "balance_sheet", "auditor_report": "no", "director_report": "no", "annual_report_discussion": "no", "file_name": "Askari_Bank_Limited_Quarterly_2024-06-30_chunks.md", "ticker": "AKBL", "entity_name": "Askari Bank Limited", "filing_type": "quarterly", "filing_period": ["Q2-2024", "Q2-2023"]}
+## Chunk 62
+
+
+# (Un-audited)
+
+# June 30, 2024
+
+# December 31, 2023
+
+# 15 DEFERRED TAX ASSETS (Rupees in '000)
+
+(Taxable) / deductible temporary differences on
+
+|- Accelerated tax depreciation|(238,645)|(205,456)|
+|---|---|---|
+|- Deficit on revaluation of investments|2,934,002|6,117,625|
+|- Credit loss allowance / provision against advances|7,511,389|2,160,533|
+|Total|10,206,746|8,072,702|
+
+---
+
+{"chunk_number": 63, "financial_data": "yes", "financial_statement_scope": "unconsolidated", "is_statement": "no", "statement_type": "none", "is_note": "yes", "note_link": "balance_sheet", "auditor_report": "no", "director_report": "no", "annual_report_discussion": "no", "file_name": "Askari_Bank_Limited_Quarterly_2024-06-30_chunks.md", "ticker": "AKBL", "entity_name": "Askari Bank Limited", "filing_type": "quarterly", "filing_period": ["Q2-2024", "Q2-2023"]}
+## Chunk 63
+
+
+# 16 OTHER ASSETS
+
+|Income / mark-up accrued in local currency|85,991,132|73,588,636|
+|---|---|---|
+|Income / mark-up accrued in foreign currencies|1,170,984|2,134,035|
+|Advances, deposits, advance rent and other prepayments|900,831|655,949|
+|Advance taxation (payments less provisions)|7,566,795|3,897,561|
+|Deferred cost on recognition of loan at fair value - note 16.1|4,931,905|-|
+|Non-banking assets acquired in satisfaction of claims|396,746|406,862|
+|Receivable against trading of securities|40|46,245|
+|Stationary and stamps in hand|235,261|285,087|
+|Receivable from defined benefit plan|174,279|-|
+|Dividend receivable|7,409|4,453|
+|Margin against stand by letter of credit (SBLC)|822,391|-|
+|Acceptances|17,215,992|14,053,824|
+|Others|573,991|422,330|
+|Total|119,987,756|95,494,982|
+
+Credit loss allowance / provision held against other assets - note 16.2
+
+|Advances, deposits, advance rent and other prepayments|4,838|4,838|
+|---|---|---|
+|Acceptances|499,342|-|
+|Others|177,073|180,266|
+|Total|681,253|185,104|
+
+---
+
+{"chunk_number": 64, "financial_data": "yes", "financial_statement_scope": "unconsolidated", "is_statement": "no", "statement_type": "none", "is_note": "yes", "note_link": "balance_sheet", "auditor_report": "no", "director_report": "no", "annual_report_discussion": "no", "file_name": "Askari_Bank_Limited_Quarterly_2024-06-30_chunks.md", "ticker": "AKBL", "entity_name": "Askari Bank Limited", "filing_type": "quarterly", "filing_period": ["Q2-2024", "Q2-2023"]}
+## Chunk 64
+
+
+# 16.1
+
+This represents deferred portion of fair value loss arisen on initial recognition of loan to PIA Holding Company Limited (PIAHCL). SBP through its letter BPRD/BRD/PIAHCL/733688-2024 dated August 01, 2024 has allowed staggering of such fair value impact over a period of 6 years at rates of 5%, 10%, 15%, 20%, 25%, and 35% from year 1 to year 6, accordingly, the Bank has amortized 5% in the current period.
+---
+
+---
+
+{"chunk_number": 65, "financial_data": "yes", "financial_statement_scope": "unconsolidated", "is_statement": "no", "statement_type": "none", "is_note": "yes", "note_link": "balance_sheet", "auditor_report": "no", "director_report": "no", "annual_report_discussion": "no", "file_name": "Askari_Bank_Limited_Quarterly_2024-06-30_chunks.md", "ticker": "AKBL", "entity_name": "Askari Bank Limited", "filing_type": "quarterly", "filing_period": ["Q2-2024", "Q2-2023"]}
+## Chunk 65
+
+
+# 16.2.1 Movement in credit loss allowance / provision against other assets
+
+|(Rupees in '000)|(Un-audited) June 30, 2024|(Audited) December 31, 2023|
+|---|---|---|
+|Opening balance|185,104|182,608|
+|Impact of ECL recognized on adoption of IFRS 9|383,971|-|
+| |569,075|182,608|
+|Charge for the period / year|112,178|2,756|
+|Reversal for the period / year|-|(260)|
+| |112,178|2,496|
+|Closing balance|681,253|185,104|
+
+# 17 BILLS PAYABLE
+
+In Pakistan: 13,561,049 12,394,336
+
+---
+
+{"chunk_number": 66, "financial_data": "yes", "financial_statement_scope": "unconsolidated", "is_statement": "no", "statement_type": "none", "is_note": "yes", "note_link": "balance_sheet", "auditor_report": "no", "director_report": "no", "annual_report_discussion": "no", "file_name": "Askari_Bank_Limited_Quarterly_2024-06-30_chunks.md", "ticker": "AKBL", "entity_name": "Askari Bank Limited", "filing_type": "quarterly", "filing_period": ["Q2-2024", "Q2-2023"]}
+## Chunk 66
+
+
+# 18 BORROWINGS
+
+# Secured
+
+Borrowings from the State Bank of Pakistan under:
+
+|Export refinance scheme|16,610,063|19,840,120|
+|---|---|---|
+|Long term financing facility|7,666,644|8,610,177|
+|Financing facility for storage of agricultural produce|-|14,770|
+|Renewable energy financing facility|3,900,330|3,905,513|
+|Refinance from SBP| | |
+|Credit guarantee scheme for women entrepreneurs|33,267|12,700|
+|Temporary Economic Relief|10,975,245|11,947,741|
+|Modernization of SME|77,686|8,687|
+|Combating COVID-19|318,834|400,459|
+|Rupee based discounting of bills / receivable|3,836,642|3,707,901|
+|Working Capital Financing|58,900|-|
+|Total|43,477,611|48,448,068|
+
+# Repurchase agreement borrowings
+
+|State Bank of Pakistan|790,000,000|505,000,000|
+|---|---|---|
+|Financial institutions|22,279,436|86,921,724|
+|Total|812,279,436|591,921,724|
+
+# Refinance from Pakistan Mortgage Refinance Company
+
+4,747,990 2,992,873
+
+# Unsecured
+
+|Call borrowings|2,000,000|-|
+|---|---|---|
+|Overdrawn nostro accounts|27,158|-|
+|Total|862,532,195|643,362,665|
+
+---
+
+{"chunk_number": 67, "financial_data": "yes", "financial_statement_scope": "unconsolidated", "is_statement": "no", "statement_type": "none", "is_note": "yes", "note_link": "balance_sheet", "auditor_report": "no", "director_report": "no", "annual_report_discussion": "no", "file_name": "Askari_Bank_Limited_Quarterly_2024-06-30_chunks.md", "ticker": "AKBL", "entity_name": "Askari Bank Limited", "filing_type": "quarterly", "filing_period": ["Q2-2024", "Q2-2023"]}
+## Chunk 67
+
+
+# 19 DEPOSITS AND OTHER ACCOUNTS
+
+| |In local currency|In foreign currencies|Total|In local currency|In foreign currencies|Total| |
+|---|---|---|---|---|---|---|---|
+|Customers|Current accounts|368,482,818|31,510,568|399,993,386|320,379,384|31,589,438|351,968,822|
+| |Savings deposits|753,683,085|69,894,547|823,577,632|667,960,330|61,519,218|729,479,548|
+| |Fixed deposits|130,246,312|31,003,688|161,250,000|160,821,348|30,642,438|191,463,786|
+| |Total|1,252,412,215|132,408,803|1,384,821,018|1,149,161,062|123,751,094|1,272,912,156|
+|Financial institutions|Current accounts|1,260,834|138,065|1,398,899|1,149,626|241,191|1,390,817|
+| |Savings deposits|4,247,166|-|4,247,166|2,144,906|-|2,144,906|
+| |Fixed deposits|23,135,544|-|23,135,544|16,697,696|-|16,697,696|
+| |Total|28,643,544|138,065|28,781,609|19,992,228|241,191|20,233,419|
+| |Total|1,281,055,759|132,546,868|1,413,602,627|1,169,153,290|123,992,285|1,293,145,575|
+
+---
+
+{"chunk_number": 68, "financial_data": "yes", "financial_statement_scope": "unconsolidated", "is_statement": "no", "statement_type": "none", "is_note": "yes", "note_link": "balance_sheet", "auditor_report": "no", "director_report": "no", "annual_report_discussion": "no", "file_name": "Askari_Bank_Limited_Quarterly_2024-06-30_chunks.md", "ticker": "AKBL", "entity_name": "Askari Bank Limited", "filing_type": "quarterly", "filing_period": ["Q2-2024", "Q2-2023"]}
+## Chunk 68
+
+
+# 20 LEASE LIABILITIES
+
+| |(Un-audited) June 30, 2024|(Audited) December 31, 2023|
+|---|---|---|
+|Outstanding amount at the beginning of the period / year|9,699,474|8,084,073|
+|Additions during the period / year|2,318,296|3,227,516|
+|Lease payments including interest|(1,247,372)|(2,523,755)|
+|Interest expense for the period / year|697,985|1,061,886|
+|Termination and other adjustments|(116,541)|(150,246)|
+|Outstanding amount at the end of the period / year|11,351,842|9,699,474|
+
+# 20.1 Liabilities Outstanding
+
+|Not later than one year|1,082,448|1,143,794|
+|---|---|---|
+|Later than one year and upto five years|4,160,693|3,925,528|
+|Over five years|6,108,701|4,630,152|
+|Total at the end of the period / year|11,351,842|9,699,474|
+
+---
+
+# SUBORDINATED DEBTS
+
+|(Un-audited)|(Audited)|
+|---|---|
+|June 30, 2024|December 31, 2023|
+|(Rupees in '000)|(Rupees in '000)|
+|Term Finance Certificates - VI (ADT-1)|6,000,000|
+|Term Finance Certificates - VII|6,000,000|
+|Total|12,000,000|
+
+---
+
+{"chunk_number": 69, "financial_data": "yes", "financial_statement_scope": "unconsolidated", "is_statement": "no", "statement_type": "none", "is_note": "yes", "note_link": "balance_sheet", "auditor_report": "no", "director_report": "no", "annual_report_discussion": "no", "file_name": "Askari_Bank_Limited_Quarterly_2024-06-30_chunks.md", "ticker": "AKBL", "entity_name": "Askari Bank Limited", "filing_type": "quarterly", "filing_period": ["Q2-2024", "Q2-2023"]}
+## Chunk 69
+
+
+# 21.1
+
+The Bank has raised unsecured sub-ordinated loans through issuance of Term Finance Certificates to improve the Bank's capital adequacy. Liability to the TFC holders is subordinated to and rank inferior to all other indebtedness of the Bank including deposits and is not redeemable before maturity without prior approval of the SBP. The salient features of outstanding issues are as follows:
+
+|Term Finance Certificates - VI (ADT-1)|Term Finance Certificates - VII|
+|---|---|
+|Outstanding amount - Rupees in '000|6,000,000|
+|Issue amount|Rupees 6,000 million|
+|Issue date|July 03, 2018|
+|Maturity Date|Perpetual|
+|Rating|AA-|
+|Security|Unsecured|
+|Listing|Listed|
+|Profit payment frequency|Payable six monthly|
+|Redemption|Perpetual|
+|Profit Rate|Base Rate plus 1.50%|
+|Call option|Exercisable after 60 months from the date of issue subject to approval by the SBP.|
+|Lock-in-clause|Payment of profit will be subject to the condition that such payment will not result in breach of the Bank's regulatory Minimum Capital Requirement or Capital Adequacy Ratio set by SBP from time to time.|
+|Loss absorption clause|The Instrument will be subject to loss absorption and/or any other requirements of SBP upon the occurrence of a Point of Non-Viability event as per Section A-5-3 of Annexure 5 of the Circular.|
+
+---
+|OTHER LIABILITIES|(Rupees in '000)|(Un-audited)|(Audited)| | |
+|---|---|---|---|---|---|
+| |June 30, 2024|December 31, 2023| | | |
+| | |22|Mark-up / return / interest payable in local currency|16,360,007|22,119,508|
+| |Mark-up / return / interest payable in foreign currencies|1,363,654|1,267,444| | |
+| |Unearned commission and income on bills discounted|1,822,384|2,003,160| | |
+| |Accrued expenses|1,794,834|2,593,641| | |
+| |Advance payments|373,598|314,319| | |
+| |Acceptances|17,215,992|14,053,824| | |
+| |Dividend payable|233,158|193,493| | |
+| |Advance against sale of non-banking assets|461,535|461,535| | |
+| |Mark to market loss on forward foreign exchange contracts|151,805|1,322,589| | |
+| |Branch adjustment account|284,974|525,732| | |
+| |Payable to defined benefit plan|-|67,468| | |
+| |Provision for employees' compensated absences|801,248|724,890| | |
+| |Security deposit against lease / Ijarah financing|3,559,885|3,485,208| | |
+| |Levies and taxes payable|2,061,997|2,087,179| | |
+| |Workers' Welfare Fund|1,571,596|1,301,596| | |
+| |Switch settlement accounts|2,680,574|1,375,528| | |
+| |Credit loss allowance / provision against off-balance sheet obligations - note 22.1|1,787,683|160,558| | |
+| |Payable to a borrower|898,666|-| | |
+| |Others|2,444,581|2,223,416| | |
+| |Total|55,868,171|56,281,088| | |
+
+---
+
+{"chunk_number": 70, "financial_data": "yes", "financial_statement_scope": "unconsolidated", "is_statement": "no", "statement_type": "none", "is_note": "yes", "note_link": "balance_sheet", "auditor_report": "no", "director_report": "no", "annual_report_discussion": "no", "file_name": "Askari_Bank_Limited_Quarterly_2024-06-30_chunks.md", "ticker": "AKBL", "entity_name": "Askari Bank Limited", "filing_type": "quarterly", "filing_period": ["Q2-2024", "Q2-2023"]}
+## Chunk 70
+
+
+# 22.1 Credit loss allowance / provision against off-balance sheet obligations
+
+| |Opening balance|160,558|134,767|
+|---|---|---|---|
+| |Impact of ECL recognized on adoption of IFRS 9|226,837|-|
+| |Total|387,395|134,767|
+| |Exchange adjustment|-|133|
+| |Charge for the period / year|1,400,288|26,319|
+| |Reversal for the period / year|-|(661)|
+| |Net charge|1,400,288|25,658|
+| |Closing balance|1,787,683|160,558|
+
+---
+
+{"chunk_number": 71, "financial_data": "yes", "financial_statement_scope": "unconsolidated", "is_statement": "no", "statement_type": "none", "is_note": "yes", "note_link": "balance_sheet", "auditor_report": "no", "director_report": "no", "annual_report_discussion": "no", "file_name": "Askari_Bank_Limited_Quarterly_2024-06-30_chunks.md", "ticker": "AKBL", "entity_name": "Askari Bank Limited", "filing_type": "quarterly", "filing_period": ["Q2-2024", "Q2-2023"]}
+## Chunk 71
+
+
+# 23 SURPLUS ON REVALUATION OF ASSETS - NET OF TAX
+
+| |(Deficit) / surplus on revaluation of:| | |
+|---|---|---|---|
+| |- Securities measured at FVOCI - Debt|(8,134,874)|-|
+| |- Securities measured at FVOCI - Equity|2,147,114|-|
+| |- Available for sale securities - Debt|-|(14,624,907)|
+| |- Available for sale securities - Equity|-|2,139,959|
+| |- Property and equipment|10,365,737|10,365,737|
+| |- Non-banking assets acquired in satisfaction of claims|459,948|459,948|
+| |Total|4,837,925|(1,659,263)|
+| |Deferred tax on deficit / (surplus) on revaluation of:| | |
+| |- Securities measured at FVOCI - Debt|3,986,088|-|
+| |- Securities measured at FVOCI - Equity|(1,052,086)|-|
+| |- Available for sale securities - Debt|-|7,166,205|
+| |- Available for sale securities - Equity|-|(1,048,580)|
+| |Total|2,934,002|6,117,625|
+| |Final Total|7,771,927|4,458,362|
+
+---
+
+---
+
+{"chunk_number": 72, "financial_data": "yes", "financial_statement_scope": "unconsolidated", "is_statement": "no", "statement_type": "none", "is_note": "yes", "note_link": "balance_sheet", "auditor_report": "no", "director_report": "no", "annual_report_discussion": "no", "file_name": "Askari_Bank_Limited_Quarterly_2024-06-30_chunks.md", "ticker": "AKBL", "entity_name": "Askari Bank Limited", "filing_type": "quarterly", "filing_period": ["Q2-2024", "Q2-2023"]}
+## Chunk 72
+
+
+# 24 CONTINGENCIES AND COMMITMENTS
+
+(Rupees in '000)
+
+| |(Un-audited) June 30, 2024|(Audited) December 31, 2023|
+|---|---|---|
+|- Guarantees - note 24.1|315,076,813|350,296,809|
+|- Commitments - note 24.2|558,937,204|506,769,966|
+|- Other contingent liabilities - note 24.3|1,414,970|1,429,701|
+|Total|875,428,987|858,496,476|
+
+# 24.1 Guarantees
+
+| |(Un-audited) June 30, 2024|(Audited) December 31, 2023|
+|---|---|---|
+|Financial guarantees|4,940,529|7,400,327|
+|Performance guarantees|182,662,360|188,322,832|
+|Other guarantees|127,473,924|154,573,650|
+|Total|315,076,813|350,296,809|
+
+---
+
+{"chunk_number": 73, "financial_data": "yes", "financial_statement_scope": "unconsolidated", "is_statement": "no", "statement_type": "none", "is_note": "yes", "note_link": "balance_sheet", "auditor_report": "no", "director_report": "no", "annual_report_discussion": "no", "file_name": "Askari_Bank_Limited_Quarterly_2024-06-30_chunks.md", "ticker": "AKBL", "entity_name": "Askari Bank Limited", "filing_type": "quarterly", "filing_period": ["Q2-2024", "Q2-2023"]}
+## Chunk 73
+
+
+# 24.2 Commitments
+
+| |(Un-audited) June 30, 2024|(Audited) December 31, 2023|
+|---|---|---|
+|Documentary credits and short-term trade-related transactions - letters of credit|230,972,362|226,655,650|
+|Commitments in respect of:| | |
+|- forward foreign exchange contracts - note 24.2.1|327,454,901|276,444,892|
+|- forward government securities transactions - note 24.2.2|-|2,000,000|
+|- non-government securities transactions - note 24.2.3|-|1,174,056|
+|Commitments for acquisition of:| | |
+|- property and equipment|262,750|255,774|
+|- intangible assets|247,191|239,594|
+|Total|558,937,204|506,769,966|
+
+---
+
+{"chunk_number": 74, "financial_data": "yes", "financial_statement_scope": "unconsolidated", "is_statement": "no", "statement_type": "none", "is_note": "yes", "note_link": "balance_sheet", "auditor_report": "no", "director_report": "no", "annual_report_discussion": "no", "file_name": "Askari_Bank_Limited_Quarterly_2024-06-30_chunks.md", "ticker": "AKBL", "entity_name": "Askari Bank Limited", "filing_type": "quarterly", "filing_period": ["Q2-2024", "Q2-2023"]}
+## Chunk 74
+
+
+# 24.2.1 Commitments in respect of forward foreign exchange contracts
+
+| |(Un-audited) June 30, 2024|(Audited) December 31, 2023|
+|---|---|---|
+|Purchase|188,094,426|153,115,769|
+|Sale|139,360,475|123,329,123|
+|Total|327,454,901|276,444,892|
+
+The above commitments have maturities falling within one year.
+
+# 24.2.2 Commitments in respect of government securities transactions
+
+|Sale|-|2,000,000|
+|---|---|---|
+| |-|2,000,000|
+
+# 24.2.3 Commitments in respect of non government securities transactions
+
+|Purchase|-|1,168,290|
+|---|---|---|
+|Sale|-|5,766|
+| |-|1,174,056|
+
+---
+
+{"chunk_number": 75, "financial_data": "yes", "financial_statement_scope": "unconsolidated", "is_statement": "no", "statement_type": "none", "is_note": "yes", "note_link": "balance_sheet", "auditor_report": "no", "director_report": "no", "annual_report_discussion": "no", "file_name": "Askari_Bank_Limited_Quarterly_2024-06-30_chunks.md", "ticker": "AKBL", "entity_name": "Askari Bank Limited", "filing_type": "quarterly", "filing_period": ["Q2-2024", "Q2-2023"]}
+## Chunk 75
+
+
+# 24.3 Other contingent liabilities
+
+These represent certain claims by third parties against the Bank, which are being contested in the Courts of law. Based on legal advice and / or internal assessment, management is confident that the matters will be decided in Bank’s favor and the possibility of any outcome against the Bank is remote and accordingly no provision has been made in these condensed interim unconsolidated financial statements.
+
+| |(Un-audited) June 30, 2024|(Audited) December 31, 2023|
+|---|---|---|
+|Claims|592,579|596,911|
+|Stand by letters of credit issued by a correspondent bank on behalf of the Bank|822,391|832,790|
+|Total|1,414,970|1,429,701|
+
+---
+
+---
+
+{"chunk_number": 76, "financial_data": "yes", "financial_statement_scope": "unconsolidated", "is_statement": "no", "statement_type": "none", "is_note": "yes", "note_link": "balance_sheet", "auditor_report": "no", "director_report": "no", "annual_report_discussion": "no", "file_name": "Askari_Bank_Limited_Quarterly_2024-06-30_chunks.md", "ticker": "AKBL", "entity_name": "Askari Bank Limited", "filing_type": "quarterly", "filing_period": ["Q2-2024", "Q2-2023"]}
+## Chunk 76
+
+
+# 25 DERIVATIVE INSTRUMENTS
+
+The Bank does not offer derivative products such as Interest Rate Swaps, Cross Currency Swaps, Forward Rate Agreements or Foreign Exchange Options. The Bank's Treasury and Investment Banking Groups buy and sell derivative instruments such as Forward Exchange Contracts (FECs) and Equity Futures (EFs).
+
+(Un-audited)
+
+---
+
+{"chunk_number": 77, "financial_data": "yes", "financial_statement_scope": "unconsolidated", "is_statement": "no", "statement_type": "none", "is_note": "yes", "note_link": "profit_and_loss", "auditor_report": "no", "director_report": "no", "annual_report_discussion": "no", "file_name": "Askari_Bank_Limited_Quarterly_2024-06-30_chunks.md", "ticker": "AKBL", "entity_name": "Askari Bank Limited", "filing_type": "quarterly", "filing_period": ["Q2-2024", "Q2-2023"]}
+## Chunk 77
+
+
+# 26 MARK-UP / RETURN / INTEREST EARNED
+
+(Rupees in '000)
+
+|On:|Period ended June 30, 2024|Period ended June 30, 2023|
+|---|---|---|
+|Loans and advances|69,894,403|51,765,694|
+|Investments|133,004,997|75,416,614|
+|Lendings to financial institutions|678,911|72,958|
+|Balances with banks|527,887|239,575|
+|Securities purchased under resale agreements|1,235,049|517,039|
+|Total|205,341,247|128,011,880|
+
+---
+
+{"chunk_number": 78, "financial_data": "yes", "financial_statement_scope": "unconsolidated", "is_statement": "no", "statement_type": "none", "is_note": "yes", "note_link": "profit_and_loss", "auditor_report": "no", "director_report": "no", "annual_report_discussion": "no", "file_name": "Askari_Bank_Limited_Quarterly_2024-06-30_chunks.md", "ticker": "AKBL", "entity_name": "Askari Bank Limited", "filing_type": "quarterly", "filing_period": ["Q2-2024", "Q2-2023"]}
+## Chunk 78
+
+
+# 27 MARK-UP / RETURN / INTEREST EXPENSED
+
+On:
+
+| |Period ended June 30, 2024|Period ended June 30, 2023|
+|---|---|---|
+|Deposits|90,922,555|67,807,224|
+|Borrowings|84,987,472|32,270,412|
+|Subordinated debts|1,360,377|1,165,762|
+|Cost of FX swaps against foreign currency deposits / borrowings|2,349,368|1,451,990|
+|Lease liability|697,985|495,230|
+|Fair value loss on recognition of financial asset at fair value - note 16.1|259,574|-|
+|Total|180,577,331|103,190,618|
+
+---
+
+{"chunk_number": 79, "financial_data": "yes", "financial_statement_scope": "unconsolidated", "is_statement": "no", "statement_type": "none", "is_note": "yes", "note_link": "profit_and_loss", "auditor_report": "no", "director_report": "no", "annual_report_discussion": "no", "file_name": "Askari_Bank_Limited_Quarterly_2024-06-30_chunks.md", "ticker": "AKBL", "entity_name": "Askari Bank Limited", "filing_type": "quarterly", "filing_period": ["Q2-2024", "Q2-2023"]}
+## Chunk 79
+
+
+# 28 FEE AND COMMISSION INCOME
+
+| |Period ended June 30, 2024|Period ended June 30, 2023|
+|---|---|---|
+|Branch banking customer fees|443,257|382,800|
+|Consumer finance related fees|42,049|47,729|
+|Card related fees (debit and credit cards)|883,917|712,684|
+|Credit related fees|232,674|433,658|
+|Investment banking fees|202,327|155,433|
+|Commission on trade|699,417|871,295|
+|Commission on guarantees|746,490|634,152|
+|Commission on remittances including home remittances|170,148|94,390|
+|Commission on bancassurance|13,188|16,503|
+|Others|23,915|44,503|
+|Total|3,457,382|3,393,147|
+
+# 29 GAIN ON SECURITIES
+
+| |Period ended June 30, 2024|Period ended June 30, 2023|
+|---|---|---|
+|Realised - note 29.1|318,445|16,289|
+|Unrealised gain on securities measured at FVTPL|577,883|9,476|
+|Total|896,328|25,765|
+
+# 29.1 Realised gain / (loss) on:
+
+| |Period ended June 30, 2024|Period ended June 30, 2023|
+|---|---|---|
+|Federal Government Securities|269,236|(153,747)|
+|Shares|49,209|127,469|
+|Non Government Debt Securities|-|37,833|
+|Mutual Funds|-|4,734|
+|Total|318,445|16,289|
+
+---
+
+---
+
+{"chunk_number": 80, "financial_data": "yes", "financial_statement_scope": "unconsolidated", "is_statement": "no", "statement_type": "none", "is_note": "yes", "note_link": "profit_and_loss", "auditor_report": "no", "director_report": "no", "annual_report_discussion": "no", "file_name": "Askari_Bank_Limited_Quarterly_2024-06-30_chunks.md", "ticker": "AKBL", "entity_name": "Askari Bank Limited", "filing_type": "quarterly", "filing_period": ["Q2-2024", "Q2-2023"]}
+## Chunk 80
+
+
+# (Un-audited)
+
+# Period ended June 30, 2024
+
+# Period ended June 30, 2023
+
+|30 OTHER INCOME| |(Rupees in '000)| | |
+|---|---|---|---|---|
+|Gain on sale of property and equipment|6,687|4,019| | |
+|Rent of lockers|27,311|25,403| | |
+|Recovery of expenses from customers|163,301|160,482| | |
+|Termination of lease contracts under IFRS - 16 Leases|5,524|9,900| | |
+| |202,823|199,804| | |
+
+---
+
+{"chunk_number": 81, "financial_data": "yes", "financial_statement_scope": "unconsolidated", "is_statement": "no", "statement_type": "none", "is_note": "yes", "note_link": "profit_and_loss", "auditor_report": "no", "director_report": "no", "annual_report_discussion": "no", "file_name": "Askari_Bank_Limited_Quarterly_2024-06-30_chunks.md", "ticker": "AKBL", "entity_name": "Askari Bank Limited", "filing_type": "quarterly", "filing_period": ["Q2-2024", "Q2-2023"]}
+## Chunk 81
+
+
+# 31 OPERATING EXPENSES
+
+|Total compensation expenses - note 31.1|7,965,117|6,952,448|
+|---|---|---|
+|Property expense| | |
+|Rent and taxes|85,651|72,469|
+|Insurance|52,631|45,924|
+|Utilities cost|810,119|622,111|
+|Security (including guards)|474,830|381,112|
+|Repair & maintenance (including janitorial expenses)|263,792|211,294|
+|Depreciation on right-of-use assets|1,079,163|811,224|
+|Depreciation|146,501|120,980|
+| |2,912,687|2,265,114|
+|Information technology expenses| | |
+|Software maintenance|520,130|334,067|
+|Hardware maintenance|105,534|80,107|
+|Depreciation|175,476|113,404|
+|Amortisation|110,749|82,922|
+|Network charges|318,086|261,287|
+| |1,229,975|871,787|
+|Other operating expenses| | |
+|Directors' fees, allowances|21,680|15,200|
+|Fees and allowances to shariah board|4,818|4,746|
+|Rates, taxes, insurance etc.|70,354|89,800|
+|Legal and professional charges|44,474|48,917|
+|Brokerage and commission|136,977|100,672|
+|NIFT clearing charges|48,923|52,342|
+|Repair and maintenance|440,281|401,987|
+|Communications|882,803|475,841|
+|Stationery and printing|355,899|301,362|
+|Marketing, advertisement and publicity|148,978|54,077|
+|Donations|-|524,397|
+|Auditors' remuneration|35,242|26,389|
+|Travelling, conveyance and entertainment|263,273|194,534|
+|Depreciation|312,430|238,475|
+|Security service charges|354,641|356,972|
+|Training and development|13,058|11,603|
+|Deposit premium expense|428,803|351,160|
+|Outsourced service cost|283,203|102,216|
+|Other expenditure|282,623|159,049|
+| |4,128,460|3,509,739|
+| |16,236,239|13,599,088|
+
+# 31.1 Total compensation expense
+
+|Managerial remuneration|6,194,508|5,194,287|
+|---|---|---|
+|Charge for defined benefit / contribution plan|521,060|423,655|
+|Other staff cost - note 31.1.1|1,249,549|1,334,506|
+| |7,965,117|6,952,448|
+
+# 31.1.1 Other staff cost includes incentive to consumer sales staff, dearness allowance, cash handling allowance, staff group insurance, provision for severance etc.
+---
+
+---
+
+{"chunk_number": 82, "financial_data": "yes", "financial_statement_scope": "unconsolidated", "is_statement": "no", "statement_type": "none", "is_note": "yes", "note_link": "profit_and_loss", "auditor_report": "no", "director_report": "no", "annual_report_discussion": "no", "file_name": "Askari_Bank_Limited_Quarterly_2024-06-30_chunks.md", "ticker": "AKBL", "entity_name": "Askari Bank Limited", "filing_type": "quarterly", "filing_period": ["Q2-2024", "Q2-2023"]}
+## Chunk 82
+
+
+# 32
+
+This represents penalties imposed by the State Bank of Pakistan.
+
+(Un-audited)
+
+|Period ended|Period ended| | |
+|---|---|---|---|
+|June 30, 2024|June 30, 2023| | |
+|CREDIT LOSS ALLOWANCE / PROVISIONS AND WRITE OFFS - NET (Rupees in '000)| | | |
+|Credit loss allowance / provision charge against investments - note 9.3.1|(495,888)| |231,427|
+|Credit loss allowance / provision charge against loans and advances - note 10.3|(1,416,987)| |447,517|
+|Credit loss allowance against other assets - 16.2.1|112,178|-| |
+|Credit loss allowance / (reversal of provision) against repurchase agreement lendings|(64)| |(14,860)|
+|Credit loss allowance / (reversal of provision) against off-balance sheet obligations - note 22.1|1,400,288| |(649)|
+|Credit loss allowance / provision charge against balances with other banks|(7)| |37|
+|Recovery of written off / charged off bad debts|(53,312)| |(46,196)|
+|Total|(453,792)|617,276| |
+
+# 34
+
+TAXATION
+
+|Current|8,014,303|8,439,244|
+|---|---|---|
+|Deferred|121,398|(271,007)|
+|Total|8,135,701|8,168,237|
+
+---
+
+{"chunk_number": 83, "financial_data": "yes", "financial_statement_scope": "unconsolidated", "is_statement": "no", "statement_type": "none", "is_note": "yes", "note_link": "profit_and_loss", "auditor_report": "no", "director_report": "no", "annual_report_discussion": "no", "file_name": "Askari_Bank_Limited_Quarterly_2024-06-30_chunks.md", "ticker": "AKBL", "entity_name": "Askari Bank Limited", "filing_type": "quarterly", "filing_period": ["Q2-2024", "Q2-2023"]}
+## Chunk 83
+
+
+# 34.1 Tax status and contingencies
+
+i) During the year ended December 31 2023, the Federal Government issued S.R.O 1588 (l)/2023 on 21 November 2023 under section 99D of the Income Tax Ordinance 2001, whereby the banking sector was specified the sector for the payment of additional tax on windfall income. Through said S.R.O, the Federal Government also specified the method to determine windfall income, tax rate to be applied on such windfall income and tax years under scope. The Bank has challenged the S.R.O through petition before the Honorable Islamabad High Court with regards to retrospective application of Section 99D of the Income Tax Ordinance, 2001 for tax years 2022 and 2023. The Honorable Islamabad High Court through its order dated 30 November 2023 has suspended the operation of S.R.O.1588 (l)/2023 and the said injunctive order continues to operate till date of next hearing for which no date has been fixed yet. Management based on the legal advisor opinion believes that the bank has reasonably good chance to succeed in this case and therefore has not recognized any provision in the financial statements. Additional tax on windfall income for tax years 2022 and 2023 is estimated to be Rs. 2,189 million.
+
+ii) The Bank has filed tax returns for and up to tax year 2023. The assessments for and up to tax year 2023 were amended by the tax authorities creating accumulated additional tax demand, mainly in the matters of admissibility of recoveries against doubtful debts for Rs 1,119 million, provision for diminution in the value of investments for Rs 3,144.44 million, bad debts written off for Rs 242.892 million, provision for substandard advances for Rs 74.95 million, Provision against other assets/fixed assets for Rs 145.81 million, disallowance of employee benefit expenses Rs 228.680 Million, disallowance of depreciation on lease assets Rs 773.88 and Other disallowances of expenses/credits for Rs 551.78 million. Bank’s Appeals against these orders are currently pending before Commissioner Appeals, Appellate Tribunal and Islamabad High Court. The management and tax advisor of the Bank are confident that these matters will be decided in favor of the Bank and consequently no provision has been made thereon. Tax payments by the Bank against certain matters are being carried forward as receivable, as management and tax advisor of the Bank are confident of their realization.
+
+iii) Consequent upon the amalgamation with and into the Bank, the outstanding tax issues relating to Askari Leasing Limited (ALL) are as follows: Tax returns of ALL have been filed for and up to tax year 2010. The returns for the tax years 2003 to 2010 were amended by the tax authorities mainly in the matter of admissibility of initial allowance claimed on leased vehicles. On appeals filed by ALL, partial relief was provided by the CIR(A) by allowing initial allowance on commercial vehicles. Re-assessment has not yet been carried out by the tax department. A tax demand is however not likely to arise after re-assessment. For and up to the assessment years 2002-2003, reference applications filed by the tax authorities in the matter of computation of lease income are pending decisions by the High Court. However, the likelihood of an adverse decision is considered low due to a favorable decision of the High Court in a parallel case.
+
+(Un-audited)
+
+|Period ended| |Period ended| |
+|---|---|---|---|
+|June 30, 2024|June 30, 2023| | |
+|BASIC EARNINGS PER SHARE| | | |
+|Profit for the period - Rupees in '000| |8,071,451|8,837,543|
+|Weighted average number of Ordinary Shares - numbers| |1,449,299,207|1,449,299,207|
+|Basic earnings per share - Rupees|5.57|6.10| |
+|There is no dilutive effect on the basic earnings per share of the Bank, therefore dilutive earnings per share have not been presented separately.| | | |
+
+---
+
+---
+
+{"chunk_number": 84, "financial_data": "yes", "financial_statement_scope": "unconsolidated", "is_statement": "no", "statement_type": "none", "is_note": "yes", "note_link": "none", "auditor_report": "no", "director_report": "no", "annual_report_discussion": "no", "file_name": "Askari_Bank_Limited_Quarterly_2024-06-30_chunks.md", "ticker": "AKBL", "entity_name": "Askari Bank Limited", "filing_type": "quarterly", "filing_period": ["Q2-2024", "Q2-2023"]}
+## Chunk 84
+
+
+# 36 FAIR VALUE MEASUREMENTS
+
+The fair value of quoted securities other than those classified as Amortised Cost, is based on quoted market price. Quoted securities classified as Amortised Cost are carried at cost. The fair value of unquoted equity securities, other than investments in associates and subsidiaries, is determined on the basis of the break-up value of these investments as per their latest available audited financial statements.
+
+The fair value of unquoted debt securities, fixed term advances, fixed term deposits and borrowings, other assets and other liabilities cannot be calculated with sufficient reliability due to the absence of a current and active market for such assets and liabilities and reliable data regarding market rates for similar instruments. In the opinion of the management, the fair value of the remaining financial assets and liabilities are not significantly different from their carrying values since they are either short-term in nature or, in the case of customer advances, deposits and certain long term borrowings, are frequently repriced.
+
+All assets and liabilities for which fair value is measured or disclosed in these unconsolidated financial statements are categorized within the fair value hierarchy based on the lowest level input that is significant to the fair value measurement.
+
+---
+
+{"chunk_number": 85, "financial_data": "yes", "financial_statement_scope": "unconsolidated", "is_statement": "no", "statement_type": "none", "is_note": "yes", "note_link": "none", "auditor_report": "no", "director_report": "no", "annual_report_discussion": "no", "file_name": "Askari_Bank_Limited_Quarterly_2024-06-30_chunks.md", "ticker": "AKBL", "entity_name": "Askari Bank Limited", "filing_type": "quarterly", "filing_period": ["Q2-2024", "Q2-2023"]}
+## Chunk 85
+
+
+# 36.1 Fair value of financial assets
+
+The Bank measures fair values using the following fair value hierarchy that reflects the significance of the inputs used in making the measurements:
+
+- Level 1: Fair value measurements using quoted prices (unadjusted) in active markets (Pakistan Stock Exchange) for identical assets or liabilities.
+- Level 2: Fair value measurements using inputs other than quoted prices included within Level 1 that are observable for the assets or liability, either directly (i.e. as prices) or indirectly (i.e. derived from prices) available at MUFAP and Reuters page.
+- Level 3: Fair value measurements using input for the asset or liability that are not based on observable market data (i.e. unobservable inputs).
+
+---
+
+{"chunk_number": 86, "financial_data": "yes", "financial_statement_scope": "unconsolidated", "is_statement": "no", "statement_type": "none", "is_note": "yes", "note_link": "none", "auditor_report": "no", "director_report": "no", "annual_report_discussion": "no", "file_name": "Askari_Bank_Limited_Quarterly_2024-06-30_chunks.md", "ticker": "AKBL", "entity_name": "Askari Bank Limited", "filing_type": "quarterly", "filing_period": ["Q2-2024", "Q2-2023"]}
+## Chunk 86
+
+
+# Valuation techniques used in determination of fair values within level 2 and level 3
+
+|Federal Government Securities|The fair values of Federal Government Securities are determined on the basis of rates / prices sourced from Reuters.|
+|---|---|
+|Non Government Debt Securities|Non Government Debt Securities are valued on the basis of rates announced by Mutual Fund Association of Pakistan (MUFAP).|
+|Foreign Government Debt Securities|Foreign Government Debt Securities are valued on the basis of rates taken from custodian of the securities which are usually drawn from Bloomberg.|
+|Unit of Mutual Funds|Fair values of mutual funds are determined based on their net asset values as published at the close of each business day.|
+|Forward foreign exchange contracts and Forward Government securities transactions|The fair values of forward foreign exchange contracts and forward Government securities transactions are determined using forward pricing calculations.|
+|Fixed Assets and Non Banking Assets Acquired in Satisfaction of Claims|Land and Non Banking assets acquired in satisfaction of claims are valued on a periodic basis using professional valuers. The valuation is based on their assessments of the market value of the assets. The effect of changes in the unobservable inputs used in the valuations cannot be determined with certainty. Accordingly, a qualitative disclosure of sensitivity has not been presented in these condensed interim unconsolidated financial statements.|
+
+---
+
+---
+
+{"chunk_number": 87, "financial_data": "yes", "financial_statement_scope": "unconsolidated", "is_statement": "no", "statement_type": "none", "is_note": "yes", "note_link": "balance_sheet", "auditor_report": "no", "director_report": "no", "annual_report_discussion": "no", "file_name": "Askari_Bank_Limited_Quarterly_2024-06-30_chunks.md", "ticker": "AKBL", "entity_name": "Askari Bank Limited", "filing_type": "quarterly", "filing_period": ["Q2-2024", "Q2-2023"]}
+## Chunk 87
+
+
+# The following table provides the fair values of those of the Bank’s financial assets and liabilities that are recognized or disclosed at fair value in these unconsolidated condensed interim financial statements:
+
+|Carrying / Notional Value|Level 1|Level 2|Level 3|Total|
+|---|---|---|---|---|
+|June 30, 2024 (Un-audited)| | | | |
+|On balance sheet financial instruments| | | | |
+|Financial assets - measured at fair value| | | | |
+|Investments| | | | |
+|Federal Government Securities|1,279,336,456|6,748,604|1,272,587,852|1,279,336,456|
+|Shares|6,945,035|6,945,035| |6,945,035|
+|Units of open end mutual funds|2,433,350|1,543,880|889,470|2,433,350|
+|Fully paid preference shares|23,579|23,579| |23,579|
+|Non Government Debt Securities|14,082,135| |14,082,135|14,082,135|
+| |1,302,820,555|15,261,098|1,287,559,457|1,302,820,555|
+|Financial assets - disclosed but not measured at fair value| | | | |
+|Investments| | | | |
+|Federal Government Securities|66,882,230|2,614,961|64,267,269|66,882,230|
+|Unlisted shares|350,000| | | |
+|Cash and balances with treasury banks|119,301,623| | | |
+|Balances with other banks|12,160,356| | | |
+|Advances|717,280,136| | | |
+|Other assets|105,105,524| | | |
+| |1,021,079,869|2,614,961|64,267,269|66,882,230|
+|Off-balance sheet financial instruments - measured at fair value| | | | |
+|Forward purchase of foreign exchange|188,094,426| |(1,942,305)|(1,942,305)|
+|Forward sale of foreign exchange|139,360,475| |1,790,500|1,790,500|
+|December 31, 2023 (Audited)| | | | |
+|On balance sheet financial instruments| | | | |
+|Financial assets - measured at fair value| | | | |
+|Investments| | | | |
+|Federal Government Securities|1,102,510,824|8,421,152|1,094,089,672|1,102,510,824|
+|Shares|6,243,266|6,243,266| |6,243,266|
+|Units of open end mutual funds|960,596|149,958|810,638|960,596|
+|Fully paid preference shares|28,150|28,150| |28,150|
+|Non Government Debt Securities|14,449,154| |14,449,154|14,449,154|
+| |1,124,191,990|14,842,526|1,109,349,464|1,124,191,990|
+|Financial assets - disclosed but not measured at fair value| | | | |
+|Investments| | | | |
+|Federal Government Securities|56,798,998|10,756,335|46,042,663|56,798,998|
+|Shares|350,000| | | |
+|Units of open end mutual funds|1,000,000| | | |
+|Cash and balances with treasury banks|160,087,394| | | |
+|Balances with other banks|13,789,031| | | |
+|Advances|633,132,827| | | |
+|Other assets|90,069,257| | | |
+| |955,227,507|10,756,335|46,042,663|56,798,998|
+|Off-balance sheet financial instruments - measured at fair value| | | | |
+|Forward purchase of foreign exchange|153,115,769| |(2,798,564)|(2,798,564)|
+|Forward sale of foreign exchange|123,329,123| |1,475,975|1,475,975|
+|The Bank’s policy is to recognize transfers into and out of the different fair value hierarchy levels at the date the event or change in circumstances that caused such transfer to takes place. There were no transfers between levels 1 and 2 during the period.| | | | |
+|(Un-audited)| | | | |
+|June 30, 2024| | | | |
+|December 31, 2023| | | | |
+|Fair value of non-financial assets| | | | |
+|(Rupees in '000)|Level 3|Level 3| | |
+|Fixed assets| | | | |
+|Property and equipment (freehold and leasehold land)|13,238,392|13,238,392| | |
+|Assets held for sale|1,750,000|1,750,000| | |
+|Other assets| | | | |
+|Non-banking assets acquired in satisfaction of claims|856,694|866,810| | |
+
+---
+
+---
+
+{"chunk_number": 88, "financial_data": "yes", "financial_statement_scope": "unconsolidated", "is_statement": "no", "statement_type": "none", "is_note": "yes", "note_link": "profit_and_loss", "auditor_report": "no", "director_report": "no", "annual_report_discussion": "no", "file_name": "Askari_Bank_Limited_Quarterly_2024-06-30_chunks.md", "ticker": "AKBL", "entity_name": "Askari Bank Limited", "filing_type": "quarterly", "filing_period": ["Q2-2024", "Q2-2023"]}
+## Chunk 88
+
+
+# 37 Segment Information
+
+# 37.1 Segment details with respect to Business Activities
+
+The segment analysis with respect to business activity is as follows:
+
+June 30, 2024 (Un-audited)
+
+|Branch|Corporate banking|Consumer banking|Islamic banking|Foreign banking|Head Office / others| | |Total|
+|---|---|---|---|---|---|---|---|---|
+|Profit and loss|(59,765,179)|29,917,317|43,815,380|2,479,309|9,195,978|784,747|(1,663,636)|24,763,916|
+|Inter segment revenue - net|74,243,838|(27,607,590)|(46,984,388)|(1,864,887)|(5,289,020)|(398,712)|7,900,759|-|
+|Non mark-up / return / interest income|1,233,382|2,419,469|2,904,514|287,538|435,253|1,916|222,883|7,504,955|
+|Total income|15,712,041|4,729,196|(264,494)|901,960|4,342,211|387,951|6,460,006|32,268,871|
+|Segment direct expenses|8,748,295|612,723|221,356|879,100|1,918,203|127,023|4,008,811|16,515,511|
+|Inter segment expense allocation|342,854|671,819|4,111|19,810|-|-|(1,038,594)|-|
+|Total expenses|9,091,149|1,284,542|225,467|898,910|1,918,203|127,023|2,970,217|16,515,511|
+|Credit loss allowance and write offs - net|25,452|(87,439)|50,993|(244,035)|1,077,331|(454,617)|(821,477)|(453,792)|
+|Profit before tax|6,595,440|3,532,093|(540,954)|247,085|1,346,677|715,545|4,311,266|16,207,152|
+
+---
+
+{"chunk_number": 89, "financial_data": "yes", "financial_statement_scope": "unconsolidated", "is_statement": "no", "statement_type": "none", "is_note": "yes", "note_link": "balance_sheet", "auditor_report": "no", "director_report": "no", "annual_report_discussion": "no", "file_name": "Askari_Bank_Limited_Quarterly_2024-06-30_chunks.md", "ticker": "AKBL", "entity_name": "Askari Bank Limited", "filing_type": "quarterly", "filing_period": ["Q2-2024", "Q2-2023"]}
+## Chunk 89
+
+
+# Statement of financial position
+
+|Item|Branch|Corporate banking|Consumer banking|Islamic banking|Foreign banking|Head Office / others|Total| |
+|---|---|---|---|---|---|---|---|---|
+|Cash and bank balances|39,192,884|-|80,200,454|-|11,950,327|118,314|-|131,461,979|
+|Investments|-|8,936,474|1,299,782,439|-|51,578,112|9,363,564|1,288,896|1,370,949,485|
+|Lendings to financial institutions|-|-|86,184,640|-|-|-|-|86,184,640|
+|Advances - performing - net of credit loss allowance|12,740,141|534,067,603|-|22,069,824|136,267,039|916,994|9,198,478|715,260,079|
+|Advances - non-performing - net of credit loss allowance|40,596|1,528,978|-|69,086|381,397|-|-|2,020,057|
+|Others|1,329,565|39,362,516|50,360,164|1,873,740|14,164,378|211,021|55,873,429|163,174,813|
+|Total Assets|53,303,186|583,895,571|1,516,527,697|24,012,650|214,341,253|10,609,893|66,360,803|2,469,051,053|
+|Borrowings|1,409,009|37,669,501|814,306,592|4,747,991|4,399,102|-|-|862,532,195|
+|Subordinated debts|-|-|-|-|-|-|12,000,000|12,000,000|
+|Deposits and other accounts|980,129,636|299,213,932|-|3,201|132,994,021|1,261,837|-|1,413,602,627|
+|Net inter segment balances - net|(946,891,527)|223,090,999|693,692,144|18,638,517|51,420,443|3,437,514|(43,388,090)|-|
+|Others|18,656,068|23,921,139|8,528,961|622,941|8,667,604|5,910,542|14,473,807|80,781,062|
+|Total liabilities|53,303,186|583,895,571|1,516,527,697|24,012,650|197,481,170|10,609,893|(16,914,283)|2,368,915,884|
+|Equity|-|-|-|-|16,860,083|-|83,275,086|100,135,169|
+|Total Equity and liabilities|53,303,186|583,895,571|1,516,527,697|24,012,650|214,341,253|10,609,893|66,360,803|2,469,051,053|
+|Contingencies and commitments|6,010,355|518,631,558|325,598,561|1,037,167|23,117,215|-|1,034,131|875,428,987|
+
+---
+
+---
+
+{"chunk_number": 90, "financial_data": "yes", "financial_statement_scope": "unconsolidated", "is_statement": "no", "statement_type": "none", "is_note": "yes", "note_link": "profit_and_loss", "auditor_report": "no", "director_report": "no", "annual_report_discussion": "no", "file_name": "Askari_Bank_Limited_Quarterly_2024-06-30_chunks.md", "ticker": "AKBL", "entity_name": "Askari Bank Limited", "filing_type": "quarterly", "filing_period": ["Q2-2024", "Q2-2023"]}
+## Chunk 90
+
+
+# June 30, 2023 (Un-audited)
+
+|Branch banking|Corporate banking|Consumer banking|Islamic banking|Foreign banking|Head Office / others| | | |Total|
+|---|---|---|---|---|---|---|---|---|---|
+|Net mark-up / return / profit| |(40,637,694)|17,975,386|39,738,449|2,213,650|5,823,754|1,121,604|(1,413,887)|24,821,262|
+|Inter segment revenue - net| |58,025,034|(15,577,459)|(44,492,217)|(1,676,681)|(1,776,600)|(835,287)|6,333,210|-|
+|Non mark-up / return / interest income| |1,090,027|2,279,515|2,494,311|376,161|357,570|16,154|149,208|6,762,946|
+|Total income| |18,477,367|4,677,442|(2,259,457)|913,130|4,404,724|302,471|5,068,531|31,584,208|
+|Segment direct expenses| |7,360,735|491,248|210,020|753,599|1,613,145|116,030|3,416,375|13,961,152|
+|Inter segment expense allocation| |675,266|495,989|10,506|25,972|-|-|(1,207,733)|-|
+|Total expenses| |8,036,001|987,237|220,526|779,571|1,613,145|116,030|2,208,642|13,961,152|
+| |Provisions / (reversal of provisions) and write offs - net|(188,600)|609,273|183,504|(12,751)|(40,593)|-|66,443|617,276|
+|Profit before tax| |10,629,966|3,080,932|(2,663,487)|146,310|2,832,172|186,441|2,793,446|17,005,780|
+
+---
+
+{"chunk_number": 91, "financial_data": "yes", "financial_statement_scope": "unconsolidated", "is_statement": "no", "statement_type": "none", "is_note": "yes", "note_link": "balance_sheet", "auditor_report": "no", "director_report": "no", "annual_report_discussion": "no", "file_name": "Askari_Bank_Limited_Quarterly_2024-06-30_chunks.md", "ticker": "AKBL", "entity_name": "Askari Bank Limited", "filing_type": "quarterly", "filing_period": ["Q2-2024", "Q2-2023"]}
+## Chunk 91
+
+
+# December 31, 2023 (Audited)
+
+|Branch banking|Corporate banking|Consumer banking|Islamic banking|Foreign banking|Head Office / others| | |Total|
+|---|---|---|---|---|---|---|---|---|
+|Cash and bank balances|33,208,938|-|129,715,500|832,790|10,058,919|60,278|-|173,876,425|
+|Investments|-|9,252,065|1,102,004,077|-|51,493,187|19,177,486|610,873|1,182,537,688|
+|Advances - performing - net of provision|13,991,028|469,123,014|-|20,306,104|114,745,256|2,876,637|8,663,896|629,705,935|
+|Advances - non-performing - net of provision|259,102|2,237,228|-|74,662|855,900|-|-|3,426,892|
+|Others|1,084,252|30,473,445|48,204,707|915,181|10,533,982|405,421|42,842,031|134,459,019|
+|Total Assets|48,543,320|511,085,752|1,279,924,284|22,128,737|187,687,244|22,519,822|52,116,800|2,124,005,959|
+|Borrowings|1,574,075|41,338,149|591,921,725|2,992,873|5,535,843|-|-|643,362,665|
+|Subordinated debts|-|-|-|-|-|-|12,000,000|12,000,000|
+|Deposits and other accounts|879,682,209|293,376,734|-|250|118,670,004|1,416,378|-|1,293,145,575|
+|Net inter segment balances - net|(852,178,144)|149,992,534|677,830,555|18,475,360|38,253,559|16,939,831|(49,313,695)|-|
+|Others|19,465,180|26,378,335|10,172,004|660,254|8,249,821|4,163,613|9,285,691|78,374,898|
+|Total liabilities|48,543,320|511,085,752|1,279,924,284|22,128,737|170,709,227|22,519,822|(28,028,004)|2,026,883,138|
+|Equity|-|-|-|-|16,978,017|-|80,144,804|97,122,821|
+|Total Equity and liabilities|48,543,320|511,085,752|1,279,924,284|22,128,737|187,687,244|22,519,822|52,116,800|2,124,005,959|
+|Contingencies and commitments|6,016,566|548,078,423|276,081,621|832,790|26,459,326|-|1,027,750|858,496,476|
+
+---
+
+---
+
+{"chunk_number": 92, "financial_data": "yes", "financial_statement_scope": "unconsolidated", "is_statement": "no", "statement_type": "none", "is_note": "yes", "note_link": "none", "auditor_report": "no", "director_report": "no", "annual_report_discussion": "no", "file_name": "Askari_Bank_Limited_Quarterly_2024-06-30_chunks.md", "ticker": "AKBL", "entity_name": "Askari Bank Limited", "filing_type": "quarterly", "filing_period": ["Q2-2024", "Q2-2023"]}
+## Chunk 92
+
+
+# 38 RELATED PARTY TRANSACTIONS
+
+Fauji Consortium comprising of Fauji Foundation, Fauji Fertilizer Company Limited and Fauji Fertilizer Bin Qasim Limited (the Parent) holds 71.91% of the Bank's share capital at the period end. The Bank has related party relationships with entities under common directorship, its directors, key management personnel, entities over which the directors are able to exercise significant influence and employees' funds.
+
+The Bank enters into transactions with related parties in the ordinary course of business and on substantially the same terms as for comparable transactions with person of similar standing. Contributions to and accruals in respect of staff retirement benefits and other benefit plans are made in accordance with the actuarial valuations / terms of the contribution plan. Remuneration to the executives / officers is determined in accordance with the terms of their appointment.
+
+Details of transactions with related parties and balances are as follows:
+
+|As at June 30, 2024 (Un-audited)|Key management|Key management|Key management|Key management|Key management|Other related|Other related|Other related|Other related|Other related| | | | | | | | | |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| |Parent|Directors|personnel|Subsidiaries|parties|Parent|Directors|personnel|Subsidiary|parties| | | | | | | | | |
+| | | | |-----------------------------------------------------------------------------------------------------| | | | | | | | | | | | | | | |
+| | | | | | | |Rupees in '000| | | | | | | | | | | | |
+|Investments|Opening balance|-|-|-|196,700|1,420,051|-|-|165,619|1,159,768| | | | | | | | | |
+| |Investment made during the period / year|-|-|-|700,000|-|-|-|31,081|-| | | | | | | | | |
+| |Revaluation adjustment|-|-|-|-|(500,000)|-|-|-|262,947| | | | | | | | | |
+| |Investment redeemed / disposed off during the period / year|-|-|-|-|363,372|-|-|-|(2,664)| | | | | | | | | |
+| |Transfer in / (out) - net|-|-|-|-|750,000|-|-|-|-| | | | | | | | | |
+| |Closing balance|-|-|-|896,700|2,033,423|-|-|196,700|1,420,051| | | | | | | | | |
+| |Credit loss allowance / provisions for diminution in value of investments|-|-|-|-|5,680|-|-|-|82,113| | | | | | | | | |
+|Advances|Opening balance|8,108,881|-|496,686|86,678|25,003,594|29,986,315|60|507,549|200,000|16,783,652| | | | | | | | |
+| |Addition during the period / year|296,730,749|13,690|493,467|-|124,889,722|1,377,976,167|15,000|533,437|1,469,178|209,693,144| | | | | | | | |
+| |Repaid during the period / year|(300,809,697)|(13,466)|(578,278)|(86,678)|(126,413,936)|(1,399,853,601)|(15,060)|(544,300)|(1,582,500)|(213,910,777)| | | | | | | | |
+| |Transfer in / (out) - net|-|-|-|-|(12,212,093)|-|-|-|12,437,575| | | | | | | | | |
+| |Closing balance|4,029,933|224|411,875|-|11,267,287|8,108,881|-|496,686|86,678|25,003,594| | | | | | | | |
+|Other Assets|Interest / mark-up receivable|68,846|-|69,882|-|116,178|171,099|-|68,627|-|886,474| | | | | | | | |
+| |Advance rent|249|-|-|-|-|1,380|-|-|-| | | | | | | | | |
+| |Acceptances|-|-|-|-|103,495|-|-|-|-| | | | | | | | | |
+| |Receivable from staff retirement fund|-|-|-|-|174,279|-|-|-|-| | | | | | | | | |
+| |Others|-|-|-|21,782|-|106|-|-|-| | | | | | | | | |
+| | |69,095|-|69,882|21,782|393,952|172,585|-|68,627|-|886,474| | | | | | | | |
+|Borrowings|Opening balance|-|-|-|-|2,992,873|-|-|-|3,366,079| | | | | | | | | |
+| |Borrowings during the period / year|-|-|-|-|2,000,000|-|-|-|1,000,000| | | | | | | | | |
+| |Settled during the period / year|-|-|-|-|(244,882)|-|-|-|(1,373,206)| | | | | | | | | |
+| |Closing balance|-|-|-|-|4,747,991|-|-|-|2,992,873| | | | | | | | | |
+|Deposits and other accounts|Opening balance|39,101,224|63,502|299,420|350,869|49,059,956|38,816,364|34,614|193,107|612,265|38,455,796| | | | | | | | |
+| |Received during the period / year|664,448,690|236,767|1,234,413|4,460,303|582,560,700|1,786,530,029|556,261|1,843,093|4,596,769|988,872,329| | | | | | | | |
+| |Withdrawn during the period / year|(658,279,464)|(222,727)|(1,202,007)|(3,637,073)|(596,915,714)|(1,786,245,169)|(521,157)|(1,707,626)|(4,858,165)|(978,274,385)| | | | | | | | |
+| |Transfer in / (out) - net|-|(39,395)|-|-|(93,187)|-|(6,216)|(29,154)|-|6,216| | | | | | | | |
+| |Closing balance|45,270,450|38,147|331,826|1,174,099|34,611,755|39,101,224|63,502|299,420|350,869|49,059,956| | | | | | | | |
+|Other Liabilities|Interest / mark-up payable|3,903,704|-|441|-|500,801|2,574,737|7|2,964|-|715,559| | | | | | | | |
+| |Payable to staff retirement fund|-|-|-|-|-|-|-|-|67,468| | | | | | | | | |
+| |Acceptances|-|-|-|-|103,495|-|-|-|-| | | | | | | | | |
+| |Security deposits payable|-|-|-|-|577,309|-|-|-|462,570| | | | | | | | | |
+| |Others|-|-|77,928|-|56,058|25|1,667|58,608|-|71,818| | | | | | | | |
+| | |3,903,704|-|78,369|-|1,237,663|2,574,762|1,674|61,572|-|1,317,415| | | | | | | | |
+|Guarantees and Commitments|Contingencies and Commitments|440,747|-|-|-|8,298,641|225,219|-|-|-|4,476,687| | | | | | | | |
+|Others|Dividend paid|2,605,478|-|-|-|-|-|-|-|-| | | | | | | | | |
+| |Securities held as custodian|8,962,500|-|45,995|-|11,493,470|13,699,456|-|48,821|-|10,493,034| | | | | | | | |
+| | |11,567,978|-|45,995|-|11,493,470|13,699,456|-|48,821|-|10,493,034| | | | | | | | |
+
+---
+
+---
+
+{"chunk_number": 93, "financial_data": "yes", "financial_statement_scope": "unconsolidated", "is_statement": "no", "statement_type": "none", "is_note": "yes", "note_link": "none", "auditor_report": "no", "director_report": "no", "annual_report_discussion": "no", "file_name": "Askari_Bank_Limited_Quarterly_2024-06-30_chunks.md", "ticker": "AKBL", "entity_name": "Askari Bank Limited", "filing_type": "quarterly", "filing_period": ["Q2-2024", "Q2-2023"]}
+## Chunk 93
+
+
+# For the period ended June 30, 2024 (Un-Audited)
+
+# For the period ended June 30, 2023 (Un-Audited)
+
+|Key| | |management| | | | | | |Other related| |
+|---|---|---|---|---|---|---|---|---|---|---|---|
+| |Parent|Directors|personnel|Subsidiaries|parties|Parent|Directors|personnel|Subsidiary|parties| |
+|Income|145,035|12|9,182|-|652,501|207,620|-|5,283|1,240|2,523,478| |
+|Mark-up / return / interest earned|881|-|-|-|26,618|505|-|-|-|33,577| |
+|Dividend income|-|-|-|29,376|250,007|-|-|-|-|124,793| |
+|Expense|Mark-up / return / interest expensed|4,118,564|2,982|32,890|41,579|3,205,571|4,006,138|597|21,819|8,622|2,356,502|
+|Charge to defined benefit plan|-|-|-|-|324,040|-|-|-|-|164,141| |
+|Contribution to defined contribution plan|-|-|-|-|197,020|-|-|-|-|166,693| |
+|Remuneration and allowances|-|-|646,815|-|4,818|-|-|545,403|-|4,746| |
+|Rent|1,495|-|-|-|-|1,029|-|-|-|-| |
+|Communications|-|-|-|-|100,732|-|-|-|-|62,471| |
+|Brokerage and Commission|-|-|-|-|54,810|-|-|-|15|43,834| |
+|Directors' Fee, Allowances|-|21,680|-|-|-|-|15,200|-|-|-| |
+|Donations|-|-|-|-|-|524,397|-|-|-|-| |
+|Others|1,175|-|-|-|-|-|-|-|-| | |
+
+In addition to above, rent free sub-branches are operating at FFC Sona Tower, FFBL Tower and Foundation University (along with Booths and ATMs).
+
+The term 'key management personnel' has the same meaning as defined in IAS 24 - Related party disclosures.
+---
+
+# 39 CAPITAL ADEQUACY, LEVERAGE RATIO & LIQUIDITY REQUIREMENTS
+
+| |(Un-audited)|(Audited)|
+|---|---|---|
+| |June 30, 2024|December 31, 2023|
+| |(Rupees in '000)| |
+
+# Minimum Capital Requirement (MCR):
+
+Paid-up capital (net of losses)
+14,492,992
+14,492,992
+
+---
+
+{"chunk_number": 94, "financial_data": "yes", "financial_statement_scope": "unconsolidated", "is_statement": "no", "statement_type": "none", "is_note": "yes", "note_link": "none", "auditor_report": "no", "director_report": "no", "annual_report_discussion": "no", "file_name": "Askari_Bank_Limited_Quarterly_2024-06-30_chunks.md", "ticker": "AKBL", "entity_name": "Askari Bank Limited", "filing_type": "quarterly", "filing_period": ["Q2-2024", "Q2-2023"]}
+## Chunk 94
+
+
+# Capital Adequacy Ratio (CAR):
+
+|Eligible Common Equity Tier 1 (CET 1) Capital|90,070,390|88,193,637|
+|---|---|---|
+|Eligible Additional Tier 1 (ADT 1) Capital|5,835,000|5,649,000|
+|Total Eligible Tier 1 Capital|95,905,390|93,842,637|
+|Eligible Tier 2 Capital|16,381,892|13,220,036|
+|Total Eligible Capital (Tier 1 + Tier 2)|112,287,282|107,062,673|
+
+# Risk Weighted Assets (RWAs):
+
+|Credit Risk|421,186,699|451,392,577|
+|---|---|---|
+|Market Risk|56,935,869|29,300,677|
+|Operational Risk|102,809,844|102,809,844|
+|Total|580,932,412|583,503,098|
+
+# Capital Adequacy Ratios:
+
+|Common Equity Tier 1 Capital Adequacy ratio|15.50%|15.11%|
+|---|---|---|
+|Tier 1 Capital Adequacy Ratio|16.51%|16.08%|
+|Total Capital Adequacy Ratio|19.33%|18.35%|
+
+# Leverage Ratio (LR):
+
+|Eligible Tier-1 Capital|95,905,388|93,842,637|
+|---|---|---|
+|Total Exposures|2,962,943,716|2,611,849,837|
+|Leverage Ratio|3.24%|3.59%|
+
+# Liquidity Coverage Ratio (LCR):
+
+|Total High Quality Liquid Assets|605,135,501|649,069,790|
+|---|---|---|
+|Total Net Cash Outflow|267,600,907|322,740,993|
+|Liquidity Coverage Ratio|226.13%|201.11%|
+
+# Net Stable Funding Ratio (NSFR):
+
+|Total Available Stable Funding|1,424,404,782|1,314,070,873|
+|---|---|---|
+|Total Required Stable Funding|671,070,143|610,829,100|
+|Net Stable Funding Ratio|212.26%|215.13%|
+
+---
+
+---
+
+{"chunk_number": 95, "financial_data": "yes", "financial_statement_scope": "unconsolidated", "is_statement": "no", "statement_type": "none", "is_note": "yes", "note_link": "none", "auditor_report": "no", "director_report": "no", "annual_report_discussion": "no", "file_name": "Askari_Bank_Limited_Quarterly_2024-06-30_chunks.md", "ticker": "AKBL", "entity_name": "Askari Bank Limited", "filing_type": "quarterly", "filing_period": ["Q2-2024", "Q2-2023"]}
+## Chunk 95
+
+
+# 40 Islamic Banking Business
+
+The Bank is operating 145 Islamic banking branches including 3 sub-branches at June 30, 2024 as compared to 140 Islamic banking branches including 3 sub-branches at year ended December 31, 2023.
+
+| |(Un-audited)|(Audited)|
+|---|---|---|
+|Note|June 30, 2024|December 31, 2023|
+|(Rupees in '000)| | |
+|ASSETS| | |
+|Cash and balances with treasury banks|11,810,076|9,944,209|
+|Balances with other banks|140,251|114,710|
+|Investments|51,578,112|51,493,187|
+|Islamic financing and related assets - net|136,648,436|115,601,156|
+|Property and equipment|880,959|543,503|
+|Right-of-use assets|1,909,847|1,531,349|
+|Other assets|17,847,441|11,787,572|
+|Total assets|220,815,122|191,015,686|
+|LIABILITIES| | |
+|Bills payable|1,946,684|1,206,806|
+|Due to financial institutions|4,399,102|5,535,843|
+|Deposits and other accounts|132,994,021|118,670,004|
+|Due to head office|56,000,000|41,500,000|
+|Lease liabilities|2,366,015|1,866,177|
+|Other liabilities|6,249,217|5,258,839|
+| |203,955,039|174,037,669|
+|NET ASSETS|16,860,083|16,978,017|
+|REPRESENTED BY| | |
+|Islamic Banking Fund|4,600,000|4,600,000|
+|Deficit on revaluation of assets|(1,528,387)|(1,500,789)|
+|Unappropriated profit|13,788,470|13,878,806|
+| |16,860,083|16,978,017|
+|CONTINGENCIES AND COMMITMENTS|23,117,215|26,459,326|
+
+The profit and loss account of the Bank's Islamic banking branches for the period ended June 30, 2024 is as follows:
+
+| |(Un-audited)| |
+|---|---|---|
+|For the period ended|June 30, 2024|June 30, 2023|
+|Note| | |
+|(Rupees in '000)| | |
+|Profit / return earned|16,434,515|11,151,164|
+|Profit / return expensed|12,527,557|7,104,010|
+|Net Profit / return|3,906,958|4,047,154|
+|Other income| | |
+|Fee and Commission Income|200,660|153,071|
+|Dividend Income|9,559|9,123|
+|Foreign Exchange Income|159,442|135,720|
+|Gain on securities|16,032|7,100|
+|Other Income|49,560|52,556|
+|Total other income|435,253|357,570|
+|Total Income|4,342,211|4,404,724|
+|Other expenses| | |
+|Operating expenses|1,918,103|1,610,704|
+|Other charges|100|2,441|
+|Total other expenses|1,918,203|1,613,145|
+|Profit before credit loss allowance|2,424,008|2,791,579|
+|Credit loss allowance and write offs - net|1,077,331|(40,593)|
+|Profit before taxation|1,346,677|2,832,172|
+
+---
+
+---
+
+{"chunk_number": 96, "financial_data": "yes", "financial_statement_scope": "unconsolidated", "is_statement": "no", "statement_type": "none", "is_note": "yes", "note_link": "balance_sheet", "auditor_report": "no", "director_report": "no", "annual_report_discussion": "no", "file_name": "Askari_Bank_Limited_Quarterly_2024-06-30_chunks.md", "ticker": "AKBL", "entity_name": "Askari Bank Limited", "filing_type": "quarterly", "filing_period": ["Q2-2024", "Q2-2023"]}
+## Chunk 96
+
+
+# Investments by segments:
+
+| |Cost / amortised cost|Credit loss allowance|Surplus / (deficit)|Carrying value|Cost / amortised cost|Provision for diminution|Surplus / (deficit)|Carrying value|
+|---|---|---|---|---|---|---|---|---|
+|Debt Instruments| | | | | | | | |
+|Measured at amortised cost (2023: Held to maturity)| | | | | | | | |
+|Non Government Debt Securities|110,000|(110,000)|-|-|110,000|(110,000)|-|-|
+|Measured at FVOCI (2023: Available for sale)| | | | | | | | |
+|Federal Government Securities:| | | | | | | | |
+|- Ijarah Sukuks|44,658,073|-|(1,528,387)|43,129,686|43,883,854|-|(1,483,551)|42,400,303|
+|- Islamic Naya Pakistan Certificates|3,271,408|(97,607)|-|3,173,801|3,744,996|-|-|3,744,996|
+|Non Government Debt Securities|3,539,227|(423,452)|-|3,115,775|3,618,805|(419,679)|-|3,199,126|
+| |51,468,708|(521,059)|(1,528,387)|49,419,262|51,247,655|(419,679)|(1,483,551)|49,344,425|
+|Measured at FVTPL (2023: Held for trading)| | | | | | | | |
+|Non Government Debt Securities|2,066,000|-|(8,048)|2,057,952|2,066,000|-|(18,040)|2,047,960|
+|Units of Open end Mutual Fund|100,000|-|898|100,898|100,000| |802|100,802|
+|Total investments|53,744,708|(631,059)|(1,535,537)|51,578,112|53,523,655|(529,679)|(1,500,789)|51,493,187|
+
+---
+
+{"chunk_number": 97, "financial_data": "yes", "financial_statement_scope": "unconsolidated", "is_statement": "no", "statement_type": "none", "is_note": "yes", "note_link": "none", "auditor_report": "no", "director_report": "no", "annual_report_discussion": "no", "file_name": "Askari_Bank_Limited_Quarterly_2024-06-30_chunks.md", "ticker": "AKBL", "entity_name": "Askari Bank Limited", "filing_type": "quarterly", "filing_period": ["Q2-2024", "Q2-2023"]}
+## Chunk 97
+
+
+# Particulars of credit loss allowance / provision
+
+| |Stage 1|Stage 2|Stage 3|Total|Stage 1|Stage 2|Stage 3|Total|
+|---|---|---|---|---|---|---|---|---|
+|Federal Government Securities|97,607|-|-|97,607|-|-|-|-|
+|Non Government Debt Securities|3,773|-|529,679|533,452|-|-|529,679|529,679|
+| |101,380|-|529,679|631,059|-|-|529,679|529,679|
+
+---
+
+---
+
+{"chunk_number": 98, "financial_data": "yes", "financial_statement_scope": "unconsolidated", "is_statement": "no", "statement_type": "none", "is_note": "yes", "note_link": "balance_sheet", "auditor_report": "no", "director_report": "no", "annual_report_discussion": "no", "file_name": "Askari_Bank_Limited_Quarterly_2024-06-30_chunks.md", "ticker": "AKBL", "entity_name": "Askari Bank Limited", "filing_type": "quarterly", "filing_period": ["Q2-2024", "Q2-2023"]}
+## Chunk 98
+
+
+# 40.2 ISLAMIC FINANCING AND RELATED ASSETS
+
+|(Un-audited)| | |(Audited)|
+|---|---|---|---|
+|June 30, 2024|December 31, 2023| | |
+|Ijarah| |4,285,865|4,681,429|
+|Murabaha - note 40.2.1| |5,906,451|6,138,282|
+|Musharakah| |74,517,264|55,026,157|
+|Diminishing Musharakah| |22,502,821|22,818,065|
+|Salam| |9,780,339|10,275,161|
+|Istisna| |4,101,262|9,883,300|
+|Receivable against sale of Istisna / Salam Inventory| |1,341,637|809,800|
+|Service Ijarah| |2,270,110|2,364,132|
+|Wakalah| |1,386,558|780,967|
+|Other Islamic Modes (Qard)| |1,582,729|1,927,577|
+|Advances against Islamic assets - note 40.2.2| |3,162,963|1,509,338|
+|Inventory related to Islamic financing - note 40.2.3| |10,154,464|1,339,568|
+|Gross Islamic financing and related assets| |140,992,463|117,553,776|
+| |Less: Credit loss allowance / provision against Islamic financings| | |
+|- Stage 1| |144,242|-|
+|- Stage 2| |190,529|-|
+|- Stage 3| |4,009,256|-|
+|- General|-| |27,395|
+|- Specific|-| |1,925,225|
+|Total| |4,344,027|1,952,620|
+| |Islamic financing and related assets - net of Credit loss allowance / provision|136,648,436|115,601,156|
+
+40.2.1 Includes advance against Murabaha of Rs.174,106 thousand (December 31, 2023: Rs.449,708 thousand).
+
+# 40.2.2 Advance against Islamic assets
+
+| |Ijarah|Diminishing Musharakah|Musharakah|Salam|Istisna|Total|
+|---|---|---|---|---|---|---|
+|June 30, 2024 (Un-audited)|239,324|-|2,923,639|-|-|3,162,963|
+|December 31, 2023 (Audited)|40,657|-|1,468,681|-|-|1,509,338|
+
+# 40.2.3 Inventory related to Islamic financing
+
+| |June 30, 2024 (Un-audited)|December 31, 2023 (Audited)|
+|---|---|---|
+| |-|-|
+|Diminishing Musharakah|-|-|
+|Musharakah|-|-|
+|Salam|4,892,948|593,003|
+|Istisna|5,261,516|746,565|
+|Total|10,154,464|1,339,568|
+
+---
+
+{"chunk_number": 99, "financial_data": "yes", "financial_statement_scope": "unconsolidated", "is_statement": "no", "statement_type": "none", "is_note": "yes", "note_link": "balance_sheet", "auditor_report": "no", "director_report": "no", "annual_report_discussion": "no", "file_name": "Askari_Bank_Limited_Quarterly_2024-06-30_chunks.md", "ticker": "AKBL", "entity_name": "Askari Bank Limited", "filing_type": "quarterly", "filing_period": ["Q2-2024", "Q2-2023"]}
+## Chunk 99
+
+
+# 40.3 DEPOSITS AND OTHER ACCOUNTS
+
+|(Un-audited)| |(Audited)|
+|---|---|---|
+|June 30, 2024|December 31, 2023| |
+|Customers| | |
+|Current deposits - non remunerative|46,750,172|41,466,373|
+|Current deposits - remunerative|1,677,132|1,210,897|
+|Savings deposits|27,224,891|23,935,223|
+|Term deposits|28,540,322|34,422,882|
+|Others|3,482,176|1,511,973|
+|Total|107,674,693|102,547,348|
+|Financial Institutions| | |
+|Current deposits - non remunerative|451,966|114,330|
+|Current deposits - remunerative|112,806|32,474|
+|Savings deposits|1,652,012|333,656|
+|Term deposits|23,102,544|15,642,196|
+|Total|25,319,328|16,122,656|
+|Total Deposits|132,994,021|118,670,004|
+
+---
+
+---
+
+{"chunk_number": 100, "financial_data": "yes", "financial_statement_scope": "unconsolidated", "is_statement": "no", "statement_type": "none", "is_note": "yes", "note_link": "none", "auditor_report": "no", "director_report": "no", "annual_report_discussion": "no", "file_name": "Askari_Bank_Limited_Quarterly_2024-06-30_chunks.md", "ticker": "AKBL", "entity_name": "Askari Bank Limited", "filing_type": "quarterly", "filing_period": ["Q2-2024", "Q2-2023"]}
+## Chunk 100
+
+
+# 40.4 ISLAMIC BANKING BUSINESS UNAPPROPRIATED PROFIT
+
+| |(Un-audited)|(Audited)| |
+|---|---|---|---|
+|June 30, 2024|December 31, 2023| | |
+| | |(Rupees in '000)| |
+|Opening balance|13,878,806|6,523,276| |
+|Less: Impact of IFRS-9 - adoption|(1,437,013)|-| |
+|Add: Islamic banking profit for the period|1,346,677|7,355,530| |
+|Closing Balance|13,788,470|13,878,806| |
+
+# 40.5 CONTINGENCIES AND COMMITMENTS
+
+|-Guarantees|9,819,818|9,704,484|
+|---|---|---|
+|-Commitments|13,297,397|16,754,842|
+| |23,117,215|26,459,326|
+
+---
+
+{"chunk_number": 101, "financial_data": "yes", "financial_statement_scope": "unconsolidated", "is_statement": "no", "statement_type": "none", "is_note": "yes", "note_link": "none", "auditor_report": "no", "director_report": "no", "annual_report_discussion": "no", "file_name": "Askari_Bank_Limited_Quarterly_2024-06-30_chunks.md", "ticker": "AKBL", "entity_name": "Askari Bank Limited", "filing_type": "quarterly", "filing_period": ["Q2-2024", "Q2-2023"]}
+## Chunk 101
+
+
+# 40.6 CHARITY FUND
+
+|Opening balance|46,063|40,130|
+|---|---|---|
+|Additions during the period| | |
+|- Received from customers on delayed payments|21,347|39,463|
+|- Non Shariah Compliant Income|-|-|
+|- Profit on charity account|21|32|
+|- Others|623|690|
+| |21,991|40,185|
+|Payments / utilization during the period| | |
+|- Education|-|(5,468)|
+|- Health|-|(24,661)|
+|- Orphanage|-|(4,123)|
+| |-|(34,252)|
+|Closing balance|68,054|46,063|
+
+# (Un-audited)
+
+# 40.7 PROFIT / RETURN EARNED ON FINANCING, INVESTMENTS AND PLACEMENTS
+
+|Profit earned on:| | |
+|---|---|---|
+|Financing|11,663,896|8,164,225|
+|Investments|4,697,260|2,964,521|
+|Placements|73,359|22,418|
+| |16,434,515|11,151,164|
+
+# 40.8 PROFIT ON DEPOSITS AND OTHER DUES EXPENSED
+
+|On:| | |
+|---|---|---|
+|Deposits and other accounts|6,756,696|4,939,067|
+|Due to financial institutions|344,604|277,811|
+|Due to head office|5,289,021|1,776,600|
+|Lease liability|137,236|110,532|
+| |12,527,557|7,104,010|
+
+# 41 DATE OF AUTHORIZATION
+
+These unconsolidated condensed interim financial statements were authorized for issue by the Board of Directors on August 29, 2024.
+
+-sd- -sd- -sd- -sd-
+
+Chief Financial Officer / A. President & CE Director Director Chairman
+---
+
+# askaribank
+
+# UMTEL
+
+# CONDENSED INTERIM CONSOLIDATED FINANCIAL STATEMENTS
+
+# FOR THE HALF YEAR ENDED JUNE 30, 2024
+
+# (UN-AUDITED)
+---
+
+---
+
+{"chunk_number": 102, "financial_data": "yes", "financial_statement_scope": "consolidated", "is_statement": "yes", "statement_type": "balance_sheet", "is_note": "no", "note_link": "none", "auditor_report": "no", "director_report": "no", "annual_report_discussion": "no", "file_name": "Askari_Bank_Limited_Quarterly_2024-06-30_chunks.md", "ticker": "AKBL", "entity_name": "Askari Bank Limited", "filing_type": "quarterly", "filing_period": ["Q2-2024", "Q2-2023"]}
+## Chunk 102
+
+
+# ASKARI BANK LIMITED
+
+# Consolidated Condensed Interim Statement of Financial Position
+
+# As at June 30, 2024
+
+|(Un-audited)| | |(Audited)|
+|---|---|---|---|
+|June 30, 2024|December 31, 2023| | |
+| |Note| |(Rupees in '000)|
+|ASSETS| | | |
+|Cash and balances with treasury banks| |119,301,787|160,087,467|
+|Balances with other banks| |13,141,612|14,761,177|
+|Lendings to financial institutions| |86,184,640|-|
+|Investments| |1,370,213,157|1,182,497,658|
+|Advances| |717,285,590|633,046,149|
+|Property and equipment| |19,943,181|18,707,443|
+|Right-of-use assets| |9,576,179|8,312,812|
+|Intangible assets| |1,954,088|1,860,747|
+|Assets held for sale| |1,750,000|1,750,000|
+|Deferred tax assets| |10,201,743|8,065,412|
+|Other assets| |120,562,394|96,684,170|
+|Total Assets| |2,470,114,371|2,125,773,035|
+|LIABILITIES| | | |
+|Bills payable| |13,561,049|12,394,336|
+|Borrowings| |862,532,195|643,362,665|
+|Deposits and other accounts| |1,412,428,529|1,292,794,706|
+|Lease liabilities| |11,351,842|9,699,474|
+|Subordinated debts| |12,000,000|12,000,000|
+|Deferred tax liabilities| |-|-|
+|Other liabilities| |57,495,826|57,826,193|
+|Total Liabilities| |2,369,369,441|2,028,077,374|
+|NET ASSETS| |100,744,930|97,695,661|
+|REPRESENTED BY| | | |
+|Share capital| |14,492,992|14,492,992|
+|Reserves| |75,409,689|57,855,752|
+|Surplus on revaluation of assets - net of tax| |7,771,927|4,458,455|
+|Unappropriated profit| |2,678,041|20,511,764|
+|Non-controlling interest| |392,281|376,698|
+| | |100,744,930|97,695,661|
+
+# CONTINGENCIES AND COMMITMENTS
+
+24
+
+The annexed notes 1 to 41 form an integral part of these consolidated condensed interim financial statements.
+
+-sd- -sd- -sd- -sd-
+
+Chief Financial Officer / A. President & CE Director Director Chairman
+---
+
+---
+
+{"chunk_number": 103, "financial_data": "yes", "financial_statement_scope": "consolidated", "is_statement": "yes", "statement_type": "profit_and_loss", "is_note": "no", "note_link": "none", "auditor_report": "no", "director_report": "no", "annual_report_discussion": "no", "file_name": "Askari_Bank_Limited_Quarterly_2024-06-30_chunks.md", "ticker": "AKBL", "entity_name": "Askari Bank Limited", "filing_type": "quarterly", "filing_period": ["Q2-2024", "Q2-2023"]}
+## Chunk 103
+
+
+# ASKARI BANK LIMITED
+
+# Consolidated Condensed Interim Profit and Loss Account (Un-audited)
+
+# For the half year ended June 30, 2024
+
+|Note|For the quarter ended|For the quarter ended|For the half year ended|For the half year ended| | | |
+|---|---|---|---|---|---|---|---|
+|June 30, 2024|June 30, 2023|June 30, 2024|June 30, 2023| | | | |
+|Mark-up / return / interest earned|104,972,098|70,864,396|205,413,489|128,011,880| | | |
+|Mark-up / return / interest expensed|92,959,196|57,979,011|180,536,611|103,190,618| | | |
+|Net mark-up / interest income|12,012,902|12,885,385|24,876,878|24,821,262| | | |
+|Non mark-up / interest income| | | | | | | |
+|Fee and commission income|1,941,796|1,718,135|3,673,560|3,393,147| | | |
+|Dividend income|296,974|175,267|504,580|360,789| | | |
+|Foreign exchange income|962,818|1,503,436|2,414,466|2,783,441| | | |
+|Income / (loss) from derivatives|-|-|-|-| | | |
+|Gain on securities|624,827|117,086|900,019|25,765| | | |
+|Net gains / (loss) on derecognition of financial assets measured at amortised cost|-|-|-|-| | | |
+|Other income|131,003|108,452|227,514|199,804| | | |
+|Total non-markup / interest income|3,957,418|3,622,376|7,720,139|6,762,946| | | |
+|Total income|15,970,320|16,507,761|32,597,017|31,584,208| | | |
+|Non mark-up / interest expenses| | | | | | | |
+|Operating expenses|8,482,731|7,042,106|16,461,130|13,599,088| | | |
+|Workers' Welfare Fund|135,000|119,679|270,000|237,899| | | |
+|Other charges|8,894|16,813|9,272|124,165| | | |
+|Total non-markup / interest expenses|8,626,625|7,178,598|16,740,402|13,961,152| | | |
+|Profit before credit loss allowance / provisions|7,343,695|9,329,163|15,856,615|17,623,056| | | |
+|Credit loss allowance and write offs - net|(1,625,964)|675,085|(452,291)|617,276| | | |
+|Extraordinary / unusual items|-|-|-|-| | | |
+|Profit before taxation|8,969,659|8,654,078|16,308,906|17,005,780| | | |
+|Taxation|4,548,028|4,519,956|8,172,217|8,168,237| | | |
+|Profit after taxation|4,421,631|4,134,122|8,136,689|8,837,543| | | |
+|Profit attributable to| | | | | | | |
+|Non-controlling interest|19,148|-|43,807|-| | | |
+|Equity holders of the Bank|4,402,483|4,134,122|8,092,882|8,837,543| | | |
+| |4,421,631|4,134,122|8,136,689|8,837,543| | | |
+|Basic earnings per share|3.05|2.85|5.61|6.10| | | |
+
+The annexed notes 1 to 41 form an integral part of these consolidated condensed interim financial statements.
+
+-sd- Chief Financial Officer / A. President & CE
+
+-sd- Director
+
+-sd- Director
+
+-sd- Chairman
+---
+
+---
+
+{"chunk_number": 104, "financial_data": "yes", "financial_statement_scope": "consolidated", "is_statement": "yes", "statement_type": "comprehensive_income", "is_note": "no", "note_link": "none", "auditor_report": "no", "director_report": "no", "annual_report_discussion": "no", "file_name": "Askari_Bank_Limited_Quarterly_2024-06-30_chunks.md", "ticker": "AKBL", "entity_name": "Askari Bank Limited", "filing_type": "quarterly", "filing_period": ["Q2-2024", "Q2-2023"]}
+## Chunk 104
+
+
+# ASKARI BANK LIMITED
+
+# Consolidated Condensed Interim Statement of Comprehensive Income (Un-audited)
+
+# For the half year ended June 30, 2024
+
+| |For the quarter ended|For the quarter ended|For the half year ended|For the half year ended|
+|---|---|---|---|---|
+|Note|June 30, 2024|June 30, 2023|June 30, 2024|June 30, 2023|
+| |(Rupees in '000)|(Rupees in '000)|(Rupees in '000)|(Rupees in '000)|
+|Profit after taxation|4,421,631|4,134,122|8,136,689|8,837,543|
+|Other comprehensive income|Other comprehensive income|Other comprehensive income|Other comprehensive income|Other comprehensive income|
+|Items that may be reclassified to profit and loss account in subsequent periods:|Items that may be reclassified to profit and loss account in subsequent periods:|Items that may be reclassified to profit and loss account in subsequent periods:|Items that may be reclassified to profit and loss account in subsequent periods:|Items that may be reclassified to profit and loss account in subsequent periods:|
+|Effect of translation of net investment in Wholesale Bank Branch|6,984|36,380|(61,772)|907,083|
+|Movement in surplus / (deficit) on revaluation of debt investments - net of tax|1,878,620|481,043|1,108,859|(6,545,919)|
+|Movement in surplus on revaluation of investments - net of tax|-|84,938|-|12,045|
+|Total|1,885,604|602,361|1,047,087|(5,626,791)|
+|Items that will not be reclassified to profit and loss account in subsequent periods:|Items that will not be reclassified to profit and loss account in subsequent periods:|Items that will not be reclassified to profit and loss account in subsequent periods:|Items that will not be reclassified to profit and loss account in subsequent periods:|Items that will not be reclassified to profit and loss account in subsequent periods:|
+|Movement in surplus on revaluation of equity investments through FVOCI - net of tax|956,364|-|627,089|-|
+|Remeasurement gain on defined benefit plan|367,245|287,833|367,245|287,833|
+|Total|1,323,609|287,833|994,334|287,833|
+|Total comprehensive income|7,630,844|5,024,316|10,178,110|3,498,585|
+|Total comprehensive income attributable to|Non-controlling interest|19,148|-|43,807|
+| |Equity holders of the Bank|7,611,696|5,024,316|10,134,303|
+| |7,630,844|7,630,844|7,630,844|7,630,844|
+| |5,024,316|5,024,316|5,024,316|5,024,316|
+| |10,178,110|10,178,110|10,178,110|10,178,110|
+| |3,498,585|3,498,585|3,498,585|3,498,585|
+
+The annexed notes 1 to 41 form an integral part of these consolidated condensed interim financial statements.
+
+-sd- Chief Financial Officer / A. President & CE
+
+-sd- Director
+
+-sd- Director
+
+-sd- Chairman
+---
+
+---
+
+{"chunk_number": 105, "financial_data": "yes", "financial_statement_scope": "consolidated", "is_statement": "yes", "statement_type": "changes_in_equity", "is_note": "no", "note_link": "none", "auditor_report": "no", "director_report": "no", "annual_report_discussion": "no", "file_name": "Askari_Bank_Limited_Quarterly_2024-06-30_chunks.md", "ticker": "AKBL", "entity_name": "Askari Bank Limited", "filing_type": "quarterly", "filing_period": ["Q2-2024", "Q2-2023"]}
+## Chunk 105
+
+
+# ASKARI BANK LIMITED
+
+# Consolidated Condensed Interim Statement of Changes in Equity (Un-audited)
+
+# For the half year ended June 30, 2024
+
+|Share capital|Exchange translation reserve|Share premium|Merger reserve|Statutory reserve|General reserve|Surplus / (deficit) on revaluation of Fixed / Non banking assets|Un-appropriated profit / (loss)|Non-controlling interest| | |Total|
+|---|---|---|---|---|---|---|---|---|---|---|---|
+|Balance as at January 1, 2023 (Audited)|12,602,602|1,192,942|234,669|-|15,605,063|26,340,921|(7,549,155)|11,501,511|13,403,870|-|73,332,423|
+|Total comprehensive income for the half year ended June 30, 2023|-|-|-|-|-|-|-| |8,837,543|-|8,837,543|
+|Other comprehensive income related to equity|-|907,083|-|-|-|-|(6,533,874)|-|287,833|-|(5,338,958)|
+| |-|907,083|-|-|-|-|(6,533,874)|-|9,125,376|-|3,498,585|
+|Transfer to Statutory reserve|-|-|-|-|883,754|-|-| |(883,754)|-|-|
+|Transfer to General reserve|-|-|-|-|-|13,381,442|-| |(13,381,442)|-|-|
+|Transactions with owners, recorded directly in equity|Bonus shares issued|1,890,390|-|(234,669)|-|-|(1,655,721)|-|-|-|-|
+|Balance as at June 30, 2023 (Un-audited)|14,492,992|2,100,025|-|-|16,488,817|38,066,642|(14,083,029)|11,501,511|8,264,050|-|76,831,008|
+|Total comprehensive income for the six months ended December 31, 2023|-|-|-|-|-|-| | |12,651,049|51,817|12,702,866|
+|Other comprehensive income related to equity|-|(187,799)|-|-|-| |7,715,799|126,715|53,836|3,539|7,712,090|
+| |-|(187,799)|-|-|-|-|7,715,799|126,715|12,704,885|55,356|20,414,956|
+|Transfer to Statutory reserve|-|-|-|-|1,259,712|-|-| |(1,259,712)|-|-|
+|Transfer to General reserve|-|-|-|-|-|-|-|-|-|-| |
+|Transfer from surplus on revaluation of assets to unappropriated profit - net of tax|-|-|-|-|-|-| |(802,541)|802,541|-|-|
+|Acquisition of subsidiary|-|-|-|128,355|-|-|-|-| |321,342|449,697|
+|Balance as at December 31, 2023 (Audited)|14,492,992|1,912,226|-|128,355|17,748,529|38,066,642|(6,367,230)|10,825,685|20,511,764|376,698|97,695,661|
+|Effect of reclassification on adoption of IFRS 9 (net of tax)|-|-|-|-|-| |1,766,774|-|416,924|-|2,183,698|
+|Effect of adoption of IFRS 9 - ECL (net of tax)|-|-|-|-|-|-|-| |(5,661,067)|-|(5,661,067)|
+|Balance as at December 31, 2023 - restated|14,492,992|1,912,226|-|128,355|17,748,529|38,066,642|(4,600,456)|10,825,685|15,267,621|376,698|94,218,292|
+|Total comprehensive income for the half year ended June 30, 2024|-|-|-|-|-|-|-| |8,092,882|43,807|8,136,689|
+|Other comprehensive income related to equity|-|(61,772)|-|-|-| |1,735,948|-|367,245|-|2,041,421|
+| |-|(61,772)|-|-|-| |1,735,948|-|8,460,127|43,807|10,178,110|
+|Transfer to Statutory reserve|-|-|-|-|807,145|-|-| |(807,145)|-|-|
+|Transfer to General reserve|-|-|-|-|-|16,808,564|-| |(16,808,564)|-|-|
+|Gain on disposal of equity securities measured at FVOCI - net of tax|-|-|-|-|-| |(189,250)|-|189,250|-|-|
+|Transactions with owners, recorded directly in equity|Final dividend of 2023|-|-|-|-|-|-| |(3,623,248)|(28,224)|(3,651,472)|
+|Balance as at June 30, 2024 (Un-audited)|14,492,992|1,850,454|-|128,355|18,555,674|54,875,206|(3,053,758)|10,825,685|2,678,041|392,281|100,744,930|
+
+The annexed notes 1 to 41 form an integral part of these consolidated condensed interim financial statements.
+
+-sd- Chief Financial Officer / A. President & CE
+
+-sd- Director
+
+-sd- Director
+
+-sd- Chairman
+---
+
+---
+
+{"chunk_number": 106, "financial_data": "yes", "financial_statement_scope": "consolidated", "is_statement": "yes", "statement_type": "cash_flow", "is_note": "no", "note_link": "none", "auditor_report": "no", "director_report": "no", "annual_report_discussion": "no", "file_name": "Askari_Bank_Limited_Quarterly_2024-06-30_chunks.md", "ticker": "AKBL", "entity_name": "Askari Bank Limited", "filing_type": "quarterly", "filing_period": ["Q2-2024", "Q2-2023"]}
+## Chunk 106
+
+
+# ASKARI BANK LIMITED
+
+# Consolidated Condensed Interim Cash Flow Statement (Un-audited)
+
+# For the half year ended June 30, 2024
+
+|For the half year ended|June 30, 2024|June 30, 2023|
+|---|---|---|
+|Note|(Rupees in '000)| |
+|Cash flow from operating activities| | |
+|Profit before taxation|16,308,906|17,005,780|
+|Less: dividend income|(504,580)|(360,789)|
+| |15,804,326|16,644,991|
+|Adjustments:| | |
+|Depreciation|638,341|472,859|
+|Amortization|110,834|82,922|
+|Depreciation on ROU assets|1,079,163|811,224|
+|Markup expense on lease liability|697,985|495,230|
+|Termination of lease contracts under IFRS - 16 Leases|(5,524)|(9,900)|
+|Fair value loss on recognition of financial asset at fair value|259,574|-|
+|Charge for defined benefit plan|333,264|256,877|
+|Credit loss allowance and write offs - net|(398,979)|663,472|
+|Unrealised gain on securities measured at FVTPL|(581,574)|(9,476)|
+|Gain on sale of property and equipment|(6,702)|(4,019)|
+| |2,126,382|2,759,189|
+| |17,930,708|19,404,180|
+|(Increase) / decrease in operating assets| | |
+|Lendings to financial institutions|(86,184,576)|321,795|
+|Securities classified as FVPL / HFT|328,456|274,747|
+|Advances|(98,336,226)|(39,474,073)|
+|Other assets (excluding advance taxation)|(15,621,758)|(17,149,438)|
+| |(199,814,104)|(56,026,969)|
+|Increase / (decrease) in operating liabilities| | |
+|Bills payable|1,166,713|16,083,723|
+|Borrowings from financial institutions|219,169,530|306,923,780|
+|Deposits|119,633,823|127,052,463|
+|Other liabilities|(1,733,929)|9,884,853|
+| |338,236,137|459,944,819|
+|Net cash generated from operations|156,352,741|423,322,030|
+|Payment made to defined benefit plan|(127,350)|(221,353)|
+|Income tax paid|(12,332,383)|(6,205,499)|
+|Net cash flow from operating activities|143,893,008|416,895,178|
+|Cash flow from investing activities| | |
+|Net investments in securities measured at FVOCI / AFS|(188,134,410)|(349,509,447)|
+|Net investments in securities measured at amortised cost|8,393,015|(1,635,665)|
+|Dividend received|501,624|333,498|
+|Investments in property and equipment|(1,876,726)|(580,787)|
+|Investments in intangible assets|(199,305)|(225,782)|
+|Proceeds from sale of property and equipment|16,299|6,869|
+|Effect of translation of net investment in Wholesale Bank Branch|(61,772)|907,083|
+| |(181,361,275)|(350,704,231)|
+|Cash flow from financing activities| | |
+|Payments under IFRS 16|(1,325,171)|(975,538)|
+|Dividend paid|(3,611,807)|(1,170)|
+|Net cash used in financing activities|(4,936,978)|(976,708)|
+|(Decrease) / increase in cash and cash equivalents|(42,405,245)|65,214,239|
+|Cash and cash equivalents at beginning of the period|174,848,644|80,627,190|
+|Cash and cash equivalents at end of the period|132,443,399|145,841,429|
+
+The annexed notes 1 to 41 form an integral part of these consolidated condensed interim financial statements.
+
+-sd- Chief Financial Officer / A. President & CE
+
+-sd- Director
+
+-sd- Director
+
+-sd- Chairman
+
+-50-
+---
+
+---
+
+{"chunk_number": 107, "financial_data": "yes", "financial_statement_scope": "consolidated", "is_statement": "no", "statement_type": "none", "is_note": "yes", "note_link": "none", "auditor_report": "no", "director_report": "no", "annual_report_discussion": "no", "file_name": "Askari_Bank_Limited_Quarterly_2024-06-30_chunks.md", "ticker": "AKBL", "entity_name": "Askari Bank Limited", "filing_type": "quarterly", "filing_period": ["Q2-2024", "Q2-2023"]}
+## Chunk 107
+
+
+# ASKARI BANK LIMITED
+
+# Notes to the Consolidated Condensed Interim Financial Statements (Un-audited)
+
+# For the half year ended June 30, 2024
+
+# 1 STATUS AND NATURE OF BUSINESS
+
+The Group consists of Askari Bank Limited, the holding company, Foundation Securities Limited, a 51% owned subsidiary and Askari Currency Exchange (Private) Limited, a 100% owned subsidiary. Askari Bank Limited (the Bank) was incorporated in Pakistan on October 9, 1991 as a Public Limited Company and is listed on the Pakistan Stock Exchange. The registered office of the Bank is situated at AWT Plaza, the Mall, Rawalpindi. The Bank is a scheduled commercial bank and is principally engaged in the business of banking as defined in the Banking Companies Ordinance, 1962. The Fauji Consortium: comprising of Fauji Foundation (FF), Fauji Fertilizer Company Limited (FFCL) and Fauji Fertilizer Bin Qasim Limited (FFBL) collectively owned 71.91 (2023: 71.91) percent shares of the Bank as on June 30, 2024. The ultimate parent of the Bank is Fauji Foundation. The Bank has 660 branches (2023: 660 branches); 659 in Pakistan and Azad Jammu and Kashmir including 142 (2023: 137) Islamic Banking branches and 63 (2023: 63) sub–branches and a Wholesale Bank Branch (WBB) in the Kingdom of Bahrain.
+
+Foundation Securities (Private) Limited (FSL) was incorporated in Pakistan on January 18, 2005 under the repealed Companies Ordinance, 1984 as a private limited company. The Group holds 51% Ordinary Shares of FSL. The principal activity includes equity and commodity brokerage, equity research and corporate financial advisory services. The registered office of FSL is situated in Karachi.
+
+During the period ended June 30, 2024, the Bank has invested Rs. 700 million in its wholly owned subsidiary Askari Currency Exchange (Private) Limited.
+
+# 2 BASIS OF PREPARATION AND STATEMENT OF COMPLIANCE
+
+# 2.1 BASIS OF PREPARATION
+
+# 2.1.1
+
+These consolidated financial statements have been presented in accordance with the requirements of format prescribed by the State Bank of Pakistan.
+
+# 2.1.2
+
+These consolidated condensed interim financial statements are presented in Pak Rupees, which is the Group's functional and presentation currency. The amounts are rounded off to the nearest thousand.
+
+---
+
+{"chunk_number": 108, "financial_data": "yes", "financial_statement_scope": "consolidated", "is_statement": "no", "statement_type": "none", "is_note": "yes", "note_link": "none", "auditor_report": "no", "director_report": "no", "annual_report_discussion": "no", "file_name": "Askari_Bank_Limited_Quarterly_2024-06-30_chunks.md", "ticker": "AKBL", "entity_name": "Askari Bank Limited", "filing_type": "quarterly", "filing_period": ["Q2-2024", "Q2-2023"]}
+## Chunk 108
+
+
+# 2.1.3
+
+These consolidated condensed interim financial statements have been prepared under the historical cost convention except that certain classes of fixed assets and non-banking assets acquired in satisfaction of claims are stated at revalued amounts and certain investments have been marked to market and are carried at fair value. In addition, obligations in respect of staff retirement benefits are carried at present value.
+
+---
+
+{"chunk_number": 109, "financial_data": "yes", "financial_statement_scope": "consolidated", "is_statement": "no", "statement_type": "none", "is_note": "yes", "note_link": "none", "auditor_report": "no", "director_report": "no", "annual_report_discussion": "no", "file_name": "Askari_Bank_Limited_Quarterly_2024-06-30_chunks.md", "ticker": "AKBL", "entity_name": "Askari Bank Limited", "filing_type": "quarterly", "filing_period": ["Q2-2024", "Q2-2023"]}
+## Chunk 109
+
+
+# 2.2 STATEMENT OF COMPLIANCE
+
+# 2.2.1
+
+These consolidated condensed interim financial statements have been prepared in accordance with the approved accounting and reporting standards as applicable in Pakistan. The approved accounting and reporting standards comprise of:
+
+- International Accounting Standard (IAS) 34, Interim Financial Reporting, issued by the International Accounting Standards Board (IASB) as notified under the Companies Act, 2017;
+- Islamic Financial Accounting Standards (IFAS) issued by the Institute of Chartered Accountants of Pakistan as are notified under the Companies Act, 2017;
+---
+- Provisions of and directives issued under the Banking Companies Ordinance, 1962 and the Companies Act, 2017; and
+
+- Directives issued by the State Bank of Pakistan (SBP) and the Securities and Exchange Commission of Pakistan (SECP).
+
+Whenever the requirements of the Banking Companies Ordinance, 1962, the Companies Act, 2017 or the directives issued by the SBP and the SECP differ with the requirements of IFRS or IFAS the requirements of the Banking Companies Ordinance, 1962, the Companies Act, 2017 and the said directives, shall prevail.
+
+---
+
+{"chunk_number": 110, "financial_data": "yes", "financial_statement_scope": "consolidated", "is_statement": "no", "statement_type": "none", "is_note": "yes", "note_link": "none", "auditor_report": "no", "director_report": "no", "annual_report_discussion": "no", "file_name": "Askari_Bank_Limited_Quarterly_2024-06-30_chunks.md", "ticker": "AKBL", "entity_name": "Askari Bank Limited", "filing_type": "quarterly", "filing_period": ["Q2-2024", "Q2-2023"]}
+## Chunk 110
+
+
+# 2.2.2
+
+The State Bank of Pakistan has deferred the applicability of IFAS 3 'Profit and Loss Sharing on Deposits', vide BPRD Circular No.04 dated February 25, 2015 and International Accounting Standard 40, Investment Property, vide BSD Circular Letter no. 10 dated August 26, 2002, for banking companies till further instructions. Further, the SECP, through S.R.O 411(1)/2008 dated April 28, 2008, has deferred the applicability of IFRS 7, Financial Instruments: Disclosures, to banks. Accordingly, the requirements of these standards have not been considered in the preparation of these consolidated condensed interim financial statements.
+
+---
+
+{"chunk_number": 111, "financial_data": "yes", "financial_statement_scope": "consolidated", "is_statement": "no", "statement_type": "none", "is_note": "yes", "note_link": "none", "auditor_report": "no", "director_report": "no", "annual_report_discussion": "no", "file_name": "Askari_Bank_Limited_Quarterly_2024-06-30_chunks.md", "ticker": "AKBL", "entity_name": "Askari Bank Limited", "filing_type": "quarterly", "filing_period": ["Q2-2024", "Q2-2023"]}
+## Chunk 111
+
+
+# 2.2.3
+
+These consolidated condensed interim financial statements have been presented in accordance with the requirements of format prescribed by SBP vide BPRD Circular No. 2 dated February 09, 2023 and International Accounting Standard 34 'Interim Financial Reporting' and do not include all the information and disclosures required in the audited annual consolidated financial statements, and should be read in conjunction with the audited annual consolidated financial statements of the Group for the financial year ended December 31, 2023.
+
+---
+
+{"chunk_number": 112, "financial_data": "yes", "financial_statement_scope": "consolidated", "is_statement": "no", "statement_type": "none", "is_note": "yes", "note_link": "none", "auditor_report": "no", "director_report": "no", "annual_report_discussion": "no", "file_name": "Askari_Bank_Limited_Quarterly_2024-06-30_chunks.md", "ticker": "AKBL", "entity_name": "Askari Bank Limited", "filing_type": "quarterly", "filing_period": ["Q2-2024", "Q2-2023"]}
+## Chunk 112
+
+
+# 3
+
+# Standards, interpretations of and amendments to published approved accounting standards that are effective in the current period
+
+During the year, the Bank has adopted IFRS 9 as applicable in Pakistan with effect from 01 January 2024 (refer note 4.1 for details). There are certain other amendments to accounting and reporting standards that are mandatory for the Group's accounting periods beginning on or after January 1, 2024. Except for IFRS 9, these are either considered not to be relevant or do not have any significant effect on the Group's operations and are therefore not detailed in these consolidated condensed interim financial statements.
+
+---
+
+{"chunk_number": 113, "financial_data": "yes", "financial_statement_scope": "consolidated", "is_statement": "no", "statement_type": "none", "is_note": "yes", "note_link": "none", "auditor_report": "no", "director_report": "no", "annual_report_discussion": "no", "file_name": "Askari_Bank_Limited_Quarterly_2024-06-30_chunks.md", "ticker": "AKBL", "entity_name": "Askari Bank Limited", "filing_type": "quarterly", "filing_period": ["Q2-2024", "Q2-2023"]}
+## Chunk 113
+
+
+# 3.1
+
+# Standards, interpretations of and amendments to published approved accounting standards that are not yet effective
+
+There are various amendments to accounting and reporting standards as applicable in Pakistan that are not yet effective in the current period. These are not likely to have material effect on the Group's financial statements.
+
+---
+
+{"chunk_number": 114, "financial_data": "yes", "financial_statement_scope": "consolidated", "is_statement": "no", "statement_type": "none", "is_note": "yes", "note_link": "none", "auditor_report": "no", "director_report": "no", "annual_report_discussion": "no", "file_name": "Askari_Bank_Limited_Quarterly_2024-06-30_chunks.md", "ticker": "AKBL", "entity_name": "Askari Bank Limited", "filing_type": "quarterly", "filing_period": ["Q2-2024", "Q2-2023"]}
+## Chunk 114
+
+
+# 4
+
+# MATERIAL ACCOUNTING POLICY INFORMATION
+
+The material accounting policies applied in preparation of these condensed interim consolidated financial statements are consistent with those as applied in the preparation of annual consolidated financial statements of the Group for the year ended December 31, 2023, except for the following:
+
+---
+
+{"chunk_number": 115, "financial_data": "yes", "financial_statement_scope": "consolidated", "is_statement": "no", "statement_type": "none", "is_note": "yes", "note_link": "none", "auditor_report": "no", "director_report": "no", "annual_report_discussion": "no", "file_name": "Askari_Bank_Limited_Quarterly_2024-06-30_chunks.md", "ticker": "AKBL", "entity_name": "Askari Bank Limited", "filing_type": "quarterly", "filing_period": ["Q2-2024", "Q2-2023"]}
+## Chunk 115
+
+
+# 4.1
+
+# IFRS 9 - Financial Instruments
+
+During the period, as directed by the SBP vide its BPRD Circular No. 07 of 2023 dated April 13, 2023, IFRS 9: ‘Financial Instruments' (the Standard) became applicable to the Group. BPRD Circular No. 03 of 2022 issued by SBP provides detailed instructions on implementation of IFRS 9 (the Application Instructions) for ensuring smooth and consistent implementation of the standard across banks. The SBP vide its BPRD Circular Letter No. 16 of 2024 have made amendments and extend the timelines of IFRS 9 application instructions.
+---
+The standard addresses recognition, classification, measurement and derecognition of financial assets and financial liabilities. The standard has also introduced a new impairment model for financial assets which requires recognition of impairment charge based on ‘expected credit losses' (ECL) approach rather than ‘incurred credit losses' approach as previously followed. The ECL has impact on all the assets of the Group which are exposed to credit risk.
+
+The Group has adopted IFRS 9 in accordance with the Application Instructions from January 1, 2024, using the modified retrospective approach and has not restated comparatives for the 2023 reporting period and the differences in carrying amount of financial assets and financial liabilities resulting from the adoption of IFRS 9 are recognised in retained earnings and reserves as at 1 January 2024, as permitted under the specific transitional provisions in the Standard. Accordingly, the information presented for 2023 does not reflect the requirements of IFRS 9 and therefore is not comparable to the information presented for 2024 under IFRS 9. The accounting policies applicable to the 2023 presented information is consistent with the policies mentioned in 31 December 2023 annual financial statements.
+
+SBP vide its BPRD Circular Letter No. 16 of 2024 have made certain amendments and extended timelines of application instructions for certain areas where the banking industry has sought more time. These amendments and relaxations include use modification accounting for financial assets and liabilities as per IFRS 9 standard and recording and treatment of staff loan and advances at reduced rates to given effect from 1 October 2024. Further, the banks have been asked to use existing practices of recordings of interest/markup income using effective interest rate and ensure full recognition from 1 October 2024, this in turn also effects the reduced rate loans and modified assets accounting. Moreover, SBP have allowed an extension to Banks up to December 31, 2024 for developing the requisite models for calculating EAD for revolving products beyond the contractual date. In addition the banks have also been allowed to continue the existing practice of valuing unquoted equity investment at their cost or breakup value, whichever is lower, till 31 December 2024 and perform fair valuation of these securities afterwards.
+
+---
+
+{"chunk_number": 116, "financial_data": "yes", "financial_statement_scope": "consolidated", "is_statement": "no", "statement_type": "none", "is_note": "yes", "note_link": "balance_sheet", "auditor_report": "no", "director_report": "no", "annual_report_discussion": "no", "file_name": "Askari_Bank_Limited_Quarterly_2024-06-30_chunks.md", "ticker": "AKBL", "entity_name": "Askari Bank Limited", "filing_type": "quarterly", "filing_period": ["Q2-2024", "Q2-2023"]}
+## Chunk 116
+
+
+# 4.1.1 Impact on the condensed interim consolidated statement of financial position:
+
+The effect of this change in accounting policy on the financial assets and financial liabilities is as follows:
+
+|Financial Asset / Liabilities|Balances as of December 31, 2023 (Audited)|Remeasurements / reclassifications|Recognition of expected credit loss (ECL)|Balances as of January 01, 2024| |
+|---|---|---|---|---|---|
+|ASSETS| | | | | |
+|Cash and balances with treasury banks|160,087,394|-|-|160,087,394| |
+|Balances with other banks|13,789,031|-|(172)|13,788,859| |
+|Investments| | | | | |
+|- Classified as available for sale|1,124,989,158|(1,124,989,158)|-|-| |
+|- Classified as fair value through other comprehensive income|-|1,105,542,060|(166,857)|1,105,375,203| |
+|- Classified as held to maturity|56,798,998|(56,798,998)|-|-| |
+|- Classified as amortised cost|-|74,879,606|-|74,879,606| |
+|- Classified as held for trading|552,832|(552,832)|-|-| |
+|- Classified as fair value through profit or loss|-|6,201,322|-|6,201,322| |
+|Total Investments|1,182,340,988|4,282,000|(166,857)|1,186,456,131| |
+|Advances|Gross amount|661,308,049|-|-|661,308,049|
+|- Provision|(28,175,222)|-|(10,322,295)|(38,497,517)| |
+|Total Advances|633,132,827|-|(10,322,295)|622,810,532| |
+|Other assets - financial assets|90,069,257|-|(383,971)|89,685,286| |
+|LIABILITIES| | | | | |
+|Bills payable|12,394,336|-|-|12,394,336| |
+|Borrowings|643,362,665|-|-|643,362,665| |
+|Deposits and other accounts|1,293,145,575|-|-|1,293,145,575| |
+|Subordinated debt|12,000,000|-|-|12,000,000| |
+|Other liabilities - financial liabilities|45,249,204|-|226,837|45,476,041| |
+|Total Liabilities|2,026,883,138|-|226,837|2,027,109,975| |
+
+---
+
+---
+
+{"chunk_number": 117, "financial_data": "yes", "financial_statement_scope": "consolidated", "is_statement": "no", "statement_type": "none", "is_note": "yes", "note_link": "balance_sheet", "auditor_report": "no", "director_report": "no", "annual_report_discussion": "no", "file_name": "Askari_Bank_Limited_Quarterly_2024-06-30_chunks.md", "ticker": "AKBL", "entity_name": "Askari Bank Limited", "filing_type": "quarterly", "filing_period": ["Q2-2024", "Q2-2023"]}
+## Chunk 117
+
+
+# The following table and the accompanying notes below explain the original measurement categories under the regulation established by the regulator / SBP and the new measurement categories under IFRS 9 for each class of the Group’s financial assets / liability as at 1 January 2024:
+
+|Financial Asset / Liabilities|Measurement Category – before adoption of IFRS 9|Measurement Category - after adoption of IFRS 9|Carrying amount at December 31, 2023 – before adoption of IFRS 9|Carrying amount at January 01, 2024 - after adoption of IFRS 9|
+|---|---|---|---|---|
+|Cash and balances with treasury banks|Loans and receivables|Amortised cost|160,087,394|160,087,394|
+|Balances with other banks|Loans and receivables|Amortised cost|13,789,031|13,788,859|
+| |Held for trading|Fair value through profit or loss|552,832|552,832|
+| |Available for sale|Fair value through profit or loss|5,648,490|5,648,490|
+|Investments|Available for sale|Fair value through other comprehensive income|1,105,542,060|1,105,375,203|
+| |Available for sale|Amortised cost|13,798,608|18,080,608|
+| |Held to maturity|Amortised cost|56,798,998|56,798,998|
+|Advances|Loans and receivables|Amortised cost|633,132,827|622,810,532|
+|Other assets|Loans and receivables|Amortised cost|90,069,257|89,685,286|
+|Bills payable|Amortised Cost|Amortised Cost|12,394,336|12,394,336|
+|Borrowings|Amortised Cost|Amortised Cost|643,362,665|643,362,665|
+|Deposits and other accounts|Amortised Cost|Amortised Cost|1,293,145,575|1,293,145,575|
+|Subordinated debt|Amortised Cost|Amortised Cost|12,000,000|12,000,000|
+|Other liabilities|Amortised Cost|Amortised Cost|45,249,204|45,476,041|
+
+---
+
+{"chunk_number": 118, "financial_data": "yes", "financial_statement_scope": "consolidated", "is_statement": "no", "statement_type": "none", "is_note": "yes", "note_link": "changes_in_equity", "auditor_report": "no", "director_report": "no", "annual_report_discussion": "no", "file_name": "Askari_Bank_Limited_Quarterly_2024-06-30_chunks.md", "ticker": "AKBL", "entity_name": "Askari Bank Limited", "filing_type": "quarterly", "filing_period": ["Q2-2024", "Q2-2023"]}
+## Chunk 118
+
+
+# 4.1.2 Impact on reserve of deficit on revaluation of investments:
+
+| |Impact of adopting IFRS 9 at January 1, 2024|
+|---|---|
+|Closing balances as at December 31, 2023|(6,367,323)|
+|Reclassification of investment securities (debt) from available-for-sale to amortised cost|4,282,000|
+|Reclassification of net surplus on investment securities (debt and equity) from available-for-sale to FVTPL|(220,594)|
+|Reclassification of provision for diminution in value of investment securities (equity) from available-for-sale to FVOCI|(597,143)|
+|Related tax|(1,697,489)|
+| |1,766,774|
+|Opening balance under IFRS 9 as at January 1, 2024|(4,600,549)|
+
+---
+
+{"chunk_number": 119, "financial_data": "yes", "financial_statement_scope": "consolidated", "is_statement": "no", "statement_type": "none", "is_note": "yes", "note_link": "changes_in_equity", "auditor_report": "no", "director_report": "no", "annual_report_discussion": "no", "file_name": "Askari_Bank_Limited_Quarterly_2024-06-30_chunks.md", "ticker": "AKBL", "entity_name": "Askari Bank Limited", "filing_type": "quarterly", "filing_period": ["Q2-2024", "Q2-2023"]}
+## Chunk 119
+
+
+# 4.1.3 Impact on Retained Earnings
+
+| | |
+|---|---|
+|Closing balances as at December 31, 2023|20,431,812|
+|Reclassification under IFRS 9 (net of tax)|416,924|
+|Recognition of expected credit losses under IFRS 9|(11,100,132)|
+|Related tax|5,439,065|
+| |(5,661,067)|
+|Opening balance under IFRS 9 as at January 1, 2024|15,187,669|
+
+---
+
+---
+
+{"chunk_number": 120, "financial_data": "yes", "financial_statement_scope": "consolidated", "is_statement": "no", "statement_type": "none", "is_note": "yes", "note_link": "none", "auditor_report": "no", "director_report": "no", "annual_report_discussion": "no", "file_name": "Askari_Bank_Limited_Quarterly_2024-06-30_chunks.md", "ticker": "AKBL", "entity_name": "Askari Bank Limited", "filing_type": "quarterly", "filing_period": ["Q2-2024", "Q2-2023"]}
+## Chunk 120
+
+
+# 4.1.4 Impact on regulatory capital
+
+In order to mitigate the impact of ECL models on capital, SBP has determined that it may be appropriate for the banks to introduce a transitional arrangement for the impact on regulatory capital from the application of ECL accounting. Annexure B of the 'Application Instructions' issued by SBP has detailed the transitional arrangement.
+
+The transitional arrangement applies only to provisions for stage 1 and stage 2 financial assets. The transitional arrangement must adjust CET1 capital. Where there is a reduction in CET1 capital due to new provisions, net of tax effect, upon adoption of an ECL accounting model, the decline in CET1 capital (the “transitional adjustment amount”) must be partially included (i.e., added back) to CET1 capital over the “transition period” of five years.
+
+Moreover, SBP has allowed to adjust the amount of Stage 1 and Stage 2 provisions in Tier 2 Capital that have not been added back to CET 1 and vice versa as per Annexure-A of BPRD Circular no 16 of 2024.
+
+The impact of adoption of IFRS 9 on the capital ratios of the Group are as follows:
+
+| |As per previous Reporting (31 December 2023)|At 1 January 2024 after adoption of IFRS 9|
+|---|---|---|
+|Common Equity Tier 1 Capital Adequacy ratio|15.11%|14.15%|
+|Tier 1 Capital Adequacy Ratio|16.08%|15.12%|
+|Total Capital Adequacy Ratio|18.35%|17.52%|
+
+---
+
+{"chunk_number": 121, "financial_data": "yes", "financial_statement_scope": "consolidated", "is_statement": "no", "statement_type": "none", "is_note": "yes", "note_link": "none", "auditor_report": "no", "director_report": "no", "annual_report_discussion": "no", "file_name": "Askari_Bank_Limited_Quarterly_2024-06-30_chunks.md", "ticker": "AKBL", "entity_name": "Askari Bank Limited", "filing_type": "quarterly", "filing_period": ["Q2-2024", "Q2-2023"]}
+## Chunk 121
+
+
+# 4.1.5 Classification and measurement
+
+Under the new standard, classification and measurement of financial assets depends on how these are managed based on business model and their contractual cash flow characteristics. Financial assets that do not meet the Solely Payment of Principal and Interest (SPPI) criteria are required to be measured at fair value through profit or loss (FVTPL) regardless of the business model in which they are held.
+
+---
+
+{"chunk_number": 122, "financial_data": "yes", "financial_statement_scope": "consolidated", "is_statement": "no", "statement_type": "none", "is_note": "yes", "note_link": "none", "auditor_report": "no", "director_report": "no", "annual_report_discussion": "no", "file_name": "Askari_Bank_Limited_Quarterly_2024-06-30_chunks.md", "ticker": "AKBL", "entity_name": "Askari Bank Limited", "filing_type": "quarterly", "filing_period": ["Q2-2024", "Q2-2023"]}
+## Chunk 122
+
+
+# Recognition / derecognition and initial measurement
+
+Trade receivable and debt securities issued are initially recorded when they are originated. All other financial assets and financial liabilities are initially recognised when the Group becomes a party to the contractual provisions of the instrument.
+
+A financial asset (unless it is a trade receivable without a significant financing component) or financial liability is initially measured at fair value plus, for an item not at FVTPL, transaction costs that are directly attributable to its acquisition or issue. A trade receivable without a significant financing component is initially measured at transaction price.
+
+The policy for derecognition of financial asset and liabilities are consistent with the annual consolidated financials statements of the Group for the year ended December 31, 2023.
+
+---
+
+{"chunk_number": 123, "financial_data": "yes", "financial_statement_scope": "consolidated", "is_statement": "no", "statement_type": "none", "is_note": "yes", "note_link": "none", "auditor_report": "no", "director_report": "no", "annual_report_discussion": "no", "file_name": "Askari_Bank_Limited_Quarterly_2024-06-30_chunks.md", "ticker": "AKBL", "entity_name": "Askari Bank Limited", "filing_type": "quarterly", "filing_period": ["Q2-2024", "Q2-2023"]}
+## Chunk 123
+
+
+# Classification
+
+# Financial Assets
+
+On initial recognition, a financial asset is classified as measured at: amortised cost, FVOCI or FVTPL.
+
+A financial asset is measured at amortised cost if it meets both of the following conditions and is not designated as at FVTPL:
+
+- the asset is held within a business model whose objective is to hold assets to collect contractual cash flows; and
+- the contractual terms of the financial asset give rise on specified dates to cash flows that are SPPI.
+
+A debt instrument is measured at FVOCI only if it meets both of the following conditions and is not designated as at FVTPL:
+
+- the asset is held within a business model whose objective is achieved by both collecting contractual cashflows and selling financial assets; and
+---
+- the contractual terms of the financial asset give rise on specified dates to cash flows that are SPPI.
+
+On initial recognition of an equity investment that is not held for trading, the Group may irrevocably elect to present subsequent changes in fair value in OCI. This election is made on an investment-by-investment basis.
+
+Financial assets are not reclassified subsequent to their initial recognition unless the Group changes its business models for managing financial assets, in which cases all affected financial assets are reclassified on the first day of the first reporting period following changes in the business model.
+
+IFRS 9 allows entities to irrevocably designate, at initial recognition, a financial asset as measured at FVTPL if doing so eliminates or significantly reduces any 'accounting mismatch' that would otherwise arise from measuring assets or liabilities or recognizing gains and losses on them on different basis. SBP instructions state that banks may apply the fair value option if, in addition to the IFRS 9 criterion, (a) it is consistent with a documented risk management strategy, and (b) fair values are reliable at inception and throughout life of the instrument. Nonetheless, banks should avoid this option for financial instruments that are categorized as Level 3 in terms of the IFRS 13 hierarchy.
+
+---
+
+{"chunk_number": 124, "financial_data": "yes", "financial_statement_scope": "consolidated", "is_statement": "no", "statement_type": "none", "is_note": "yes", "note_link": "none", "auditor_report": "no", "director_report": "no", "annual_report_discussion": "no", "file_name": "Askari_Bank_Limited_Quarterly_2024-06-30_chunks.md", "ticker": "AKBL", "entity_name": "Askari Bank Limited", "filing_type": "quarterly", "filing_period": ["Q2-2024", "Q2-2023"]}
+## Chunk 124
+
+
+# 4.1.6 Business model assessment
+
+A financial asset is classified as either Held to collect, Held to collect and sale and Others based on Business model assessment. The Group makes an assessment of the objective of a business model in which a financial asset is held at a portfolio level because this best reflects the way the business is managed, and information is provided to management. The assessment requires judgement based on facts and circumstances on the date of assessment.
+
+Financial assets that are held for trading or managed and whose performance is evaluated on a fair value basis are measured at FVTPL because they are neither held to collect contractual cash flows nor held both to collect contractual cash flows and to sell financial assets.
+
+The assessment considers the policies and objectives for the portfolio of financial assets, risk affecting, performance evaluation, historical sales information etc.
+
+---
+
+{"chunk_number": 125, "financial_data": "yes", "financial_statement_scope": "consolidated", "is_statement": "no", "statement_type": "none", "is_note": "yes", "note_link": "none", "auditor_report": "no", "director_report": "no", "annual_report_discussion": "no", "file_name": "Askari_Bank_Limited_Quarterly_2024-06-30_chunks.md", "ticker": "AKBL", "entity_name": "Askari Bank Limited", "filing_type": "quarterly", "filing_period": ["Q2-2024", "Q2-2023"]}
+## Chunk 125
+
+
+# 4.1.7 Assessment of whether contractual cash flows are solely payments of principal and interest (SPPI)
+
+The Group assesses whether the contractual cash flows of a financial asset meet the Solely Payments of Principal and Interest (SPPI) criterion by examining the contractual terms. This includes checking for terms that could alter the amount and timings of cash flows, such as contingent events, leverage, or prepayment features, etc.
+
+A prepayment feature aligns with SPPI if it mainly represents unpaid principal and profit, including reasonable compensation for early termination.
+
+For fixed-rate financings with periodic profit rate resets, the Group considers these SPPI-compliant as the revised rates reflect time value, credit risk, and other associated risks.
+
+---
+
+{"chunk_number": 126, "financial_data": "yes", "financial_statement_scope": "consolidated", "is_statement": "no", "statement_type": "none", "is_note": "yes", "note_link": "none", "auditor_report": "no", "director_report": "no", "annual_report_discussion": "no", "file_name": "Askari_Bank_Limited_Quarterly_2024-06-30_chunks.md", "ticker": "AKBL", "entity_name": "Askari Bank Limited", "filing_type": "quarterly", "filing_period": ["Q2-2024", "Q2-2023"]}
+## Chunk 126
+
+
+# 4.1.8 Subsequent measurement
+
+The following accounting policies apply to the subsequent measurement of financial assets:
+
+|Financial assets at FVTPL|These assets are subsequently measured at fair value. Net gains and losses, including any markup or dividend income, are recognised in profit or loss.|
+|---|---|
+|Financial assets at amortised cost|These assets are subsequently measured at amortised cost using the effective interest method. The amortised cost is reduced by impairment losses. Markup, foreign exchange gains and losses and impairment are recognised in profit or loss.|
+
+---
+
+---
+
+{"chunk_number": 127, "financial_data": "yes", "financial_statement_scope": "consolidated", "is_statement": "no", "statement_type": "none", "is_note": "yes", "note_link": "none", "auditor_report": "no", "director_report": "no", "annual_report_discussion": "no", "file_name": "Askari_Bank_Limited_Quarterly_2024-06-30_chunks.md", "ticker": "AKBL", "entity_name": "Askari Bank Limited", "filing_type": "quarterly", "filing_period": ["Q2-2024", "Q2-2023"]}
+## Chunk 127
+
+
+# Debt investments at FVOCI
+
+These assets are subsequently measured at fair value and is assessed for impairment under the new ECL model. Markup income is calculated using the effective interest method and includes amortization of premiums and accretion of discount, foreign exchange gains and losses and impairment are recognised in income statement. Other net gains and losses are recognised in OCI. On derecognition, gains and losses accumulated in OCI are reclassified to income statement.
+
+---
+
+{"chunk_number": 128, "financial_data": "yes", "financial_statement_scope": "consolidated", "is_statement": "no", "statement_type": "none", "is_note": "yes", "note_link": "none", "auditor_report": "no", "director_report": "no", "annual_report_discussion": "no", "file_name": "Askari_Bank_Limited_Quarterly_2024-06-30_chunks.md", "ticker": "AKBL", "entity_name": "Askari Bank Limited", "filing_type": "quarterly", "filing_period": ["Q2-2024", "Q2-2023"]}
+## Chunk 128
+
+
+# Equity investments at FVOCI
+
+These assets are subsequently measured at fair value. Dividends are recognised as income in profit or loss unless the dividend clearly represents a recovery of part of the cost of the investment, in which case they are adjusted from the carrying value of investment. Other net gains and losses are recognised in OCI and are never reclassified to income statement.
+
+The banks are allowed to continue measuring unquoted equity securities at the lower of cost or break-up value up to December 31, 2024. However, Group shall be required to measure unquoted equity securities at fair value, as required in the IFRS 9 application instructions, with effect from January 1, 2025.
+
+---
+
+{"chunk_number": 129, "financial_data": "yes", "financial_statement_scope": "consolidated", "is_statement": "no", "statement_type": "none", "is_note": "yes", "note_link": "none", "auditor_report": "no", "director_report": "no", "annual_report_discussion": "no", "file_name": "Askari_Bank_Limited_Quarterly_2024-06-30_chunks.md", "ticker": "AKBL", "entity_name": "Askari Bank Limited", "filing_type": "quarterly", "filing_period": ["Q2-2024", "Q2-2023"]}
+## Chunk 129
+
+
+# 4.1.9 Modification
+
+# Financial assets
+
+The Group sometimes renegotiates or otherwise modifies the contractual cash flows of loans to its customers. If the cash flows are substantially different, then the contractual rights to cash flows from the original financial asset are deemed to have expired. In this case, the original financial asset is derecognized and a new financial asset is recognised at fair value plus any eligible transaction costs.
+
+If cash flows are modified when the borrower is in financial difficulties, then the objective of the modification is usually to maximise recovery of the original contractual terms rather than to originate a new asset with substantially different terms. If the Group plans to modify a financial asset in a way that would result in forgiveness of cash flows, then it first considers whether a portion of the asset should be written off before the modification takes place. This approach impacts the result of the quantitative evaluation and means that the derecognition criteria are not usually met in such cases.
+
+If the modification of a financial asset measured at amortised cost or FVOCI does not result in derecognition of the financial asset, then the Group first recalculates the gross carrying amount of the financial asset using the original effective interest rate of the asset and recognized the resulting adjustment as a modification gain or loss in profit or loss. Any costs or fees incurred, and fees received as part of the modification adjust the gross carrying amount of the modified financial asset and are amortised over the remaining term of the modified financial asset.
+
+---
+
+{"chunk_number": 130, "financial_data": "yes", "financial_statement_scope": "consolidated", "is_statement": "no", "statement_type": "none", "is_note": "yes", "note_link": "none", "auditor_report": "no", "director_report": "no", "annual_report_discussion": "no", "file_name": "Askari_Bank_Limited_Quarterly_2024-06-30_chunks.md", "ticker": "AKBL", "entity_name": "Askari Bank Limited", "filing_type": "quarterly", "filing_period": ["Q2-2024", "Q2-2023"]}
+## Chunk 130
+
+
+# Financial liabilities
+
+The Group derecognises a financial liability when its terms are modified and the cash flows of the modified liability are substantially different. In this case, a new financial liability based on the modified terms is recognized at fair value. The difference between the carrying amount of the financial liability recognized and consideration paid is recognized in profit or loss. Consideration paid includes non-financial assets transferred, if any, and the assumption of liabilities, including the new modified financial liability.
+
+If the modification of a financial liability is not accounted for as derecognition, then the amortised cost of the liability is recalculated by discounting the modified cash flows at the original effective interest rate and the resulting gain or loss is recognized in profit or loss. For floating-rate financial liabilities, the original effective interest rate used to calculate the modification gain or loss is adjusted to reflect current market terms at the time of the modification. Any costs and fees incurred are recognized as an adjustment to the carrying amount of the liability and amortised over the remaining term of the modified financial liability by re-computing the effective interest rate on the instrument.
+
+---
+
+{"chunk_number": 131, "financial_data": "yes", "financial_statement_scope": "consolidated", "is_statement": "no", "statement_type": "none", "is_note": "yes", "note_link": "none", "auditor_report": "no", "director_report": "no", "annual_report_discussion": "no", "file_name": "Askari_Bank_Limited_Quarterly_2024-06-30_chunks.md", "ticker": "AKBL", "entity_name": "Askari Bank Limited", "filing_type": "quarterly", "filing_period": ["Q2-2024", "Q2-2023"]}
+## Chunk 131
+
+
+# 4.1.10 Impairment
+
+The impairment requirements apply to financial assets measured at amortised cost and FVOCI (other than equity instruments), lease receivables, and certain loan commitments and financial guarantee contracts. At initial recognition, an impairment allowance (or provision in the case of commitments and guarantees) is required for expected credit losses (‘ECL’) resulting from default events that are possible within the next 12 months (’12-month ECL’). In the event of a significant increase in credit risk, a provision is required for ECL resulting from all possible default events over the expected life of the financial instrument (‘lifetime ECL’).
+---
+Financial assets where 12-month ECL is recognized are in 'Stage 1'; financial assets that are considered to have experienced a significant increase in credit risk are in 'Stage 2'; and financial assets for which there is objective evidence of impairment, so are considered to be in default or otherwise credit impaired, are in 'Stage 3'. Under the SBP's instructions, the Group is not required to compute ECL on Government Securities and on Government guaranteed credit exposure in local currency.
+
+Based on the requirements of IFRS 9 and SBP's IFRS 9 application instructions, the Group has performed an ECL assessment considering the following key elements:
+
+- PD: The probability that a counterparty will default over the next 12 months from the reporting date (12-month ECL, Stage1) or over the lifetime of the product (lifetime ECL, Stage 2).
+- EAD: The expected balance sheet exposure at the time of default, incorporating expectations on drawdowns, amortization, pre-payments and forward-looking information where relevant.
+- LGD: An estimate of the loss incurred on a facility upon default by a customer. LGD is calculated as the difference between contractual cash flows due and those that the Group expects to receive, including from the liquidation of any form of collateral. It is expressed as a percentage of the exposure outstanding on the date of classification of an obligor.
+
+---
+
+{"chunk_number": 132, "financial_data": "yes", "financial_statement_scope": "consolidated", "is_statement": "no", "statement_type": "none", "is_note": "yes", "note_link": "none", "auditor_report": "no", "director_report": "no", "annual_report_discussion": "no", "file_name": "Askari_Bank_Limited_Quarterly_2024-06-30_chunks.md", "ticker": "AKBL", "entity_name": "Askari Bank Limited", "filing_type": "quarterly", "filing_period": ["Q2-2024", "Q2-2023"]}
+## Chunk 132
+
+
+# 4.1.11 Significant increase in credit risk (SICR)
+
+A SICR is assessed in the context of an increase in the risk of a default occurring over the life of the financial instrument when compared to that expected at the time of initial recognition. It is not assessed in the context of an increase in the ECL. The Group used several qualitative and quantitative measures in assessing SICR. Quantitative measures relate to deterioration of Obligor Risk Ratings (ORR) or where principal and / or profit payments are 60 days or more past due. Qualitative factors include unavailability of financial information and pending litigations. A financial asset is transitioned to a backward stage in line with SBP instructions.
+
+---
+
+{"chunk_number": 133, "financial_data": "yes", "financial_statement_scope": "consolidated", "is_statement": "no", "statement_type": "none", "is_note": "yes", "note_link": "none", "auditor_report": "no", "director_report": "no", "annual_report_discussion": "no", "file_name": "Askari_Bank_Limited_Quarterly_2024-06-30_chunks.md", "ticker": "AKBL", "entity_name": "Askari Bank Limited", "filing_type": "quarterly", "filing_period": ["Q2-2024", "Q2-2023"]}
+## Chunk 133
+
+
+# 4.1.12 Governance, ownership and responsibilities
+
+The Group has adopted a governance framework requiring multiple functions to effectively work together to ensure input from all business lines. The Risk Department defines the staging criteria for the new impairment model and take ownership of all models, methodologies and the ECL calculation approach. Additionally, the Risk department also take the ownership of the impact of ECL on bank's capital.
+
+The Group's Finance Division performs ECL calculation. As a result, the department then assess the financial impact, meet the financial reporting requirements and further monitor the impact on the financial ratios.
+
+As per the Group's policy, the Group's Internal Audit function carries out periodic review of IFRS 9 methodology and impacts calculated by the Management.
+
+---
+
+{"chunk_number": 134, "financial_data": "yes", "financial_statement_scope": "consolidated", "is_statement": "no", "statement_type": "none", "is_note": "yes", "note_link": "none", "auditor_report": "no", "director_report": "no", "annual_report_discussion": "no", "file_name": "Askari_Bank_Limited_Quarterly_2024-06-30_chunks.md", "ticker": "AKBL", "entity_name": "Askari Bank Limited", "filing_type": "quarterly", "filing_period": ["Q2-2024", "Q2-2023"]}
+## Chunk 134
+
+
+# 4.2 Revised format of condensed interim financial statements
+
+The SBP through its BPRD Circular No. 02 dated February 9, 2023, and BPRD Circular Letter No. 07 of 2023 dated April 13, 2023, has amended the format of quarterly and half yearly financial statements of banks. All banks are directed to prepare their quarterly and half yearly financial statements on the revised format effective from accounting year starting from January 1, 2024.
+
+Accordingly, the Group has prepared these condensed interim consolidated financial statements on the new format prescribed by the SBP.
+
+The adoption of revised format has resulted in following significant changes:
+
+- Right-of-use-assets (note 12) amounting to Rs 9,576,179 thousand (December 31, 2023: Rs 8,312,812 thousand) which were previously shown as part of fixed assets are now shown separately on the consolidated statement of financial position.
+- Lease liabilities (note 20) amounting to Rs 11,351,842 thousand (December 31, 2023: Rs 9,699,474 thousand) which were previously shown as part of other liabilities (note 22) are now shown separately on the consolidated statement of financial position.
+---
+
+---
+
+{"chunk_number": 135, "financial_data": "yes", "financial_statement_scope": "consolidated", "is_statement": "no", "statement_type": "none", "is_note": "yes", "note_link": "none", "auditor_report": "no", "director_report": "no", "annual_report_discussion": "no", "file_name": "Askari_Bank_Limited_Quarterly_2024-06-30_chunks.md", "ticker": "AKBL", "entity_name": "Askari Bank Limited", "filing_type": "quarterly", "filing_period": ["Q2-2024", "Q2-2023"]}
+## Chunk 135
+
+
+# FINANCIAL RISK MANAGEMENT
+
+The financial risk management objectives and policies adopted by the Group are consistent with those disclosed in the audited annual consolidated financial statements for the year ended December 31, 2023.
+
+|(Un-audited)|(Audited)|
+|---|---|
+|June 30, 2024|December 31, 2023|
+
+---
+
+{"chunk_number": 136, "financial_data": "yes", "financial_statement_scope": "consolidated", "is_statement": "no", "statement_type": "none", "is_note": "yes", "note_link": "balance_sheet", "auditor_report": "no", "director_report": "no", "annual_report_discussion": "no", "file_name": "Askari_Bank_Limited_Quarterly_2024-06-30_chunks.md", "ticker": "AKBL", "entity_name": "Askari Bank Limited", "filing_type": "quarterly", "filing_period": ["Q2-2024", "Q2-2023"]}
+## Chunk 136
+
+
+# CASH AND BALANCES WITH TREASURY BANKS
+
+Rupees in '000
+
+|In hand:|Local currency|31,198,563|27,760,857|
+|---|---|---|---|
+| |Foreign currencies|5,718,808|4,318,238|
+| |Total|36,917,371|32,079,095|
+|With the State Bank of Pakistan in:|Local currency current accounts|56,474,614|104,626,342|
+| |Foreign currency current account|6,929,175|6,885,755|
+| |Foreign currency deposit account|13,106,172|12,873,026|
+| |Total|76,509,961|124,385,123|
+|With National Bank of Pakistan in:|Local currency current accounts|5,841,254|3,573,496|
+|Prize Bonds| |33,201|49,753|
+|Less: Credit loss allowance held against cash and balances with other banks| |-|-|
+|Cash and balances with treasury banks - net of credit loss allowance| |119,301,787|160,087,467|
+
+---
+
+{"chunk_number": 137, "financial_data": "yes", "financial_statement_scope": "consolidated", "is_statement": "no", "statement_type": "none", "is_note": "yes", "note_link": "balance_sheet", "auditor_report": "no", "director_report": "no", "annual_report_discussion": "no", "file_name": "Askari_Bank_Limited_Quarterly_2024-06-30_chunks.md", "ticker": "AKBL", "entity_name": "Askari Bank Limited", "filing_type": "quarterly", "filing_period": ["Q2-2024", "Q2-2023"]}
+## Chunk 137
+
+
+# BALANCES WITH OTHER BANKS
+
+In Pakistan
+
+|In current accounts|251,750|191,224|
+|---|---|---|
+|In deposit accounts|797,046|783,724|
+|Total|1,048,796|974,948|
+
+Outside Pakistan
+
+|In current accounts|1,190,480|1,557,101|
+|---|---|---|
+|In deposit accounts - note 7.1|10,902,505|12,229,132|
+|Total|12,092,985|13,786,233|
+
+Less: Credit loss allowance held against balances with other banks
+
+(169)
+(4)
+Balances with other banks - net of credit loss allowance
+
+13,141,612
+14,761,177
+
+---
+
+{"chunk_number": 138, "financial_data": "yes", "financial_statement_scope": "consolidated", "is_statement": "no", "statement_type": "none", "is_note": "yes", "note_link": "balance_sheet", "auditor_report": "no", "director_report": "no", "annual_report_discussion": "no", "file_name": "Askari_Bank_Limited_Quarterly_2024-06-30_chunks.md", "ticker": "AKBL", "entity_name": "Askari Bank Limited", "filing_type": "quarterly", "filing_period": ["Q2-2024", "Q2-2023"]}
+## Chunk 138
+
+
+# LENDINGS TO FINANCIAL INSTITUTIONS
+
+Rupees in '000
+
+|Repurchase agreement lendings (reverse repo)|66,199,437|-|
+|---|---|---|
+|Call money lendings|20,000,000|-|
+|Purchase under resale arrangement of equity securities|74,303|89,164|
+|Total|86,273,740|89,164|
+|Less: Credit loss allowance / provision held against lending to financial institutions|(89,100)|(89,164)|
+|Lendings to financial institutions - net of credit loss allowance / provision|86,184,640|-|
+
+# Particulars of credit loss allowance / provision
+
+Rupees in '000
+
+|Domestic|Performing Stage 1|86,199,437|14,798|-|-|
+|---|---|---|---|---|---|
+|Non-performing|Loss Stage 3|74,303|74,302|89,164|89,164|
+|Total| |86,273,740|89,100|89,164|89,164|
+
+---
+
+---
+
+{"chunk_number": 139, "financial_data": "yes", "financial_statement_scope": "consolidated", "is_statement": "no", "statement_type": "none", "is_note": "yes", "note_link": "balance_sheet", "auditor_report": "no", "director_report": "no", "annual_report_discussion": "no", "file_name": "Askari_Bank_Limited_Quarterly_2024-06-30_chunks.md", "ticker": "AKBL", "entity_name": "Askari Bank Limited", "filing_type": "quarterly", "filing_period": ["Q2-2024", "Q2-2023"]}
+## Chunk 139
+
+
+# 9 INVESTMENTS
+
+# June 30, 2024 (Un-audited)
+
+# December 31, 2023 (Audited)
+
+|Cost / amortised cost|Credit Loss allowance|Surplus / (deficit)|Carrying value|Cost / amortised cost|Provision for diminution in value|Surplus / (deficit)|Carrying value| |
+|---|---|---|---|---|---|---|---|---|
+| | | | |(Rupees in '000)| | | | |
+|9.1 Investments by type:| | | | | | | | |
+|FVTPL / (2023: Held for trading)| | | | | | | | |
+|Fully paid ordinary shares|357,060|-|2,070|359,130|544,494|-|22,049|566,543|
+|Units of mutual funds|1,820,729|-|656,954|2,477,683|-|-|-|-|
+|Non Government Debt Securities|3,622,900|-|(3,734)|3,619,166|-|-|-|-|
+|Total|5,800,689|-|655,290|6,455,979|544,494|-|22,049|566,543|
+|FVOCI / (2023: Available for sale)| | | | | | | | |
+|Federal Government Securities|1,288,033,016|(564,518)|(8,132,042)|1,279,336,456|1,117,640,852|(524,796)|(14,605,232)|1,102,510,824|
+|Shares|4,811,884|(5,680)|2,147,114|6,953,318|4,752,010|(597,143)|1,885,567|6,040,434|
+|Units of mutual funds|-|-|-|-|1,913,994|(168,124)|259,059|2,004,929|
+|Fully paid preference shares|27,314|(2,235)|(1,500)|23,579|27,314|(11,914)|12,750|28,150|
+|Non Government Debt Securities|11,767,754|(1,303,453)|(1,332)|10,462,969|15,836,647|(1,355,068)|(32,425)|14,449,154|
+|Total|1,304,639,968|(1,875,886)|(5,987,760)|1,296,776,322|1,140,170,817|(2,657,045)|(12,480,281)|1,125,033,491|
+|Amortised cost / (2023: Held to maturity)| | | | | | | | |
+|Federal Government Securities|67,170,859|(190,003)|-|66,980,856|57,483,266|(585,642)|-|56,897,624|
+|Non Government Debt Securities|110,000|(110,000)|-|-|110,000|(110,000)|-|-|
+|Total|67,280,859|(300,003)|-|66,980,856|57,593,266|(695,642)|-|56,897,624|
+|Total investments|1,377,721,515|(2,175,889)|(5,332,470)|1,370,213,157|1,198,308,577|(3,352,687)|(12,458,232)|1,182,497,658|
+
+---
+
+{"chunk_number": 140, "financial_data": "yes", "financial_statement_scope": "consolidated", "is_statement": "no", "statement_type": "none", "is_note": "yes", "note_link": "balance_sheet", "auditor_report": "no", "director_report": "no", "annual_report_discussion": "no", "file_name": "Askari_Bank_Limited_Quarterly_2024-06-30_chunks.md", "ticker": "AKBL", "entity_name": "Askari Bank Limited", "filing_type": "quarterly", "filing_period": ["Q2-2024", "Q2-2023"]}
+## Chunk 140
+
+
+# (Un-audited) (Audited)
+
+# June 30, 2024
+
+# December 31, 2023
+
+# 9.1.1 Investments given as collateral
+
+|The market value of investment given as collateral is as follows| | | |
+|---|---|---|---|
+|Market Treasury Bills|20,455,390|13,586,080| |
+|Pakistan Investment Bonds|775,203,500|570,673,900| |
+|Shares|158,914|141,491| |
+|Total| |795,817,804|584,401,471|
+
+---
+
+---
+
+{"chunk_number": 141, "financial_data": "yes", "financial_statement_scope": "consolidated", "is_statement": "no", "statement_type": "none", "is_note": "yes", "note_link": "none", "auditor_report": "no", "director_report": "no", "annual_report_discussion": "no", "file_name": "Askari_Bank_Limited_Quarterly_2024-06-30_chunks.md", "ticker": "AKBL", "entity_name": "Askari Bank Limited", "filing_type": "quarterly", "filing_period": ["Q2-2024", "Q2-2023"]}
+## Chunk 141
+
+
+# 9.3 Credit loss allowance / provision for diminution in value of investments
+
+| |(Un-audited)|(Audited)|
+|---|---|---|
+| |June 30, 2024|December 31, 2023|
+|(Rupees in '000)| | |
+|9.3.1 Opening balance|3,352,687|3,512,177|
+|Impact of reclassification on adoption of IFRS 9|(847,767)|-|
+|Impact of ECL recognized on adoption of IFRS 9|166,857|-|
+| |2,671,777|3,512,177|
+|Exchange adjustments|(1,093)|274,611|
+|Charge / (reversals)| | |
+|Charge for the period / year|-|180,392|
+|Reversal for the period / year|(494,795)|(328,207)|
+|Reversal on disposals|-|(286,286)|
+| |(494,795)|(434,101)|
+|Closing balance|2,175,889|3,352,687|
+
+---
+
+{"chunk_number": 142, "financial_data": "yes", "financial_statement_scope": "consolidated", "is_statement": "no", "statement_type": "none", "is_note": "yes", "note_link": "none", "auditor_report": "no", "director_report": "no", "annual_report_discussion": "no", "file_name": "Askari_Bank_Limited_Quarterly_2024-06-30_chunks.md", "ticker": "AKBL", "entity_name": "Askari Bank Limited", "filing_type": "quarterly", "filing_period": ["Q2-2024", "Q2-2023"]}
+## Chunk 142
+
+
+# 9.3.2 Particulars of credit loss allowance / provision against debt securities
+
+| |June 30, 2024 (Un-audited)| |December 31, 2023 (Un-audited)| |
+|---|---|---|---|---|
+|Category of classification|Amount|Credit loss allowance|Amount|Provision held|
+|Domestic| | | | |
+|Performing - Stage 1|1,355,606,015|129,472|-|-|
+|Non-performing - Stage 3| | | | |
+|Loss|1,383,823|1,383,823|1,577,096|1,476,982|
+| |1,356,989,838|1,513,295|1,577,096|1,476,982|
+|Overseas| | | | |
+|Performing - Stage 1|10,020,479|656,914|20,287,925|1,110,438|
+| |1,367,010,317|2,170,209|21,865,021|2,587,420|
+
+# 9.4
+
+The market value of securities classified as amortised cost / held to maturity as at June 30, 2024 is Rs. 58,996,690 thousand (2023: Rs. 50,529,523 thousand).
+---
+
+---
+
+{"chunk_number": 143, "financial_data": "yes", "financial_statement_scope": "consolidated", "is_statement": "no", "statement_type": "none", "is_note": "yes", "note_link": "balance_sheet", "auditor_report": "no", "director_report": "no", "annual_report_discussion": "no", "file_name": "Askari_Bank_Limited_Quarterly_2024-06-30_chunks.md", "ticker": "AKBL", "entity_name": "Askari Bank Limited", "filing_type": "quarterly", "filing_period": ["Q2-2024", "Q2-2023"]}
+## Chunk 143
+
+
+# ADVANCES
+
+|Performing| | |Non Performing| |Total| | | | | | | | | |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| |(Un-audited)|(Audited)| | | | | | | | | | | | |
+| | | |June 30, 2024| | |December 31, 2023|June 30, 2024|December 31, 2023|June 30, 2024|December 31, 2023| | | | |
+|Loans, cash credits, running finances, etc.|562,666,627|498,619,419|27,744,488|25,198,876|590,422,018|523,818,295| | | | | | | | |
+|Islamic financing and related assets|136,647,536|114,772,652|4,355,830|2,781,125|140,992,463|117,553,777| | | | | | | | |
+|Bills discounted and purchased|20,608,553|18,765,713|2,343,084|1,083,586|22,951,637|19,849,299| | | | | | | | |
+|Advances - gross|719,922,716|632,157,784|34,443,402|29,063,587|754,366,118|661,221,371| | | | | | | | |
+|Credit loss allowance / provision against advances| | | | | | | | | | | | | | |
+|- Stage 1|(2,489,300)|-|-|-|(2,489,300)|-| | | | | | | | |
+|- Stage 2|(2,167,883)|-|-|-|(2,167,883)|-| | | | | | | | |
+|- Stage 3|-|-|(32,423,345)|-|(32,423,345)|-| | | | | | | | |
+|- General|-|(2,538,527)|-|-|-|(2,538,527)| | | | | | | | |
+|- Specific|-|-|-|(25,636,695)|-|(25,636,695)| | | | | | | | |
+|Total|(4,657,183)|(2,538,527)|(32,423,345)|(25,636,695)|(37,080,528)|(28,175,222)| | | | | | | | |
+|Advances - net of credit loss allowance / (provision)|715,265,533|629,619,257|2,020,057|3,426,892|717,285,590|633,046,149| | | | | | | | |
+
+# Particulars of advances (Gross)
+
+|In local currency|715,263,649|622,718,911|
+|---|---|---|
+|In foreign currencies|39,102,469|38,502,460|
+|Total|754,366,118|661,221,371|
+
+---
+
+{"chunk_number": 144, "financial_data": "yes", "financial_statement_scope": "consolidated", "is_statement": "no", "statement_type": "none", "is_note": "yes", "note_link": "balance_sheet", "auditor_report": "no", "director_report": "no", "annual_report_discussion": "no", "file_name": "Askari_Bank_Limited_Quarterly_2024-06-30_chunks.md", "ticker": "AKBL", "entity_name": "Askari Bank Limited", "filing_type": "quarterly", "filing_period": ["Q2-2024", "Q2-2023"]}
+## Chunk 144
+
+
+# Advances include Rs.34,443,402 thousand (2023: Rs. 29,063,587 thousand) which have been placed under non-performing status as detailed below:
+
+|Category of classification (Stage 3)|Non Performing Loans|Credit loss Allowance|Non Performing Loans|Provision|
+|---|---|---|---|---|
+|Domestic| | | | |
+|Other Assets Especially Mentioned|276,723|252,870|133,619|1,423|
+|Substandard|4,080,006|3,289,442|2,112,910|523,884|
+|Doubtful|1,711,422|1,331,104|1,301,511|599,345|
+|Loss|28,375,251|27,549,929|25,515,547|24,512,043|
+|Total|34,443,402|32,423,345|29,063,587|25,636,695|
+
+---
+
+{"chunk_number": 145, "financial_data": "yes", "financial_statement_scope": "consolidated", "is_statement": "no", "statement_type": "none", "is_note": "yes", "note_link": "none", "auditor_report": "no", "director_report": "no", "annual_report_discussion": "no", "file_name": "Askari_Bank_Limited_Quarterly_2024-06-30_chunks.md", "ticker": "AKBL", "entity_name": "Askari Bank Limited", "filing_type": "quarterly", "filing_period": ["Q2-2024", "Q2-2023"]}
+## Chunk 145
+
+
+# Particulars of credit loss allowance / provision against advances
+
+| |Stage 3|Stage 2|Stage 1|Total|
+|---|---|---|---|---|
+|Opening balance|25,636,695|-|2,538,527|28,175,222|
+|Impact of ECL recognized on adoption of IFRS 9|5,782,432|3,987,283|552,578|10,322,293|
+|Total|31,419,127|3,987,283|3,091,105|38,497,515|
+|Charge for the period|4,211,359|274,486|190,698|4,676,543|
+|Reversal for the period|(3,207,141)|(2,093,886)|(792,503)|(6,093,530)|
+|Total|1,004,218|(1,819,400)|(601,805)|(1,416,987)|
+|Closing balance|32,423,345|2,167,883|2,489,300|37,080,528|
+
+---
+
+{"chunk_number": 146, "financial_data": "yes", "financial_statement_scope": "consolidated", "is_statement": "no", "statement_type": "none", "is_note": "yes", "note_link": "none", "auditor_report": "no", "director_report": "no", "annual_report_discussion": "no", "file_name": "Askari_Bank_Limited_Quarterly_2024-06-30_chunks.md", "ticker": "AKBL", "entity_name": "Askari Bank Limited", "filing_type": "quarterly", "filing_period": ["Q2-2024", "Q2-2023"]}
+## Chunk 146
+
+
+# December 31, 2023 (Audited)
+
+| |Specific|General|Consumer financing - General|Total|
+|---|---|---|---|---|
+|Opening balance|29,297,528|1,010,000|815,586|31,123,114|
+|Exchange adjustments|-|22,369|-|22,369|
+|Charge for the year|2,657,741|1,152,111|52,676|3,862,528|
+|Reversal under IFRS 9 related to WBB|-|(86,544)|-|(86,544)|
+|Reversal for the year|(2,105,630)|(108,551)|(319,120)|(2,533,301)|
+|Total|552,111|957,016|(266,444)|1,242,683|
+|Amounts written off|(2,505,910)|-|-|(2,505,910)|
+|Amounts charged off|(1,707,034)|-|-|(1,707,034)|
+|Closing balance|25,636,695|1,989,385|549,142|28,175,222|
+
+---
+
+{"chunk_number": 147, "financial_data": "yes", "financial_statement_scope": "consolidated", "is_statement": "no", "statement_type": "none", "is_note": "yes", "note_link": "none", "auditor_report": "no", "director_report": "no", "annual_report_discussion": "no", "file_name": "Askari_Bank_Limited_Quarterly_2024-06-30_chunks.md", "ticker": "AKBL", "entity_name": "Askari Bank Limited", "filing_type": "quarterly", "filing_period": ["Q2-2024", "Q2-2023"]}
+## Chunk 147
+
+
+# June 30, 2024 (Un-audited)
+
+| |Stage 1|Stage 2|Stage 3|
+|---|---|---|---|
+|Opening balance (including impact of ECL on adoption of IFRS 9)|3,091,105|3,987,283|31,419,127|
+|New Advances|159,367|34,502|11,322|
+|Advances repaid|(94,267)|(96,369)|(653,799)|
+|Transfer to stage 1|31,330|(86,660)|-|
+|Transfer to stage 2|(116,774)|239,984|-|
+|Transfer to stage 3|(3,521)|(356,016)|4,200,038|
+|Changes in risk parameters|(577,940)|(1,554,841)|(2,553,343)|
+|Closing balance|2,489,300|2,167,883|32,423,345|
+
+---
+
+---
+
+{"chunk_number": 148, "financial_data": "yes", "financial_statement_scope": "consolidated", "is_statement": "no", "statement_type": "none", "is_note": "yes", "note_link": "balance_sheet", "auditor_report": "no", "director_report": "no", "annual_report_discussion": "no", "file_name": "Askari_Bank_Limited_Quarterly_2024-06-30_chunks.md", "ticker": "AKBL", "entity_name": "Askari Bank Limited", "filing_type": "quarterly", "filing_period": ["Q2-2024", "Q2-2023"]}
+## Chunk 148
+
+
+# June 30, 2024 (Un-audited)
+
+# Loans Outstanding
+
+|Advances - category of classification|Credit Loss Allowance Held|Loans Outstanding| |Provision|
+|---|---|---|---|---|
+|Domestic| | | | |
+|Performing (Stage 1)|636,218,808|2,489,300|629,255,462|2,512,841|
+|Underperforming (Stage 2)|82,770,650|2,157,073|-|-|
+|Non-Performing (Stage 3)| | | | |
+|Other assets specially mentioned|276,723|252,870|133,619|1,423|
+|Substandard|4,080,006|3,289,442|2,112,910|523,884|
+|Doubtful|1,711,422|1,331,104|1,301,511|599,345|
+|Loss|28,375,251|27,549,929|25,515,547|24,512,043|
+| |34,443,402|32,423,345|29,063,587|25,636,695|
+|Sub Total|753,432,860|37,069,718|658,319,049|28,149,536|
+|Overseas| | | | |
+|Underperforming (Stage 2)|927,804|10,810|2,902,322|25,686|
+|Total|754,360,664|37,080,528|661,221,371|28,175,222|
+
+# PROPERTY AND EQUIPMENT
+
+| |(Rupees in '000)|
+|---|---|
+|Capital work-in-progress - note 11.1|516,207|
+|Property and equipment|19,426,974|
+| |19,943,181|
+
+11.1 This represents advances to suppliers and contractors.
+
+---
+
+{"chunk_number": 149, "financial_data": "yes", "financial_statement_scope": "consolidated", "is_statement": "no", "statement_type": "none", "is_note": "yes", "note_link": "balance_sheet", "auditor_report": "no", "director_report": "no", "annual_report_discussion": "no", "file_name": "Askari_Bank_Limited_Quarterly_2024-06-30_chunks.md", "ticker": "AKBL", "entity_name": "Askari Bank Limited", "filing_type": "quarterly", "filing_period": ["Q2-2024", "Q2-2023"]}
+## Chunk 149
+
+
+# Additions to property and equipment
+
+|(Un-audited)|Period ended June 30, 2024|Period ended June 30, 2023|
+|---|---|---|
+|Capital work-in-progress|260,884|98,355|
+|Property and equipment| | |
+|Buildings - leasehold|-|1,037|
+|Renovation of premises|396,366|165,657|
+|Furniture, fixtures and office equipment|281,383|125,005|
+|Machine and equipment|722,465|191,419|
+|Computer equipment|410,386|112,476|
+|Vehicles|40,969|7,743|
+|Total|2,112,453|701,692|
+
+---
+
+{"chunk_number": 150, "financial_data": "yes", "financial_statement_scope": "consolidated", "is_statement": "no", "statement_type": "none", "is_note": "yes", "note_link": "balance_sheet", "auditor_report": "no", "director_report": "no", "annual_report_discussion": "no", "file_name": "Askari_Bank_Limited_Quarterly_2024-06-30_chunks.md", "ticker": "AKBL", "entity_name": "Askari Bank Limited", "filing_type": "quarterly", "filing_period": ["Q2-2024", "Q2-2023"]}
+## Chunk 150
+
+
+# Disposal of property and equipment
+
+| | |(Un-audited)|June 30, 2024|June 30, 2023|
+|---|---|---|---|---|
+|Renovation of premises| | |117|-|
+|Furniture, fixtures and office equipment| | |4,982|2,193|
+|Machine and equipment| | |1,828|657|
+|Computer equipment| | |360|-|
+|Vehicles| | |2,310|-|
+|Total| | |9,597|2,850|
+
+# RIGHT-OF-USE ASSETS
+
+| |(Rupees in '000)|
+|---|---|
+|Net carrying amount at January 1|8,312,812|
+|Additions during the period / year|2,318,296|
+|Depreciation for the period / year|(1,079,163)|
+|Deletions and other adjustments|24,234|
+|Net carrying amount at period / year end|9,576,179|
+
+# INTANGIBLE ASSETS
+
+| |(Rupees in '000)|
+|---|---|
+|Computer software|1,562,732|
+|Capital work in progress|391,356|
+|Total|1,954,088|
+
+---
+
+---
+
+{"chunk_number": 151, "financial_data": "yes", "financial_statement_scope": "consolidated", "is_statement": "no", "statement_type": "none", "is_note": "yes", "note_link": "balance_sheet", "auditor_report": "no", "director_report": "no", "annual_report_discussion": "no", "file_name": "Askari_Bank_Limited_Quarterly_2024-06-30_chunks.md", "ticker": "AKBL", "entity_name": "Askari Bank Limited", "filing_type": "quarterly", "filing_period": ["Q2-2024", "Q2-2023"]}
+## Chunk 151
+
+
+# (Un-audited)
+
+# Period ended June 30, 2024
+
+# Period ended June 30, 2023
+
+# 13.1 Additions to intangible assets (Rupees in '000)
+
+The following additions have been made to intangible assets during the period:
+
+|Capital work-in-progress|97,518|179,625|
+|---|---|---|
+|Directly purchased|101,787|92,809|
+|Total|199,305|272,434|
+
+---
+
+{"chunk_number": 152, "financial_data": "yes", "financial_statement_scope": "consolidated", "is_statement": "no", "statement_type": "none", "is_note": "yes", "note_link": "balance_sheet", "auditor_report": "no", "director_report": "no", "annual_report_discussion": "no", "file_name": "Askari_Bank_Limited_Quarterly_2024-06-30_chunks.md", "ticker": "AKBL", "entity_name": "Askari Bank Limited", "filing_type": "quarterly", "filing_period": ["Q2-2024", "Q2-2023"]}
+## Chunk 152
+
+
+# 14
+
+This represents carrying amount of land located at Haider Road, Rawalpindi, which was classified to non current asset held for sale in 2022 consequent to a sale agreement. The carrying amount includes revaluation surplus of Rs. 980,987 thousand at which amount the asset was transferred from property and equipment.
+
+---
+
+{"chunk_number": 153, "financial_data": "yes", "financial_statement_scope": "consolidated", "is_statement": "no", "statement_type": "none", "is_note": "yes", "note_link": "balance_sheet", "auditor_report": "no", "director_report": "no", "annual_report_discussion": "no", "file_name": "Askari_Bank_Limited_Quarterly_2024-06-30_chunks.md", "ticker": "AKBL", "entity_name": "Askari Bank Limited", "filing_type": "quarterly", "filing_period": ["Q2-2024", "Q2-2023"]}
+## Chunk 153
+
+
+# (Un-audited)
+
+# June 30, 2024
+
+# December 31, 2023
+
+# 15 DEFERRED TAX ASSETS (Rupees in '000)
+
+(Taxable) / deductible temporary differences on
+
+|- Accelerated tax depreciation|(238,645)|(205,456)|
+|---|---|---|
+|- Deficit on revaluation of investments|2,934,002|6,115,338|
+|- Credit loss allowance / provision against advances|7,511,389|2,160,533|
+|- Others|(5,003)|(5,003)|
+|Total|10,201,743|8,065,412|
+
+---
+
+{"chunk_number": 154, "financial_data": "yes", "financial_statement_scope": "consolidated", "is_statement": "no", "statement_type": "none", "is_note": "yes", "note_link": "balance_sheet", "auditor_report": "no", "director_report": "no", "annual_report_discussion": "no", "file_name": "Askari_Bank_Limited_Quarterly_2024-06-30_chunks.md", "ticker": "AKBL", "entity_name": "Askari Bank Limited", "filing_type": "quarterly", "filing_period": ["Q2-2024", "Q2-2023"]}
+## Chunk 154
+
+
+# 16 OTHER ASSETS
+
+|Income / mark-up accrued in local currency|85,984,679|73,588,636|
+|---|---|---|
+|Income / mark-up accrued in foreign currencies|1,170,984|2,134,035|
+|Advances, deposits, advance rent and other prepayments|1,239,234|1,064,788|
+|Advance taxation (payments less provisions)|7,624,218|3,966,205|
+|Deferred cost on recognition of loan at fair value - note 16.1|4,931,905|-|
+|Trade debts - unsecured - considered good|440,013|461,827|
+|Non-banking assets acquired in satisfaction of claims|396,746|406,862|
+|Receivable against trading of securities|40|46,245|
+|Stationary and stamps in hand|235,261|285,087|
+|Receivable from defined benefit plan|170,221|-|
+|Dividend receivable|7,409|4,453|
+|Margin against stand by letter of credit (SBLC)|822,391|-|
+|Acceptances|17,215,992|14,053,824|
+|Others|573,991|425,248|
+|Total|120,813,084|96,437,210|
+
+Credit loss allowance / provision held against other assets - note 16.2
+
+|Advances, deposits, advance rent and other prepayments|4,838|4,838|
+|---|---|---|
+|Acceptances|499,342|-|
+|Others|206,458|208,150|
+|Total|710,638|212,988|
+
+---
+
+{"chunk_number": 155, "financial_data": "yes", "financial_statement_scope": "consolidated", "is_statement": "no", "statement_type": "none", "is_note": "yes", "note_link": "balance_sheet", "auditor_report": "no", "director_report": "no", "annual_report_discussion": "no", "file_name": "Askari_Bank_Limited_Quarterly_2024-06-30_chunks.md", "ticker": "AKBL", "entity_name": "Askari Bank Limited", "filing_type": "quarterly", "filing_period": ["Q2-2024", "Q2-2023"]}
+## Chunk 155
+
+
+# 16.1
+
+This represents deferred portion of fair value loss arisen on initial recognition of loan to PIA Holding Company Limited (PIAHCL). SBP through its letter BPRD/BRD/PIAHCL/733688-2024 dated August 01, 2024 has allowed staggering of such fair value impact over a period of 6 years at rates of 5%, 10%, 15%, 20%, 25%, and 35% from year 1 to year 6, accordingly, the Group has amortized 5% in the current period.
+
+# 16.2 Credit loss allowance / provision held against other assets (Rupees in '000)
+---
+
+---
+
+{"chunk_number": 156, "financial_data": "yes", "financial_statement_scope": "consolidated", "is_statement": "no", "statement_type": "none", "is_note": "yes", "note_link": "balance_sheet", "auditor_report": "no", "director_report": "no", "annual_report_discussion": "no", "file_name": "Askari_Bank_Limited_Quarterly_2024-06-30_chunks.md", "ticker": "AKBL", "entity_name": "Askari Bank Limited", "filing_type": "quarterly", "filing_period": ["Q2-2024", "Q2-2023"]}
+## Chunk 156
+
+
+# 16.2.1 Movement in credit loss allowance / provision against other assets
+
+|(Rupees in '000)|(Un-audited) June 30, 2024|(Audited) December 31, 2023|
+|---|---|---|
+|Opening balance|212,989|182,608|
+|Impact of ECL recognized on adoption of IFRS 9|383,971|-|
+|Total|596,959|182,608|
+|Charge for the period / year|113,679|2,756|
+|Reversal for the period / year|-|(260)|
+|Total|113,679|2,496|
+|Transfers / Other adjustments|-|27,885|
+|Closing balance|710,638|212,989|
+
+# 17 BILLS PAYABLE
+
+In Pakistan: 13,561,049 (Un-audited) June 30, 2024, 12,394,336 (Audited) December 31, 2023
+
+---
+
+{"chunk_number": 157, "financial_data": "yes", "financial_statement_scope": "consolidated", "is_statement": "no", "statement_type": "none", "is_note": "yes", "note_link": "balance_sheet", "auditor_report": "no", "director_report": "no", "annual_report_discussion": "no", "file_name": "Askari_Bank_Limited_Quarterly_2024-06-30_chunks.md", "ticker": "AKBL", "entity_name": "Askari Bank Limited", "filing_type": "quarterly", "filing_period": ["Q2-2024", "Q2-2023"]}
+## Chunk 157
+
+
+# 18 BORROWINGS
+
+# Secured
+
+|Borrowings from the State Bank of Pakistan under:|(Un-audited) June 30, 2024|(Audited) December 31, 2023|
+|---|---|---|
+|Export refinance scheme|16,610,063|19,840,120|
+|Long term financing facility|7,666,644|8,610,177|
+|Financing facility for storage of agricultural produce|-|14,770|
+|Renewable energy financing facility|3,900,330|3,905,513|
+|Refinance from SBP| | |
+|Credit guarantee scheme for women entrepreneurs|33,267|12,700|
+|Temporary Economic Relief|10,975,245|11,947,741|
+|Modernization of SME|77,686|8,687|
+|Combating COVID-19|318,834|400,459|
+|Rupee based discounting of bills / receivable|3,836,642|3,707,901|
+|Working Capital Financing|58,900|-|
+|Total|43,477,611|48,448,068|
+
+# Repurchase agreement borrowings
+
+|State Bank of Pakistan|790,000,000|505,000,000|
+|---|---|---|
+|Financial institutions|22,279,436|86,921,724|
+|Total|812,279,436|591,921,724|
+
+# Refinance from Pakistan Mortgage Refinance Company
+
+4,747,990
+2,992,873
+
+# Unsecured
+
+|Call borrowings|2,000,000|-|
+|---|---|---|
+|Overdrawn nostro accounts|27,158|-|
+|Total|862,532,195|643,362,665|
+
+---
+
+{"chunk_number": 158, "financial_data": "yes", "financial_statement_scope": "consolidated", "is_statement": "no", "statement_type": "none", "is_note": "yes", "note_link": "balance_sheet", "auditor_report": "no", "director_report": "no", "annual_report_discussion": "no", "file_name": "Askari_Bank_Limited_Quarterly_2024-06-30_chunks.md", "ticker": "AKBL", "entity_name": "Askari Bank Limited", "filing_type": "quarterly", "filing_period": ["Q2-2024", "Q2-2023"]}
+## Chunk 158
+
+
+# 19 DEPOSITS AND OTHER ACCOUNTS
+
+| |In local currency|In foreign currencies|Total|In local currency|In foreign currencies|Total| |
+|---|---|---|---|---|---|---|---|
+|Customers|Current accounts|368,438,605|31,510,568|399,949,173|320,346,322|31,589,438|351,935,760|
+| |Savings deposits|752,553,200|69,894,547|822,447,747|667,642,523|61,519,218|729,161,741|
+| |Fixed deposits|130,246,312|31,003,688|161,250,000|160,821,348|30,642,438|191,463,786|
+|Total|1,251,238,117|132,408,803|1,383,646,920|1,148,810,193|123,751,094|1,272,561,287| |
+
+---
+
+{"chunk_number": 159, "financial_data": "yes", "financial_statement_scope": "consolidated", "is_statement": "no", "statement_type": "none", "is_note": "yes", "note_link": "balance_sheet", "auditor_report": "no", "director_report": "no", "annual_report_discussion": "no", "file_name": "Askari_Bank_Limited_Quarterly_2024-06-30_chunks.md", "ticker": "AKBL", "entity_name": "Askari Bank Limited", "filing_type": "quarterly", "filing_period": ["Q2-2024", "Q2-2023"]}
+## Chunk 159
+
+
+# Financial institutions
+
+|Current accounts|1,260,834|138,065|1,398,899|1,149,626|241,191|1,390,817|
+|---|---|---|---|---|---|---|
+|Savings deposits|4,247,166|-|4,247,166|2,144,906|-|2,144,906|
+|Fixed deposits|23,135,544|-|23,135,544|16,697,696|-|16,697,696|
+|Total|28,643,544|138,065|28,781,609|19,992,228|241,191|20,233,419|
+
+---
+
+{"chunk_number": 160, "financial_data": "yes", "financial_statement_scope": "consolidated", "is_statement": "no", "statement_type": "none", "is_note": "yes", "note_link": "balance_sheet", "auditor_report": "no", "director_report": "no", "annual_report_discussion": "no", "file_name": "Askari_Bank_Limited_Quarterly_2024-06-30_chunks.md", "ticker": "AKBL", "entity_name": "Askari Bank Limited", "filing_type": "quarterly", "filing_period": ["Q2-2024", "Q2-2023"]}
+## Chunk 160
+
+
+# 20 LEASE LIABILITIES
+
+| |(Un-audited) June 30, 2024|(Audited) December 31, 2023|
+|---|---|---|
+|Outstanding amount at the beginning of the period / year|9,699,474|8,084,073|
+|Additions during the period / year|2,318,296|3,227,516|
+|Lease payments including interest|(1,247,372)|(2,523,755)|
+|Interest expense for the period / year|697,985|1,061,886|
+|Termination and other adjustments|(116,541)|(150,246)|
+|Outstanding amount at the end of the period / year|11,351,842|9,699,474|
+
+# Liabilities Outstanding
+
+|Not later than one year|1,082,448|1,143,794|
+|---|---|---|
+|Later than one year and upto five years|4,160,693|3,925,528|
+|Over five years|6,108,701|4,630,152|
+|Total at the end of the period / year|11,351,842|9,699,474|
+
+---
+
+# SUBORDINATED DEBTS
+
+|(Un-audited)|(Audited)|
+|---|---|
+|June 30, 2024|December 31, 2023|
+|(Rupees in '000)|(Rupees in '000)|
+|Term Finance Certificates - VI (ADT-1)|6,000,000|
+|Term Finance Certificates - VII|6,000,000|
+|Total|12,000,000|
+
+---
+
+{"chunk_number": 161, "financial_data": "yes", "financial_statement_scope": "consolidated", "is_statement": "no", "statement_type": "none", "is_note": "yes", "note_link": "balance_sheet", "auditor_report": "no", "director_report": "no", "annual_report_discussion": "no", "file_name": "Askari_Bank_Limited_Quarterly_2024-06-30_chunks.md", "ticker": "AKBL", "entity_name": "Askari Bank Limited", "filing_type": "quarterly", "filing_period": ["Q2-2024", "Q2-2023"]}
+## Chunk 161
+
+
+# 21.1
+
+The Group has raised unsecured sub-ordinated loans through issuance of Term Finance Certificates to improve the Group's capital adequacy. Liability to the TFC holders is subordinated to and rank inferior to all other indebtedness of the Group including deposits and is not redeemable before maturity without prior approval of the SBP. The salient features of outstanding issues are as follows:
+
+|Term Finance Certificates - VI (ADT-1)|Term Finance Certificates - VII|
+|---|---|
+|Outstanding amount - Rupees in '000|6,000,000|
+|Issue amount|Rupees 6,000 million|
+|Issue date|July 03, 2018|
+|Maturity Date|Perpetual|
+|Rating|AA-|
+|Security|Unsecured|
+|Listing|Listed|
+|Profit payment frequency|Payable six monthly|
+|Redemption|Perpetual|
+|Profit Rate|Base Rate plus 1.50%|
+|Call option|Exercisable after 60 months from the date of issue subject to approval by the SBP.|
+|Lock-in-clause|Payment of profit will be subject to the condition that such payment will not result in breach of the Group's regulatory Minimum Capital Requirement or Capital Adequacy Ratio set by SBP from time to time.|
+|Loss absorption clause|The Instrument will be subject to loss absorption and/or any other requirements of SBP upon the occurrence of a Point of Non-Viability event as per Section A-5-3 of Annexure 5 of the Circular.|
+
+---
+|(Un-audited)|(Audited)|
+|---|---|
+|June 30, 2024|December 31, 2023|
+
+---
+
+{"chunk_number": 162, "financial_data": "yes", "financial_statement_scope": "consolidated", "is_statement": "no", "statement_type": "none", "is_note": "yes", "note_link": "balance_sheet", "auditor_report": "no", "director_report": "no", "annual_report_discussion": "no", "file_name": "Askari_Bank_Limited_Quarterly_2024-06-30_chunks.md", "ticker": "AKBL", "entity_name": "Askari Bank Limited", "filing_type": "quarterly", "filing_period": ["Q2-2024", "Q2-2023"]}
+## Chunk 162
+
+
+# 22 OTHER LIABILITIES
+
+|Liabilities|(Rupees in '000)|June 30, 2024|December 31, 2023|
+|---|---|---|---|
+|Mark-up / return / interest payable in local currency| |16,360,007|22,119,508|
+|Mark-up / return / interest payable in foreign currencies| |1,363,654|1,267,444|
+|Unearned commission and income on bills discounted| |1,822,384|2,003,160|
+|Accrued expenses| |1,846,907|2,653,259|
+|Trade payables| |1,552,240|1,461,674|
+|Advance payments| |373,598|314,319|
+|Acceptances| |17,215,992|14,053,824|
+|Dividend payable| |233,158|193,493|
+|Advance against sale of non-banking assets| |461,535|461,535|
+|Mark to market loss on forward foreign exchange contracts| |151,805|1,322,589|
+|Branch adjustment account| |284,974|525,732|
+|Payable to defined benefit plan| |-|67,468|
+|Provision for employees' compensated absences| |801,248|724,890|
+|Security deposit against lease / Ijarah financing| |3,559,885|3,485,208|
+|Levies and taxes payable| |2,069,533|2,087,179|
+|Workers' Welfare Fund| |1,571,596|1,301,596|
+|Switch settlement accounts| |2,680,574|1,375,528|
+|Credit loss allowance / provision against off-balance sheet obligations - note 22.1| |1,787,683|160,558|
+|Payable to a borrower| |898,666|-|
+|Others| |2,460,387|2,247,229|
+|Total| |57,495,826|57,826,193|
+
+---
+
+{"chunk_number": 163, "financial_data": "yes", "financial_statement_scope": "consolidated", "is_statement": "no", "statement_type": "none", "is_note": "yes", "note_link": "balance_sheet", "auditor_report": "no", "director_report": "no", "annual_report_discussion": "no", "file_name": "Askari_Bank_Limited_Quarterly_2024-06-30_chunks.md", "ticker": "AKBL", "entity_name": "Askari Bank Limited", "filing_type": "quarterly", "filing_period": ["Q2-2024", "Q2-2023"]}
+## Chunk 163
+
+
+# 22.1 Credit loss allowance / provision against off-balance sheet obligations
+
+|Details|June 30, 2024|December 31, 2023|
+|---|---|---|
+|Opening balance|160,558|134,767|
+|Impact of ECL recognized on adoption of IFRS 9|226,837|-|
+|Total|387,395|134,767|
+|Exchange adjustment|-|133|
+|Charge for the period / year|1,400,288|26,319|
+|Reversal for the period / year|-|(661)|
+|Net charge|1,400,288|25,658|
+|Closing balance|1,787,683|160,558|
+
+---
+
+{"chunk_number": 164, "financial_data": "yes", "financial_statement_scope": "consolidated", "is_statement": "no", "statement_type": "none", "is_note": "yes", "note_link": "balance_sheet", "auditor_report": "no", "director_report": "no", "annual_report_discussion": "no", "file_name": "Askari_Bank_Limited_Quarterly_2024-06-30_chunks.md", "ticker": "AKBL", "entity_name": "Askari Bank Limited", "filing_type": "quarterly", "filing_period": ["Q2-2024", "Q2-2023"]}
+## Chunk 164
+
+
+# 23 SURPLUS ON REVALUATION OF ASSETS - NET OF TAX
+
+|Details|June 30, 2024|December 31, 2023|
+|---|---|---|
+|(Deficit) / surplus on revaluation of:| | |
+|- Securities measured at FVOCI - Debt|(8,134,874)|-|
+|- Securities measured at FVOCI - Equity|2,147,114|-|
+|- Available for sale securities - Debt|-|(14,624,907)|
+|- Available for sale securities - Equity|-|2,144,626|
+|- Property and equipment|10,365,737|10,365,737|
+|- Non-banking assets acquired in satisfaction of claims|459,948|459,948|
+|Total|4,837,925|(1,654,596)|
+|Deferred tax on deficit / (surplus) on revaluation of:| | |
+|- Securities measured at FVOCI - Debt|3,986,088|-|
+|- Securities measured at FVOCI - Equity|(1,052,086)|-|
+|- Available for sale securities - Debt|-|7,166,205|
+|- Available for sale securities - Equity|-|(1,050,867)|
+|Total|2,934,002|6,115,338|
+|Net Total|7,771,927|4,460,742|
+
+---
+
+---
+
+{"chunk_number": 165, "financial_data": "yes", "financial_statement_scope": "consolidated", "is_statement": "no", "statement_type": "none", "is_note": "yes", "note_link": "balance_sheet", "auditor_report": "no", "director_report": "no", "annual_report_discussion": "no", "file_name": "Askari_Bank_Limited_Quarterly_2024-06-30_chunks.md", "ticker": "AKBL", "entity_name": "Askari Bank Limited", "filing_type": "quarterly", "filing_period": ["Q2-2024", "Q2-2023"]}
+## Chunk 165
+
+
+# 24 CONTINGENCIES AND COMMITMENTS
+
+| |(Un-audited)|(Audited)|
+|---|---|---|
+|June 30, 2024|December 31, 2023| |
+|Guarantees - note 24.1|315,076,813|350,296,809|
+|Commitments - note 24.2|558,937,204|506,769,966|
+|Other contingent liabilities - note 24.3|1,414,970|1,429,701|
+|Total|875,428,987|858,496,476|
+
+# 24.1 Guarantees
+
+|Financial guarantees|4,940,529|7,400,327|
+|---|---|---|
+|Performance guarantees|182,662,360|188,322,832|
+|Other guarantees|127,473,924|154,573,650|
+|Total|315,076,813|350,296,809|
+
+---
+
+{"chunk_number": 166, "financial_data": "yes", "financial_statement_scope": "consolidated", "is_statement": "no", "statement_type": "none", "is_note": "yes", "note_link": "balance_sheet", "auditor_report": "no", "director_report": "no", "annual_report_discussion": "no", "file_name": "Askari_Bank_Limited_Quarterly_2024-06-30_chunks.md", "ticker": "AKBL", "entity_name": "Askari Bank Limited", "filing_type": "quarterly", "filing_period": ["Q2-2024", "Q2-2023"]}
+## Chunk 166
+
+
+# 24.2 Commitments
+
+|Documentary credits and short-term trade-related transactions - letters of credit|230,972,362|226,655,650|
+|---|---|---|
+|Commitments in respect of:| | |
+|- forward foreign exchange contracts - note 24.2.1|327,454,901|276,444,892|
+|- forward government securities transactions - note 24.2.2|-|2,000,000|
+|- non-government securities transactions - note 24.2.3|-|1,174,056|
+|Commitments for acquisition of:| | |
+|- property and equipment|262,750|255,774|
+|- intangible assets|247,191|239,594|
+|Total|558,937,204|506,769,966|
+
+# 24.2.1 Commitments in respect of forward foreign exchange contracts
+
+|Purchase|188,094,426|153,115,769|
+|---|---|---|
+|Sale|139,360,475|123,329,123|
+|Total|327,454,901|276,444,892|
+
+The above commitments have maturities falling within one year.
+
+# 24.2.2 Commitments in respect of government securities transactions
+
+|Sale|-|2,000,000|
+|---|---|---|
+|Total|-|2,000,000|
+
+# 24.2.3 Commitments in respect of non government securities transactions
+
+|Purchase|-|1,168,290|
+|---|---|---|
+|Sale|-|5,766|
+|Total|-|1,174,056|
+
+---
+
+{"chunk_number": 167, "financial_data": "yes", "financial_statement_scope": "consolidated", "is_statement": "no", "statement_type": "none", "is_note": "yes", "note_link": "balance_sheet", "auditor_report": "no", "director_report": "no", "annual_report_discussion": "no", "file_name": "Askari_Bank_Limited_Quarterly_2024-06-30_chunks.md", "ticker": "AKBL", "entity_name": "Askari Bank Limited", "filing_type": "quarterly", "filing_period": ["Q2-2024", "Q2-2023"]}
+## Chunk 167
+
+
+# 24.3 Other contingent liabilities
+
+These represent certain claims by third parties against the Group, which are being contested in the Courts of law. Based on legal advice and / or internal assessment, management is confident that the matters will be decided in Group’s favor and the possibility of any outcome against the Group is remote and accordingly no provision has been made in these condensed interim consolidated financial statements.
+
+|Contingent liabilities|592,579|596,911|
+|---|---|---|
+|This represents stand by letters of credit issued by a correspondent Bank on behalf of the Group.|822,391|832,790|
+|Total|1,414,970|1,429,701|
+
+---
+
+---
+
+{"chunk_number": 168, "financial_data": "yes", "financial_statement_scope": "consolidated", "is_statement": "no", "statement_type": "none", "is_note": "yes", "note_link": "none", "auditor_report": "no", "director_report": "no", "annual_report_discussion": "no", "file_name": "Askari_Bank_Limited_Quarterly_2024-06-30_chunks.md", "ticker": "AKBL", "entity_name": "Askari Bank Limited", "filing_type": "quarterly", "filing_period": ["Q2-2024", "Q2-2023"]}
+## Chunk 168
+
+
+# 25 DERIVATIVE INSTRUMENTS
+
+The Group does not offer derivative products such as Interest Rate Swaps, Cross Currency Swaps, Forward Rate Agreements or Foreign Exchange Options. The Group's Treasury and Investment Banking Groups buy and sell derivative instruments such as Forward Exchange Contracts (FECs) and Equity Futures (EFs).
+
+(Un-audited)
+
+---
+
+{"chunk_number": 169, "financial_data": "yes", "financial_statement_scope": "consolidated", "is_statement": "no", "statement_type": "none", "is_note": "yes", "note_link": "profit_and_loss", "auditor_report": "no", "director_report": "no", "annual_report_discussion": "no", "file_name": "Askari_Bank_Limited_Quarterly_2024-06-30_chunks.md", "ticker": "AKBL", "entity_name": "Askari Bank Limited", "filing_type": "quarterly", "filing_period": ["Q2-2024", "Q2-2023"]}
+## Chunk 169
+
+
+# 26 MARK-UP / RETURN / INTEREST EARNED
+
+|On:|Period ended June 30, 2024 (Rupees in '000)|Period ended June 30, 2023 (Rupees in '000)|
+|---|---|---|
+|Loans and advances|69,894,403|51,765,694|
+|Investments|133,004,997|75,416,614|
+|Lendings to financial institutions|678,911|72,958|
+|Balances with banks|600,129|239,575|
+|Securities purchased under resale agreements|1,235,049|517,039|
+|Total|205,413,489|128,011,880|
+
+---
+
+{"chunk_number": 170, "financial_data": "yes", "financial_statement_scope": "consolidated", "is_statement": "no", "statement_type": "none", "is_note": "yes", "note_link": "profit_and_loss", "auditor_report": "no", "director_report": "no", "annual_report_discussion": "no", "file_name": "Askari_Bank_Limited_Quarterly_2024-06-30_chunks.md", "ticker": "AKBL", "entity_name": "Askari Bank Limited", "filing_type": "quarterly", "filing_period": ["Q2-2024", "Q2-2023"]}
+## Chunk 170
+
+
+# 27 MARK-UP / RETURN / INTEREST EXPENSED
+
+|On:|Period ended June 30, 2024 (Rupees in '000)|Period ended June 30, 2023 (Rupees in '000)|
+|---|---|---|
+|Deposits|90,881,835|67,807,224|
+|Borrowings|84,987,472|32,270,412|
+|Subordinated debts|1,360,377|1,165,762|
+|Cost of FX swaps against foreign currency deposits / borrowings|2,349,368|1,451,990|
+|Lease liability|697,985|495,230|
+|Fair value loss on recognition of financial asset at fair value - note 16.1|259,574|-|
+|Total|180,536,611|103,190,618|
+
+---
+
+{"chunk_number": 171, "financial_data": "yes", "financial_statement_scope": "consolidated", "is_statement": "no", "statement_type": "none", "is_note": "yes", "note_link": "profit_and_loss", "auditor_report": "no", "director_report": "no", "annual_report_discussion": "no", "file_name": "Askari_Bank_Limited_Quarterly_2024-06-30_chunks.md", "ticker": "AKBL", "entity_name": "Askari Bank Limited", "filing_type": "quarterly", "filing_period": ["Q2-2024", "Q2-2023"]}
+## Chunk 171
+
+
+# 28 FEE AND COMMISSION INCOME
+
+|Description|Period ended June 30, 2024 (Rupees in '000)|Period ended June 30, 2023 (Rupees in '000)|
+|---|---|---|
+|Branch banking customer fees|443,257|382,800|
+|Consumer finance related fees|42,049|47,729|
+|Card related fees (debit and credit cards)|883,917|712,684|
+|Credit related fees|232,674|433,658|
+|Investment banking fees|202,327|155,433|
+|Commission on trade|699,417|871,295|
+|Commission on guarantees|746,490|634,152|
+|Commission on remittances including home remittances|170,148|94,390|
+|Commission on bancassurance|13,188|16,503|
+|Brokerage revenue|216,178|-|
+|Others|23,915|44,503|
+|Total|3,673,560|3,393,147|
+
+# 29 GAIN ON SECURITIES
+
+|Description|Period ended June 30, 2024 (Rupees in '000)|Period ended June 30, 2023 (Rupees in '000)|
+|---|---|---|
+|Realised - note 29.1|318,445|16,289|
+|Unrealised gain on securities measured at FVTPL|581,574|9,476|
+|Total|900,019|25,765|
+
+---
+
+{"chunk_number": 172, "financial_data": "yes", "financial_statement_scope": "consolidated", "is_statement": "no", "statement_type": "none", "is_note": "yes", "note_link": "profit_and_loss", "auditor_report": "no", "director_report": "no", "annual_report_discussion": "no", "file_name": "Askari_Bank_Limited_Quarterly_2024-06-30_chunks.md", "ticker": "AKBL", "entity_name": "Askari Bank Limited", "filing_type": "quarterly", "filing_period": ["Q2-2024", "Q2-2023"]}
+## Chunk 172
+
+
+# 29.1 Realised gain / (loss) on:
+
+|Description|Period ended June 30, 2024 (Rupees in '000)|Period ended June 30, 2023 (Rupees in '000)|
+|---|---|---|
+|Federal Government Securities|269,236|(153,747)|
+|Shares|49,209|127,469|
+|Non Government Debt Securities|-|37,833|
+|Mutual Funds|-|4,734|
+|Total|318,445|16,289|
+
+---
+
+---
+
+{"chunk_number": 173, "financial_data": "yes", "financial_statement_scope": "consolidated", "is_statement": "no", "statement_type": "none", "is_note": "yes", "note_link": "profit_and_loss", "auditor_report": "no", "director_report": "no", "annual_report_discussion": "no", "file_name": "Askari_Bank_Limited_Quarterly_2024-06-30_chunks.md", "ticker": "AKBL", "entity_name": "Askari Bank Limited", "filing_type": "quarterly", "filing_period": ["Q2-2024", "Q2-2023"]}
+## Chunk 173
+
+
+# (Un-audited)
+
+|Period ended|June 30, 2024|June 30, 2023|
+|---|---|---|
+|30 OTHER INCOME|(Rupees in '000)| |
+|Gain on sale of property and equipment|6,702|4,019|
+|Rent of lockers|27,311|25,403|
+|Recovery of expenses from customers|163,301|160,482|
+|Termination of lease contracts under IFRS - 16 Leases|5,524|9,900|
+|Others|24,676|-|
+| |227,514|199,804|
+|31 OPERATING EXPENSES| | |
+|Total compensation expenses - note 31.1|8,092,505|6,952,448|
+|Property expense| | |
+|Rent and taxes|95,394|72,469|
+|Insurance|55,504|45,924|
+|Utilities cost|815,238|622,111|
+|Security (including guards)|474,830|381,112|
+|Repair & maintenance (including janitorial expenses)|263,792|211,294|
+|Depreciation on right-of-use assets|1,079,163|811,224|
+|Depreciation|150,435|120,980|
+| |2,934,356|2,265,114|
+|Information technology expenses| | |
+|Software maintenance|520,130|334,067|
+|Hardware maintenance|105,534|80,107|
+|Depreciation|175,476|113,404|
+|Amortisation|110,834|82,922|
+|Network charges|334,215|261,287|
+| |1,246,189|871,787|
+|Other operating expenses| | |
+|Directors' fees, allowances|21,680|15,200|
+|Fees and allowances to shariah board|4,818|4,746|
+|Rates, taxes, insurance etc.|70,354|89,800|
+|Legal and professional charges|54,036|48,917|
+|Brokerage and commission|159,113|100,672|
+|NIFT clearing charges|48,923|52,342|
+|Repair and maintenance|441,656|401,987|
+|Communications|884,550|475,841|
+|Stationery and printing|355,899|301,362|
+|Marketing, advertisement and publicity|148,978|54,077|
+|Donations|-|524,397|
+|Auditors' remuneration|35,719|26,389|
+|Travelling, conveyance and entertainment|263,273|194,534|
+|Depreciation|312,430|238,475|
+|Security service charges|354,641|356,972|
+|Training and development|13,058|11,603|
+|Deposit premium expense|428,803|351,160|
+|Outsourced service cost|283,203|102,216|
+|Other expenditure|306,946|159,049|
+| |4,188,080|3,509,739|
+| |16,461,130|13,599,088|
+|31.1 Total compensation expense| | |
+|Managerial remuneration|6,321,896|5,194,287|
+|Charge for defined benefit / contribution plan|521,060|423,655|
+|Other staff cost - note 31.1.1|1,249,549|1,334,506|
+| |8,092,505|6,952,448|
+|31.1.1 Other staff cost includes incentive to consumer sales staff, dearness allowance, cash handling allowance, staff group insurance, provision for severance etc.| | |
+
+---
+
+# 32
+
+This represents penalties imposed by the State Bank of Pakistan.
+
+(Un-audited)
+
+|Period ended|Period ended|
+|---|---|
+|June 30, 2024|June 30, 2023|
+
+---
+
+{"chunk_number": 174, "financial_data": "yes", "financial_statement_scope": "consolidated", "is_statement": "no", "statement_type": "none", "is_note": "yes", "note_link": "profit_and_loss", "auditor_report": "no", "director_report": "no", "annual_report_discussion": "no", "file_name": "Askari_Bank_Limited_Quarterly_2024-06-30_chunks.md", "ticker": "AKBL", "entity_name": "Askari Bank Limited", "filing_type": "quarterly", "filing_period": ["Q2-2024", "Q2-2023"]}
+## Chunk 174
+
+
+# 33 CREDIT LOSS ALLOWANCE / PROVISIONS AND WRITE OFFS - NET
+
+(Rupees in '000)
+
+|Credit loss allowance / provision charge against investments - note 9.3.1|(495,888)|231,427|
+|---|---|---|
+|Credit loss allowance / provision charge against loans and advances - note 10.3|(1,416,987)|447,517|
+|Credit loss allowance against other assets - 16.2.1|113,679|-|
+|Credit loss allowance / (reversal of provision) against repurchase agreement lendings|(64)|(14,860)|
+|Credit loss allowance / (reversal of provision) against off-balance sheet obligations - note 22.1|1,400,288|(649)|
+|Credit loss allowance / provision charge against balances with other banks|(7)|37|
+|Recovery of written off / charged off bad debts|(53,312)|(46,196)|
+|Total|(452,291)|617,276|
+
+# 34 TAXATION
+
+|Current|8,050,819|8,439,244|
+|---|---|---|
+|Deferred|121,398|(271,007)|
+|Total|8,172,217|8,168,237|
+
+---
+
+{"chunk_number": 175, "financial_data": "yes", "financial_statement_scope": "consolidated", "is_statement": "no", "statement_type": "none", "is_note": "yes", "note_link": "none", "auditor_report": "no", "director_report": "no", "annual_report_discussion": "no", "file_name": "Askari_Bank_Limited_Quarterly_2024-06-30_chunks.md", "ticker": "AKBL", "entity_name": "Askari Bank Limited", "filing_type": "quarterly", "filing_period": ["Q2-2024", "Q2-2023"]}
+## Chunk 175
+
+
+# 34.1 Tax status and contingencies
+
+i) During the year ended December 31 2023, the Federal Government issued S.R.O 1588 (l)/2023 on 21 November 2023 under section 99D of the Income Tax Ordinance 2001, whereby the banking sector was specified the sector for the payment of additional tax on windfall income. Through said S.R.O, the Federal Government also specified the method to determine windfall income, tax rate to be applied on such windfall income and tax years under scope. The Group has challenged the S.R.O through petition before the Honorable Islamabad High Court with regards to retrospective application of Section 99D of the Income Tax Ordinance, 2001 for tax years 2022 and 2023. The Honorable Islamabad High Court through its order dated 30 November 2023 has suspended the operation of S.R.O.1588 (l)/2023 and the said injunctive order continues to operate till date of next hearing for which no date has been fixed yet. Management based on the legal advisor opinion believes that the Group has reasonably good chance to succeed in this case and therefore has not recognized any provision in the financial statements. Additional tax on windfall income for tax years 2022 and 2023 is estimated to be Rs. 2,189 million.
+
+ii) The Group has filed tax returns for and up to tax year 2023. The assessments for and up to tax year 2023 were amended by the tax authorities creating accumulated additional tax demand, mainly in the matters of admissibility of recoveries against doubtful debts for Rs 1,119 million, provision for diminution in the value of investments for Rs 3,144.44 million, bad debts written off for Rs 242.892 million, provision for substandard advances for Rs 74.95 million, Provision against other assets/fixed assets for Rs 145.81 million, disallowance of employee benefit expenses Rs 228.680 Million, disallowance of depreciation on lease assets Rs 773.88 and Other disallowances of expenses/credits for Rs 551.78 million. Group’s Appeals against these orders are currently pending before Commissioner Appeals, Appellate Tribunal and Islamabad High Court. The management and tax advisor of the Group are confident that these matters will be decided in favor of the Group and consequently no provision has been made thereon. Tax payments by the Group against certain matters are being carried forward as receivable, as management and tax advisor of the Group are confident of their realization.
+
+iii) Consequent upon the amalgamation with and into the Group, the outstanding tax issues relating to Askari Leasing Limited (ALL) are as follows: Tax returns of ALL have been filed for and up to tax year 2010. The returns for the tax years 2003 to 2010 were amended by the tax authorities mainly in the matter of admissibility of initial allowance claimed on leased vehicles. On appeals filed by ALL, partial relief was provided by the CIR(A) by allowing initial allowance on commercial vehicles. Re-assessment has not yet been carried out by the tax department. A tax demand is however not likely to arise after re-assessment. For and up to the assessment years 2002-2003, reference applications filed by the tax authorities in the matter of computation of lease income are pending decisions by the High Court. However, the likelihood of an adverse decision is considered low due to a favorable decision of the High Court in a parallel case.
+
+(Un-audited)
+
+|Period ended|Period ended|
+|---|---|
+|June 30, 2024|June 30, 2023|
+
+---
+
+{"chunk_number": 176, "financial_data": "yes", "financial_statement_scope": "consolidated", "is_statement": "no", "statement_type": "none", "is_note": "yes", "note_link": "profit_and_loss", "auditor_report": "no", "director_report": "no", "annual_report_discussion": "no", "file_name": "Askari_Bank_Limited_Quarterly_2024-06-30_chunks.md", "ticker": "AKBL", "entity_name": "Askari Bank Limited", "filing_type": "quarterly", "filing_period": ["Q2-2024", "Q2-2023"]}
+## Chunk 176
+
+
+# 35 BASIC EARNINGS PER SHARE
+
+|Profit for the period - Rupees in '000|8,136,689|8,837,543|
+|---|---|---|
+|Weighted average number of Ordinary Shares - numbers|1,449,299,207|1,449,299,207|
+|Basic earnings per share - Rupees|5.61|6.10|
+
+There is no dilutive effect on the basic earnings per share of the Group, therefore dilutive earnings per share have not been presented separately.
+---
+
+---
+
+{"chunk_number": 177, "financial_data": "yes", "financial_statement_scope": "consolidated", "is_statement": "no", "statement_type": "none", "is_note": "yes", "note_link": "none", "auditor_report": "no", "director_report": "no", "annual_report_discussion": "no", "file_name": "Askari_Bank_Limited_Quarterly_2024-06-30_chunks.md", "ticker": "AKBL", "entity_name": "Askari Bank Limited", "filing_type": "quarterly", "filing_period": ["Q2-2024", "Q2-2023"]}
+## Chunk 177
+
+
+# 36 FAIR VALUE MEASUREMENTS
+
+The fair value of quoted securities other than those classified as Amortised Cost, is based on quoted market price. Quoted securities classified as Amortised Cost are carried at cost. The fair value of unquoted equity securities, other than investments in associates and subsidiaries, is determined on the basis of the break-up value of these investments as per their latest available audited financial statements.
+
+The fair value of unquoted debt securities, fixed term advances, fixed term deposits and borrowings, other assets and other liabilities cannot be calculated with sufficient reliability due to the absence of a current and active market for such assets and liabilities and reliable data regarding market rates for similar instruments. In the opinion of the management, the fair value of the remaining financial assets and liabilities are not significantly different from their carrying values since they are either short-term in nature or, in the case of customer advances, deposits and certain long term borrowings, are frequently repriced.
+
+All assets and liabilities for which fair value is measured or disclosed in these consolidated financial statements are categorized within the fair value hierarchy based on the lowest level input that is significant to the fair value measurement.
+
+---
+
+{"chunk_number": 178, "financial_data": "yes", "financial_statement_scope": "consolidated", "is_statement": "no", "statement_type": "none", "is_note": "yes", "note_link": "none", "auditor_report": "no", "director_report": "no", "annual_report_discussion": "no", "file_name": "Askari_Bank_Limited_Quarterly_2024-06-30_chunks.md", "ticker": "AKBL", "entity_name": "Askari Bank Limited", "filing_type": "quarterly", "filing_period": ["Q2-2024", "Q2-2023"]}
+## Chunk 178
+
+
+# 36.1 Fair value of financial assets
+
+The Group measures fair values using the following fair value hierarchy that reflects the significance of the inputs used in making the measurements:
+
+- Level 1: Fair value measurements using quoted prices (unadjusted) in active markets (Pakistan Stock Exchange) for identical assets or liabilities.
+- Level 2: Fair value measurements using inputs other than quoted prices included within Level 1 that are observable for the assets or liability, either directly (i.e. as prices) or indirectly (i.e. derived from prices) available at MUFAP and Reuters page.
+- Level 3: Fair value measurements using input for the asset or liability that are not based on observable market data (i.e. unobservable inputs).
+
+---
+
+{"chunk_number": 179, "financial_data": "yes", "financial_statement_scope": "consolidated", "is_statement": "no", "statement_type": "none", "is_note": "yes", "note_link": "none", "auditor_report": "no", "director_report": "no", "annual_report_discussion": "no", "file_name": "Askari_Bank_Limited_Quarterly_2024-06-30_chunks.md", "ticker": "AKBL", "entity_name": "Askari Bank Limited", "filing_type": "quarterly", "filing_period": ["Q2-2024", "Q2-2023"]}
+## Chunk 179
+
+
+# Valuation techniques used in determination of fair values within level 2 and level 3
+
+|Federal Government Securities|The fair values of Federal Government Securities are determined on the basis of rates / prices sourced from Reuters.|
+|---|---|
+|Non Government Debt Securities|Non Government Debt Securities are valued on the basis of rates announced by Mutual Fund Association of Pakistan (MUFAP).|
+|Foreign Government Debt Securities|Foreign Government Debt Securities are valued on the basis of rates taken from custodian of the securities which are usually drawn from Bloomberg.|
+|Unit of Mutual Funds|Fair values of mutual funds are determined based on their net asset values as published at the close of each business day.|
+|Forward foreign exchange contracts and Forward Government securities transactions|The fair values of forward foreign exchange contracts and forward Government securities transactions are determined using forward pricing calculations.|
+|Fixed Assets and Non Banking Assets Acquired in Satisfaction of Claims|Land and Non Banking assets acquired in satisfaction of claims are valued on a periodic basis using professional valuers. The valuation is based on their assessments of the market value of the assets. The effect of changes in the unobservable inputs used in the valuations cannot be determined with certainty. Accordingly, a qualitative disclosure of sensitivity has not been presented in these condensed interim consolidated financial statements.|
+
+---
+
+---
+
+{"chunk_number": 180, "financial_data": "yes", "financial_statement_scope": "consolidated", "is_statement": "no", "statement_type": "none", "is_note": "yes", "note_link": "balance_sheet", "auditor_report": "no", "director_report": "no", "annual_report_discussion": "no", "file_name": "Askari_Bank_Limited_Quarterly_2024-06-30_chunks.md", "ticker": "AKBL", "entity_name": "Askari Bank Limited", "filing_type": "quarterly", "filing_period": ["Q2-2024", "Q2-2023"]}
+## Chunk 180
+
+
+# The following table provides the fair values of those of the Group’s financial assets and liabilities that are recognized or disclosed at fair value in these consolidated condensed interim financial statements:
+
+|Carrying / Notional Value|June 30, 2024 (Un-audited)|Level 1|Level 2|Level 3|Total|
+|---|---|---|---|---|---|
+|On balance sheet financial instruments| | | | | |
+|Financial assets - measured at fair value| | | | | |
+|Investments| | | | | |
+|Federal Government Securities|1,279,336,456|6,748,604|1,272,587,852|-|1,279,336,456|
+|Shares|6,945,035|6,945,035|-|-|6,945,035|
+|Units of open end mutual funds|2,433,350|1,543,880|889,470|-|2,433,350|
+|Fully paid preference shares|23,579|23,579|-|-|23,579|
+|Non Government Debt Securities|14,082,135|-|14,082,135|-|14,082,135|
+| |1,302,820,555|15,261,098|1,287,559,457|-|1,302,820,555|
+|Financial assets - disclosed but not measured at fair value| | | | | |
+|Investments| | | | | |
+|Federal Government Securities|66,882,230|2,614,961|64,267,269|-|66,882,230|
+|Unlisted shares|350,000|-|-|-|-|
+|Cash and balances with treasury banks|119,301,787|-|-|-|-|
+|Balances with other banks|13,141,612|-|-|-|-|
+|Advances|717,285,590|-|-|-|-|
+|Other assets|104,247,295|-|-|-|-|
+| |1,021,208,514|2,614,961|64,267,269|-|66,882,230|
+|Off-balance sheet financial instruments - measured at fair value| | | | | |
+|Forward purchase of foreign exchange|188,094,426|-|(1,942,305)|-|(1,942,305)|
+|Forward sale of foreign exchange|139,360,475|-|1,790,500|-|1,790,500|
+
+---
+
+{"chunk_number": 181, "financial_data": "yes", "financial_statement_scope": "consolidated", "is_statement": "no", "statement_type": "none", "is_note": "yes", "note_link": "balance_sheet", "auditor_report": "no", "director_report": "no", "annual_report_discussion": "no", "file_name": "Askari_Bank_Limited_Quarterly_2024-06-30_chunks.md", "ticker": "AKBL", "entity_name": "Askari Bank Limited", "filing_type": "quarterly", "filing_period": ["Q2-2024", "Q2-2023"]}
+## Chunk 181
+
+
+# December 31, 2023 (Audited)
+
+|Carrying / Notional Value|Level 1|Level 2|Level 3|Total|
+|---|---|---|---|---|
+|On balance sheet financial instruments| | | | |
+|Financial assets - measured at fair value| | | | |
+|Investments| | | | |
+|Federal Government Securities|1,102,510,824|8,421,152|1,094,089,672|1,102,510,824|
+|Shares|6,256,977|6,256,977|-|6,256,977|
+|Units of open end mutual funds|960,596|149,958|810,638|960,596|
+|Fully paid preference shares|28,150|28,150|-|28,150|
+|Non Government Debt Securities|14,449,154|-|14,449,154|14,449,154|
+| |1,124,205,701|14,856,237|1,109,349,464|1,124,205,701|
+|Financial assets - disclosed but not measured at fair value| | | | |
+|Investments| | | | |
+|Federal Government Securities|56,897,624|10,756,335|46,141,289|56,897,624|
+|Shares|350,000|-|-|-|
+|Units of open end mutual funds|1,044,333|-|-|-|
+|Cash and balances with treasury banks|160,087,394|-|-|-|
+|Balances with other banks|14,761,177|-|-|-|
+|Advances|633,046,149|-|-|-|
+|Other assets|90,346,735|-|-|-|
+| |956,533,412|10,756,335|46,141,289|56,897,624|
+|Off-balance sheet financial instruments - measured at fair value| | | | |
+|Forward purchase of foreign exchange|153,115,769|-|(2,798,564)|(2,798,564)|
+|Forward sale of foreign exchange|123,329,123|-|1,475,975|1,475,975|
+
+---
+
+{"chunk_number": 182, "financial_data": "yes", "financial_statement_scope": "consolidated", "is_statement": "no", "statement_type": "none", "is_note": "yes", "note_link": "balance_sheet", "auditor_report": "no", "director_report": "no", "annual_report_discussion": "no", "file_name": "Askari_Bank_Limited_Quarterly_2024-06-30_chunks.md", "ticker": "AKBL", "entity_name": "Askari Bank Limited", "filing_type": "quarterly", "filing_period": ["Q2-2024", "Q2-2023"]}
+## Chunk 182
+
+
+# Fair value of non-financial assets
+
+|(Rupees in '000)| | | |Level 3|Level 3| |
+|---|---|---|---|---|---|---|
+|Fixed assets|Property and equipment (freehold and leasehold land)| | |13,238,392| | |
+|Assets held for sale| | | | |1,750,000|1,750,000|
+|Other assets|Non-banking assets acquired in satisfaction of claims| | | |856,694|866,810|
+
+---
+
+---
+
+{"chunk_number": 183, "financial_data": "yes", "financial_statement_scope": "consolidated", "is_statement": "no", "statement_type": "none", "is_note": "yes", "note_link": "none", "auditor_report": "no", "director_report": "no", "annual_report_discussion": "no", "file_name": "Askari_Bank_Limited_Quarterly_2024-06-30_chunks.md", "ticker": "AKBL", "entity_name": "Askari Bank Limited", "filing_type": "quarterly", "filing_period": ["Q2-2024", "Q2-2023"]}
+## Chunk 183
+
+
+# 37 Segment Information
+
+# 37.1 Segment details with respect to Business Activities
+
+The segment analysis with respect to business activity is as follows:
+
+|Branch|Corporate banking|Consumer banking|Islamic banking|Foreign banking|Head Office / others| | | |Total|
+|---|---|---|---|---|---|---|---|---|---|
+| | | | | | |June 30, 2024 (Un-audited)| | | |
+|Profit and loss| |(59,765,179)|29,917,317|43,815,380|2,479,309|9,195,978|784,747|(1,550,674)|24,876,878|
+|Inter segment revenue - net| |74,243,838|(27,607,590)|(46,984,388)|(1,864,887)|(5,289,020)|(398,712)|7,900,759|-|
+|Non mark-up / return / interest income| |1,233,382|2,419,469|2,904,514|287,538|435,253|1,916|438,067|7,720,139|
+|Total income| |15,712,041|4,729,196|(264,494)|901,960|4,342,211|387,951|6,788,152|32,597,017|
+|Segment direct expenses| |8,748,295|612,723|221,356|879,100|1,918,203|127,023|4,233,702|16,740,402|
+|Inter segment expense allocation| |342,854|671,819|4,111|19,810|-|-|(1,038,594)|-|
+|Total expenses| |9,091,149|1,284,542|225,467|898,910|1,918,203|127,023|3,195,108|16,740,402|
+|Credit loss allowance and write offs - net| |25,452|(87,439)|50,993|(244,035)|1,077,331|(454,617)|(819,976)|(452,291)|
+|Profit before tax| |6,595,440|3,532,093|(540,954)|247,085|1,346,677|715,545|4,413,020|16,308,906|
+
+|Statement of financial position| | | | |June 30, 2024 (Un-audited)| | | |
+|---|---|---|---|---|---|---|---|---|
+| |Branch|Corporate banking|Consumer banking|Islamic banking|Foreign banking|Head Office / others|Total| |
+|Cash and bank balances|39,192,884|-|80,200,455|822,390|11,950,327|118,314|159,029|132,443,399|
+|Investments|-|8,936,474|1,299,782,439|-|51,578,112|9,363,564|552,568|1,370,213,157|
+|Lendings to financial institutions|-|-|86,184,640|-|-|-|-|86,184,640|
+|Advances - performing - net of credit loss allowance|12,740,141|534,067,603|-|22,069,824|136,267,039|916,994|9,203,933|715,265,534|
+|Advances - non-performing - net of credit loss allowance|40,596|1,528,978|-|69,086|381,397|-|-|2,020,057|
+|Others|1,329,565|39,362,517|50,360,158|1,051,347|14,164,381|211,021|57,508,596|163,987,585|
+|Total Assets|53,303,186|583,895,572|1,516,527,692|24,012,647|214,341,256|10,609,893|67,424,126|2,470,114,372|
+|Borrowings|1,409,009|37,669,501|814,306,592|4,747,991|4,399,102|-|-|862,532,195|
+|Subordinated debts|-|-|-|-|-|-|12,000,000|12,000,000|
+|Deposits and other accounts|978,955,538|299,213,932|-|3,201|132,994,021|1,261,837|-|1,412,428,529|
+|Net inter segment balances - net|(945,717,429)|223,091,000|693,692,139|18,638,514|51,420,446|3,437,514|(44,562,184)|-|
+|Others|18,656,068|23,921,139|8,528,961|622,941|8,667,604|5,910,542|16,101,462|82,408,717|
+|Total liabilities|53,303,186|583,895,572|1,516,527,692|24,012,647|197,481,173|10,609,893|(16,460,722)|2,369,369,441|
+|Equity|-|-|-|-|16,860,083|-|83,884,847|100,744,930|
+|Total Equity and liabilities|53,303,186|583,895,572|1,516,527,692|24,012,647|214,341,256|10,609,893|67,424,126|2,470,114,371|
+|Contingencies and commitments|6,010,355|518,631,558|325,598,561|1,037,167|23,117,215|-|1,034,131|875,428,987|
+
+---
+
+---
+
+{"chunk_number": 184, "financial_data": "yes", "financial_statement_scope": "consolidated", "is_statement": "no", "statement_type": "none", "is_note": "yes", "note_link": "none", "auditor_report": "no", "director_report": "no", "annual_report_discussion": "no", "file_name": "Askari_Bank_Limited_Quarterly_2024-06-30_chunks.md", "ticker": "AKBL", "entity_name": "Askari Bank Limited", "filing_type": "quarterly", "filing_period": ["Q2-2024", "Q2-2023"]}
+## Chunk 184
+
+
+# June 30, 2023 (Un-audited)
+
+# Profit and loss
+
+| | |Branch|Corporate banking|Consumer Treasury|Islamic banking|Foreign banking|Head Office / others|Total| |
+|---|---|---|---|---|---|---|---|---|---|
+|Net mark-up / return / profit| |(40,637,694)|17,975,386|39,738,449|2,213,650|5,823,754|1,121,604|(1,413,887)|24,821,262|
+|Inter segment revenue - net| |58,025,034|(15,577,459)|(44,495,586)|(1,676,680)|(1,776,600)|(831,918)|6,333,209|-|
+|Non mark-up / return / interest income| |1,090,027|2,279,514|2,494,311|376,161|357,571|16,154|149,208|6,762,946|
+|Total income| |18,477,367|4,677,441|(2,262,826)|913,131|4,404,725|305,840|5,068,530|31,584,208|
+|Segment direct expenses| |7,360,735|491,246|210,020|753,599|1,613,147|116,030|3,416,375|13,961,152|
+|Inter segment expense allocation| |675,266|495,989|10,506|25,972|-|-|(1,207,733)|-|
+|Total expenses| |8,036,001|987,235|220,526|779,571|1,613,147|116,030|2,208,642|13,961,152|
+| |Provisions / (reversal of provisions) and write offs - net|(188,600)|609,275|183,504|(12,751)|(40,595)|-|66,443|617,276|
+|Profit before tax| |10,629,966|3,080,931|(2,666,856)|146,311|2,832,173|189,810|2,793,445|17,005,780|
+
+---
+
+{"chunk_number": 185, "financial_data": "yes", "financial_statement_scope": "consolidated", "is_statement": "no", "statement_type": "none", "is_note": "yes", "note_link": "none", "auditor_report": "no", "director_report": "no", "annual_report_discussion": "no", "file_name": "Askari_Bank_Limited_Quarterly_2024-06-30_chunks.md", "ticker": "AKBL", "entity_name": "Askari Bank Limited", "filing_type": "quarterly", "filing_period": ["Q2-2024", "Q2-2023"]}
+## Chunk 185
+
+
+# Statement of financial position
+
+|Cash and bank balances|33,208,938|-|129,715,500|832,790|10,058,919|60,278|972,219|174,848,644|
+|---|---|---|---|---|---|---|---|---|
+|Investments|-|9,252,065|1,102,004,077|-|51,493,187|19,177,486|570,843|1,182,497,658|
+|Advances - performing - net of provision|13,991,028|469,036,336|-|20,306,104|114,745,256|2,876,637|8,663,896|629,619,257|
+|Advances - non-performing - net of provision|259,102|2,237,228|-|74,662|855,900|-|-|3,426,892|
+|Others|1,084,252|30,473,445|48,204,707|915,181|10,533,982|405,421|43,763,596|135,380,584|
+|Total Assets|48,543,320|510,999,074|1,279,924,284|22,128,737|187,687,244|22,519,822|53,970,554|2,125,773,035|
+|Borrowings|1,574,075|41,338,149|591,921,725|2,992,873|5,535,843|-|-|643,362,665|
+|Subordinated debts|-|-|-|-|-|-|12,000,000|12,000,000|
+|Deposits and other accounts|879,331,340|293,376,734|-|250|118,670,004|1,416,378|-|1,292,794,706|
+|Net inter segment balances - net|(851,827,275)|149,905,856|677,830,555|18,475,360|38,253,559|16,939,831|(49,577,886)|-|
+|Others|19,465,180|26,378,335|10,172,004|660,254|8,249,821|4,163,613|10,830,796|79,920,003|
+|Total liabilities|48,543,320|510,999,074|1,279,924,284|22,128,737|170,709,227|22,519,822|(26,747,090)|2,028,077,374|
+|Equity|-|-|-|-|16,978,017|-|80,717,644|97,695,661|
+|Total Equity and liabilities|48,543,320|510,999,074|1,279,924,284|22,128,737|187,687,244|22,519,822|53,970,554|2,125,773,035|
+|Contingencies and commitments|6,016,566|548,078,423|276,081,621|832,790|26,459,326|-|1,027,750|858,496,476|
+
+---
+
+---
+
+{"chunk_number": 186, "financial_data": "yes", "financial_statement_scope": "consolidated", "is_statement": "no", "statement_type": "none", "is_note": "yes", "note_link": "none", "auditor_report": "no", "director_report": "no", "annual_report_discussion": "no", "file_name": "Askari_Bank_Limited_Quarterly_2024-06-30_chunks.md", "ticker": "AKBL", "entity_name": "Askari Bank Limited", "filing_type": "quarterly", "filing_period": ["Q2-2024", "Q2-2023"]}
+## Chunk 186
+
+
+# 38 RELATED PARTY TRANSACTIONS
+
+Fauji Consortium comprising of Fauji Foundation, Fauji Fertilizer Company Limited and Fauji Fertilizer Bin Qasim Limited (the Parent) holds 71.91% of the Group's share capital at the period end. The Group has related party relationships with entities under common directorship, its directors, key management personnel, entities over which the directors are able to exercise significant influence and employees' funds.
+
+The Group enters into transactions with related parties in the ordinary course of business and on substantially the same terms as for comparable transactions with person of similar standing. Contributions to and accruals in respect of staff retirement benefits and other benefit plans are made in accordance with the actuarial valuations / terms of the contribution plan. Remuneration to the executives / officers is determined in accordance with the terms of their appointment.
+
+Details of transactions with related parties and balances are as follows:
+
+|Particulars| |As at June 30, 2024 (Un-audited)| | | |As at December 31, 2023 (Audited)| | | |
+|---|---|---|---|---|---|---|---|---|---|
+| |Parent|Directors|Key management personnel|Other related parties|Parent|Directors|Key management personnel|Other related parties| |
+|Investments|-|-|-|1,420,051|-|-|-|1,159,768| |
+|Investment made during the period / year|-|-|-|-|-|-|-|-| |
+|Revaluation adjustment|-|-|-|(500,000)|-|-|-|262,947| |
+|Investment redeemed / disposed off during the period / year|-|-|-|363,372|-|-|-|(2,664)| |
+|Transfer in / (out) - net|-|-|-|750,000|-|-|-|-| |
+|Closing balance|-|-|-|2,033,423|-|-|-|1,420,051| |
+|Credit loss allowance / provisions for diminution in value of investments|-|-|-|5,680|-|-|-|82,113| |
+|Advances|8,108,881|-|496,686|25,003,594|29,986,315|60|507,549|16,783,652| |
+|Addition during the period / year|296,730,749|13,690|493,467|124,889,722|1,377,976,167|15,000|533,437|209,693,144| |
+|Repaid during the period / year|(300,809,697)|(13,466)|(578,278)|(126,413,936)|(1,399,853,601)|(15,060)|(544,300)|(213,910,777)| |
+|Transfer in / (out) - net|-|-|-|(12,212,093)|-|-|-|12,437,575| |
+|Closing balance|4,029,933|224|411,875|11,267,287|8,108,881|-|496,686|25,003,594| |
+|Other Assets|68,846|-|69,882|116,178|171,099|-|68,627|886,474| |
+|Advance rent|249|-|-|-|1,380|-|-|-| |
+|Acceptances|-|-|-|103,495|-|-|-|-| |
+|Receivable from staff retirement fund|-|-|-|170,221|-|-|-|-| |
+|Others|-|-|-|-|106|-|-|-| |
+|Borrowings|-|-|-|2,992,873|-|-|-|3,366,079| |
+|Borrowings during the period / year|-|-|-|2,000,000|-|-|-|1,000,000| |
+|Settled during the period / year|-|-|-|(244,882)|-|-|-|(1,373,206)| |
+|Closing balance|-|-|-|4,747,991|-|-|-|2,992,873| |
+|Deposits and other accounts|39,101,224|63,502|299,420|49,059,956|38,816,364|34,614|193,107|38,455,796| |
+|Received during the period / year|664,448,690|236,767|1,234,413|582,560,700|1,786,530,029|556,261|1,843,093|988,872,329| |
+|Withdrawn during the period / year|(658,279,464)|(222,727)|(1,202,007)|(596,915,714)|(1,786,245,169)|(521,157)|(1,707,626)|(978,274,385)| |
+|Transfer in / (out) - net|-|(39,395)|-|(93,187)|-|(6,216)|(29,154)|6,216| |
+|Closing balance|45,270,450|38,147|331,826|34,611,755|39,101,224|63,502|299,420|49,059,956| |
+|Other Liabilities|3,903,704|-|441|500,801|2,574,737|7|2,964|715,559| |
+|Payable to staff retirement fund|-|-|-|-|-|-|-|67,468| |
+|Acceptances|-|-|-|103,495|-|-|-|-| |
+|Security deposits payable|-|-|-|577,309|-|-|-|462,570| |
+|Others|-|-|77,928|56,058|25|1,667|58,608|71,818| |
+|Guarantees and Commitments|Contingencies and Commitments|440,747|-|-|8,298,641|225,219|-|-|4,476,687|
+|Others|Dividend paid|2,605,478|-|-|-|-|-|-| |
+|Securities held as custodian|8,962,500|-|45,995|11,493,470|-|-|-|-| |
+|Securities given as collateral|-|-|-|-|13,699,456|-|48,821|10,493,034| |
+
+---
+
+---
+
+{"chunk_number": 187, "financial_data": "yes", "financial_statement_scope": "consolidated", "is_statement": "no", "statement_type": "none", "is_note": "yes", "note_link": "none", "auditor_report": "no", "director_report": "no", "annual_report_discussion": "no", "file_name": "Askari_Bank_Limited_Quarterly_2024-06-30_chunks.md", "ticker": "AKBL", "entity_name": "Askari Bank Limited", "filing_type": "quarterly", "filing_period": ["Q2-2024", "Q2-2023"]}
+## Chunk 187
+
+
+# For the period ended June 30, 2024 (Un-Audited)
+
+# For the period ended June 30, 2023 (Un-Audited)
+
+|Key|management|Other related| |parties|Parent|Directors|personnel|parties| |
+|---|---|---|---|---|---|---|---|---|---|
+|Income|Mark-up / return / interest earned|145,035|12|9,182|652,501|207,620|-|5,283|2,523,478|
+|Fee and commission received|881|-|-|26,618|505|-|-|33,577| |
+|Dividend income|-|-|-|250,007|-|-|-|124,793| |
+|Expense|Mark-up / return / interest expensed|4,118,564|2,982|32,890|3,205,571|4,006,138|597|21,819|2,356,502|
+|Charge to defined benefit plan|-|-|-|324,040|-|-|-|164,141| |
+|Contribution to defined contribution plan|-|-|-|197,020|-|-|-|166,693| |
+|Remuneration and allowances|-|-|646,815|4,818|-|-|545,403|4,746| |
+|Rent|1,495|-|-|-|1,029|-|-|-| |
+|Communications|-|-|-|100,732|-|-|-|62,471| |
+|Brokerage and Commission|-|-|-|54,810|-|-|-|43,834| |
+|Directors' Fee, Allowances|-|21,680|-|-|-|15,200|-|-| |
+|Donations|-|-|-|-|524,397|-|-|-| |
+|Others|1,175|-|-|-|-|-|-|-| |
+
+In addition to above, rent free sub-branches are operating at FFC Sona Tower, FFBL Tower and Foundation University (along with Booths and ATMs).
+
+The term 'key management personnel' has the same meaning as defined in IAS 24 - Related party disclosures.
+---
+
+---
+
+{"chunk_number": 188, "financial_data": "yes", "financial_statement_scope": "consolidated", "is_statement": "no", "statement_type": "none", "is_note": "yes", "note_link": "none", "auditor_report": "no", "director_report": "no", "annual_report_discussion": "no", "file_name": "Askari_Bank_Limited_Quarterly_2024-06-30_chunks.md", "ticker": "AKBL", "entity_name": "Askari Bank Limited", "filing_type": "quarterly", "filing_period": ["Q2-2024", "Q2-2023"]}
+## Chunk 188
+
+
+# 39 CAPITAL ADEQUACY, LEVERAGE RATIO & LIQUIDITY REQUIREMENTS
+
+|(Un-audited)|(Audited)|June 30, 2024|December 31, 2023|
+|---|---|---|---|
+|(Rupees in '000)|(Rupees in '000)|(Rupees in '000)|(Rupees in '000)|
+|Minimum Capital Requirement (MCR):|Paid-up capital (net of losses)|14,492,992|14,492,992|
+|Capital Adequacy Ratio (CAR):|Eligible Common Equity Tier 1 (CET 1) Capital|90,279,504|88,193,637|
+| |Eligible Additional Tier 1 (ADT 1) Capital|5,835,000|5,649,000|
+| |Total Eligible Tier 1 Capital|96,114,504|93,842,637|
+| |Eligible Tier 2 Capital|16,381,892|13,220,036|
+| |Total Eligible Capital (Tier 1 + Tier 2)|112,496,396|107,062,673|
+|Risk Weighted Assets (RWAs):|Credit Risk|418,928,456|451,392,577|
+| |Market Risk|56,935,869|29,300,677|
+| |Operational Risk|102,809,844|102,809,844|
+| |Total|578,674,170|583,503,098|
+|Common Equity Tier 1 Capital Adequacy ratio| |15.60%|15.11%|
+|Tier 1 Capital Adequacy Ratio| |16.61%|16.08%|
+|Total Capital Adequacy Ratio| |19.44%|18.35%|
+|Leverage Ratio (LR):|Eligible Tier-1 Capital|96,114,504|93,842,637|
+| |Total Exposures|2,962,583,459|2,611,849,837|
+| |Leverage Ratio|3.24%|3.59%|
+|Liquidity Coverage Ratio (LCR):|Total High Quality Liquid Assets|605,135,525|649,069,790|
+| |Total Net Cash Outflow|267,600,907|322,740,993|
+| |Liquidity Coverage Ratio|226.13%|201.11%|
+|Net Stable Funding Ratio (NSFR):|Total Available Stable Funding|1,424,318,071|1,314,070,873|
+| |Total Required Stable Funding|671,904,959|610,829,100|
+| |Net Stable Funding Ratio|211.98%|215.13%|
+
+---
+
+{"chunk_number": 189, "financial_data": "yes", "financial_statement_scope": "consolidated", "is_statement": "no", "statement_type": "none", "is_note": "yes", "note_link": "none", "auditor_report": "no", "director_report": "no", "annual_report_discussion": "no", "file_name": "Askari_Bank_Limited_Quarterly_2024-06-30_chunks.md", "ticker": "AKBL", "entity_name": "Askari Bank Limited", "filing_type": "quarterly", "filing_period": ["Q2-2024", "Q2-2023"]}
+## Chunk 189
+
+
+# 40 RECLASSIFICATION OF COMPARATIVE FIGURES
+
+Where necessary, corresponding figures have been regrouped to conform to the presentation of current period amounts. Further, the regrouping does not have an impact on previously reported condensed interim consolidated statement of financial position or profit and loss account.
+
+# 41 DATE OF AUTHORIZATION
+
+These consolidated condensed interim financial statements were authorized for issue by the Board of Directors on August 29, 2024.
+
+-sd- Chief Financial Officer / A. President & CE
+
+-sd- Director
+
+-sd- Director
+
+-sd- Chairman
+---
+NO_CONTENT_HERE
+

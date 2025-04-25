@@ -1,10 +1,10 @@
 # psxGPT 📊
 
-A RAG (Retrieval-Augmented Generation) application that allows financial analysts to describe a table in words and instantly get output that can be pasted into a spreadsheet.
+A ChatGPT-like application for Pakistan Stock Exchange (PSX) financial data.
 
 ## 🔍 Overview
 
-psxGPT is a multi-step data processing pipeline and Retrieval-Augmented Generation (RAG) application. It automatically downloads financial reports (primarily bank statements from 2024) from the Pakistan Stock Exchange (PSX), converts them to markdown, chunks them, extracts metadata, and creates vector embeddings using Google Gemini. Finally, it provides a Gradio web interface allowing users to ask natural language questions about the financial data and receive spreadsheet-ready answers.
+psxGPT is a multi-step data processing pipeline and Retrieval-Augmented Generation (RAG) application. It automatically downloads financial reports from the Pakistan Stock Exchange (PSX) website, converts them to markdown, chunks them, extracts metadata, and creates vector embeddings using Google Gemini. Finally, it provides a Gradio web interface allowing users to ask natural language questions about the financial data and receive spreadsheet-ready answers.
 
 ## ✨ Features
 

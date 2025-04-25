@@ -236,26 +236,36 @@ def extract_entities(query):
         # Determine Filing Period (more precise if possible)
         period_found = False
         if entities["filing_type"] == "quarterly":
-            qtr_patterns = {
-                f"{latest_year}-03-31": [r'\b(q1|first|1st)\s*quarter\b', r'\b(march|mar)\b'],
-                f"{latest_year}-06-30": [r'\b(q2|second|2nd)\s*quarter\b', r'\b(june|jun)\b'],
-                f"{latest_year}-09-30": [r'\b(q3|third|3rd)\s*quarter\b', r'\b(september|sep)\b'],
-                f"{latest_year}-12-31": [r'\b(q4|fourth|4th)\s*quarter\b', r'\b(december|dec)\b']
+            # Check for specific quarter indicators
+            quarter_patterns = {
+                "Q1": [r'\b(q1|first|1st)\s*quarter\b', r'\b(march|mar)\b'],
+                "Q2": [r'\b(q2|second|2nd)\s*quarter\b', r'\b(june|jun)\b'],
+                "Q3": [r'\b(q3|third|3rd)\s*quarter\b', r'\b(september|sep)\b'],
+                "Q4": [r'\b(q4|fourth|4th)\s*quarter\b', r'\b(december|dec)\b']
             }
-            for period_end, patterns in qtr_patterns.items():
+            
+            for quarter, patterns in quarter_patterns.items():
                 if any(re.search(p, query_lower) for p in patterns):
-                    entities["filing_period"] = period_end
+                    # Use the format in metadata: Q1-YYYY
+                    entities["filing_period"] = f"{quarter}-{latest_year}"
                     period_found = True
                     break
-        # If no specific quarter found for quarterly, or if annual, default to year-end
-        if not period_found and entities["filing_type"]:
-             entities["filing_period"] = f"{latest_year}-12-31"
+
+        # If no specific quarter found for quarterly, default to just the year
+        if not period_found:
+            if entities["filing_type"] == "annual":
+                # For annual, just use the year
+                entities["filing_period"] = str(latest_year)
+            elif entities["filing_type"] == "quarterly":
+                # If quarterly but no specific quarter identified, don't set filing_period
+                # This will allow the system to find any quarter in that year
+                pass
 
     # Default filing type if year is present but type isn't
     if entities["years"] and not entities["filing_type"]:
         entities["filing_type"] = "annual"
         if not entities["filing_period"]:
-             entities["filing_period"] = f"{entities['years'][-1]}-12-31"
+             entities["filing_period"] = str(entities['years'][-1])
 
 
     print(f"Extracted entities: {json.dumps(entities, indent=2)}")
@@ -368,8 +378,8 @@ def format_statement_type(stmt_type_key):
     """Helper to get a readable statement type name."""
     return stmt_type_key.replace("_", " ").title() if stmt_type_key else "Financial Statement"
 
-def create_synthesis_prompt(user_query, entities):
-    """Creates the final prompt for the Response Synthesizer."""
+def create_synthesis_prompt(user_query, entities, previous_user_query=None, previous_bot_response=None):
+    """Creates the final prompt for the Response Synthesizer, including previous context."""
     statement_type_key = entities["statement_type"]
     statement_type_desc = format_statement_type(statement_type_key)
     scope_desc = entities["financial_statement_scope"] or "consolidated (default)"
@@ -385,8 +395,17 @@ def create_synthesis_prompt(user_query, entities):
          header_year1 = "Latest Year"
          header_year2_optional = "Previous Year"
 
+    # --- Construct Previous Interaction Context ---
+    previous_context_str = ""
+    if previous_user_query and previous_bot_response:
+        previous_context_str = f"""\
+**Previous Interaction Context:**
+User: {previous_user_query}
+Assistant: {str(previous_bot_response)[:1000]} ... (truncated if long)
+---
+"""
 
-    # Start with base prompt
+    # --- Start with base prompt incorporating previous context ---
     prompt = BASE_GENERATION_PROMPT.format(
         user_query=user_query,
         statement_type_desc=statement_type_desc,
@@ -402,7 +421,16 @@ def create_synthesis_prompt(user_query, entities):
         period_title=f"Year(s) ending {year_str}",
     )
 
-    # Add comparison instructions if needed
+    # Prepend previous context if available
+    if previous_context_str:
+        # Find the end of the initial introductory sentence
+        intro_end_index = prompt.find("\n\n**User Request:**")
+        if intro_end_index != -1:
+            prompt = prompt[:intro_end_index] + "\n\n" + previous_context_str + prompt[intro_end_index:]
+        else: # Fallback: prepend at the very beginning
+            prompt = previous_context_str + prompt
+
+    # --- Add comparison instructions if needed ---
     if entities["is_comparison"]:
         bank_list_str = ', '.join(entities["tickers"])
         prompt += COMPARISON_INSTRUCTION_ADDENDUM.format(
@@ -414,6 +442,7 @@ def create_synthesis_prompt(user_query, entities):
             statement_title=f"Comparison of {statement_type_desc}",
             scope_title=scope_title,
             period_title=f"Year(s) ending {year_str}",
+            header_year2_optional=header_year2_optional
         )
         # Update placeholders for comparison context
         prompt = prompt.replace("{statement_title}", f"Comparison of {statement_type_desc}")
@@ -507,7 +536,9 @@ def retrieve_nodes(retriever: VectorIndexRetriever, query_str: str, context_labe
     print(f"Retrieving {context_label} nodes for query: {query_str[:100]}...")
     nodes = retriever.retrieve(query_str)
     print(f"Retrieved {len(nodes)} {context_label} nodes.")
-    save_retrieved_context(query_str, nodes, entities, filename_suffix=context_label)
+    # Save context with the original user query instead of the constructed search query
+    original_query = entities.get("original_query", query_str)
+    save_retrieved_context(original_query, nodes, entities, filename_suffix=context_label)
     return nodes
 
 def get_statement_nodes(entities: dict, initial_k: int = 15) -> list[NodeWithScore]:
@@ -534,6 +565,9 @@ def get_statement_nodes(entities: dict, initial_k: int = 15) -> list[NodeWithSco
 
     if entities["filing_type"]:
         filters.append(MetadataFilter(key="filing_type", value=entities["filing_type"]))
+        
+    # Add filing_period to the query but not as a filter
+    # We'll handle it in post-filtering since it could be an array in metadata
 
     # Refine the query text for retrieval
     retrieval_query_parts = []
@@ -547,10 +581,10 @@ def get_statement_nodes(entities: dict, initial_k: int = 15) -> list[NodeWithSco
          retrieval_query_parts.append("financial statement")
     if entities["filing_type"]:
         retrieval_query_parts.append(entities["filing_type"])
-    if entities["years"]:
+    if entities["filing_period"]:
+        retrieval_query_parts.append(f"for period {entities['filing_period']}")
+    elif entities["years"]:
          retrieval_query_parts.append(f"for year(s) {', '.join(map(str, entities['years']))}")
-    elif entities["filing_period"]:
-        retrieval_query_parts.append(f"for period ending {entities['filing_period']}")
 
     retrieval_query = " ".join(retrieval_query_parts)
     if entities["needs_details"]:
@@ -572,84 +606,29 @@ def get_statement_nodes(entities: dict, initial_k: int = 15) -> list[NodeWithSco
          statement_nodes = [n for n in statement_nodes if n.node.metadata.get("ticker") in entities["tickers"]]
          print(f"Post-filtered to {len(statement_nodes)} nodes for tickers: {entities['tickers']}")
 
+    # Post-filtering for filing_type and filing_period
+    # This ensures the metadata filters are strictly enforced
+    if entities["filing_type"]:
+        statement_nodes = [n for n in statement_nodes if n.node.metadata.get("filing_type") == entities["filing_type"]]
+        print(f"Post-filtered to {len(statement_nodes)} nodes with filing_type: {entities['filing_type']}")
+    
+    if entities["filing_period"]:
+        # Handle filing_period as either a string or an array in metadata
+        statement_nodes = [
+            n for n in statement_nodes 
+            if (
+                # Match string value
+                n.node.metadata.get("filing_period") == entities["filing_period"] or
+                # Match array value (if filing_period is in the array)
+                (
+                    isinstance(n.node.metadata.get("filing_period"), list) and 
+                    entities["filing_period"] in n.node.metadata.get("filing_period")
+                )
+            )
+        ]
+        print(f"Post-filtered to {len(statement_nodes)} nodes with filing_period: {entities['filing_period']}")
 
     return statement_nodes
-
-def get_note_nodes_for_references(statement_nodes: list[NodeWithScore], entities: dict, note_k: int = 5) -> list[NodeWithScore]:
-    """Finds note references in statement nodes and retrieves corresponding note nodes."""
-    note_refs = set()
-    # Relaxed regex to find "Note" followed by number(s), possibly with decimals/letters
-    note_pattern = re.compile(r'(?:note|notes?)\s*([\d.]+[A-Za-z]?)', re.IGNORECASE)
-
-    for node_ws in statement_nodes:
-        matches = note_pattern.findall(node_ws.node.text)
-        for match in matches:
-            # Basic cleanup: remove trailing dots if any
-            note_num_str = match.strip().rstrip('.')
-            if note_num_str:  # Ensure we have a non-empty string
-                note_refs.add(note_num_str)
-
-    print(f"Found note references in statement: {note_refs}")
-    
-    # If no specific note references found but notes were requested, retrieve all notes
-    if not note_refs and entities["needs_details"]:
-        print("No specific note references found, but notes were requested. Retrieving all relevant notes.")
-        # Using a more general approach to find notes
-        return get_all_statement_notes(entities)
-        
-    if not note_refs:
-        print("No note references found in statement nodes.")
-        return []
-
-    all_note_nodes = []
-    processed_note_keys = set()  # Track note_number + ticker to avoid duplicates
-
-    # Retrieve notes for each referenced number and relevant ticker
-    for note_num in note_refs:
-        for ticker in entities["tickers"] or [None]:  # Handle case with no specific ticker
-            note_filters = [
-                MetadataFilter(key="is_note", value="yes"),  # Requires 'is_note' metadata field
-            ]
-            
-            # Try to match by note number if provided
-            note_filters.append(MetadataFilter(key="note_number", value=str(note_num)))
-            
-            if ticker:
-                note_filters.append(MetadataFilter(key="ticker", value=ticker))
-                
-            # Add statement_type link if provided
-            if entities["statement_type"]:
-                note_filters.append(MetadataFilter(key="note_link", value=entities["statement_type"]))
-
-            try:
-                note_retriever = index.as_retriever(
-                    similarity_top_k=note_k,  # Retrieve a few candidates per note number/ticker
-                    filters=MetadataFilters(filters=note_filters)
-                )
-
-                # Query string focused on the specific note content
-                note_query = f"Detailed content of Note {note_num}"
-                if ticker: note_query += f" for {ticker}"
-                if entities["statement_type"]: note_query += f" related to {format_statement_type(entities['statement_type'])}"
-
-                current_note_nodes = retrieve_nodes(note_retriever, note_query, f"note_{note_num}_{ticker or 'any'}", entities)
-
-                # Add nodes if they haven't been added already for this note/ticker combo
-                for node_ws in current_note_nodes:
-                    node_key = (node_ws.node.metadata.get("note_number"), node_ws.node.metadata.get("ticker"))
-                    if node_key not in processed_note_keys:
-                        all_note_nodes.append(node_ws)
-                        processed_note_keys.add(node_key)
-            except Exception as e:
-                print(f"Error retrieving note {note_num} for {ticker}: {e}")
-
-    # If we didn't find notes by specific number, try a more general approach
-    if not all_note_nodes and entities["needs_details"]:
-        print("No notes found by number references. Trying to retrieve all relevant notes.")
-        return get_all_statement_notes(entities)
-
-    print(f"Retrieved {len(all_note_nodes)} unique note nodes in total.")
-    return all_note_nodes
 
 def get_all_statement_notes(entities: dict, note_k: int = 10) -> list[NodeWithScore]:
     """Retrieves all notes related to a statement type regardless of specific note numbers."""
@@ -669,11 +648,12 @@ def get_all_statement_notes(entities: dict, note_k: int = 10) -> list[NodeWithSc
         if entities["statement_type"]:
             note_filters.append(MetadataFilter(key="note_link", value=entities["statement_type"]))
         
-        # For specific years if provided
-        if entities["years"] and len(entities["years"]) > 0:
-            # Note: Your vector store needs to support this kind of filtering
-            # You might need to adjust this based on how years are stored in metadata
-            pass  # Add year filter if your metadata supports it
+        # Add filing_type filter if specified
+        if entities["filing_type"]:
+            note_filters.append(MetadataFilter(key="filing_type", value=entities["filing_type"]))
+        
+        # We don't add filing_period filter initially as it could be an array
+        # Will handle it in post-filtering
         
         try:
             # Create retriever with these filters
@@ -685,6 +665,8 @@ def get_all_statement_notes(entities: dict, note_k: int = 10) -> list[NodeWithSc
             # General query for notes
             note_query = f"Notes for {format_statement_type(entities['statement_type'] or 'financial statement')}"
             if ticker: note_query += f" for {ticker}"
+            if entities["filing_type"]: note_query += f" {entities['filing_type']}"
+            if entities["filing_period"]: note_query += f" {entities['filing_period']}"
             
             # Retrieve nodes
             retrieved_notes = retrieve_nodes(
@@ -694,7 +676,23 @@ def get_all_statement_notes(entities: dict, note_k: int = 10) -> list[NodeWithSc
                 entities
             )
             
-            # Add to result list (could add deduplication here if needed)
+            # Post-filter for filing_period if specified
+            if entities["filing_period"]:
+                retrieved_notes = [
+                    n for n in retrieved_notes 
+                    if (
+                        # Match string value
+                        n.node.metadata.get("filing_period") == entities["filing_period"] or
+                        # Match array value (if filing_period is in the array)
+                        (
+                            isinstance(n.node.metadata.get("filing_period"), list) and 
+                            entities["filing_period"] in n.node.metadata.get("filing_period")
+                        )
+                    )
+                ]
+                print(f"Post-filtered notes to {len(retrieved_notes)} with filing_period: {entities['filing_period']}")
+            
+            # Add to result list
             all_note_nodes.extend(retrieved_notes)
             
         except Exception as e:
@@ -703,13 +701,17 @@ def get_all_statement_notes(entities: dict, note_k: int = 10) -> list[NodeWithSc
     print(f"Retrieved {len(all_note_nodes)} general note nodes.")
     return all_note_nodes
 
-def generate_response(user_query: str, entities: dict, all_nodes: list[NodeWithScore]):
+def generate_response(user_query: str, entities: dict, all_nodes: list[NodeWithScore], previous_user_query: str = None, previous_bot_response: str = None):
     """Generates the final response using the Response Synthesizer."""
     if not all_nodes:
         return "I couldn't find relevant financial data or notes based on your query and the available documents. Please try rephrasing or specifying different criteria."
 
-    # Create the tailored prompt for synthesis
-    synthesis_prompt_str = create_synthesis_prompt(user_query, entities)
+    # Create the tailored prompt for synthesis, including previous context
+    synthesis_prompt_str = create_synthesis_prompt(
+        user_query, entities,
+        previous_user_query=previous_user_query,
+        previous_bot_response=previous_bot_response
+    )
 
     # Configure the response synthesizer
     # Using COMPACT as it tries to stuff context into each LLM call, suitable for detailed table generation
@@ -759,12 +761,18 @@ def generate_response(user_query: str, entities: dict, all_nodes: list[NodeWithS
 
     return formatted_table
 
-def streaming_query_refactored(prompt: str):
+def streaming_query_refactored(prompt: str, previous_user_query: str = None, previous_bot_response: str = None):
     """
     Refactored query processing focusing on structured retrieval and synthesis.
+    Includes context from the previous turn if provided.
     """
     print(f"\n=== PROCESSING QUERY (Refactored) ===\nQuery: {prompt[:150]}...'")
+    if previous_user_query:
+        print(f"With context from previous User query: {previous_user_query[:100]}...")
     entities = extract_entities(prompt)
+    
+    # Store the original user query for context saving
+    entities["original_query"] = prompt
 
     # --- Step 1: Retrieve Statement Nodes ---
     # Determine K based on complexity/comparison
@@ -780,21 +788,24 @@ def streaming_query_refactored(prompt: str):
     # --- Step 2: Retrieve Note Nodes (if requested) ---
     note_nodes = []
     if entities["needs_details"] and statement_nodes:
-        note_k = 5 # Retrieve a few relevant chunks per note reference
-        note_nodes = get_note_nodes_for_references(statement_nodes, entities, note_k=note_k)
+        note_k = 10 # Retrieve more relevant note chunks
+        note_nodes = get_all_statement_notes(entities, note_k=note_k)
 
     # --- Step 3: Combine Nodes ---
     # Prioritize statement nodes, then add relevant note nodes
-    # Simple combination for now, could add relevance sorting later
     all_relevant_nodes = statement_nodes + note_nodes
-    # Optional: Deduplicate nodes based on node_id if retrieval overlaps occur
+    # Deduplicate nodes based on node_id if retrieval overlaps occur
     unique_nodes = {node.node.node_id: node for node in all_relevant_nodes}
     all_relevant_nodes = list(unique_nodes.values())
 
     print(f"Total unique nodes for synthesis: {len(all_relevant_nodes)}")
 
-    # --- Step 4: Generate Response ---
-    final_response = generate_response(prompt, entities, all_relevant_nodes)
+    # --- Step 4: Generate Response --- Pass context through
+    final_response = generate_response(
+        prompt, entities, all_relevant_nodes,
+        previous_user_query=previous_user_query,
+        previous_bot_response=previous_bot_response
+    )
 
     # Yield the complete response (no streaming for table generation simplicity)
     yield final_response
@@ -805,7 +816,14 @@ def streaming_query_refactored(prompt: str):
 
 def process_query(user_query, history):
     """Processes user query, handles clarification, and calls refactored streaming query."""
-    # --- Clarification Logic (Keep as is, but maybe refine conditions) ---
+    print(f"\n--- Processing Query ---")
+    print(f"User Query: {user_query}")
+    print(f"History Length: {len(history)}")
+    if history:
+        print(f"Last History Turn: User='{history[-1][0][:50]}...', Bot='{str(history[-1][1])[:50]}...'")
+
+
+    # --- Clarification Logic ---
     needs_clarification = False
     missing_info = []
     temp_entities = {} # Use temporary extraction for clarification check
@@ -856,30 +874,65 @@ def process_query(user_query, history):
         escaped_user_query = user_query.replace('"', '\\"')
         clarification_request += f'\nOriginal query: "{escaped_user_query}"\n\nThis will help me find the exact data you need.'
         # Append the clarification request to history
-        history.append((user_query, clarification_request))
+        # Create a *new* history list to avoid modifying the original during iteration
+        new_history = history + [(user_query, clarification_request)]
         # Return immediately with the clarification request
         # The Gradio structure handles displaying this
-        return history # Gradio bot function expects only history
+        # The bot function in Gradio expects the updated history list
+        return new_history # Return updated history with clarification
+
 
     # --- Process Query Normally ---
     try:
-        # Use the refactored function
-        response_generator = streaming_query_refactored(user_query)
+        # Extract previous interaction for context (if available and relevant)
+        previous_user_query = None
+        previous_bot_response = None
+        if history and len(history) > 0:
+             # Get the most recent *completed* turn (ignore the current one where bot response is None)
+             last_full_turn_index = -1
+             # If the last item has a bot response (even if it's "Processing..."),
+             # we look at the one before that for actual completed context.
+             # If the last item's bot response is None (meaning user() just ran),
+             # then the last item *is* the one we look at.
+             if history[-1][1] is None: # Current turn just started
+                 if len(history) > 1:
+                     last_full_turn_index = -2
+                 else:
+                     last_full_turn_index = -1 # Only one turn, possibly incomplete
+             else: # Previous turn exists
+                 last_full_turn_index = -1
+
+             if last_full_turn_index != -1 and len(history) > abs(last_full_turn_index):
+                 prev_user, prev_bot = history[last_full_turn_index]
+                 # Avoid using clarification requests/responses as context for generation
+                 if "Please clarify the following details" not in str(prev_bot):
+                     previous_user_query = prev_user
+                     previous_bot_response = prev_bot
+                     print(f"Using previous interaction for context: User='{previous_user_query[:50]}...', Bot='{str(previous_bot_response)[:50]}...'")
+
+
+        # Use the refactored function, passing previous context
+        response_generator = streaming_query_refactored(
+            user_query,
+            previous_user_query=previous_user_query,
+            previous_bot_response=previous_bot_response
+        )
         # Since we yield one final result now, get it directly
         response_text = next(response_generator)
 
-        history.append((user_query, response_text))
-        return history # Return updated history
+        # Append the successful response to the history
+        new_history = history + [(user_query, response_text)]
+        return new_history # Return updated history
     except StopIteration:
          error_message = "No response was generated."
          print(error_message)
-         history.append((user_query, error_message))
-         return history
+         new_history = history + [(user_query, error_message)]
+         return new_history
     except Exception as e:
         error_message = f"Error processing query: {str(e)}\n\n{traceback.format_exc()}"
         print(error_message)
-        history.append((user_query, error_message))
-        return history
+        new_history = history + [(user_query, error_message)]
+        return new_history
 
 # -----------------------------------------------------------------------------
 # GRADIO INTERFACE (Modified bot function slightly)

@@ -1,17 +1,13 @@
-# Query: Get the unconsolidated profit and loss account for HBL and MCB in 2024 with full notes breakdown presented as sub items indented
-
-
-
+# Original Query: Get me the unconsolidated profit and loss account for MCB annual in 2024 with full breakdown of notes
+## Retrieval Query: Notes for Profit And Loss for MCB annual 2024
 
 ## Extracted Entities
 ```json
 {
   "tickers": [
-    "HBL",
     "MCB"
   ],
   "bank_names": [
-    "Habib Bank Limited",
     "MCB Bank Limited"
   ],
   "statement_type": "profit_and_loss",
@@ -20,16 +16,16 @@
   "years": [
     2024
   ],
-  "is_comparison": true,
+  "is_comparison": false,
   "financial_statement_scope": "unconsolidated",
   "needs_notes": true,
   "needs_breakdown": true,
   "needs_details": true,
-  "original_query": "Get the unconsolidated profit and loss account for HBL and MCB in 2024 with full notes breakdown presented as sub items indented\n\n\n"
+  "last_n_periods": null
 }
 ```
 
-## Retrieved Context Nodes (10 total)
+## Retrieved Context Nodes (15 total)
 
 ### Node 1
 **Score:** 0.7607
@@ -851,6 +847,325 @@ annual_report_discussion: no
 |Number of Persons|1|–|11|3|1|41|254|
 
 42.1.1 During the year 2024, Rs 63.966 million bonus has been deferred (2023: Rs. 55.566 million).
+
+---
+```
+
+---
+
+### Node 11
+**Score:** 0.7224
+
+**Metadata:**
+```json
+{
+  "chunk_number": 1120,
+  "financial_data": "yes",
+  "financial_statement_scope": "consolidated",
+  "is_statement": "no",
+  "statement_type": "none",
+  "is_note": "yes",
+  "note_link": "profit_and_loss",
+  "auditor_report": "no",
+  "director_report": "no",
+  "annual_report_discussion": "no",
+  "file_name": "MCB_Bank_Limited_Annual_2024_chunks.md",
+  "ticker": "MCB",
+  "entity_name": "MCB Bank Limited",
+  "filing_type": "annual",
+  "filing_period": [
+    "2024",
+    "2023"
+  ],
+  "source_file": "MCB_Bank_Limited_Annual_2024_chunks.md"
+}
+```
+
+**Text:**
+```text
+--- Metadata Context ---
+entity_name: MCB Bank Limited
+ticker: MCB
+filing_type: annual
+filing_period: 2024, 2023
+financial_data: yes
+financial_statement_scope: consolidated
+is_statement: no
+is_note: yes
+note_link: profit_and_loss
+auditor_report: no
+director_report: no
+annual_report_discussion: no
+--- End Context ---
+
+# 29. MARK–UP / RETURN / INTEREST EXPENSED
+
+|Deposits|201,253,456|156,143,909|
+|---|---|---|
+|Borrowings|39,188,804|37,644,842|
+|Cost of foreign currency swaps against foreign currency deposits / borrowings|3,201,785|3,548,962|
+|Unwinding cost of lease liability against right–of–use assets|1,959,921|1,688,954|
+|Total|245,603,966|199,026,667|
+
+---
+```
+
+---
+
+### Node 12
+**Score:** 0.7222
+
+**Metadata:**
+```json
+{
+  "chunk_number": 832,
+  "financial_data": "yes",
+  "financial_statement_scope": "unconsolidated",
+  "is_statement": "no",
+  "statement_type": "none",
+  "is_note": "yes",
+  "note_link": "profit_and_loss",
+  "auditor_report": "no",
+  "director_report": "no",
+  "annual_report_discussion": "no",
+  "file_name": "MCB_Bank_Limited_Annual_2024_chunks.md",
+  "ticker": "MCB",
+  "entity_name": "MCB Bank Limited",
+  "filing_type": "annual",
+  "filing_period": [
+    "2024",
+    "2023"
+  ],
+  "source_file": "MCB_Bank_Limited_Annual_2024_chunks.md"
+}
+```
+
+**Text:**
+```text
+--- Metadata Context ---
+entity_name: MCB Bank Limited
+ticker: MCB
+filing_type: annual
+filing_period: 2024, 2023
+financial_data: yes
+financial_statement_scope: unconsolidated
+is_statement: no
+is_note: yes
+note_link: profit_and_loss
+auditor_report: no
+director_report: no
+annual_report_discussion: no
+--- End Context ---
+
+# Notes To The Unconsolidated Financial Statements
+
+# For the year ended December 31, 2024
+
+# 2023
+
+|Directors|Chairman (other than CEO)|Executive|Non Executive|President / CEO|Key management personnel|Other material risk takers / controllers|
+|---|---|---|---|---|---|---|
+|Fee and allowances|6,000|–|40,200|–|12,432|32,488|
+|Managerial Remuneration|–|–|–|75,900|521,126|1,028,087|
+|i) Fixed|–|–|–|75,900|521,126|1,028,087|
+|ii) Cash Bonus / Awards / Incentives|–|–|–|45,000|268,609|349,503|
+|Contribution to defined contribution plan|–|–|–|4,080|16,602|39,007|
+|Rent & house maintenance|–|–|–|–|32,976|8,620|
+|Medical|–|–|–|379|2,643|11,715|
+|Severance allowance|–|–|–|–|–|–|
+|Overseas allowance|–|–|–|–|76,103|14,592|
+|Security|–|–|–|928|–|–|
+|Club membership|–|–|–|112|1,000|2,800|
+|Others|–|–|–|336|–|–|
+|Total|6,000|–|40,200|126,735|931,491|1,486,812|
+|Number of Persons|1|–|11|1|29|166|
+
+42.1.1 During the year 2024, Rs 52.917 million bonus has been deferred (2023: Rs. 49.619 million).
+
+---
+```
+
+---
+
+### Node 13
+**Score:** 0.7208
+
+**Metadata:**
+```json
+{
+  "chunk_number": 1137,
+  "financial_data": "yes",
+  "financial_statement_scope": "consolidated",
+  "is_statement": "no",
+  "statement_type": "none",
+  "is_note": "yes",
+  "note_link": "profit_and_loss",
+  "auditor_report": "no",
+  "director_report": "no",
+  "annual_report_discussion": "no",
+  "file_name": "MCB_Bank_Limited_Annual_2024_chunks.md",
+  "ticker": "MCB",
+  "entity_name": "MCB Bank Limited",
+  "filing_type": "annual",
+  "filing_period": [
+    "2024",
+    "2023"
+  ],
+  "source_file": "MCB_Bank_Limited_Annual_2024_chunks.md"
+}
+```
+
+**Text:**
+```text
+--- Metadata Context ---
+entity_name: MCB Bank Limited
+ticker: MCB
+filing_type: annual
+filing_period: 2024, 2023
+financial_data: yes
+financial_statement_scope: consolidated
+is_statement: no
+is_note: yes
+note_link: profit_and_loss
+auditor_report: no
+director_report: no
+annual_report_discussion: no
+--- End Context ---
+
+# 40.8 Charge for defined benefit plans
+
+# 40.8.1 Cost recognised in statement of profit and loss account
+
+| |Approved Pension fund|Employees’ contributory benevolent scheme|Post retirement medical benefits|Employees’ compensated absences| | | | |
+|---|---|---|---|---|---|---|---|---|
+| |2024|2023|2024|2023|2024|2023|2024|2023|
+|Current service cost|66,621|60,005|3,583|12,134|84,237|79,635|51,334|43,876|
+|Net interest on defined benefit asset / liability|(1,151,362)|(401,380)|19,066|20,981|316,419|310,148|182,473|164,945|
+|Employees’ contribution|–|–|(1,733)|(2,069)|–|–|–|–|
+|Actuarial (gain) / loss|–|–|–|–|–|–|(72,607)|(37,748)|
+| |(1,084,741)|(341,375)|20,916|31,046|400,656|389,783|161,200|171,073|
+
+---
+```
+
+---
+
+### Node 14
+**Score:** 0.7208
+
+**Metadata:**
+```json
+{
+  "chunk_number": 1034,
+  "financial_data": "yes",
+  "financial_statement_scope": "consolidated",
+  "is_statement": "no",
+  "statement_type": "none",
+  "is_note": "yes",
+  "note_link": "profit_and_loss",
+  "auditor_report": "no",
+  "director_report": "no",
+  "annual_report_discussion": "no",
+  "file_name": "MCB_Bank_Limited_Annual_2024_chunks.md",
+  "ticker": "MCB",
+  "entity_name": "MCB Bank Limited",
+  "filing_type": "annual",
+  "filing_period": [
+    "2024",
+    "2023"
+  ],
+  "source_file": "MCB_Bank_Limited_Annual_2024_chunks.md"
+}
+```
+
+**Text:**
+```text
+--- Metadata Context ---
+entity_name: MCB Bank Limited
+ticker: MCB
+filing_type: annual
+filing_period: 2024, 2023
+financial_data: yes
+financial_statement_scope: consolidated
+is_statement: no
+is_note: yes
+note_link: profit_and_loss
+auditor_report: no
+director_report: no
+annual_report_discussion: no
+--- End Context ---
+
+# Notes To The Consolidated Financial Statements
+
+# For the year ended December 31, 2024
+
+- Profit from Bai–Mua’jjal is recognised on an accrual basis.
+- Profit on Diminishing Musharaka is recognised on an accrual basis.
+- Profit on Istisna financing is recognised on accrual basis.
+- Profit from Musharaka placements with financial institutions is recognised on accrual basis.
+- Profit from Murabaha financing is accounted for on culmination of Murabaha transaction. Profit on Murabaha is recognised on an accrual basis. Profit on Murabaha transactions for the period from the date of disbursement to the date of culmination of Murabaha is recognised immediately on the later date.
+- Revenue for acting as trustee is recognized on Net Assets Value (NAV) of respective funds.
+- Management / advisory fee is calculated on a daily / monthly basis by charging specified rates to the net assets value / income of the Collective Investment Schemes. Advisory fee from the discretionary portfolio is calculated in accordance with the respective agreements with the clients. Management fee from the pension funds is calculated by charging the specified rates to the average net assets value.
+- Revenue from trusteeship and custodian is recognised when the Group satisfies a performance obligation by rendering promised services as per respective agreements.
+- The income on Islamic financing is recognised in accordance with the principles of Islamic Shari’ah and in accordance with regulations and guidelines of the State Bank of Pakistan. However, income, if any, received which does not comply with the principles of Islamic Shari’ah is recognised as charity payable if so directed by the Shari’ah Board of the subsidiary. Islamic banking income on performing advances and debt securities is recognised on a time proportion basis / effective interest rate method as per the terms of the contract and as permitted by the SBP.
+
+---
+```
+
+---
+
+### Node 15
+**Score:** 0.7208
+
+**Metadata:**
+```json
+{
+  "chunk_number": 738,
+  "financial_data": "yes",
+  "financial_statement_scope": "unconsolidated",
+  "is_statement": "no",
+  "statement_type": "none",
+  "is_note": "yes",
+  "note_link": "profit_and_loss",
+  "auditor_report": "no",
+  "director_report": "no",
+  "annual_report_discussion": "no",
+  "file_name": "MCB_Bank_Limited_Annual_2024_chunks.md",
+  "ticker": "MCB",
+  "entity_name": "MCB Bank Limited",
+  "filing_type": "annual",
+  "filing_period": [
+    "2024",
+    "2023"
+  ],
+  "source_file": "MCB_Bank_Limited_Annual_2024_chunks.md"
+}
+```
+
+**Text:**
+```text
+--- Metadata Context ---
+entity_name: MCB Bank Limited
+ticker: MCB
+filing_type: annual
+filing_period: 2024, 2023
+financial_data: yes
+financial_statement_scope: unconsolidated
+is_statement: no
+is_note: yes
+note_link: profit_and_loss
+auditor_report: no
+director_report: no
+annual_report_discussion: no
+--- End Context ---
+
+# 6.14 Revenue recognition
+
+– Mark–up / interest on advances and returns on investments are recognized on an accrual basis using the effective interest method except that mark–up / interest on non–performing advances and investments is recognized on a receipt basis, in accordance with the requirements of the Prudential Regulations issued by the SBP or as permitted by the regulations of the overseas regulatory authorities of countries where the branches operate.
+
+– Fee, brokerage and commission income is recognized on an accrual basis.
+
+– Dividend income is recognized when the Bank’s right to receive dividend is established.
 
 ---
 ```

@@ -6,13 +6,14 @@ readme = "README.md"
 requires-python = ">=3.10"
 dependencies = [
     "playwright",
-    "llama-cloud-services", 
-    "llama-index-core", 
-    "llama-index-readers-file", 
+    "llama-cloud-services",
+    "llama-index-core",
+    "llama-index-readers-file",
     "python-dotenv",
     "llama_index.llms.gemini",
     "llama_index.embeddings.google_genai",
     "llama_index.llms.google_genai",
     "python-dotenv",
-    "gradio"
+    "gradio",
+    "mcp[cli]>=1.6.0",
 ]

@@ -126,24 +126,24 @@ psxGPT is a multi-step data processing pipeline and Retrieval-Augmented Generati
 
 ### Step 2: Choose a Code Editor
 
-- **VS Code** (Recommended for beginners): [Download VS Code](https://code.visualstudio.com/)
+- **Windsurf**: [Download Windsurf](https://www.windsurf.io/) (Recommended for beginners)
+- **VS Code**: [Download VS Code](https://code.visualstudio.com/)
 - **Cursor**: [Download Cursor](https://cursor.sh/)
-- **Windsurf**: [Download Windsurf](https://www.windsurf.io/)
 
 ### Step 3: Install uv Package Manager
 
 **For Windows Users:**
 1. Open PowerShell as Administrator
 2. Run this command:
-   ```
-   iwr https://astral.sh/uv/install.ps1 -useb | iex
+   ```powershell
+   powershell -ExecutionPolicy ByPass -c "irm https://astral.sh/uv/install.ps1 | iex"
    ```
 
 **For Mac Users:**
 1. Open Terminal (find it in Applications > Utilities)
 2. Run this command:
-   ```
-   curl -fsSL https://astral.sh/uv/install.sh | sh
+   ```bash
+   curl -LsSf https://astral.sh/uv/install.sh | sh
    ```
 
 ### Step 4: Download and Set Up psxGPT

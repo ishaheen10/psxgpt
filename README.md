@@ -24,7 +24,21 @@ Additionally, psxGPT now includes an MCP (Model Context Protocol) server that en
 - Python 3.10.16 or higher
 - uv package manager
 - Google Gemini API key
+- LlamaParse API key (for Step 2 PDF processing - [get a free key here](https://docs.cloud.llamaindex.ai/llamacloud/getting_started/api_key))
 - Claude Desktop (optional, for MCP integration)
+
+### API Keys and Alternatives
+
+#### LlamaParse for PDF Processing
+For Step 2 (`Step2ConvertPDFtoMarkdown.py`), you'll need a LlamaParse API key from LlamaCloud. The free tier allows processing up to 3,000 pages, which should be sufficient for initial testing. You can obtain a free API key by following the instructions [here](https://docs.cloud.llamaindex.ai/llamacloud/getting_started/api_key).
+
+If you need to process more pages or prefer not to use LlamaParse, you can modify the code to use alternative open-source PDF parsers such as:
+- [PyMuPDF4LLM](https://github.com/pymupdf/PyMuPDF-Utilities/tree/master/pymupdf4llm)
+- [Marker](https://github.com/VikParuchuri/marker)
+- [Unstructured](https://github.com/Unstructured-IO/unstructured)
+
+#### Google Gemini API
+The embeddings and LLM functionality require a Google Gemini API key, which you can obtain from [Google AI Studio](https://ai.google.dev/).
 
 ### Installation
 

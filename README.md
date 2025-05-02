@@ -8,6 +8,11 @@ psxGPT is a multi-step data processing pipeline and Retrieval-Augmented Generati
 
 Additionally, psxGPT now includes an MCP (Model Context Protocol) server that enables integration with Claude Desktop or other MCP clients, providing a seamless financial analysis experience.
 
+## 📺 Live Demo
+
+Check out our comprehensive walkthrough and demo video on YouTube:
+[![psxGPT Live Demo](https://img.youtube.com/vi/3kLG2_B_WYQ/0.jpg)](https://www.youtube.com/watch?v=3kLG2_B_WYQ&t=327s)
+
 ## ✨ Features
 
 - 📥 Automatic download of financial reports from PSX website

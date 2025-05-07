@@ -171,6 +171,86 @@ def server_info() -> str:
         "companies_available": len(TICKER_DATA)
     }, indent=2)
 
+@mcp.resource("resource://psx_companies/filter_schema")
+def psx_filter_schema() -> str:
+    """Return the schema for filtering PSX financial statement data"""
+    FILTER_SCHEMA = {
+        "type": "object",
+        "properties": {
+            "ticker": {
+                "type": "string",
+                "description": "PSX ticker symbol (e.g., AKBL). Case-insensitive matching needed. See resource://psx_companies/list for known tickers."
+            },
+            "entity_name": {
+                "type": "string",
+                "description": "Full name of the entity (e.g., 'Askari Bank Limited'). Used for display and contextual matching."
+            },
+            "financial_data": {
+                "type": "string",
+                "enum": ["yes", "no"],
+                "description": "Indicates whether the chunk contains financial data. Set to 'yes' for chunks in main financial statements or notes, or for preliminary sections with substantive financial figures."
+            },
+            "financial_statement_scope": {
+                "type": "string",
+                "enum": ["consolidated", "unconsolidated", "none"],
+                "description": "Scope of the financial statements. 'none' is used for reports or discussion before main statements."
+            },
+            "is_statement": {
+                "type": "string",
+                "enum": ["yes", "no"],
+                "description": "Indicates if the chunk primarily contains one of the main financial statements."
+            },
+            "statement_type": {
+                "type": "string",
+                "enum": ["profit_and_loss", "balance_sheet", "cash_flow", "changes_in_equity", "comprehensive_income", "none"],
+                "description": "Type of financial statement. 'none' is used when is_statement is 'no'."
+            },
+            "is_note": {
+                "type": "string",
+                "enum": ["yes", "no"],
+                "description": "Indicates if the chunk primarily represents a note to the financial statements."
+            },
+            "note_link": {
+                "type": "string",
+                "enum": ["profit_and_loss", "balance_sheet", "cash_flow", "changes_in_equity", "comprehensive_income", "none"],
+                "description": "If is_note is 'yes', indicates which statement type the note primarily relates to. 'none' for general notes."
+            },
+            "auditor_report": {
+                "type": "string",
+                "enum": ["yes", "no"],
+                "description": "Indicates if the chunk contains the Independent Auditor's Report."
+            },
+            "director_report": {
+                "type": "string",
+                "enum": ["yes", "no"],
+                "description": "Indicates if the chunk contains the Directors' Report or Chairman's Statement."
+            },
+            "annual_report_discussion": {
+                "type": "string",
+                "enum": ["yes", "no"],
+                "description": "Indicates if the chunk contains Management Discussion & Analysis (MD&A) or similar narrative financial analysis."
+            },
+            "filing_type": {
+                "type": "string",
+                "enum": ["annual", "quarterly"],
+                "description": "Type of filing period (annual or quarterly). Extracted from the filename."
+            },
+            "filing_period": {
+                "type": "array",
+                "items": {
+                    "type": "string"
+                },
+                "description": "List of periods covered by the filing. For annual reports, contains years (e.g., ['2023', '2022']). For quarterly reports, contains quarters (e.g., ['Q1-2024', 'Q1-2023'])."
+            },
+            "source_file": {
+                "type": "string",
+                "description": "Original source filename, useful for tracing back to the source document."
+            }
+        },
+        "description": "Schema for metadata filters applicable during index queries. These fields are present in the vector index metadata and can be used for filtering search results."
+    }
+    return json.dumps(FILTER_SCHEMA, indent=2)
+
 @mcp.tool()
 def psx_find_company(query: str) -> Dict[str, Any]:
     """Find a company by name or ticker symbol in the Pakistan Stock Exchange"""

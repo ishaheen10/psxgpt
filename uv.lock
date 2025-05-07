@@ -1722,14 +1722,14 @@ dependencies = [
 
 [package.metadata]
 requires-dist = [
-    { name = "gradio" },
+    { name = "gradio", specifier = ">=4.0.0" },
     { name = "llama-cloud-services" },
     { name = "llama-index-core" },
     { name = "llama-index-embeddings-google-genai" },
     { name = "llama-index-llms-gemini" },
     { name = "llama-index-llms-google-genai" },
     { name = "llama-index-readers-file" },
-    { name = "mcp", extras = ["cli"], specifier = ">=1.6.0" },
+    { name = "mcp", extras = ["cli", "core"], specifier = ">=1.6.0" },
     { name = "playwright" },
     { name = "python-dotenv" },
 ]

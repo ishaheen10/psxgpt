@@ -15,5 +15,7 @@ dependencies = [
     "llama_index.llms.google_genai",
     "python-dotenv",
     "gradio>=4.0.0",
-    "mcp[cli,core]>=1.6.0"
+    "mcp[cli,core]>=1.6.0",
+    "chainlit",
+    "anthropic"
 ]

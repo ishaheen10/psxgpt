@@ -6,7 +6,7 @@ A ChatGPT-like application for Pakistan Stock Exchange (PSX) financial data.
 
 psxGPT is a multi-step data processing pipeline and Retrieval-Augmented Generation (RAG) application. It automatically downloads financial reports from the Pakistan Stock Exchange (PSX) website, converts them to markdown, chunks them, extracts metadata, and creates vector embeddings using Google Gemini. Finally, it provides a Gradio web interface allowing users to ask natural language questions about the financial data and receive spreadsheet-ready answers.
 
-Additionally, psxGPT now includes an MCP (Model Context Protocol) server that enables integration with Claude Desktop or other MCP clients, providing a seamless financial analysis experience.
+Additionally, psxGPT now includes both an MCP (Model Context Protocol) server that enables integration with Claude Desktop and a dedicated Chainlit-based MCP client that provides a web interface specifically optimized for Claude 3.5 Sonnet, offering a seamless financial analysis experience with enhanced tool usage capabilities.
 
 ## 📺 Live Demo
 
@@ -21,6 +21,7 @@ Check out our comprehensive walkthrough and demo video on YouTube:
 - 💬 Natural language interface for querying financial data
 - 📝 Spreadsheet-ready output format
 - 🔌 MCP server for Claude Desktop integration
+- 🌐 Chainlit web interface with Claude 3.5 Sonnet integration
 
 ## 🚀 Quick Start
 
@@ -30,6 +31,8 @@ Check out our comprehensive walkthrough and demo video on YouTube:
 - uv package manager
 - Google Gemini API key
 - LlamaParse API key (for Step 2 PDF processing - [get a free key here](https://docs.cloud.llamaindex.ai/llamacloud/getting_started/api_key))
+- Anthropic API key (for Claude 3.5 Sonnet integration)
+- Literal API key (for Chainlit web interface - [get a free key here](https://cloud.getliteral.ai/))
 - Claude Desktop (optional, for MCP integration)
 
 ### API Keys and Alternatives
@@ -55,8 +58,10 @@ The embeddings and LLM functionality require a Google Gemini API key, which you 
 
 2. Set up your environment:
    ```bash
-   # Create a .env file with your Google Gemini API key
-   echo "GEMINI_API_KEY=your_api_key_here" > .env
+   # Create a .env file with your API keys
+   echo "GEMINI_API_KEY=your_gemini_api_key_here" > .env
+   echo "ANTHROPIC_API_KEY=your_anthropic_api_key_here" >> .env
+   echo "LITERAL_API_KEY=your_literal_api_key_here" >> .env
    
    # Create and activate a virtual environment
    uv venv
@@ -91,9 +96,14 @@ The embeddings and LLM functionality require a Google Gemini API key, which you 
    
    # Option 2: MCP server for Claude Desktop integration
    python Step8MCPServerPsxGPT.py
+   
+   # Option 3: Chainlit web interface with Claude 3.5 Sonnet
+   python Step9MCPClientPsxGPT.py
    ```
 
-6. For Gradio: Open your browser at http://localhost:7860
+6. Access the web interface:
+   - For Gradio: Open your browser at http://localhost:7860
+   - For Chainlit: Open your browser at http://localhost:8000
 
 ## 💡 Example Queries
 
@@ -112,9 +122,10 @@ The embeddings and LLM functionality require a Google Gemini API key, which you 
 - `Step7LaunchGradioWithFilters.py`: Runs the main Gradio web interface for querying
 - `Step7aGradioAppNoFilters.py`: (Alternative) Runs a simplified Gradio interface without meta data filters
 - `Step8MCPServerPsxGPT.py`: Runs an MCP server for Claude Desktop integration
+- `Step9MCPClientPsxGPT.py`: Runs a Chainlit web interface with Claude 3.5 Sonnet integration
 - `tickers.json`: Maps company tickers to full names
 - `pyproject.toml`: Project metadata and dependencies for `uv`
-- `.env`: File to store your Google Gemini API key (you need to create this)
+- `.env`: File to store your API keys (Gemini, Anthropic, and Literal)
 - `.gitignore`: Specifies intentionally untracked files that Git should ignore
 
 **Note:** The `gemini_index_metadata/` directory containing the vector index is generated locally by `Step6CreateEmbeddings.py` and is not included in the GitHub repository due to its size.
@@ -134,10 +145,12 @@ The embeddings and LLM functionality require a Google Gemini API key, which you 
 | gradio                               | Web interface creation                     |
 | pymupdf                              | Core PDF handling library (used by Step 2) |
 | mcp                                  | Model Context Protocol for AI integration  |
+| chainlit                             | Modern web interface for LLM applications  |
+| anthropic                            | Claude API client for Python              |
 
 *(Install using `uv sync` which reads `pyproject.toml`)*
 
-## 🌐 Using Claude Desktop with psxGPT MCP Server
+## 🌎 Using Claude Desktop with psxGPT MCP Server
 
 The MCP server provides a seamless integration with Claude Desktop, allowing you to query PSX financial data directly within the Claude interface. What makes this integration powerful is that Claude intelligently uses the MCP tools to gather relevant context for your questions, breaking down complex queries into logical steps for data retrieval and analysis.
 
@@ -209,7 +222,55 @@ This integrated approach means you can ask increasingly sophisticated questions 
 - **Server Restart**: You may need to restart the MCP server occasionally if you encounter connection issues or after system sleep/hibernation.
 - **Complex Analysis**: For detailed financial analysis, the more specific your question, the better the results. Claude will progressively gather context for multi-step analyses.
 
-## 🧑‍💻 Detailed Setup Guide for Beginners
+## 💻 Using the Chainlit Web Interface with Claude 3.5 Sonnet
+
+The Chainlit-based MCP client provides a modern web interface that connects directly to Claude 3.5 Sonnet and the PSX MCP server, offering a seamless financial analysis experience in your browser.
+
+### Setting up the Chainlit Client
+
+1. Ensure you have the required API keys:
+   - Anthropic API key: Sign up at [anthropic.com](https://www.anthropic.com/) and get an API key
+   - Literal API key: Sign up at [cloud.getliteral.ai](https://cloud.getliteral.ai/) and get an API key
+   - Add both to your `.env` file:
+     ```
+     ANTHROPIC_API_KEY=your_anthropic_key_here
+     LITERAL_API_KEY=your_literal_key_here
+     ```
+
+2. Start the MCP server in one terminal:
+   ```bash
+   python Step8MCPServerPsxGPT.py
+   ```
+
+3. Start the Chainlit client in another terminal:
+   ```bash
+   python Step9MCPClientPsxGPT.py
+   ```
+
+4. Open your browser at http://localhost:8000
+
+5. Log in with the default credentials:
+   - Username: asfi@psx.com
+   - Password: asfi123
+
+### Key Features of the Chainlit Interface
+
+- **Web-Based Access**: No need to install Claude Desktop - access the full capabilities through your browser
+- **Optimized Prompting**: The client includes carefully crafted system prompts that ensure Claude properly formats queries to the MCP server
+- **Persistent Chat History**: Your conversations are saved and can be resumed later
+- **Enhanced Tool Usage**: The implementation ensures proper handling of the filing_period parameter to get accurate financial data
+- **Structured Financial Data**: Results are presented in a clean, readable format with proper formatting of tables and financial figures
+
+### Example Queries for the Chainlit Interface
+
+The Chainlit interface supports the same types of queries as the Claude Desktop integration, with the added benefit of being accessible through a web browser:
+
+- "Show me HBL's 2023 consolidated balance sheet"
+- "What was the profit after tax for MCB in 2024?"
+- "Compare the ROE of UBL and ABL for 2023"
+- "Analyze the liquidity ratios of Meezan Bank from 2022 to 2024"
+
+## 🧹‍♂️ Detailed Setup Guide for Beginners
 
 ### Step 1: Install Python
 

@@ -179,21 +179,24 @@ async def on_message(message: cl.Message):
     if not session:
         return await cl.Message(content="⚠️ MCP client not connected.", author="System").send()
 
-    thinking = await cl.Message(content="🤖 Thinking…", author="System").send()
-    resp = await anthropic_client.messages.create(
+    # Start streaming response
+    message = cl.Message(content="")
+    await message.send()
+
+    final_text = ""
+    async with anthropic_client.messages.stream(
         model="claude-3-5-sonnet-20240620",
         system=SYSTEM_PROMPT,
         messages=[{"role": h["role"], "content": h["content"]} for h in history],
         max_tokens=2000,
         temperature=0.7,
-    )
-    await thinking.remove()
+    ) as stream:
+        async for event in stream:
+            if event.type == "text":
+                final_text += event.text
+                await message.stream_token(event.text)
 
-    # 3. Extract Claude's reply and send
-    text = getattr(resp, "completion", None) or "".join(
-        blk.text if hasattr(blk,"text") else blk.get("text","")
-        for blk in getattr(resp, "content", [])
-    )
-    history.append({"role":"assistant","content":text})
+    # Update message history after streaming completes
+    history.append({"role":"assistant","content":final_text})
     cl.user_session.set("messages", history)
-    await cl.Message(content=text).send()
+    await message.update()

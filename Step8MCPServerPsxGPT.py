@@ -400,17 +400,29 @@ def psx_parse_query(query: str) -> Dict[str, Any]:
         if "scope" in intents:
             metadata_filters["financial_statement_scope"] = intents["scope"]
         
-        # Add year filter if available
+        # Add filing_period filter based on year and period
         if "year" in intents:
-            metadata_filters["year"] = intents["year"]
+            y = str(intents["year"]).strip()  # Ensure year is a string and strip any whitespace
+            
+            # For annual reports, include both the requested year and previous year
+            if "period" in intents and intents["period"] == "annual":
+                prev_year = str(int(y) - 1)
+                metadata_filters["filing_period"] = [y, prev_year]
+                print(f"Set annual filing_period filter to: {metadata_filters['filing_period']}")
+            # For quarterly reports, this will be handled in the period section below
         
         # Add period filter if available
-        if "period" in intents:
-            metadata_filters["period"] = intents["period"]
+        if "period" in intents and "year" in intents:
+            y = str(intents["year"]).strip()  # Ensure year is a string and strip any whitespace
             
-            # Add quarter filter if available
-            if "quarter" in intents:
-                metadata_filters["quarter"] = intents["quarter"]
+            # For quarterly reports, create a filing_period with format Q{quarter}-{year}
+            if intents["period"] == "quarterly" and "quarter" in intents:
+                q = str(intents["quarter"]).strip()  # Ensure quarter is a string and strip any whitespace
+                current_period = f"Q{q}-{y}"
+                prev_year = str(int(y) - 1)
+                prev_period = f"Q{q}-{prev_year}"
+                metadata_filters["filing_period"] = [current_period, prev_period]
+                print(f"Set quarterly filing_period filter to: {metadata_filters['filing_period']}")
         
         # Build search query for semantic search
         search_query = build_search_query(intents)
@@ -471,21 +483,81 @@ def build_search_query(intents: Dict) -> str:
 def psx_query_index(text_query: str = "", metadata_filters: Dict = {}, top_k: int = 15) -> Dict[str, Any]:
     """Query the PSX financial statement vector index with semantic search and metadata filters"""
     try:
-        filters = [
-            MetadataFilter(key=key, value=value)
-            for key, value in metadata_filters.items()
-        ]
-
+        from llama_index.core.vector_stores import ExactMatchFilter, MetadataFilters
+        from llama_index.core.vector_stores.types import FilterOperator
+        
+        # Create a copy of metadata_filters to avoid modifying the original
+        query_filters = metadata_filters.copy()
+        
+        # Extract filing_period for post-filtering and remove it from the initial query
+        filing_periods = None
+        if "filing_period" in query_filters:
+            filing_periods = query_filters.pop("filing_period")
+            print(f"Extracted filing_period for post-filtering: {filing_periods}")
+        
+        # Create standard filters for all remaining fields
+        standard_filters = []
+        for key, value in query_filters.items():
+            print(f"Adding standard filter for {key}: {value}")
+            standard_filters.append(MetadataFilter(key=key, value=value))
+        
+        print(f"Standard filters (without filing_period): {standard_filters}")
         print(f"Index query: {text_query}")
-        print(f"Metadata filters: {metadata_filters}")
+        print(f"Original metadata_filters: {metadata_filters}")
+        print(f"Modified query_filters (without filing_period): {query_filters}")
+        
+        # Debug: print out the filter objects
+        for i, f in enumerate(standard_filters):
+            print(f"Standard filter {i}: key={f.key}, value={f.value}")
+
+
+
 
         retriever_kwargs = {"similarity_top_k": top_k}
-        if filters:
-            retriever_kwargs["filters"] = MetadataFilters(filters=filters)
+        if standard_filters:
+            retriever_kwargs["filters"] = MetadataFilters(filters=standard_filters)
 
         retriever = index.as_retriever(**retriever_kwargs)
         nodes = retriever.retrieve(text_query)
-        print(f"Retrieved {len(nodes)} nodes.")
+        print(f"Retrieved {len(nodes)} nodes before post-filtering.")
+        
+        # Apply custom post-filtering for filing_period if needed
+        if filing_periods and nodes:
+            print(f"Applying post-filtering for filing_period: {filing_periods}")
+            filtered_nodes = []
+            
+            # Convert to list if it's not already
+            if not isinstance(filing_periods, list):
+                filing_periods = [filing_periods]
+            
+            for node in nodes:
+                # Check if any of the requested filing periods match
+                node_filing_period = node.node.metadata.get("filing_period")
+                print(f"\nNode {node.node.node_id} filing_period: {node_filing_period} (type: {type(node_filing_period)})")
+                print(f"Looking for any of these periods: {filing_periods}")
+                
+                # Case 1: Node has filing_period as a list
+                if isinstance(node_filing_period, list):
+                    # Check if any requested period is in the node's filing_period list
+                    matches = [p for p in filing_periods if p in node_filing_period]
+                    if matches:
+                        filtered_nodes.append(node)
+                        print(f"✅ MATCHED: Found matching periods {matches} in {node_filing_period}")
+                    else:
+                        print(f"❌ NO MATCH: None of {filing_periods} found in {node_filing_period}")
+                # Case 2: Node has filing_period as a string
+                elif isinstance(node_filing_period, str) and node_filing_period in filing_periods:
+                    filtered_nodes.append(node)
+                    print(f"✅ MATCHED: Found exact string match for {node_filing_period}")
+                elif node_filing_period is not None:
+                    print(f"❌ NO MATCH: {node_filing_period} ({type(node_filing_period)}) not in {filing_periods}")
+            
+            print(f"Post-filtering reduced {len(nodes)} nodes to {len(filtered_nodes)} nodes")
+            nodes = filtered_nodes
+        
+        print(f"Retrieved {len(nodes)} nodes after all filtering.")
+
+
 
         context_file = save_retrieved_context(text_query, nodes, metadata_filters, filename_suffix="query")
 

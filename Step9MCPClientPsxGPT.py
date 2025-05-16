@@ -2,7 +2,7 @@ import os
 import sys
 import json
 import asyncio
-from contextlib import AsyncExitStack
+import atexit
 
 import chainlit as cl
 from chainlit.types import ThreadDict
@@ -10,11 +10,23 @@ from anthropic import AsyncAnthropic
 from mcp import ClientSession as MCPClientSession
 from dotenv import load_dotenv
 
+# Import Literal AI for logging
+from literalai import LiteralClient
+
 # — Load environment —
 load_dotenv()
 ANTHROPIC_API_KEY = os.getenv("ANTHROPIC_API_KEY")
 if not ANTHROPIC_API_KEY:
     raise RuntimeError("ANTHROPIC_API_KEY is not set")
+
+# — Literal AI client —
+literalai_client = LiteralClient(
+    environment="prod",
+    release=os.getenv("GIT_SHA", "dev")  # Use GIT_SHA if available, otherwise "dev"
+)
+
+# Register flush at shutdown
+atexit.register(literalai_client.flush_and_stop)
 
 # — Anthropic client —
 anthropic_client = AsyncAnthropic(api_key=ANTHROPIC_API_KEY)
@@ -249,6 +261,73 @@ def auth_callback(username: str, password: str) -> cl.User | None:
         return cl.User(identifier=username, metadata={"role":"admin","name":"Asfi"})
     return None
 
+# — MCP tool wrappers —
+async def psx_query_index(**kwargs):
+    session = cl.user_session.get("mcp_client")
+    if not session:
+        raise ValueError("MCP client not connected")
+    
+    with literalai_client.step(type="tool_call", name="psx_query_index") as step:
+        step.input = {"content": kwargs}
+        result = await session.call_tool("psx_query_index", kwargs)
+        step.output = {"content": result}
+        
+        # Add metadata to the step for better filtering
+        if "metadata_filters" in kwargs:
+            step.metadata = {
+                "ticker": kwargs.get("metadata_filters", {}).get("ticker"),
+                "statement_type": kwargs.get("metadata_filters", {}).get("statement_type")
+            }
+            if "filing_period" in kwargs.get("metadata_filters", {}):
+                step.metadata["filing_period"] = ",".join(kwargs.get("metadata_filters", {}).get("filing_period", []))
+            step.tags = ["finance", "psx"]
+        
+        return result
+
+async def psx_parse_query(**kwargs):
+    session = cl.user_session.get("mcp_client")
+    if not session:
+        raise ValueError("MCP client not connected")
+    
+    with literalai_client.step(type="tool_call", name="psx_parse_query") as step:
+        step.input = {"content": kwargs}
+        result = await session.call_tool("psx_parse_query", kwargs)
+        step.output = {"content": result}
+        return result
+
+async def psx_synthesize_response(**kwargs):
+    session = cl.user_session.get("mcp_client")
+    if not session:
+        raise ValueError("MCP client not connected")
+    
+    with literalai_client.step(type="tool_call", name="psx_synthesize_response") as step:
+        step.input = {"content": kwargs}
+        result = await session.call_tool("psx_synthesize_response", kwargs)
+        step.output = {"content": result}
+        return result
+
+async def psx_find_company(**kwargs):
+    session = cl.user_session.get("mcp_client")
+    if not session:
+        raise ValueError("MCP client not connected")
+    
+    with literalai_client.step(type="tool_call", name="psx_find_company") as step:
+        step.input = {"content": kwargs}
+        result = await session.call_tool("psx_find_company", kwargs)
+        step.output = {"content": result}
+        return result
+
+async def psx_generate_clarification_request(**kwargs):
+    session = cl.user_session.get("mcp_client")
+    if not session:
+        raise ValueError("MCP client not connected")
+    
+    with literalai_client.step(type="tool_call", name="psx_generate_clarification_request") as step:
+        step.input = {"content": kwargs}
+        result = await session.call_tool("psx_generate_clarification_request", kwargs)
+        step.output = {"content": result}
+        return result
+
 # — MCP connect/disconnect hooks —
 @cl.on_mcp_connect
 async def on_mcp_connect(connection, session: MCPClientSession):
@@ -271,7 +350,13 @@ async def on_mcp_disconnect(name: str, session: MCPClientSession):
 # — Chat start/resume —
 @cl.on_chat_start
 async def on_chat_start():
+    # Initialize message history
     cl.user_session.set("messages", [])
+    
+    # Create a thread ID for Literal AI logging
+    thread_id = f"psx-{cl.user_session.get('id')}"
+    cl.user_session.set("thread_id", thread_id)
+    
     await cl.Message(content="👋 Welcome! Ask me about PSX financial data.", author="System").send()
 
 @cl.on_chat_resume
@@ -285,43 +370,80 @@ async def on_chat_resume(thread: ThreadDict):
 @cl.on_message
 async def on_message(message: cl.Message):
     try:
-        # 1. Append user message
-        history = cl.user_session.get("messages", [])
-        history.append({"role":"user","content":message.content})
-        cl.user_session.set("messages", history)
-
-        # 2. Call Claude with system prompt + history
-        session: MCPClientSession = cl.user_session.get("mcp_client")
-        if not session:
-            return await cl.Message(content="⚠️ MCP client not connected.", author="System").send()
-
-        # Start streaming response
-        response_message = cl.Message(content="")
-        await response_message.send()
-
-        final_text = ""
-        try:
-            async with anthropic_client.messages.stream(
-                model="claude-3-7-sonnet-20250219",
-                system=SYSTEM_PROMPT,
-                messages=[{"role": h["role"], "content": h["content"]} for h in history],
-                max_tokens=64000,
-                temperature=0.7,
-            ) as stream:
-                async for event in stream:
-                    if event.type == "text":
-                        final_text += event.text
-                        await response_message.stream_token(event.text)
-        except Exception as e:
-            error_msg = f"Error during Claude API call: {str(e)}"
-            print(f"Claude API error: {error_msg}")
-            await response_message.stream_token(f"\n\n{error_msg}\n\nPlease try a more focused query or contact support.")
-            final_text += f"\n\n{error_msg}\n\nPlease try a more focused query or contact support."
-
-        # Update message history after streaming completes
-        if final_text:  # Only update if we got a response
-            history.append({"role":"assistant","content":final_text})
+        # Get thread ID for this conversation
+        thread_id = cl.user_session.get("thread_id")
+        
+        # Start a new Literal AI run for this message
+        with literalai_client.run(name="user_query", thread_id=thread_id) as run:
+            # 1. Log the user message
+            with literalai_client.step(name="user_message", type="human") as step:
+                step.input = {"content": message.content}
+            
+            # Append user message to history
+            history = cl.user_session.get("messages", [])
+            history.append({"role":"user","content":message.content})
             cl.user_session.set("messages", history)
+
+            # 2. Check MCP client connection
+            session: MCPClientSession = cl.user_session.get("mcp_client")
+            if not session:
+                return await cl.Message(content="⚠️ MCP client not connected.", author="System").send()
+
+            # Start streaming response
+            response_message = cl.Message(content="")
+            await response_message.send()
+            
+            final_text = ""
+            try:
+                # Prepare messages for Claude
+                messages = [{"role": h["role"], "content": h["content"]} for h in history]
+                
+                # Create a step for the Claude LLM call
+                with literalai_client.step(name="claude_call", type="llm") as claude_step:
+                    # Set input using the recommended format
+                    claude_step.input = {
+                        "content": {
+                            "model": "claude-3-7-sonnet-20250219",
+                            "system": SYSTEM_PROMPT[:200] + "...",
+                            "messages": history
+                        }
+                    }
+                    
+                    # Stream the response from Claude
+                    async with anthropic_client.messages.stream(
+                        model="claude-3-7-sonnet-20250219",
+                        system=SYSTEM_PROMPT,
+                        messages=messages,
+                        max_tokens=64000,
+                        temperature=0.7,
+                    ) as stream:
+                        # Simple tool call detection
+                        current_tool = None
+                        
+                        async for event in stream:
+                            if event.type == "text":
+                                text = event.text
+                                final_text += text
+                                await response_message.stream_token(text)
+                    
+                    # Set the output for the Claude step
+                    claude_step.output = {"content": final_text[:1000]}
+                    
+            except Exception as e:
+                error_msg = f"Error during Claude API call: {str(e)}"
+                print(f"Claude API error: {error_msg}")
+                await response_message.stream_token(f"\n\n{error_msg}\n\nPlease try a more focused query or contact support.")
+                final_text += f"\n\n{error_msg}\n\nPlease try a more focused query or contact support."
+                
+                # Log the error as a step
+                with literalai_client.step(name="error", type="error") as error_step:
+                    error_step.error = error_msg
+
+            # Update message history after streaming completes
+            if final_text:  # Only update if we got a response
+                history.append({"role":"assistant","content":final_text})
+                cl.user_session.set("messages", history)
+                
     except Exception as outer_e:
         print(f"Outer exception in message handler: {str(outer_e)}")
         await cl.Message(content=f"An error occurred: {str(outer_e)}", author="System").send()

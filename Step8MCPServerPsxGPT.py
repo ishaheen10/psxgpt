@@ -538,7 +538,7 @@ def psx_query_index(text_query: str = "", metadata_filters: Dict = {}, top_k: in
                 
                 # Case 1: Node has filing_period as a list
                 if isinstance(node_filing_period, list):
-                    # Check if any requested period is in the node's filing_period list
+                    # Simply check if any of the requested periods are in the node's filing_period list
                     matches = [p for p in filing_periods if p in node_filing_period]
                     if matches:
                         filtered_nodes.append(node)

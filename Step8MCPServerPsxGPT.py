@@ -404,11 +404,17 @@ def psx_parse_query(query: str) -> Dict[str, Any]:
         if "year" in intents:
             y = str(intents["year"]).strip()  # Ensure year is a string and strip any whitespace
             
-            # For annual reports, include both the requested year and previous year
+            # For annual reports, check if the user specifically wants only the requested year
             if "period" in intents and intents["period"] == "annual":
-                prev_year = str(int(y) - 1)
-                metadata_filters["filing_period"] = [y, prev_year]
-                print(f"Set annual filing_period filter to: {metadata_filters['filing_period']}")
+                # If the query contains terms indicating they only want the specific year
+                if any(term in query.lower() for term in ["only", "just", "specifically", "exact"]):
+                    metadata_filters["filing_period"] = [y]
+                    print(f"Set specific annual filing_period filter to: {metadata_filters['filing_period']}")
+                else:
+                    # Default behavior: include both requested year and previous year
+                    prev_year = str(int(y) - 1)
+                    metadata_filters["filing_period"] = [y, prev_year]
+                    print(f"Set annual filing_period filter to: {metadata_filters['filing_period']}")
             # For quarterly reports, this will be handled in the period section below
         
         # Add period filter if available
@@ -489,71 +495,62 @@ def psx_query_index(text_query: str = "", metadata_filters: Dict = {}, top_k: in
         # Create a copy of metadata_filters to avoid modifying the original
         query_filters = metadata_filters.copy()
         
-        # Extract filing_period for post-filtering and remove it from the initial query
+        # Keep filing_period in the query filters for initial filtering
+        # This will help narrow down results before post-processing
         filing_periods = None
         if "filing_period" in query_filters:
-            filing_periods = query_filters.pop("filing_period")
-            print(f"Extracted filing_period for post-filtering: {filing_periods}")
+            filing_periods = query_filters["filing_period"]
+            print(f"Using filing_period for filtering: {filing_periods}")
         
-        # Create standard filters for all remaining fields
+        # Create metadata filters for all fields including filing_period
         standard_filters = []
         for key, value in query_filters.items():
-            print(f"Adding standard filter for {key}: {value}")
-            standard_filters.append(MetadataFilter(key=key, value=value))
+            # Handle filing_period specially if it's a list
+            if key == "filing_period" and isinstance(value, list):
+                # Create a filter for each year in the list using OR logic
+                for year in value:
+                    standard_filters.append(MetadataFilter(key=key, value=year))
+                print(f"Added multiple filing_period filters for years: {value}")
+            else:
+                standard_filters.append(MetadataFilter(key=key, value=value))
+                print(f"Added standard filter for {key}: {value}")
         
-        print(f"Standard filters (without filing_period): {standard_filters}")
+        print(f"Standard filters: {standard_filters}")
         print(f"Index query: {text_query}")
         print(f"Original metadata_filters: {metadata_filters}")
-        print(f"Modified query_filters (without filing_period): {query_filters}")
-        
-        # Debug: print out the filter objects
-        for i, f in enumerate(standard_filters):
-            print(f"Standard filter {i}: key={f.key}, value={f.value}")
 
 
 
 
         retriever_kwargs = {"similarity_top_k": top_k}
         if standard_filters:
-            retriever_kwargs["filters"] = MetadataFilters(filters=standard_filters)
+            # Use OR operator for filing_period filters, AND for everything else
+            filing_period_filters = [f for f in standard_filters if f.key == "filing_period"]
+            other_filters = [f for f in standard_filters if f.key != "filing_period"]
+            
+            # If we have filing period filters, use OR logic between them
+            if filing_period_filters:
+                retriever_kwargs["filters"] = MetadataFilters(
+                    filters=other_filters,
+                    filters_with_or=[filing_period_filters]
+                )
+                print("Using OR logic for filing_period filters")
+            else:
+                retriever_kwargs["filters"] = MetadataFilters(filters=standard_filters)
 
         retriever = index.as_retriever(**retriever_kwargs)
         nodes = retriever.retrieve(text_query)
         print(f"Retrieved {len(nodes)} nodes before post-filtering.")
         
-        # Apply custom post-filtering for filing_period if needed
-        if filing_periods and nodes:
-            print(f"Applying post-filtering for filing_period: {filing_periods}")
-            filtered_nodes = []
+        # Debug the retrieved nodes
+        if nodes:
+            print("\nDEBUG: Retrieved nodes metadata:")
+            for i, node in enumerate(nodes[:5]):  # Show first 5 nodes for debugging
+                print(f"Node {i} metadata: {node.node.metadata}")
+        else:
+            print("No nodes retrieved from initial query.")
             
-            # Convert to list if it's not already
-            if not isinstance(filing_periods, list):
-                filing_periods = [filing_periods]
-            
-            for node in nodes:
-                # Check if any of the requested filing periods match
-                node_filing_period = node.node.metadata.get("filing_period")
-                print(f"\nNode {node.node.node_id} filing_period: {node_filing_period} (type: {type(node_filing_period)})")
-                print(f"Looking for any of these periods: {filing_periods}")
-                
-                # Case 1: Node has filing_period as a list
-                if isinstance(node_filing_period, list):
-                    # Simply check if any of the requested periods are in the node's filing_period list
-                    matches = [p for p in filing_periods if p in node_filing_period]
-                    if matches:
-                        filtered_nodes.append(node)
-                        print(f"✅ MATCHED: Found matching periods {matches} in {node_filing_period}")
-                    else:
-                        print(f"❌ NO MATCH: None of {filing_periods} found in {node_filing_period}")
-                # Case 2: Node has filing_period as a string
-                elif isinstance(node_filing_period, str) and node_filing_period in filing_periods:
-                    filtered_nodes.append(node)
-                    print(f"✅ MATCHED: Found exact string match for {node_filing_period}")
-                elif node_filing_period is not None:
-                    print(f"❌ NO MATCH: {node_filing_period} ({type(node_filing_period)}) not in {filing_periods}")
-            
-            print(f"Post-filtering reduced {len(nodes)} nodes to {len(filtered_nodes)} nodes")
-            nodes = filtered_nodes
+            # This section is now removed as we're using direct filtering
         
         print(f"Retrieved {len(nodes)} nodes after all filtering.")
 

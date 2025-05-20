@@ -4,9 +4,11 @@ A ChatGPT-like application for Pakistan Stock Exchange (PSX) financial data.
 
 ## 🔍 Overview
 
-psxGPT is a multi-step data processing pipeline and Retrieval-Augmented Generation (RAG) application. It automatically downloads financial reports from the Pakistan Stock Exchange (PSX) website, converts them to markdown, chunks them, extracts metadata, and creates vector embeddings using Google Gemini. Finally, it provides a Gradio web interface allowing users to ask natural language questions about the financial data and receive spreadsheet-ready answers.
+psxGPT is a multi-step data processing pipeline and Retrieval-Augmented Generation (RAG) application. It automatically downloads financial reports from the Pakistan Stock Exchange (PSX) website, converts them to markdown, chunks them, extracts metadata, and creates vector embeddings using Google Gemini.
 
-Additionally, psxGPT now includes both an MCP (Model Context Protocol) server that enables integration with Claude Desktop and a dedicated Chainlit-based MCP client that provides a web interface specifically optimized for Claude 3.5 Sonnet, offering a seamless financial analysis experience with enhanced tool usage capabilities.
+The application consists of two main components:
+1. An MCP (Model Context Protocol) server that enables integration with Claude Desktop
+2. A dedicated Chainlit-based MCP client that provides a web interface specifically optimized for Claude 3.5 Sonnet, offering a seamless financial analysis experience with enhanced tool usage capabilities
 
 ## 📺 Live Demo
 
@@ -91,18 +93,14 @@ The embeddings and LLM functionality require a Google Gemini API key, which you 
 
 5. Run the application (choose one):
    ```bash
-   # Option 1: Gradio web interface
-   python Step7LaunchGradioWithFilters.py
+   # Option 1: MCP server for Claude Desktop integration
+   python Step7MCPServerPsxGPT.py
    
-   # Option 2: MCP server for Claude Desktop integration
-   python Step8MCPServerPsxGPT.py
-   
-   # Option 3: Chainlit web interface with Claude 3.5 Sonnet
-   python Step9MCPClientPsxGPT.py
+   # Option 2: Chainlit web interface with Claude 3.5 Sonnet
+   python Step8MCPClientPsxGPT.py
    ```
 
 6. Access the web interface:
-   - For Gradio: Open your browser at http://localhost:7860
    - For Chainlit: Open your browser at http://localhost:8000
 
 ## 💡 Example Queries
@@ -119,10 +117,8 @@ The embeddings and LLM functionality require a Google Gemini API key, which you 
 - `Step4MetaDataTags.py`: Extracts metadata tags from the chunks
 - `Step5CombineMetaData.py`: Combines metadata from different sources
 - `Step6CreateEmbeddings.py`: Creates vector embeddings for the chunks using Google Gemini
-- `Step7LaunchGradioWithFilters.py`: Runs the main Gradio web interface for querying
-- `Step7aGradioAppNoFilters.py`: (Alternative) Runs a simplified Gradio interface without meta data filters
-- `Step8MCPServerPsxGPT.py`: Runs an MCP server for Claude Desktop integration
-- `Step9MCPClientPsxGPT.py`: Runs a Chainlit web interface with Claude 3.5 Sonnet integration
+- `Step7MCPServerPsxGPT.py`: Runs an MCP server for Claude Desktop integration
+- `Step8MCPClientPsxGPT.py`: Runs a Chainlit web interface with Claude 3.5 Sonnet integration
 - `tickers.json`: Maps company tickers to full names
 - `pyproject.toml`: Project metadata and dependencies for `uv`
 - `.env`: File to store your API keys (Gemini, Anthropic, and Literal)
@@ -142,7 +138,6 @@ The embeddings and LLM functionality require a Google Gemini API key, which you 
 | llama_index.embeddings.google_genai  | Google's embedding models integration      |
 | llama_index.llms.google_genai        | Google's Gemini LLM integration (specific) |
 | python-dotenv                        | Environment variable management            |
-| gradio                               | Web interface creation                     |
 | pymupdf                              | Core PDF handling library (used by Step 2) |
 | mcp                                  | Model Context Protocol for AI integration  |
 | chainlit                             | Modern web interface for LLM applications  |
@@ -160,7 +155,7 @@ The MCP server provides a seamless integration with Claude Desktop, allowing you
 
 2. Run the MCP server:
    ```bash
-   python Step8MCPServerPsxGPT.py
+   python Step7MCPServerPsxGPT.py
    ```
 
 3. Configure Claude Desktop:
@@ -175,7 +170,7 @@ The MCP server provides a seamless integration with Claude Desktop, allowing you
        "PSX Financial Statements Server": {
          "command": "python",
          "args": [
-           "/path/to/your/psxChatGPT/Step8MCPServerPsxGPT.py"
+           "/path/to/your/psxChatGPT/Step7MCPServerPsxGPT.py"
          ],
          "env": {
            "GEMINI_API_KEY": "your_gemini_api_key_here"

@@ -126,13 +126,13 @@ psx_query_index({
     "statement_type": "balance_sheet",
     "financial_statement_scope": "unconsolidated",
     "is_statement": "yes",
-    "filing_period": ["2023", "2022"] # Always include both requested year and previous year
+    "filing_period": ["2024", "2023"] # Always include both requested year and previous year
   },
   "top_k": 10
 })
 
 psx_synthesize_response({
-  "query": "Get HBL 2023 unconsolidated balance sheet", 
+  "query": "Get HBL 2024 unconsolidated balance sheet", 
   "nodes": [...], 
   "output_format": "markdown_table"
 })
@@ -183,12 +183,12 @@ psx_query_index({
 
 # Second ticker: HBL
 psx_query_index({
-  "text_query": "HBL profit and loss 2023 profitability",
+  "text_query": "HBL profit and loss 2024 profitability",
   "metadata_filters": {
     "ticker": "HBL",
     "statement_type": "profit_and_loss",
     "is_statement": "yes",
-    "filing_period": ["2023", "2022"]
+    "filing_period": ["2024", "2023"]
   },
   "top_k": 10
 })

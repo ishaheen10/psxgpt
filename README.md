@@ -112,14 +112,74 @@ The embeddings and LLM functionality require a Google Gemini API key, which you 
 6. Run the application (choose one):
    ```bash
    # Option 1: MCP server for Claude Desktop integration
-   python Step7MCPServerPsxGPT.py
+   python Step9MCPServerPsxGPT.py
    
    # Option 2: Chainlit web interface with Claude 3.5 Sonnet
-   python Step8MCPClientPsxGPT.py
+   python Step10MCPClientPsxGPT.py
    ```
 
 7. Access the web interface:
    - For Chainlit: Open your browser at http://localhost:8000
+
+## ☁️ Cloud Deployment with Supabase
+
+For production deployment or to make your index accessible from anywhere, you can export your vector index to Supabase and use the web query interface:
+
+### Prerequisites for Cloud Deployment
+
+- Supabase account (free tier available at [supabase.com](https://supabase.com))
+- Supabase project with database access
+
+### Setup Supabase
+
+1. Create a Supabase project:
+   - Go to [supabase.com](https://supabase.com) and sign up
+   - Create a new project
+   - Note your project URL and service role key
+
+2. Add Supabase credentials to your `.env` file:
+   ```bash
+   echo "SUPABASE_URL=your_supabase_project_url" >> .env
+   echo "SUPABASE_SERVICE_ROLE_KEY=your_service_role_key" >> .env
+   ```
+
+### Deploy Your Index
+
+1. Export your local index to Supabase:
+   ```bash
+   python Step7ExportToSupabase.py
+   ```
+   
+   This will:
+   - Create the necessary database table automatically
+   - Upload all index files (handles large files with automatic chunking)
+   - Verify upload integrity
+   - Display upload progress and summary
+
+2. Launch the web query interface:
+   ```bash
+   python Step8WebQueryInterface.py
+   ```
+   
+   This will:
+   - Load your index directly from Supabase into memory
+   - Start a web server at http://localhost:8000
+   - Provide a beautiful web interface for querying your financial data
+
+### Cloud Deployment Benefits
+
+- **No Local Storage Required**: Index loads directly from Supabase
+- **Always Up-to-Date**: Pull latest data from cloud
+- **Web-Ready**: Perfect for deployment to cloud platforms (Heroku, Railway, etc.)
+- **Scalable**: Handles large indexes with automatic chunking
+- **Fast Queries**: Index loads into memory for optimal performance
+
+### Example Queries via Web Interface
+
+Once deployed, you can query your financial data through the web interface:
+- "What is HBL's total revenue in 2024?"
+- "Show me Meezan Bank's profit after tax"
+- "Compare the financial performance of different banks"
 
 ## 🔐 Default Authentication (Sample Code)
 
@@ -135,7 +195,7 @@ These credentials are hardcoded in the application for demonstration purposes. I
 3. Implement proper password hashing and security measures
 4. Set up role-based access control as needed
 
-The current authentication is implemented in `Step8MCPClientPsxGPT.py` and can be modified according to your security requirements.
+The current authentication is implemented in `Step10MCPClientPsxGPT.py` and can be modified according to your security requirements.
 
 ## 💡 Example Queries
 
@@ -151,11 +211,13 @@ The current authentication is implemented in `Step8MCPClientPsxGPT.py` and can b
 - `Step4MetaDataTags.py`: Extracts metadata tags from the chunks
 - `Step5CombineMetaData.py`: Combines metadata from different sources
 - `Step6CreateEmbeddings.py`: Creates vector embeddings for the chunks using Google Gemini
-- `Step7MCPServerPsxGPT.py`: Runs an MCP server for Claude Desktop integration
-- `Step8MCPClientPsxGPT.py`: Runs a Chainlit web interface with Claude 3.5 Sonnet integration
+- `Step7ExportToSupabase.py`: Exports the vector index to Supabase for cloud deployment
+- `Step8WebQueryInterface.py`: Web-based query interface that loads index directly from Supabase
+- `Step9MCPServerPsxGPT.py`: Runs an MCP server for Claude Desktop integration
+- `Step10MCPClientPsxGPT.py`: Runs a Chainlit web interface with Claude 3.5 Sonnet integration
 - `tickers.json`: Maps company tickers to full names
 - `pyproject.toml`: Project metadata and dependencies for `uv`
-- `.env`: File to store your API keys (Gemini, Anthropic, and Literal)
+- `.env`: File to store your API keys (Gemini, Anthropic, Literal, and Supabase)
 - `.gitignore`: Specifies intentionally untracked files that Git should ignore
 
 **Note:** The `gemini_index_metadata/` directory containing the vector index is generated locally by `Step6CreateEmbeddings.py` and is not included in the GitHub repository due to its size.
@@ -176,6 +238,11 @@ The current authentication is implemented in `Step8MCPClientPsxGPT.py` and can b
 | mcp                                  | Model Context Protocol for AI integration  |
 | chainlit                             | Modern web interface for LLM applications  |
 | anthropic                            | Claude API client for Python              |
+| supabase                             | Supabase client for cloud database integration |
+| tqdm                                 | Progress bars for file uploads             |
+| numpy                                | Numerical computing support                |
+| fastapi                              | Modern web framework for building APIs     |
+| uvicorn                              | ASGI server for FastAPI applications      |
 
 *(Install using `uv sync` which reads `pyproject.toml`)*
 
@@ -189,7 +256,7 @@ The MCP server provides a seamless integration with Claude Desktop, allowing you
 
 2. Run the MCP server:
    ```bash
-   python Step7MCPServerPsxGPT.py
+   python Step9MCPServerPsxGPT.py
    ```
 
 3. Configure Claude Desktop:
@@ -204,7 +271,7 @@ The MCP server provides a seamless integration with Claude Desktop, allowing you
        "PSX Financial Statements Server": {
          "command": "python",
          "args": [
-           "/path/to/your/psxChatGPT/Step7MCPServerPsxGPT.py"
+           "/path/to/your/psxChatGPT/Step9MCPServerPsxGPT.py"
          ],
          "env": {
            "GEMINI_API_KEY": "your_gemini_api_key_here"
@@ -268,12 +335,12 @@ The Chainlit-based MCP client provides a modern web interface that connects dire
 
 2. Start the MCP server in one terminal:
    ```bash
-   python Step8MCPServerPsxGPT.py
+   python Step9MCPServerPsxGPT.py
    ```
 
 3. Start the Chainlit client in another terminal:
    ```bash
-   python Step9MCPClientPsxGPT.py
+   python Step10MCPClientPsxGPT.py
    ```
 
 4. Open your browser at http://localhost:8000
@@ -365,7 +432,7 @@ The Chainlit interface supports the same types of queries as the Claude Desktop 
    python Step6CreateEmbeddings.py
    python Step7LaunchGradioWithFilters.py
    # OR for MCP server:
-   # python Step8MCPServerPsxGPT.py
+   # python Step9MCPServerPsxGPT.py
    ```
 
 5. Open your browser at http://localhost:7860 (for Gradio)

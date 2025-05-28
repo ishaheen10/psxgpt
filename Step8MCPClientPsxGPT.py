@@ -1,25 +1,23 @@
 import os
-import sys
 import json
-import asyncio
-from contextlib import AsyncExitStack
-
-import chainlit as cl
-from chainlit.types import ThreadDict
-from anthropic import AsyncAnthropic
-from mcp import ClientSession as MCPClientSession
+from typing import Dict, List, Optional
 from dotenv import load_dotenv
 
-# — Load environment —
+import chainlit as cl
+from chainlit.input_widget import Select, Slider
+import anthropic
+
+# Load environment variables
 load_dotenv()
+
+# Initialize Anthropic client
 ANTHROPIC_API_KEY = os.getenv("ANTHROPIC_API_KEY")
 if not ANTHROPIC_API_KEY:
     raise RuntimeError("ANTHROPIC_API_KEY is not set")
 
-# — Anthropic client —
-anthropic_client = AsyncAnthropic(api_key=ANTHROPIC_API_KEY)
+anthropic_client = anthropic.AsyncAnthropic(api_key=ANTHROPIC_API_KEY)
 
-# — System prompt reinstated to guide tool usage —
+# System prompt for the assistant
 SYSTEM_PROMPT = """
 You are a PSX Financial Data Assistant specializing in financial analysis for investors and analysts. You have access to the following MCP tools:
 
@@ -242,86 +240,307 @@ psx_synthesize_response({"query": "…", "nodes": […], "output_format": "markd
 Only provide your final answer after the complete tool sequence has been executed.
 """
 
-# — Authentication —
+# Authentication configuration
 @cl.password_auth_callback
-def auth_callback(username: str, password: str) -> cl.User | None:
+def auth_callback(username: str, password: str) -> Optional[cl.User]:
+    """Simple authentication callback"""
     if username == "asfi@psx.com" and password == "asfi123":
-        return cl.User(identifier=username, metadata={"role":"admin","name":"Asfi"})
+        return cl.User(
+            identifier=username,
+            metadata={"role": "admin", "name": "Asfi"}
+        )
     return None
 
-# — MCP connect/disconnect hooks —
+@cl.on_chat_start
+async def on_chat_start():
+    """Initialize the chat session"""
+    # Initialize message history - CRITICAL: Must be initialized here
+    cl.user_session.set("messages", [])
+    
+    # Welcome message
+    welcome_message = """# Welcome to PSX Financial Data Assistant! 📊
+
+I can help you analyze financial statements from Pakistan Stock Exchange companies. You can ask questions like:
+
+- "Show me HBL's 2024 unconsolidated balance sheet"
+- "Get MCB's profit and loss statement for Q2 2024"
+- "Compare BAHL and AKBL profitability for 2023"
+- "What were the key financial highlights for UBL in 2024?"
+
+### Available Data:
+- **Financial Statements**: Balance Sheet, Profit & Loss, Cash Flow, Changes in Equity
+- **Scope**: Consolidated and Unconsolidated statements
+- **Period**: Annual and Quarterly reports
+- **Companies**: All PSX-listed companies with available financial data
+
+### Query Tips:
+- Specify the company ticker (e.g., HBL, MCB, UBL)
+- Include the year or quarter (e.g., 2024, Q2 2024)
+- Mention the statement type (balance sheet, profit and loss, etc.)
+- Specify scope if needed (consolidated/unconsolidated)
+
+How can I help you analyze PSX financial data today?
+"""
+    
+    await cl.Message(content=welcome_message).send()
+    
+    # Initialize conversation settings
+    settings = await cl.ChatSettings([
+        Select(
+            id="model",
+            label="Model",
+            values=["claude-3-7-sonnet-20250219", "claude-sonnet-4-20250514"],
+            initial_value="claude-sonnet-4-20250514"
+        ),
+        Slider(
+            id="temperature",
+            label="Temperature",
+            initial=0.3,
+            min=0,
+            max=1,
+            step=0.1
+        ),
+        Slider(
+            id="max_tokens",
+            label="Max Tokens",
+            initial=8000,
+            min=1000,
+            max=64000,
+            step=1000
+        )
+    ]).send()
+    
+    # Store initial settings
+    cl.user_session.set("settings", {
+        "model": "claude-sonnet-4-20250514",
+        "temperature": 0.3,
+        "max_tokens": 8000
+    })
+
+@cl.on_settings_update
+async def on_settings_update(settings):
+    """Update settings when changed"""
+    cl.user_session.set("settings", settings)
+
+@cl.on_message
+async def on_message(message: cl.Message):
+    """Handle incoming messages"""
+    try:
+        # Get current settings
+        settings = cl.user_session.get("settings", {
+            "model": "claude-sonnet-4-20250514",
+            "temperature": 0.3,
+            "max_tokens": 8000
+        })
+        
+        # Get MCP session - CRITICAL: Check for MCP connection
+        mcp_session = cl.user_session.get("mcp_client")
+        
+        # Check if MCP is connected
+        if not mcp_session:
+            await cl.Message(
+                content="⚠️ MCP server not connected. Please ensure the PSX MCP server is running.",
+                author="System"
+            ).send()
+            return
+        
+        # Get conversation history and add user message
+        messages = cl.user_session.get("messages", [])
+        messages.append({"role": "user", "content": message.content})
+        cl.user_session.set("messages", messages)
+        
+        # Create a message for streaming the response
+        response_msg = cl.Message(content="")
+        await response_msg.send()
+        
+        # Stream the response from Claude
+        final_response = ""
+        
+        async with anthropic_client.messages.stream(
+            model=settings["model"],
+            messages=[{"role": h["role"], "content": h["content"]} for h in messages],
+            system=SYSTEM_PROMPT,
+            max_tokens=settings["max_tokens"],
+            temperature=settings["temperature"],
+        ) as stream:
+            async for event in stream:
+                if event.type == "text":
+                    await response_msg.stream_token(event.text)
+                    final_response += event.text
+        
+        # Add assistant response to history
+        if final_response:  # Only add if we got a response
+            messages.append({"role": "assistant", "content": final_response})
+            cl.user_session.set("messages", messages)
+            
+            # Ensure the assistant response is saved to the database
+            try:
+                # Update the response message with final content
+                await response_msg.update()
+                print(f"Successfully saved assistant message to thread {message.thread_id}")
+            except Exception as persist_e:
+                print(f"Error saving assistant message: {str(persist_e)}")
+                print(f"Error details: {type(persist_e).__name__}: {persist_e}")
+        
+    except Exception as e:
+        error_msg = f"❌ **Error**: {str(e)}\n\nPlease try rephrasing your question or contact support."
+        await response_msg.stream_token(error_msg)
+        print(f"Error in message handler: {str(e)}")
+
+@cl.on_chat_resume
+async def on_chat_resume(thread: Dict):
+    """Resume a previous chat session"""
+    try:
+        # Get thread ID
+        thread_id = thread.get("id")
+        if not thread_id:
+            print("Could not find thread ID.")
+            await cl.Message(content="Could not find thread ID.", author="System").send()
+            return
+
+        # Initialize message history first
+        cl.user_session.set("messages", [])
+        
+        # Retrieve steps from the database
+        try:
+            # Get all messages from the thread
+            steps = await cl.Step.select(thread_id=thread_id)
+            print(f"Retrieved {len(steps)} steps from thread {thread_id}")
+            
+            # Convert steps to the format expected by our application
+            thread_messages = []
+            for step in steps:
+                # Only process message steps
+                if hasattr(step, 'name') and hasattr(step, 'output'):
+                    # Map step names to roles
+                    if step.name and step.name.lower() in ["user", "human"]:
+                        thread_messages.append({"role": "user", "content": step.output})
+                    elif step.name and step.name.lower() in ["assistant", "ai"]:
+                        thread_messages.append({"role": "assistant", "content": step.output})
+            
+            # Store in user session
+            cl.user_session.set("messages", thread_messages)
+            print(f"Restored {len(thread_messages)} messages from steps")
+            
+            # Welcome back message
+            if thread_messages:
+                welcome_back = f"""# Welcome back! 👋
+
+I've restored your conversation with {len(thread_messages)} messages. You can continue from where you left off or start a new PSX financial analysis query.
+"""
+            else:
+                welcome_back = """# Welcome back! 👋
+
+I'm ready to help you analyze PSX financial data.
+"""
+            
+            await cl.Message(content=welcome_back).send()
+            
+        except Exception as db_error:
+            print(f"Database error in chat resume: {str(db_error)}")
+            print(f"Error details: {type(db_error).__name__}: {db_error}")
+            
+            # Fall back to using thread.messages
+            messages = thread.get("messages", [])
+            thread_messages = []
+            
+            for msg in messages:
+                if isinstance(msg, dict) and "author" in msg and "content" in msg:
+                    # Map author names to roles
+                    if msg["author"].lower() in ["user", "human"]:
+                        thread_messages.append({"role": "user", "content": msg["content"]})
+                    elif msg["author"].lower() in ["assistant", "ai"]:
+                        thread_messages.append({"role": "assistant", "content": msg["content"]})
+            
+            cl.user_session.set("messages", thread_messages)
+            
+            # Welcome back message
+            if thread_messages:
+                welcome_back = f"""# Welcome back! 👋
+
+I've restored your conversation with {len(thread_messages)} messages. You can continue from where you left off or start a new PSX financial analysis query.
+"""
+            else:
+                welcome_back = """# Welcome back! 👋
+
+I'm ready to help you analyze PSX financial data.
+"""
+            
+            await cl.Message(content=welcome_back).send()
+        
+        # Restore settings
+        settings = await cl.ChatSettings([
+            Select(
+                id="model",
+                label="Model",
+                values=["claude-3-7-sonnet-20250219", "claude-sonnet-4-20250514"],
+                initial_value="claude-sonnet-4-20250514"
+            ),
+            Slider(
+                id="temperature",
+                label="Temperature",
+                initial=0.3,
+                min=0,
+                max=1,
+                step=0.1
+            ),
+            Slider(
+                id="max_tokens",
+                label="Max Tokens",
+                initial=8000,
+                min=1000,
+                max=64000,
+                step=1000
+            )
+        ]).send()
+        
+        # Store initial settings
+        cl.user_session.set("settings", {
+            "model": "claude-sonnet-4-20250514",
+            "temperature": 0.3,
+            "max_tokens": 8000
+        })
+        
+    except Exception as e:
+        print(f"Error resuming chat: {str(e)}")
+        await cl.Message(content=f"Error resuming chat: {str(e)}", author="System").send()
+
+# MCP Connection handlers
 @cl.on_mcp_connect
-async def on_mcp_connect(connection, session: MCPClientSession):
+async def on_mcp_connect(connection, session):
+    """Handle MCP connection"""
     try:
         cl.user_session.set("mcp_client", session)
-        await cl.Message(content="✅ Connected to PSX MCP server!", author="System").send()
+        await cl.Message(
+            content="✅ Connected to PSX Financial Statements MCP server!",
+            author="System"
+        ).send()
     except Exception as e:
         print(f"Error in MCP connect handler: {str(e)}")
         await cl.Message(content=f"Error connecting to MCP server: {str(e)}", author="System").send()
 
-@cl.on_mcp_disconnect
-async def on_mcp_disconnect(name: str, session: MCPClientSession):
+@cl.on_mcp_disconnect  
+async def on_mcp_disconnect(name: str, session):
+    """Handle MCP disconnection"""
     try:
         cl.user_session.set("mcp_client", None)
-        await cl.Message(content="🔌 Disconnected from PSX MCP server.", author="System").send()
+        await cl.Message(
+            content="🔌 Disconnected from PSX MCP server.",
+            author="System"
+        ).send()
     except Exception as e:
         print(f"Error in MCP disconnect handler: {str(e)}")
-        # No need to send a message here as the disconnect might mean we can't send messages
 
-# — Chat start/resume —
-@cl.on_chat_start
-async def on_chat_start():
-    cl.user_session.set("messages", [])
-    await cl.Message(content="👋 Welcome! Ask me about PSX financial data.", author="System").send()
+# Error handler
+@cl.on_stop
+async def on_stop():
+    """Handle when user stops generation"""
+    await cl.Message(
+        content="⏹️ Generation stopped by user.",
+        author="System"
+    ).send()
 
-@cl.on_chat_resume
-async def on_chat_resume(thread: ThreadDict):
-    persisted = thread.get("messages", [])
-    history = [{"role": m["author"], "content": m["content"]} for m in persisted]
-    cl.user_session.set("messages", history)
-    await cl.Message(content=f"🔄 Resumed chat with {len(history)} messages.", author="System").send()
-
-# — Main message handler —
-@cl.on_message
-async def on_message(message: cl.Message):
-    try:
-        # 1. Append user message
-        history = cl.user_session.get("messages", [])
-        history.append({"role":"user","content":message.content})
-        cl.user_session.set("messages", history)
-
-        # 2. Call Claude with system prompt + history
-        session: MCPClientSession = cl.user_session.get("mcp_client")
-        if not session:
-            return await cl.Message(content="⚠️ MCP client not connected.", author="System").send()
-
-        # Start streaming response
-        response_message = cl.Message(content="")
-        await response_message.send()
-
-        final_text = ""
-        try:
-            async with anthropic_client.messages.stream(
-                model="claude-3-7-sonnet-20250219",
-                system=SYSTEM_PROMPT,
-                messages=[{"role": h["role"], "content": h["content"]} for h in history],
-                max_tokens=64000,
-                temperature=0.7,
-            ) as stream:
-                async for event in stream:
-                    if event.type == "text":
-                        final_text += event.text
-                        await response_message.stream_token(event.text)
-        except Exception as e:
-            error_msg = f"Error during Claude API call: {str(e)}"
-            print(f"Claude API error: {error_msg}")
-            await response_message.stream_token(f"\n\n{error_msg}\n\nPlease try a more focused query or contact support.")
-            final_text += f"\n\n{error_msg}\n\nPlease try a more focused query or contact support."
-
-        # Update message history after streaming completes
-        if final_text:  # Only update if we got a response
-            history.append({"role":"assistant","content":final_text})
-            cl.user_session.set("messages", history)
-    except Exception as outer_e:
-        print(f"Outer exception in message handler: {str(outer_e)}")
-        await cl.Message(content=f"An error occurred: {str(outer_e)}", author="System").send()
+if __name__ == "__main__":
+    # This allows running the app directly
+    from chainlit.cli import run_chainlit
+    run_chainlit(__file__)

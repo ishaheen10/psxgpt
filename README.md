@@ -78,20 +78,38 @@ The embeddings and LLM functionality require a Google Gemini API key, which you 
    uv sync
    ```
 
-3. Get your Google Gemini API key:
+3. Set up PostgreSQL database (for conversation persistence):
+   ```bash
+   # Create a new PostgreSQL database
+   createdb chainlit_psx
+   
+   # Apply the database schema
+   psql -d chainlit_psx -f chainlit_schema_psx.sql
+   
+   # Add database URL to your .env file
+   echo "DATABASE_URL=postgresql://your_username@localhost:5432/chainlit_psx" >> .env
+   echo "DATABASE_DIRECT_URL=postgresql://your_username@localhost:5432/chainlit_psx" >> .env
+   ```
+   
+   **Note:** Replace `your_username` with your PostgreSQL username. If you don't have PostgreSQL installed, you can:
+   - Install via Homebrew (Mac): `brew install postgresql`
+   - Install via package manager (Linux): `sudo apt-get install postgresql`
+   - Download from [postgresql.org](https://www.postgresql.org/download/) (Windows)
+
+4. Get your Google Gemini API key:
    - Go to [Google AI Studio](https://ai.google.dev/)
    - Sign in with your Google account
    - Navigate to the API keys section
    - Create a new API key
    - Copy the key and add it to your `.env` file
 
-4. Generate the vector index:
+5. Generate the vector index:
    ```bash
    # Use 'python' on Windows, 'python3' on Mac/Linux
    python Step6CreateEmbeddings.py
    ```
 
-5. Run the application (choose one):
+6. Run the application (choose one):
    ```bash
    # Option 1: MCP server for Claude Desktop integration
    python Step7MCPServerPsxGPT.py
@@ -100,8 +118,24 @@ The embeddings and LLM functionality require a Google Gemini API key, which you 
    python Step8MCPClientPsxGPT.py
    ```
 
-6. Access the web interface:
+7. Access the web interface:
    - For Chainlit: Open your browser at http://localhost:8000
+
+## 🔐 Default Authentication (Sample Code)
+
+**Important:** This is sample/demo code with hardcoded authentication credentials for testing purposes.
+
+**Default Login Credentials:**
+- **Username:** `asfi@psx.com`
+- **Password:** `asfi123`
+
+These credentials are hardcoded in the application for demonstration purposes. In a production environment, you should:
+1. Replace the hardcoded authentication with a proper user management system
+2. Use environment variables or a secure database for storing user credentials
+3. Implement proper password hashing and security measures
+4. Set up role-based access control as needed
+
+The current authentication is implemented in `Step8MCPClientPsxGPT.py` and can be modified according to your security requirements.
 
 ## 💡 Example Queries
 

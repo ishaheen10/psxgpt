@@ -62,7 +62,7 @@ edit_message = true
     # Only the executables in the allow list can be used for MCP stdio server.
     # Only need the base name of the executable, e.g. "npx", not "/usr/bin/npx".
     # Please don't comment this line for now, we need it to parse the executable name.
-    allowed_executables = [ "npx", "uvx", "python", "python3", "uv", "fastmcp"]
+    allowed_executables = [ "npx", "uvx", "python3" ]
 
 [UI]
 # Name of the assistant.

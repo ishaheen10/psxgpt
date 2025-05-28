@@ -4,8 +4,10 @@ import json
 import re
 import datetime
 import traceback
-import asyncio
+import logging
 from typing import Dict, List, Optional, Any
+from pathlib import Path
+
 from dotenv import load_dotenv
 from llama_index.core import StorageContext, load_index_from_storage
 from llama_index.embeddings.google_genai import GoogleGenAIEmbedding
@@ -13,246 +15,345 @@ from llama_index.llms.google_genai import GoogleGenAI
 from llama_index.core.response_synthesizers import get_response_synthesizer, ResponseMode
 from llama_index.core.retrievers import VectorIndexRetriever
 from llama_index.core.schema import NodeWithScore
-from llama_index.core.vector_stores import MetadataFilters, MetadataFilter
-from mcp.server.fastmcp import FastMCP
-import mcp.types as types
+from llama_index.core.vector_stores import MetadataFilters, MetadataFilter, ExactMatchFilter
+
+from mcp.server import Server
+from mcp.server.models import InitializationOptions
 import mcp.server.stdio
+import mcp.types as types
 
 # -----------------------------------------------------------------------------
 # CONFIGURATION AND SETUP
 # -----------------------------------------------------------------------------
 
-# Enable MCP debug mode
-os.environ["MCP_DEBUG"] = "1"
+# Set up logging
+logging.basicConfig(
+    level=logging.INFO,
+    format='%(asctime)s - %(name)s - %(levelname)s - %(message)s'
+)
+logger = logging.getLogger("psx-financial-statements")
 
 load_dotenv()
-# Add startup debugging
-print("====== MCP SERVER STARTUP DEBUG ======")
-print(f"Current working directory: {os.getcwd()}")
-print(f"Python version: {sys.version}")
-print(f"Environment variables: {[k for k in os.environ.keys() if k.startswith('GEMINI') or k == 'MCP_DEBUG']}")
 
-try:
-    current_dir = os.path.dirname(os.path.abspath(__file__))
-except NameError:
-    current_dir = os.getcwd()
-    print(f"Warning: '__file__' not defined. Using current working directory: {current_dir}")
+# Server configuration
+server = Server("psx-financial-statements")
 
-index_dir = os.path.join(current_dir, "gemini_index_metadata")
-context_dir = os.path.join(current_dir, "retrieved_contexts")
-if not os.path.exists(context_dir):
-    os.makedirs(context_dir)
-    print(f"Created directory: {context_dir}")
+# Paths configuration
+CURRENT_DIR = Path(__file__).parent
+INDEX_DIR = CURRENT_DIR / "gemini_index_metadata"
+CONTEXT_DIR = CURRENT_DIR / "retrieved_contexts"
+CONTEXT_DIR.mkdir(exist_ok=True)
+TICKERS_PATH = CURRENT_DIR / "tickers.json"
 
-print(f"Index directory: {index_dir}")
-print(f"Index directory exists: {os.path.exists(index_dir)}")
-if os.path.exists(index_dir):
-    print(f"Index directory contents: {os.listdir(index_dir)}")
-print("=======================================")
-
-# -----------------------------------------------------------------------------
-# INITIALIZE MODELS AND INDEX
-# -----------------------------------------------------------------------------
-
+# API Configuration
 GEMINI_API_KEY = os.getenv('GEMINI_API_KEY')
 if not GEMINI_API_KEY:
-    print("Error: GEMINI_API_KEY environment variable not set.")
+    logger.error("GEMINI_API_KEY environment variable not set")
     sys.exit(1)
 
-try:
-    embed_model = GoogleGenAIEmbedding(model_name="text-embedding-004", api_key=GEMINI_API_KEY)
-    llm = GoogleGenAI(
-        model="models/gemini-2.5-flash-preview-04-17",
-        api_key=GEMINI_API_KEY,
-        temperature=0.3,
-    )
-    print(f"Using LLM: {llm.model}")
-except Exception as e:
-    print(f"Error initializing Google GenAI models: {e}")
-    sys.exit(1)
-
-print(f"Loading index from {index_dir}")
-if not os.path.exists(index_dir):
-    print(f"Error: Index directory {index_dir} not found. Please ensure the index is built.")
-    sys.exit(1)
-
-try:
-    storage_context = StorageContext.from_defaults(persist_dir=index_dir)
-    index = load_index_from_storage(storage_context, embed_model=embed_model)
-    print("Index loaded successfully")
-except Exception as e:
-    print(f"Error loading index: {str(e)}")
-    print("Detailed error:")
-    traceback.print_exc()
-    print("\nTrying alternative loading method (assuming VectorStoreIndex)...")
-    try:
-        from llama_index.core.indices.vector_store import VectorStoreIndex
-        storage_context = StorageContext.from_defaults(persist_dir=index_dir)
-        index = load_index_from_storage(storage_context)
-        print("Index loaded successfully using alternative method")
-    except Exception as e2:
-        print(f"Alternative loading method also failed: {str(e2)}")
-        traceback.print_exc()
-        sys.exit(1)
-
 # -----------------------------------------------------------------------------
-# UTILITY FUNCTIONS
+# GLOBAL RESOURCES
 # -----------------------------------------------------------------------------
-
-def save_retrieved_context(question: str, source_nodes: List[NodeWithScore], metadata_filters: Optional[Dict] = None, filename_suffix: str = "") -> Optional[str]:
-    timestamp = datetime.datetime.now().strftime("%Y%m%d_%H%M%S")
-    base_filename = f"context_{timestamp}"
-    if filename_suffix:
-        base_filename += f"_{filename_suffix}"
-    filename = f"{base_filename}.md"
-    filepath = os.path.join(context_dir, filename)
-
-    markdown_content = f"# Query: {question}\n\n"
-    if metadata_filters:
-        markdown_content += "## Metadata Filters\n```json\n"
-        markdown_content += json.dumps(metadata_filters, indent=2) + "\n```\n\n"
-
-    markdown_content += f"## Retrieved Context Nodes ({len(source_nodes)} total)\n\n"
-    for i, node_with_score in enumerate(source_nodes, 1):
-        markdown_content += f"### Node {i}\n"
-        if hasattr(node_with_score, 'score') and node_with_score.score is not None:
-            markdown_content += f"**Score:** {node_with_score.score:.4f}\n\n"
-        else:
-            markdown_content += "**Score:** N/A\n\n"
-
-        if hasattr(node_with_score.node, 'metadata'):
-            markdown_content += "**Metadata:**\n```json\n" + json.dumps(node_with_score.node.metadata, indent=2) + "\n```\n\n"
-        if hasattr(node_with_score.node, 'text'):
-            markdown_content += f"**Text:**\n```text\n{node_with_score.node.text}\n```\n\n"
-        markdown_content += "---\n\n"
-
-    try:
-        with open(filepath, 'w', encoding='utf-8') as f:
-            f.write(markdown_content)
-        print(f"Context saved to {filepath}")
-        return filepath
-    except Exception as e:
-        print(f"Error saving context to {filepath}: {e}")
-        return None
-
-# -----------------------------------------------------------------------------
-# TOOL IMPLEMENTATIONS
-# -----------------------------------------------------------------------------
-
-mcp = FastMCP(
-    name="PSX Financial Statements Server",
-    description="MCP server for querying Pakistan Stock Exchange financial statement data",
-)
 
 # Load company tickers
-TICKERS_PATH = os.path.join(current_dir, "tickers.json")
 try:
     with open(TICKERS_PATH, 'r') as f:
         TICKER_DATA = json.load(f)
         TICKER_SYMBOLS = [item["Symbol"] for item in TICKER_DATA]
         COMPANY_NAMES = [item["Company Name"] for item in TICKER_DATA]
-        print(f"Loaded {len(TICKER_DATA)} companies from tickers.json")
+        logger.info(f"Loaded {len(TICKER_DATA)} companies from tickers.json")
 except Exception as e:
-    print(f"Error loading tickers.json: {e}")
+    logger.error(f"Error loading tickers.json: {e}")
     TICKER_DATA = []
     TICKER_SYMBOLS = []
     COMPANY_NAMES = []
 
-# Optional: Add server metadata (helps with discovery)
-@mcp.resource("server://info")
-def server_info() -> str:
-    """Return information about this server"""
-    return json.dumps({
-        "name": "PSX Financial Statements Server",
-        "version": "1.0.0",
-        "description": "Server for querying Pakistan Stock Exchange financial statement data",
-        "index_type": "Vector index with financial statement data",
-        "capabilities": ["metadata search", "semantic search", "response synthesis"],
-        "companies_available": len(TICKER_DATA)
-    }, indent=2)
+# Global index and model instances
+embed_model = None
+llm = None
+index = None
+response_synthesizer = None
 
-@mcp.resource("resource://psx_companies/filter_schema")
-def psx_filter_schema() -> str:
-    """Return the schema for filtering PSX financial statement data"""
-    FILTER_SCHEMA = {
-        "type": "object",
-        "properties": {
-            "ticker": {
-                "type": "string",
-                "description": "PSX ticker symbol (e.g., AKBL). Case-insensitive matching needed. See resource://psx_companies/list for known tickers."
-            },
-            "entity_name": {
-                "type": "string",
-                "description": "Full name of the entity (e.g., 'Askari Bank Limited'). Used for display and contextual matching."
-            },
-            "financial_data": {
-                "type": "string",
-                "enum": ["yes", "no"],
-                "description": "Indicates whether the chunk contains financial data. Set to 'yes' for chunks in main financial statements or notes, or for preliminary sections with substantive financial figures."
-            },
-            "financial_statement_scope": {
-                "type": "string",
-                "enum": ["consolidated", "unconsolidated", "none"],
-                "description": "Scope of the financial statements. 'none' is used for reports or discussion before main statements."
-            },
-            "is_statement": {
-                "type": "string",
-                "enum": ["yes", "no"],
-                "description": "Indicates if the chunk primarily contains one of the main financial statements."
-            },
-            "statement_type": {
-                "type": "string",
-                "enum": ["profit_and_loss", "balance_sheet", "cash_flow", "changes_in_equity", "comprehensive_income", "none"],
-                "description": "Type of financial statement. 'none' is used when is_statement is 'no'."
-            },
-            "is_note": {
-                "type": "string",
-                "enum": ["yes", "no"],
-                "description": "Indicates if the chunk primarily represents a note to the financial statements."
-            },
-            "note_link": {
-                "type": "string",
-                "enum": ["profit_and_loss", "balance_sheet", "cash_flow", "changes_in_equity", "comprehensive_income", "none"],
-                "description": "If is_note is 'yes', indicates which statement type the note primarily relates to. 'none' for general notes."
-            },
-            "auditor_report": {
-                "type": "string",
-                "enum": ["yes", "no"],
-                "description": "Indicates if the chunk contains the Independent Auditor's Report."
-            },
-            "director_report": {
-                "type": "string",
-                "enum": ["yes", "no"],
-                "description": "Indicates if the chunk contains the Directors' Report or Chairman's Statement."
-            },
-            "annual_report_discussion": {
-                "type": "string",
-                "enum": ["yes", "no"],
-                "description": "Indicates if the chunk contains Management Discussion & Analysis (MD&A) or similar narrative financial analysis."
-            },
-            "filing_type": {
-                "type": "string",
-                "enum": ["annual", "quarterly"],
-                "description": "Type of filing period (annual or quarterly). Extracted from the filename."
-            },
-            "filing_period": {
-                "type": "array",
-                "items": {
-                    "type": "string"
+# -----------------------------------------------------------------------------
+# RESOURCE HANDLERS
+# -----------------------------------------------------------------------------
+
+@server.list_resources()
+async def handle_list_resources() -> list[types.Resource]:
+    """List available resources"""
+    return [
+        types.Resource(
+            uri="psx://companies",
+            name="PSX Companies",
+            description="List of all Pakistan Stock Exchange companies with their ticker symbols",
+            mimeType="application/json"
+        ),
+        types.Resource(
+            uri="psx://filter_schema",
+            name="Filter Schema",
+            description="Schema for filtering PSX financial statement data",
+            mimeType="application/json"
+        ),
+        types.Resource(
+            uri="psx://server_info",
+            name="Server Info",
+            description="Information about this PSX MCP server",
+            mimeType="application/json"
+        )
+    ]
+
+@server.read_resource()
+async def handle_read_resource(uri: str) -> str:
+    """Read resource content"""
+    if uri == "psx://companies":
+        return json.dumps(TICKER_DATA, indent=2)
+    elif uri == "psx://filter_schema":
+        return json.dumps({
+            "type": "object",
+            "properties": {
+                "ticker": {
+                    "type": "string",
+                    "description": "PSX ticker symbol (e.g., AKBL). Case-insensitive matching needed."
                 },
-                "description": "List of periods covered by the filing. For annual reports, contains years (e.g., ['2023', '2022']). For quarterly reports, contains quarters (e.g., ['Q1-2024', 'Q1-2023'])."
-            },
-            "source_file": {
-                "type": "string",
-                "description": "Original source filename, useful for tracing back to the source document."
+                "entity_name": {
+                    "type": "string",
+                    "description": "Full name of the entity (e.g., 'Askari Bank Limited'). Used for display and contextual matching."
+                },
+                "financial_data": {
+                    "type": "string",
+                    "enum": ["yes", "no"],
+                    "description": "Indicates whether the chunk contains financial data."
+                },
+                "financial_statement_scope": {
+                    "type": "string",
+                    "enum": ["consolidated", "unconsolidated", "none"],
+                    "description": "Scope of the financial statements."
+                },
+                "is_statement": {
+                    "type": "string",
+                    "enum": ["yes", "no"],
+                    "description": "Indicates if the chunk primarily contains one of the main financial statements."
+                },
+                "statement_type": {
+                    "type": "string",
+                    "enum": ["profit_and_loss", "balance_sheet", "cash_flow", "changes_in_equity", "comprehensive_income", "none"],
+                    "description": "Type of financial statement."
+                },
+                "is_note": {
+                    "type": "string",
+                    "enum": ["yes", "no"],
+                    "description": "Indicates if the chunk primarily represents a note to the financial statements."
+                },
+                "note_link": {
+                    "type": "string",
+                    "enum": ["profit_and_loss", "balance_sheet", "cash_flow", "changes_in_equity", "comprehensive_income", "none"],
+                    "description": "If is_note is 'yes', indicates which statement type the note primarily relates to."
+                },
+                "auditor_report": {
+                    "type": "string",
+                    "enum": ["yes", "no"],
+                    "description": "Indicates if the chunk contains the Independent Auditor's Report."
+                },
+                "director_report": {
+                    "type": "string",
+                    "enum": ["yes", "no"],
+                    "description": "Indicates if the chunk contains the Directors' Report or Chairman's Statement."
+                },
+                "annual_report_discussion": {
+                    "type": "string",
+                    "enum": ["yes", "no"],
+                    "description": "Indicates if the chunk contains Management Discussion & Analysis (MD&A)."
+                },
+                "filing_type": {
+                    "type": "string",
+                    "enum": ["annual", "quarterly"],
+                    "description": "Type of filing period (annual or quarterly)."
+                },
+                "filing_period": {
+                    "type": "array",
+                    "items": {"type": "string"},
+                    "description": "List of periods covered by the filing."
+                },
+                "source_file": {
+                    "type": "string",
+                    "description": "Original source filename."
+                }
             }
-        },
-        "description": "Schema for metadata filters applicable during index queries. These fields are present in the vector index metadata and can be used for filtering search results."
-    }
-    return json.dumps(FILTER_SCHEMA, indent=2)
+        }, indent=2)
+    elif uri == "psx://server_info":
+        return json.dumps({
+            "name": "PSX Financial Statements Server",
+            "version": "1.0.0",
+            "description": "Server for querying Pakistan Stock Exchange financial statement data",
+            "index_type": "Vector index with financial statement data",
+            "capabilities": ["metadata search", "semantic search", "response synthesis"],
+            "companies_available": len(TICKER_DATA)
+        }, indent=2)
+    
+    raise ValueError(f"Unknown resource: {uri}")
 
-@mcp.tool()
-def psx_find_company(query: str) -> Dict[str, Any]:
+# -----------------------------------------------------------------------------
+# TOOL HANDLERS
+# -----------------------------------------------------------------------------
+
+@server.list_tools()
+async def handle_list_tools() -> list[types.Tool]:
+    """List available tools"""
+    return [
+        types.Tool(
+            name="psx_find_company",
+            description="Find a company by name or ticker symbol in the Pakistan Stock Exchange",
+            inputSchema={
+                "type": "object",
+                "properties": {
+                    "query": {
+                        "type": "string",
+                        "description": "Company name or ticker symbol to search for"
+                    }
+                },
+                "required": ["query"]
+            }
+        ),
+        types.Tool(
+            name="psx_parse_query",
+            description="Extract structured parameters from a financial statement query and build search filters",
+            inputSchema={
+                "type": "object",
+                "properties": {
+                    "query": {
+                        "type": "string",
+                        "description": "Natural language query about PSX financial statements"
+                    }
+                },
+                "required": ["query"]
+            }
+        ),
+        types.Tool(
+            name="psx_query_index",
+            description="Query the PSX financial statement vector index with semantic search and metadata filters",
+            inputSchema={
+                "type": "object",
+                "properties": {
+                    "text_query": {
+                        "type": "string",
+                        "description": "Semantic search query"
+                    },
+                    "metadata_filters": {
+                        "type": "object",
+                        "description": "Metadata filters for precise searching"
+                    },
+                    "top_k": {
+                        "type": "integer",
+                        "default": 15,
+                        "description": "Number of results to retrieve"
+                    }
+                },
+                "required": ["text_query"]
+            }
+        ),
+        types.Tool(
+            name="psx_synthesize_response",
+            description="Generate a structured response from PSX financial statement data retrieved from the index",
+            inputSchema={
+                "type": "object",
+                "properties": {
+                    "query": {
+                        "type": "string",
+                        "description": "Original user query"
+                    },
+                    "nodes": {
+                        "type": "array",
+                        "items": {
+                            "type": "object",
+                            "properties": {
+                                "text": {"type": "string"},
+                                "metadata": {"type": "object"},
+                                "score": {"type": "number"}
+                            }
+                        },
+                        "description": "Retrieved nodes from the index"
+                    },
+                    "output_format": {
+                        "type": "string",
+                        "enum": ["text", "markdown_table", "json"],
+                        "default": "text",
+                        "description": "Output format for the response"
+                    }
+                },
+                "required": ["query", "nodes"]
+            }
+        ),
+        types.Tool(
+            name="psx_generate_clarification_request",
+            description="Generate a clarification request for ambiguous PSX financial statement queries",
+            inputSchema={
+                "type": "object",
+                "properties": {
+                    "query": {
+                        "type": "string",
+                        "description": "Original user query"
+                    },
+                    "intents": {
+                        "type": "object",
+                        "description": "Parsed intents from the query"
+                    },
+                    "metadata_keys": {
+                        "type": "array",
+                        "items": {"type": "string"},
+                        "description": "Available metadata keys for filtering"
+                    }
+                },
+                "required": ["query", "intents", "metadata_keys"]
+            }
+        )
+    ]
+
+@server.call_tool()
+async def handle_call_tool(
+    name: str,
+    arguments: dict | None
+) -> list[types.TextContent | types.ImageContent | types.EmbeddedResource]:
+    """Handle tool calls"""
+    
+    if name == "psx_find_company":
+        result = await find_company(arguments.get("query", ""))
+        return [types.TextContent(type="text", text=json.dumps(result, indent=2))]
+    
+    elif name == "psx_parse_query":
+        result = await parse_query(arguments.get("query", ""))
+        return [types.TextContent(type="text", text=json.dumps(result, indent=2))]
+    
+    elif name == "psx_query_index":
+        result = await query_index(
+            text_query=arguments.get("text_query", ""),
+            metadata_filters=arguments.get("metadata_filters", {}),
+            top_k=arguments.get("top_k", 15)
+        )
+        return [types.TextContent(type="text", text=json.dumps(result, indent=2))]
+    
+    elif name == "psx_synthesize_response":
+        result = await synthesize_response(
+            query=arguments.get("query", ""),
+            nodes=arguments.get("nodes", []),
+            output_format=arguments.get("output_format", "text")
+        )
+        return [types.TextContent(type="text", text=json.dumps(result, indent=2))]
+    
+    elif name == "psx_generate_clarification_request":
+        result = await generate_clarification_request(
+            query=arguments.get("query", ""),
+            intents=arguments.get("intents", {}),
+            metadata_keys=arguments.get("metadata_keys", [])
+        )
+        return [types.TextContent(type="text", text=json.dumps(result, indent=2))]
+    
+    raise ValueError(f"Unknown tool: {name}")
+
+# -----------------------------------------------------------------------------
+# TOOL IMPLEMENTATIONS
+# -----------------------------------------------------------------------------
+
+async def find_company(query: str) -> Dict[str, Any]:
     """Find a company by name or ticker symbol in the Pakistan Stock Exchange"""
     query = query.strip().upper()
     matches = []
@@ -300,8 +401,7 @@ def psx_find_company(query: str) -> Dict[str, Any]:
         "query": query
     }
 
-@mcp.tool()
-def psx_parse_query(query: str) -> Dict[str, Any]:
+async def parse_query(query: str) -> Dict[str, Any]:
     """Extract structured parameters from a financial statement query and build search filters"""
     try:
         query = query.strip()
@@ -312,7 +412,7 @@ def psx_parse_query(query: str) -> Dict[str, Any]:
         intents = {}
         
         # Extract company information
-        company_result = psx_find_company(query)
+        company_result = await find_company(query)
         if company_result["found"] and company_result["exact_match"]:
             intents["company"] = company_result["matches"][0]["Company Name"]
             intents["ticker"] = company_result["matches"][0]["Symbol"]
@@ -402,33 +502,25 @@ def psx_parse_query(query: str) -> Dict[str, Any]:
         
         # Add filing_period filter based on year and period
         if "year" in intents:
-            y = str(intents["year"]).strip()  # Ensure year is a string and strip any whitespace
+            y = str(intents["year"]).strip()
             
-            # For annual reports, check if the user specifically wants only the requested year
             if "period" in intents and intents["period"] == "annual":
-                # If the query contains terms indicating they only want the specific year
                 if any(term in query.lower() for term in ["only", "just", "specifically", "exact"]):
                     metadata_filters["filing_period"] = [y]
-                    print(f"Set specific annual filing_period filter to: {metadata_filters['filing_period']}")
                 else:
-                    # Default behavior: include both requested year and previous year
                     prev_year = str(int(y) - 1)
                     metadata_filters["filing_period"] = [y, prev_year]
-                    print(f"Set annual filing_period filter to: {metadata_filters['filing_period']}")
-            # For quarterly reports, this will be handled in the period section below
         
         # Add period filter if available
         if "period" in intents and "year" in intents:
-            y = str(intents["year"]).strip()  # Ensure year is a string and strip any whitespace
+            y = str(intents["year"]).strip()
             
-            # For quarterly reports, create a filing_period with format Q{quarter}-{year}
             if intents["period"] == "quarterly" and "quarter" in intents:
-                q = str(intents["quarter"]).strip()  # Ensure quarter is a string and strip any whitespace
+                q = str(intents["quarter"]).strip()
                 current_period = f"Q{q}-{y}"
                 prev_year = str(int(y) - 1)
                 prev_period = f"Q{q}-{prev_year}"
                 metadata_filters["filing_period"] = [current_period, prev_period]
-                print(f"Set quarterly filing_period filter to: {metadata_filters['filing_period']}")
         
         # Build search query for semantic search
         search_query = build_search_query(intents)
@@ -485,22 +577,19 @@ def build_search_query(intents: Dict) -> str:
     # Join all parts with spaces
     return " ".join(query_parts)
 
-@mcp.tool()
-def psx_query_index(text_query: str = "", metadata_filters: Dict = {}, top_k: int = 15) -> Dict[str, Any]:
+async def query_index(text_query: str, metadata_filters: Dict, top_k: int) -> Dict[str, Any]:
     """Query the PSX financial statement vector index with semantic search and metadata filters"""
+    global index
+    
     try:
-        from llama_index.core.vector_stores import ExactMatchFilter, MetadataFilters
-        from llama_index.core.vector_stores.types import FilterOperator
-        
         # Create a copy of metadata_filters to avoid modifying the original
         query_filters = metadata_filters.copy()
         
         # Keep filing_period in the query filters for initial filtering
-        # This will help narrow down results before post-processing
         filing_periods = None
         if "filing_period" in query_filters:
             filing_periods = query_filters["filing_period"]
-            print(f"Using filing_period for filtering: {filing_periods}")
+            logger.info(f"Using filing_period for filtering: {filing_periods}")
         
         # Create metadata filters for all fields including filing_period
         standard_filters = []
@@ -510,17 +599,13 @@ def psx_query_index(text_query: str = "", metadata_filters: Dict = {}, top_k: in
                 # Create a filter for each year in the list using OR logic
                 for year in value:
                     standard_filters.append(MetadataFilter(key=key, value=year))
-                print(f"Added multiple filing_period filters for years: {value}")
+                logger.info(f"Added multiple filing_period filters for years: {value}")
             else:
                 standard_filters.append(MetadataFilter(key=key, value=value))
-                print(f"Added standard filter for {key}: {value}")
+                logger.info(f"Added standard filter for {key}: {value}")
         
-        print(f"Standard filters: {standard_filters}")
-        print(f"Index query: {text_query}")
-        print(f"Original metadata_filters: {metadata_filters}")
-
-
-
+        logger.info(f"Standard filters: {standard_filters}")
+        logger.info(f"Index query: {text_query}")
 
         retriever_kwargs = {"similarity_top_k": top_k}
         if standard_filters:
@@ -534,42 +619,37 @@ def psx_query_index(text_query: str = "", metadata_filters: Dict = {}, top_k: in
                     filters=other_filters,
                     filters_with_or=[filing_period_filters]
                 )
-                print("Using OR logic for filing_period filters")
+                logger.info("Using OR logic for filing_period filters")
             else:
                 retriever_kwargs["filters"] = MetadataFilters(filters=standard_filters)
 
         retriever = index.as_retriever(**retriever_kwargs)
         nodes = retriever.retrieve(text_query)
-        print(f"Retrieved {len(nodes)} nodes before post-filtering.")
+        logger.info(f"Retrieved {len(nodes)} nodes for query: {text_query}")
         
-        # Debug the retrieved nodes
-        if nodes:
-            print("\nDEBUG: Retrieved nodes metadata:")
-            for i, node in enumerate(nodes[:5]):  # Show first 5 nodes for debugging
-                print(f"Node {i} metadata: {node.node.metadata}")
-        else:
-            print("No nodes retrieved from initial query.")
-            
-            # This section is now removed as we're using direct filtering
-        
-        print(f"Retrieved {len(nodes)} nodes after all filtering.")
-
-
-
-        context_file = save_retrieved_context(text_query, nodes, metadata_filters, filename_suffix="query")
-
-        node_data = [
-            {
+        # Convert to serializable format
+        nodes_serialized = []
+        for i, node in enumerate(nodes):
+            nodes_serialized.append({
                 "node_id": node.node.node_id,
                 "text": node.node.text,
                 "metadata": node.node.metadata,
                 "score": node.score if hasattr(node, 'score') else None
-            } for node in nodes
-        ]
+            })
+        
+        # Save context for debugging
+        timestamp = datetime.datetime.now().strftime("%Y%m%d_%H%M%S")
+        context_file = CONTEXT_DIR / f"context_{timestamp}.json"
+        with open(context_file, "w") as f:
+            json.dump({
+                "query": text_query,
+                "metadata_filters": metadata_filters,
+                "nodes": nodes_serialized
+            }, f, indent=2)
         
         # Extract unique metadata values from results for reference
         result_metadata = {}
-        for node in node_data:
+        for node in nodes_serialized:
             for key, value in node["metadata"].items():
                 if key not in result_metadata:
                     result_metadata[key] = set()
@@ -584,32 +664,34 @@ def psx_query_index(text_query: str = "", metadata_filters: Dict = {}, top_k: in
             result_metadata[key] = sorted(list(result_metadata[key]))
         
         return {
-            "nodes": node_data, 
-            "context_file": context_file,
+            "nodes": nodes_serialized,
+            "context_file": str(context_file),
             "metadata_summary": result_metadata,
             "query": text_query,
             "filters": metadata_filters
         }
     except Exception as e:
+        logger.error(f"Error querying index: {str(e)}")
+        traceback.print_exc()
         return {"nodes": [], "context_file": None, "error": f"Error querying index: {str(e)}"}
 
-@mcp.tool()
-def psx_synthesize_response(query: str, nodes: List[Dict], output_format: str = "text") -> Dict[str, Any]:
+async def synthesize_response(query: str, nodes: List[Dict], output_format: str) -> Dict[str, Any]:
     """Generate a structured response from PSX financial statement data retrieved from the index"""
+    global response_synthesizer
+    
     try:
         if not nodes:
             return {"response": "No relevant data found. Please try rephrasing or specifying different criteria."}
 
-        nodes_obj = [
-            NodeWithScore(
-                node=type('Node', (), {
-                    'node_id': node['node_id'],
-                    'text': node['text'],
-                    'metadata': node['metadata']
-                })(),
-                score=node.get('score')
-            ) for node in nodes
-        ]
+        # Convert dict nodes back to NodeWithScore objects
+        nodes_obj = []
+        for node in nodes:
+            node_obj = type('Node', (), {
+                'node_id': node['node_id'],
+                'text': node['text'],
+                'metadata': node['metadata']
+            })()
+            nodes_obj.append(NodeWithScore(node=node_obj, score=node.get('score')))
 
         # Use a simpler prompt that relies more on Claude's reasoning
         if output_format == "markdown_table":
@@ -634,16 +716,7 @@ Focus on the key insights and important numbers, explaining their significance i
 Highlight trends or notable items, and ensure the information is presented in a clear, logical flow.
 """
 
-        response_synthesizer = get_response_synthesizer(
-            llm=llm,
-            response_mode=ResponseMode.COMPACT,
-            use_async=False,
-            verbose=True
-        )
-
-        print("\n--- Synthesizing Response ---")
-        print(f"Number of nodes: {len(nodes_obj)}")
-        print(f"Output format: {output_format}")
+        logger.info(f"Synthesizing response for {len(nodes_obj)} nodes with format: {output_format}")
 
         response_obj = response_synthesizer.synthesize(
             query=prompt,
@@ -657,9 +730,12 @@ Highlight trends or notable items, and ensure the information is presented in a 
 
         return {"response": response_text}
     except Exception as e:
+        logger.error(f"Error synthesizing response: {str(e)}")
+        traceback.print_exc()
         return {"response": f"Error synthesizing response: {str(e)}"}
 
 def extract_markdown_table(response_text: str) -> str:
+    """Extract markdown table from response text"""
     pattern = r"`markdown\s*([\s\S]*?)\s*`"
     match = re.search(pattern, str(response_text))
     if match:
@@ -672,8 +748,7 @@ def extract_markdown_table(response_text: str) -> str:
 
     return str(response_text).strip()
 
-@mcp.tool()
-def psx_generate_clarification_request(query: str, intents: Dict, metadata_keys: List[str]) -> Dict[str, Any]:
+async def generate_clarification_request(query: str, intents: Dict, metadata_keys: List[str]) -> Dict[str, Any]:
     """Generate a clarification request for ambiguous PSX financial statement queries"""
     try:
         missing_info = []
@@ -699,67 +774,114 @@ def psx_generate_clarification_request(query: str, intents: Dict, metadata_keys:
         return {"clarification_needed": False, "clarification_request": f"Error generating clarification: {str(e)}"}
 
 # -----------------------------------------------------------------------------
+# INITIALIZATION
+# -----------------------------------------------------------------------------
+
+async def initialize_models():
+    """Initialize models and index"""
+    global embed_model, llm, index, response_synthesizer
+    
+    logger.info("Initializing Gemini models...")
+    
+    try:
+        embed_model = GoogleGenAIEmbedding(model_name="text-embedding-004", api_key=GEMINI_API_KEY)
+        llm = GoogleGenAI(
+            model="models/gemini-2.5-flash-preview-04-17",
+            api_key=GEMINI_API_KEY,
+            temperature=0.3,
+        )
+        logger.info(f"Using LLM: {llm.model}")
+    except Exception as e:
+        logger.error(f"Error initializing Google GenAI models: {e}")
+        sys.exit(1)
+
+    # Load index
+    if not INDEX_DIR.exists():
+        logger.error(f"Index directory {INDEX_DIR} not found. Please ensure the index is built.")
+        sys.exit(1)
+
+    logger.info(f"Loading index from {INDEX_DIR}")
+    try:
+        storage_context = StorageContext.from_defaults(persist_dir=str(INDEX_DIR))
+        index = load_index_from_storage(storage_context, embed_model=embed_model)
+        logger.info("Index loaded successfully")
+        
+        # Initialize response synthesizer
+        response_synthesizer = get_response_synthesizer(
+            llm=llm,
+            response_mode=ResponseMode.COMPACT,
+            use_async=False,
+            verbose=True
+        )
+        
+    except Exception as e:
+        logger.error(f"Error loading index: {str(e)}")
+        try:
+            from llama_index.core.indices.vector_store import VectorStoreIndex
+            storage_context = StorageContext.from_defaults(persist_dir=str(INDEX_DIR))
+            index = load_index_from_storage(storage_context)
+            logger.info("Index loaded successfully using alternative method")
+            
+            response_synthesizer = get_response_synthesizer(
+                llm=llm,
+                response_mode=ResponseMode.COMPACT,
+                use_async=False,
+                verbose=True
+            )
+        except Exception as e2:
+            logger.error(f"Alternative loading method also failed: {str(e2)}")
+            traceback.print_exc()
+            sys.exit(1)
+
+# -----------------------------------------------------------------------------
 # MAIN EXECUTION
 # -----------------------------------------------------------------------------
 
-if __name__ == "__main__":
-    print("\n===== MCP SERVER MAIN EXECUTION =====")
+async def main():
+    """Main entry point"""
+    # Initialize models
+    await initialize_models()
     
-    # Check environment
-    if not os.getenv('GEMINI_API_KEY'):
-        print("ERROR: GEMINI_API_KEY environment variable not set.")
-        sys.exit(1)
-    else:
-        # Mask API key for privacy when logging
-        api_key = os.getenv('GEMINI_API_KEY')
-        masked_key = api_key[:4] + "..." + api_key[-4:] if len(api_key) > 8 else "***"
-        print(f"GEMINI_API_KEY: {masked_key}")
-    
-    # Check index directory
-    if not os.path.exists(index_dir):
-        print(f"ERROR: Index directory '{index_dir}' not found.")
-        sys.exit(1)
-    elif not os.listdir(index_dir):
-        print(f"ERROR: Index directory '{index_dir}' is empty.")
-        sys.exit(1)
-    else:
-        print(f"Index directory '{index_dir}' found and contains files.")
-    
-    # Test tool functionality before starting server
+    # Test tool functionality
     try:
-        print("\n--- Testing tools ---")
+        logger.info("Testing tools...")
         # Test company finding
-        print("Testing company finder...")
         test_company = "Meezan Bank"
-        test_result = psx_find_company(test_company)
-        print(f"Company finder result for '{test_company}': {test_result['found']}")
+        test_result = await find_company(test_company)
+        logger.info(f"Company finder test for '{test_company}': {test_result['found']}")
         
         # Test query parsing
-        print("\nTesting query parsing...")
         test_query = "Show me Meezan Bank's unconsolidated profit and loss statement for 2022"
-        parse_result = psx_parse_query(test_query)
-        print(f"Query parsing result for '{test_query}':")
-        print(f"  Detected company: {parse_result['intents'].get('company', 'None')}")
-        print(f"  Detected statement: {parse_result['intents'].get('statement', 'None')}")
-        print(f"  Detected scope: {parse_result['intents'].get('scope', 'None')}")
-        print(f"  Detected year: {parse_result['intents'].get('year', 'None')}")
-        print(f"  Generated filters: {parse_result['metadata_filters']}")
-        print(f"  Search query: {parse_result['search_query']}")
+        parse_result = await parse_query(test_query)
+        logger.info(f"Query parsing test successful: {parse_result.get('intents', {}).get('company', 'None')}")
     except Exception as e:
-        print(f"WARNING: Tool functionality test failed: {e}")
-        traceback.print_exc()
-        # Continue despite this warning
+        logger.warning(f"Tool functionality test failed: {e}")
     
-    print("\nStarting MCP Generalized Index Query Server...")
-    try:
-        print("Server capabilities:", [method_name for method_name in dir(mcp) if not method_name.startswith('_')])
+    # Run the server
+    async with mcp.server.stdio.stdio_server() as (read_stream, write_stream):
+        # Create initialization options with required capabilities field
+        init_options = InitializationOptions(
+            server_name="psx-financial-statements",
+            server_version="1.0.0",
+            capabilities={
+                "tools": {
+                    "list": True,
+                    "call": True
+                },
+                "resources": {
+                    "list": True,
+                    "read": True
+                }
+            }
+        )
         
-        # Simply use the built-in run method
-        # When run through MCP CLI or Claude Desktop, it automatically uses the right protocol
-        print("Using built-in run method...")
-        mcp.run()
-            
-    except Exception as e:
-        print(f"ERROR: Failed to start MCP server: {e}")
-        traceback.print_exc()
-        sys.exit(1)
+        # Run the server with proper options
+        await server.run(
+            read_stream,
+            write_stream,
+            init_options
+        )
+
+if __name__ == "__main__":
+    import asyncio
+    asyncio.run(main())

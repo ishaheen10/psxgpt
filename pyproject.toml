@@ -16,5 +16,6 @@ dependencies = [
     "python-dotenv",
     "mcp[cli,core]>=1.6.0",
     "chainlit",
-    "anthropic"
+    "anthropic",
+    "asyncpg",
 ]

@@ -4,9 +4,11 @@ A ChatGPT-like application for Pakistan Stock Exchange (PSX) financial data.
 
 ## 🔍 Overview
 
-psxGPT is a multi-step data processing pipeline and Retrieval-Augmented Generation (RAG) application. It automatically downloads financial reports from the Pakistan Stock Exchange (PSX) website, converts them to markdown, chunks them, extracts metadata, and creates vector embeddings using Google Gemini. Finally, it provides a Gradio web interface allowing users to ask natural language questions about the financial data and receive spreadsheet-ready answers.
+psxGPT is a multi-step data processing pipeline and Retrieval-Augmented Generation (RAG) application. It automatically downloads financial reports from the Pakistan Stock Exchange (PSX) website, converts them to markdown, chunks them, extracts metadata, and creates vector embeddings using Google Gemini.
 
-Additionally, psxGPT now includes both an MCP (Model Context Protocol) server that enables integration with Claude Desktop and a dedicated Chainlit-based MCP client that provides a web interface specifically optimized for Claude 3.5 Sonnet, offering a seamless financial analysis experience with enhanced tool usage capabilities.
+The application consists of two main components:
+1. An MCP (Model Context Protocol) server that enables integration with Claude Desktop
+2. A dedicated Chainlit-based MCP client that provides a web interface specifically optimized for Claude 3.5 Sonnet, offering a seamless financial analysis experience with enhanced tool usage capabilities
 
 ## 📺 Live Demo
 
@@ -76,34 +78,64 @@ The embeddings and LLM functionality require a Google Gemini API key, which you 
    uv sync
    ```
 
-3. Get your Google Gemini API key:
+3. Set up PostgreSQL database (for conversation persistence):
+   ```bash
+   # Create a new PostgreSQL database
+   createdb chainlit_psx
+   
+   # Apply the database schema
+   psql -d chainlit_psx -f chainlit_schema_psx.sql
+   
+   # Add database URL to your .env file
+   echo "DATABASE_URL=postgresql://your_username@localhost:5432/chainlit_psx" >> .env
+   echo "DATABASE_DIRECT_URL=postgresql://your_username@localhost:5432/chainlit_psx" >> .env
+   ```
+   
+   **Note:** Replace `your_username` with your PostgreSQL username. If you don't have PostgreSQL installed, you can:
+   - Install via Homebrew (Mac): `brew install postgresql`
+   - Install via package manager (Linux): `sudo apt-get install postgresql`
+   - Download from [postgresql.org](https://www.postgresql.org/download/) (Windows)
+
+4. Get your Google Gemini API key:
    - Go to [Google AI Studio](https://ai.google.dev/)
    - Sign in with your Google account
    - Navigate to the API keys section
    - Create a new API key
    - Copy the key and add it to your `.env` file
 
-4. Generate the vector index:
+5. Generate the vector index:
    ```bash
    # Use 'python' on Windows, 'python3' on Mac/Linux
    python Step6CreateEmbeddings.py
    ```
 
-5. Run the application (choose one):
+6. Run the application (choose one):
    ```bash
-   # Option 1: Gradio web interface
-   python Step7LaunchGradioWithFilters.py
+   # Option 1: MCP server for Claude Desktop integration
+   python Step7MCPServerPsxGPT.py
    
-   # Option 2: MCP server for Claude Desktop integration
-   python Step8MCPServerPsxGPT.py
-   
-   # Option 3: Chainlit web interface with Claude 3.5 Sonnet
-   python Step9MCPClientPsxGPT.py
+   # Option 2: Chainlit web interface with Claude 3.5 Sonnet
+   python Step8MCPClientPsxGPT.py
    ```
 
-6. Access the web interface:
-   - For Gradio: Open your browser at http://localhost:7860
+7. Access the web interface:
    - For Chainlit: Open your browser at http://localhost:8000
+
+## 🔐 Default Authentication (Sample Code)
+
+**Important:** This is sample/demo code with hardcoded authentication credentials for testing purposes.
+
+**Default Login Credentials:**
+- **Username:** `asfi@psx.com`
+- **Password:** `asfi123`
+
+These credentials are hardcoded in the application for demonstration purposes. In a production environment, you should:
+1. Replace the hardcoded authentication with a proper user management system
+2. Use environment variables or a secure database for storing user credentials
+3. Implement proper password hashing and security measures
+4. Set up role-based access control as needed
+
+The current authentication is implemented in `Step8MCPClientPsxGPT.py` and can be modified according to your security requirements.
 
 ## 💡 Example Queries
 
@@ -119,10 +151,8 @@ The embeddings and LLM functionality require a Google Gemini API key, which you 
 - `Step4MetaDataTags.py`: Extracts metadata tags from the chunks
 - `Step5CombineMetaData.py`: Combines metadata from different sources
 - `Step6CreateEmbeddings.py`: Creates vector embeddings for the chunks using Google Gemini
-- `Step7LaunchGradioWithFilters.py`: Runs the main Gradio web interface for querying
-- `Step7aGradioAppNoFilters.py`: (Alternative) Runs a simplified Gradio interface without meta data filters
-- `Step8MCPServerPsxGPT.py`: Runs an MCP server for Claude Desktop integration
-- `Step9MCPClientPsxGPT.py`: Runs a Chainlit web interface with Claude 3.5 Sonnet integration
+- `Step7MCPServerPsxGPT.py`: Runs an MCP server for Claude Desktop integration
+- `Step8MCPClientPsxGPT.py`: Runs a Chainlit web interface with Claude 3.5 Sonnet integration
 - `tickers.json`: Maps company tickers to full names
 - `pyproject.toml`: Project metadata and dependencies for `uv`
 - `.env`: File to store your API keys (Gemini, Anthropic, and Literal)
@@ -142,7 +172,6 @@ The embeddings and LLM functionality require a Google Gemini API key, which you 
 | llama_index.embeddings.google_genai  | Google's embedding models integration      |
 | llama_index.llms.google_genai        | Google's Gemini LLM integration (specific) |
 | python-dotenv                        | Environment variable management            |
-| gradio                               | Web interface creation                     |
 | pymupdf                              | Core PDF handling library (used by Step 2) |
 | mcp                                  | Model Context Protocol for AI integration  |
 | chainlit                             | Modern web interface for LLM applications  |
@@ -160,7 +189,7 @@ The MCP server provides a seamless integration with Claude Desktop, allowing you
 
 2. Run the MCP server:
    ```bash
-   python Step8MCPServerPsxGPT.py
+   python Step7MCPServerPsxGPT.py
    ```
 
 3. Configure Claude Desktop:
@@ -175,7 +204,7 @@ The MCP server provides a seamless integration with Claude Desktop, allowing you
        "PSX Financial Statements Server": {
          "command": "python",
          "args": [
-           "/path/to/your/psxChatGPT/Step8MCPServerPsxGPT.py"
+           "/path/to/your/psxChatGPT/Step7MCPServerPsxGPT.py"
          ],
          "env": {
            "GEMINI_API_KEY": "your_gemini_api_key_here"

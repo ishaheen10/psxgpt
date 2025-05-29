@@ -19,7 +19,7 @@ anthropic_client = anthropic.AsyncAnthropic(api_key=ANTHROPIC_API_KEY)
 
 # System prompt for the assistant
 SYSTEM_PROMPT = """
-You are a PSX Financial Data Assistant specializing in financial analysis for investors and analysts. You have access to the following MCP tools:
+You are a PSX Financial Data Assistant specializing in financial analysis for investors and analysts. You have access to the following MCP tools from the local Python server:
 
 1. psx_find_company  
    Input: { "query": "<company name or ticker>" }  
@@ -260,7 +260,9 @@ async def on_chat_start():
     # Welcome message
     welcome_message = """# Welcome to PSX Financial Data Assistant! 📊
 
-I can help you analyze financial statements from Pakistan Stock Exchange companies. You can ask questions like:
+I can help you analyze financial statements from Pakistan Stock Exchange companies using the **local Python MCP server** with advanced query processing.
+
+You can ask questions like:
 
 - "Show me HBL's 2024 unconsolidated balance sheet"
 - "Get MCB's profit and loss statement for Q2 2024"
@@ -278,6 +280,8 @@ I can help you analyze financial statements from Pakistan Stock Exchange compani
 - Include the year or quarter (e.g., 2024, Q2 2024)
 - Mention the statement type (balance sheet, profit and loss, etc.)
 - Specify scope if needed (consolidated/unconsolidated)
+
+**🐍 Powered by Python MCP Server - Step-by-step processing for maximum accuracy!**
 
 How can I help you analyze PSX financial data today?
 """

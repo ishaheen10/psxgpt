@@ -1,0 +1,28 @@
+{
+  "name": "psx-mcp-server",
+  "version": "1.0.0",
+  "description": "PSX Financial Statements MCP Server using Cloudflare Agents SDK",
+  "main": "src/index.ts",
+  "scripts": {
+    "dev": "wrangler dev",
+    "deploy": "wrangler deploy",
+    "build": "tsc",
+    "start": "wrangler dev",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["mcp", "cloudflare", "psx", "financial", "statements", "supabase"],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@cloudflare/workers-types": "^4.20241218.0",
+    "@supabase/supabase-js": "^2.48.1",
+    "agents": "^0.0.94",
+    "@modelcontextprotocol/sdk": "^1.0.0",
+    "typescript": "^5.7.2",
+    "wrangler": "^3.95.0",
+    "zod": "^3.24.1"
+  },
+  "devDependencies": {
+    "@types/node": "^22.10.2"
+  }
+}

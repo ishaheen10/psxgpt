@@ -1,0 +1,20 @@
+name = "psx-mcp-server-v2"
+main = "src/index.ts"
+compatibility_date = "2024-12-01"
+compatibility_flags = ["nodejs_compat"]
+
+# Durable Object binding required for MCP Agent
+[[durable_objects.bindings]]
+name = "MCP_OBJECT"
+class_name = "PSXMCPServer"
+
+# Migration for Durable Object
+[[migrations]]
+tag = "v1"
+new_sqlite_classes = ["PSXMCPServer"]
+
+[env.production]
+name = "psx-mcp-server-v2"
+
+[env.development]
+name = "psx-mcp-server-v2-dev" 

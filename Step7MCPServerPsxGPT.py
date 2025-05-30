@@ -5,6 +5,7 @@ import re
 import datetime
 import traceback
 import logging
+import time
 from typing import Dict, List, Optional, Any
 from pathlib import Path
 
@@ -223,6 +224,10 @@ async def handle_list_tools() -> list[types.Tool]:
                     "query": {
                         "type": "string",
                         "description": "Natural language query about PSX financial statements"
+                    },
+                    "conversation_context": {
+                        "type": "object",
+                        "description": "Optional context from previous queries in the conversation"
                     }
                 },
                 "required": ["query"]
@@ -305,7 +310,35 @@ async def handle_list_tools() -> list[types.Tool]:
                 },
                 "required": ["query", "intents", "metadata_keys"]
             }
-        )
+        ),
+        types.Tool(
+            name="psx_query_multi_company",
+            description="Query multiple companies simultaneously for comparative analysis",
+            inputSchema={
+                "type": "object",
+                "properties": {
+                    "companies": {
+                        "type": "array",
+                        "items": {"type": "string"},
+                        "description": "List of company tickers to query"
+                    },
+                    "text_query": {
+                        "type": "string",
+                        "description": "Semantic search query"
+                    },
+                    "metadata_filters": {
+                        "type": "object",
+                        "description": "Metadata filters for precise searching"
+                    },
+                    "top_k": {
+                        "type": "integer",
+                        "default": 10,
+                        "description": "Number of results per company"
+                    }
+                },
+                "required": ["companies", "text_query"]
+            }
+        ),
     ]
 
 @server.call_tool()
@@ -320,7 +353,7 @@ async def handle_call_tool(
         return [types.TextContent(type="text", text=json.dumps(result, indent=2))]
     
     elif name == "psx_parse_query":
-        result = await parse_query(arguments.get("query", ""))
+        result = await parse_query(arguments.get("query", ""), arguments.get("conversation_context", None))
         return [types.TextContent(type="text", text=json.dumps(result, indent=2))]
     
     elif name == "psx_query_index":
@@ -344,6 +377,15 @@ async def handle_call_tool(
             query=arguments.get("query", ""),
             intents=arguments.get("intents", {}),
             metadata_keys=arguments.get("metadata_keys", [])
+        )
+        return [types.TextContent(type="text", text=json.dumps(result, indent=2))]
+    
+    elif name == "psx_query_multi_company":
+        result = await query_multi_company(
+            companies=arguments.get("companies", []),
+            text_query=arguments.get("text_query", ""),
+            metadata_filters=arguments.get("metadata_filters", {}),
+            top_k=arguments.get("top_k", 10)
         )
         return [types.TextContent(type="text", text=json.dumps(result, indent=2))]
     
@@ -401,54 +443,47 @@ async def find_company(query: str) -> Dict[str, Any]:
         "query": query
     }
 
-async def parse_query(query: str) -> Dict[str, Any]:
-    """Extract structured parameters from a financial statement query and build search filters"""
+async def parse_query(query: str, conversation_context: Optional[Dict] = None) -> Dict[str, Any]:
+    """Extract structured parameters from a financial statement query and build search filters
+    
+    Args:
+        query: Natural language query about PSX financial statements
+        conversation_context: Optional context from previous queries in the conversation
+    """
     try:
         query = query.strip()
         if not query:
             return {"intents": {}, "metadata_filters": {}, "error": "Query cannot be empty"}
         
-        # Extract entities
+        # Initialize intents
         intents = {}
         
-        # Enhanced company extraction with direct ticker matching first
-        query_upper = query.upper()
+        # Handle follow-up queries with reference resolution
+        resolved_query = resolve_query_references(query, conversation_context)
+        if resolved_query != query:
+            logger.info(f"Resolved reference query: '{query}' -> '{resolved_query}'")
+            query = resolved_query
+            intents["is_followup"] = True
+            intents["original_query"] = query
         
-        # First, try direct ticker symbol matching
-        ticker_found = None
-        for ticker_item in TICKER_DATA:
-            ticker_symbol = ticker_item["Symbol"].upper()
-            # Look for ticker as a standalone word
-            if re.search(rf'\b{re.escape(ticker_symbol)}\b', query_upper):
-                ticker_found = ticker_symbol
-                intents["company"] = ticker_item["Company Name"]
-                intents["ticker"] = ticker_symbol
-                logger.info(f"Direct ticker match found: {ticker_symbol}")
-                break
+        # Enhanced multi-company extraction
+        companies_found = extract_multiple_companies(query)
+        if companies_found:
+            if len(companies_found) == 1:
+                intents["company"] = companies_found[0]["Company Name"]
+                intents["ticker"] = companies_found[0]["Symbol"]
+                logger.info(f"Single company identified: {intents['ticker']}")
+            else:
+                # Multiple companies found
+                intents["companies"] = companies_found
+                intents["tickers"] = [comp["Symbol"] for comp in companies_found]
+                intents["is_multi_company"] = True
+                logger.info(f"Multiple companies identified: {intents['tickers']}")
+                
+                # For multi-company queries, use the first as primary for backward compatibility
+                intents["company"] = companies_found[0]["Company Name"]
+                intents["ticker"] = companies_found[0]["Symbol"]
         
-        # If no direct ticker match, try company finding
-        if not ticker_found:
-            company_result = await find_company(query)
-            if company_result["found"]:
-                if company_result["exact_match"]:
-                    intents["company"] = company_result["matches"][0]["Company Name"]
-                    intents["ticker"] = company_result["matches"][0]["Symbol"]
-                    logger.info(f"Exact company match found: {intents['ticker']}")
-                elif len(company_result["matches"]) == 1:
-                    # Single partial match - use it
-                    intents["company"] = company_result["matches"][0]["Company Name"]
-                    intents["ticker"] = company_result["matches"][0]["Symbol"]
-                    intents["company_uncertain"] = True
-                    logger.info(f"Single partial match found: {intents['ticker']}")
-                else:
-                    # Multiple matches - mark as uncertain
-                    top_match = company_result["matches"][0]
-                    intents["company"] = top_match["Company Name"]
-                    intents["ticker"] = top_match["Symbol"]
-                    intents["company_uncertain"] = True
-                    intents["potential_companies"] = company_result["matches"][:3]
-                    logger.info(f"Multiple matches found, using top: {intents['ticker']}")
-
         # Extract statement-like terms with more specific patterns
         statement_patterns = [
             (r'\b(?:profit\s+and\s+loss|income\s+statement|p\s*&\s*l)\b', 'profit_and_loss'),
@@ -464,13 +499,43 @@ async def parse_query(query: str) -> Dict[str, Any]:
                 logger.info(f"Statement type identified: {statement_type}")
                 break
 
-        # Extract years with better validation
+        # Enhanced year and period extraction - handle multiple quarters
         year_matches = re.findall(r'\b(20\d{2})\b', query)
         if year_matches:
-            # Use the most recent year if multiple found
-            years = sorted(year_matches, reverse=True)
-            intents["year"] = years[0]
-            logger.info(f"Year identified: {intents['year']}")
+            years = sorted(set(year_matches), reverse=True)
+            intents["year"] = years[0]  # Primary year
+            if len(years) > 1:
+                intents["comparison_years"] = years
+            logger.info(f"Year(s) identified: {years}")
+
+        # Enhanced quarter extraction - handle Q1 Q2 Q3 patterns
+        quarter_patterns = [
+            r'\b(?:q1|first\s+quarter)\b',
+            r'\b(?:q2|second\s+quarter)\b', 
+            r'\b(?:q3|third\s+quarter)\b',
+            r'\b(?:q4|fourth\s+quarter)\b'
+        ]
+        
+        quarters_found = []
+        for i, pattern in enumerate(quarter_patterns, 1):
+            if re.search(pattern, query, re.IGNORECASE):
+                quarters_found.append(str(i))
+        
+        # Handle multiple quarters like "Q1 Q2 Q3"
+        if re.search(r'\bq[1-4]\s+q[1-4](?:\s+q[1-4])?\b', query, re.IGNORECASE):
+            quarter_mentions = re.findall(r'\bq([1-4])\b', query, re.IGNORECASE)
+            quarters_found = sorted(set(quarter_mentions))
+            logger.info(f"Multiple quarters detected: Q{', Q'.join(quarters_found)}")
+        
+        if quarters_found:
+            intents["quarters"] = quarters_found
+            intents["period"] = "quarterly"
+            if len(quarters_found) == 1:
+                intents["quarter"] = quarters_found[0]
+            else:
+                intents["is_multi_quarter"] = True
+        else:
+            intents["period"] = "annual"
 
         # Extract scope with specific patterns
         scope_patterns = [
@@ -486,23 +551,6 @@ async def parse_query(query: str) -> Dict[str, Any]:
                 logger.info(f"Scope identified: {scope_value}")
                 break
         
-        # Extract period with better quarterly detection
-        quarterly_patterns = [
-            (r'\b(?:q1|first\s+quarter)\b', '1'),
-            (r'\b(?:q2|second\s+quarter)\b', '2'),
-            (r'\b(?:q3|third\s+quarter)\b', '3'),
-            (r'\b(?:q4|fourth\s+quarter)\b', '4')
-        ]
-        
-        for pattern, quarter_num in quarterly_patterns:
-            if re.search(pattern, query, re.IGNORECASE):
-                intents["period"] = "quarterly"
-                intents["quarter"] = quarter_num
-                logger.info(f"Quarterly period identified: Q{quarter_num}")
-                break
-        else:
-            intents["period"] = "annual"
-
         # Extract detail requests
         if any(term in query.lower() for term in ["detail", "details", "breakdown"]):
             intents["needs_details"] = True
@@ -511,58 +559,18 @@ async def parse_query(query: str) -> Dict[str, Any]:
         if any(term in query.lower() for term in ["compare", "versus", "vs", "against", "comparison"]):
             intents["is_comparison"] = True
             
-            # Try to extract comparison years
-            comp_years = re.findall(r'\b(20\d{2})\b', query)
-            if len(comp_years) > 1:
-                intents["comparison_years"] = comp_years
-                
-        # Build metadata filters directly with proper validation
-        metadata_filters = {}
-        
-        # Add company filter if available - THIS IS CRITICAL
-        if "ticker" in intents:
-            metadata_filters["ticker"] = intents["ticker"]
-            logger.info(f"Added ticker filter: {intents['ticker']}")
-        
-        # Add statement type filter if available
-        if "statement" in intents:
-            metadata_filters["statement_type"] = intents["statement"]
-            logger.info(f"Added statement_type filter: {intents['statement']}")
-        
-        # Add scope filter if available
-        if "scope" in intents:
-            metadata_filters["financial_statement_scope"] = intents["scope"]
-            logger.info(f"Added scope filter: {intents['scope']}")
-        
-        # Add is_statement filter for main financial statements
-        if "statement" in intents:
-            metadata_filters["is_statement"] = "yes"
-        
-        # Add filing_period filter based on year and period
-        if "year" in intents:
-            y = str(intents["year"]).strip()
-            
-            if "period" in intents and intents["period"] == "annual":
-                if any(term in query.lower() for term in ["only", "just", "specifically", "exact"]):
-                    metadata_filters["filing_period"] = [y]
-                    logger.info(f"Added exact year filter: {y}")
-                else:
-                    prev_year = str(int(y) - 1)
-                    metadata_filters["filing_period"] = [y, prev_year]
-                    logger.info(f"Added year comparison filter: {y}, {prev_year}")
-            elif "period" in intents and intents["period"] == "quarterly" and "quarter" in intents:
-                q = str(intents["quarter"]).strip()
-                current_period = f"Q{q}-{y}"
-                prev_year = str(int(y) - 1)
-                prev_period = f"Q{q}-{prev_year}"
-                metadata_filters["filing_period"] = [current_period, prev_period]
-                logger.info(f"Added quarterly filter: {current_period}, {prev_period}")
+        # Build metadata filters with enhanced multi-entity support
+        metadata_filters = build_metadata_filters(intents)
         
         # Build search query for semantic search
         search_query = build_search_query(intents)
 
         # Determine if we have sufficient filters
-        has_filters = len(metadata_filters) > 0 and ("ticker" in metadata_filters or "statement_type" in metadata_filters)
+        has_filters = len(metadata_filters) > 0 and (
+            "ticker" in metadata_filters or 
+            "statement_type" in metadata_filters or
+            "tickers" in intents  # Multi-company support
+        )
         
         logger.info(f"Final metadata_filters: {metadata_filters}")
         logger.info(f"Has sufficient filters: {has_filters}")
@@ -571,7 +579,8 @@ async def parse_query(query: str) -> Dict[str, Any]:
             "intents": intents,
             "metadata_filters": metadata_filters, 
             "search_query": search_query,
-            "has_filters": has_filters
+            "has_filters": has_filters,
+            "resolved_query": resolved_query if resolved_query != query else None
         }
     except Exception as e:
         logger.error(f"Error parsing query: {str(e)}")
@@ -582,6 +591,155 @@ async def parse_query(query: str) -> Dict[str, Any]:
             "search_query": query,
             "error": f"Error parsing query: {str(e)}"
         }
+
+def resolve_query_references(query: str, context: Optional[Dict]) -> str:
+    """Resolve references like 'the same', 'same for UBL' using conversation context"""
+    if not context:
+        return query
+    
+    query_lower = query.lower().strip()
+    
+    # Handle "same for [COMPANY]" pattern
+    same_for_match = re.search(r'(?:same|similar)\s+for\s+(\w+)', query_lower)
+    if same_for_match:
+        new_company = same_for_match.group(1).upper()
+        
+        # Get the last query details from context
+        last_query = context.get("last_query", {})
+        if last_query:
+            # Reconstruct the query with the new company
+            statement = last_query.get("statement", "")
+            scope = last_query.get("scope", "")
+            year = last_query.get("year", "")
+            quarters = last_query.get("quarters", [])
+            
+            if statement and year:
+                resolved = f"Get me {new_company} {year}"
+                if scope:
+                    resolved += f" {scope}"
+                if statement:
+                    resolved += f" {statement.replace('_', ' ')}"
+                if quarters:
+                    resolved += f" for {' '.join([f'Q{q}' for q in quarters])}"
+                
+                return resolved
+    
+    # Handle "the same" pattern - try to find company mentioned in current query
+    if query_lower in ["the same", "same", "get me the same"]:
+        # Look for company mentioned elsewhere
+        for company_data in TICKER_DATA:
+            if company_data["Symbol"].upper() in query.upper():
+                new_company = company_data["Symbol"]
+                last_query = context.get("last_query", {})
+                if last_query:
+                    # Similar reconstruction as above
+                    pass
+    
+    return query
+
+def extract_multiple_companies(query: str) -> List[Dict]:
+    """Extract multiple companies from a query like 'UBL and HBL' or 'compare MCB vs BAHL'"""
+    companies_found = []
+    query_upper = query.upper()
+    
+    # First pass: Direct ticker matching
+    for ticker_item in TICKER_DATA:
+        ticker_symbol = ticker_item["Symbol"].upper()
+        # Look for ticker as a standalone word
+        if re.search(rf'\b{re.escape(ticker_symbol)}\b', query_upper):
+            if ticker_item not in companies_found:
+                companies_found.append(ticker_item)
+                logger.info(f"Direct ticker match found: {ticker_symbol}")
+    
+    # If we found multiple companies via ticker matching, return them
+    if len(companies_found) > 1:
+        return companies_found
+    
+    # Second pass: Company name matching if no ticker matches
+    if not companies_found:
+        # Split query by common separators and check each part
+        parts = re.split(r'\s+(?:and|vs|versus|\&)\s+|\s*,\s*', query, flags=re.IGNORECASE)
+        
+        for part in parts:
+            part = part.strip()
+            if part:
+                # Try to find company by name
+                for ticker_item in TICKER_DATA:
+                    company_name_words = ticker_item["Company Name"].upper().split()
+                    part_upper = part.upper()
+                    
+                    # Check if any significant words match
+                    if any(word in part_upper for word in company_name_words if len(word) > 3):
+                        if ticker_item not in companies_found:
+                            companies_found.append(ticker_item)
+                            logger.info(f"Company name match found: {ticker_item['Symbol']}")
+    
+    return companies_found
+
+def build_metadata_filters(intents: Dict) -> Dict:
+    """Build metadata filters from parsed intents with multi-company support"""
+    metadata_filters = {}
+    
+    # Handle single vs multi-company
+    if "is_multi_company" in intents:
+        # For multi-company queries, we'll handle this in the query logic
+        # For now, use the primary company
+        if "ticker" in intents:
+            metadata_filters["ticker"] = intents["ticker"]
+    else:
+        # Single company
+        if "ticker" in intents:
+            metadata_filters["ticker"] = intents["ticker"]
+            logger.info(f"Added ticker filter: {intents['ticker']}")
+    
+    # Add statement type filter if available
+    if "statement" in intents:
+        metadata_filters["statement_type"] = intents["statement"]
+        logger.info(f"Added statement_type filter: {intents['statement']}")
+    
+    # Add scope filter if available
+    if "scope" in intents:
+        metadata_filters["financial_statement_scope"] = intents["scope"]
+        logger.info(f"Added scope filter: {intents['scope']}")
+    
+    # Add is_statement filter for main financial statements
+    if "statement" in intents:
+        metadata_filters["is_statement"] = "yes"
+    
+    # Enhanced filing_period handling for multiple quarters
+    if "year" in intents:
+        y = str(intents["year"]).strip()
+        
+        if "period" in intents and intents["period"] == "quarterly":
+            if "is_multi_quarter" in intents and "quarters" in intents:
+                # Multiple quarters requested
+                periods = []
+                for q in intents["quarters"]:
+                    periods.append(f"Q{q}-{y}")
+                    # Also add previous year for comparison
+                    prev_year = str(int(y) - 1)
+                    periods.append(f"Q{q}-{prev_year}")
+                metadata_filters["filing_period"] = periods
+                logger.info(f"Added multi-quarter filter: {periods}")
+            elif "quarter" in intents:
+                # Single quarter
+                q = str(intents["quarter"]).strip()
+                current_period = f"Q{q}-{y}"
+                prev_year = str(int(y) - 1)
+                prev_period = f"Q{q}-{prev_year}"
+                metadata_filters["filing_period"] = [current_period, prev_period]
+                logger.info(f"Added quarterly filter: {current_period}, {prev_period}")
+        else:
+            # Annual period
+            if any(term in intents.get("original_query", "").lower() for term in ["only", "just", "specifically", "exact"]):
+                metadata_filters["filing_period"] = [y]
+                logger.info(f"Added exact year filter: {y}")
+            else:
+                prev_year = str(int(y) - 1)
+                metadata_filters["filing_period"] = [y, prev_year]
+                logger.info(f"Added year comparison filter: {y}, {prev_year}")
+    
+    return metadata_filters
 
 def build_search_query(intents: Dict) -> str:
     """Build a search query string from parsed intents for semantic search"""
@@ -887,6 +1045,93 @@ async def generate_clarification_request(query: str, intents: Dict, metadata_key
         return {"clarification_needed": False, "clarification_request": None}
     except Exception as e:
         return {"clarification_needed": False, "clarification_request": f"Error generating clarification: {str(e)}"}
+
+async def query_multi_company(companies: List[str], text_query: str, metadata_filters: Dict, top_k: int) -> Dict[str, Any]:
+    """Query multiple companies simultaneously for comparative analysis"""
+    global index
+    
+    try:
+        logger.info(f"=== MULTI-COMPANY QUERY START ===")
+        logger.info(f"Companies: {companies}")
+        logger.info(f"Text query: '{text_query}'")
+        logger.info(f"Metadata filters: {metadata_filters}")
+        logger.info(f"Top K per company: {top_k}")
+        
+        all_results = {}
+        combined_nodes = []
+        total_results = 0
+        
+        # Query each company
+        for company in companies:
+            logger.info(f"Processing company: {company}")
+            
+            # Create company-specific filters
+            company_filters = metadata_filters.copy()
+            company_filters['ticker'] = company
+            
+            # Query for this specific company
+            company_result = await query_index(
+                text_query=text_query,
+                metadata_filters=company_filters,
+                top_k=top_k
+            )
+            
+            if "error" in company_result:
+                logger.warning(f"Error querying {company}: {company_result['error']}")
+                all_results[company] = {"error": company_result["error"], "nodes": [], "count": 0}
+            else:
+                company_nodes = company_result.get("nodes", [])
+                logger.info(f"Found {len(company_nodes)} nodes for {company}")
+                
+                # Add company identifier to each node for tracking
+                for node in company_nodes:
+                    if isinstance(node, dict):
+                        node["query_company"] = company
+                
+                all_results[company] = {
+                    "nodes": company_nodes,
+                    "count": len(company_nodes)
+                }
+                combined_nodes.extend(company_nodes)
+                total_results += len(company_nodes)
+        
+        # Generate summary
+        companies_with_data = [c for c in companies if all_results.get(c, {}).get("count", 0) > 0]
+        companies_without_data = [c for c in companies if all_results.get(c, {}).get("count", 0) == 0]
+        
+        summary = {
+            "companies_with_data": companies_with_data,
+            "companies_without_data": companies_without_data,
+            "total_results": total_results,
+            "recommendations": []
+        }
+        
+        if companies_without_data:
+            summary["recommendations"].append(f"Consider expanding search criteria for: {', '.join(companies_without_data)}")
+        
+        logger.info(f"=== MULTI-COMPANY QUERY COMPLETE ===")
+        logger.info(f"Total results across all companies: {total_results}")
+        
+        return {
+            "nodes": combined_nodes,
+            "company_results": all_results,
+            "total_results": total_results,
+            "companies_processed": companies,
+            "summary": summary,
+            "context_file": "multi_company_search_results.json"
+        }
+        
+    except Exception as e:
+        logger.error(f"Error in multi-company query: {str(e)}")
+        logger.error(traceback.format_exc())
+        
+        return {
+            "nodes": [],
+            "company_results": {},
+            "total_results": 0,
+            "error": f"Multi-company query failed: {str(e)}",
+            "context_file": None
+        }
 
 # -----------------------------------------------------------------------------
 # INITIALIZATION

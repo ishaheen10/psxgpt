@@ -5,6 +5,7 @@ from typing import Dict, List, Optional
 from datetime import datetime
 from pathlib import Path
 from dotenv import load_dotenv
+import uuid
 
 import chainlit as cl
 from chainlit.input_widget import Select, Slider
@@ -225,195 +226,153 @@ async def call_mcp_tool(tool_name: str, arguments: dict) -> dict:
 async def gather_mcp_data(user_query: str) -> Dict:
     """Gather data from MCP tools with detailed streaming feedback"""
     
-    # Step 1: Parse the query with detailed feedback
+    # Get conversation context from session
+    conversation_context = cl.user_session.get("conversation_context", {})
+    
+    # Step 1: Parse the query with detailed feedback and context
     await cl.Message(content="🔍 **Step 1**: Analyzing query structure...").send()
     
-    parse_result = await call_mcp_tool("psx_parse_query", {"query": user_query})
+    parse_result = await call_mcp_tool("psx_parse_query", {
+        "query": user_query,
+        "conversation_context": conversation_context
+    })
     
     if "error" in parse_result:
         logger.error(f"Parse query failed: {parse_result['error']}")
         return {"error": f"Error parsing query: {parse_result['error']}"}
     
-    # Show what we extracted with more detail
-    intents = parse_result.get("intents", {})
-    metadata_filters = parse_result.get("metadata_filters", {})
-    ticker = intents.get("ticker") or metadata_filters.get("ticker", "Not specified")
-    statement = intents.get("statement") or metadata_filters.get("statement_type", "Not specified")
-    filing_period = intents.get("filing_period") or metadata_filters.get("filing_period", "Not specified")
+    # Extract entities and build enhanced context
+    companies = parse_result.get("intents", {}).get("companies", [])
+    statement_type = parse_result.get("intents", {}).get("statement_type", "balance_sheet")
+    periods = parse_result.get("intents", {}).get("periods", [])
     
-    # Check if company was identified
-    company_identified = "ticker" in intents or "ticker" in metadata_filters
-    has_sufficient_filters = parse_result.get("has_filters", False)
+    # Handle companies - they might be dictionaries or strings
+    company_tickers = []
+    company_names = []
     
-    parse_feedback = f"""✅ **Query Analysis Complete:**
-- **Company**: {ticker} {"✅" if company_identified else "❌ Not identified"}
-- **Statement Type**: {statement}
-- **Period**: {filing_period if isinstance(filing_period, str) else ', '.join(filing_period) if filing_period else 'Not specified'}
-- **Has Filters**: {has_sufficient_filters}
-- **Query Type**: {'Financial Statement Analysis' if has_sufficient_filters else 'Needs Clarification'}"""
+    for company in companies:
+        if isinstance(company, dict):
+            # Company is a dictionary with Symbol and Company Name
+            company_tickers.append(company.get("Symbol", ""))
+            company_names.append(company.get("Company Name", company.get("Symbol", "")))
+        else:
+            # Company is already a string (ticker)
+            company_tickers.append(str(company))
+            company_names.append(str(company))
     
-    await cl.Message(content=parse_feedback).send()
+    is_multi_company = len(company_tickers) > 1
     
-    # EARLY CLARIFICATION CHECK - If no company identified, ask for clarification immediately
-    if not company_identified:
-        logger.info("No company identified in query, requesting clarification")
-        await cl.Message(content="🤔 **Company not identified - generating clarification request...**").send()
+    # Show enhanced analysis results
+    analysis_msg = f"""✅ **Query Analysis Complete:**
+Companies: {', '.join(company_tickers)} ✅ ({len(company_tickers)} found)
+Statement Type: {statement_type}
+Period: {', '.join(periods)}
+Multi-Company: {'Yes' if is_multi_company else 'No'}
+Has Filters: True
+Query Type: Financial Statement Analysis"""
+    
+    await cl.Message(content=analysis_msg).send()
+    
+    # Step 2: Execute search with appropriate method
+    if is_multi_company:
+        await cl.Message(content=f"📚 **Step 2**: Multi-company search across {len(company_tickers)} companies...").send()
         
-        clarification_result = await call_mcp_tool("psx_generate_clarification_request", {
-            "query": user_query,
-            "intents": intents,
-            "metadata_keys": ["ticker", "statement_type", "filing_period"]
+        search_result = await call_mcp_tool("psx_query_multi_company", {
+            "companies": company_tickers,
+            "text_query": user_query,
+            "metadata_filters": parse_result.get("metadata_filters", {}),
+            "top_k": 7
         })
+    else:
+        await cl.Message(content="📚 **Step 2**: Searching financial statements database...").send()
         
-        if "error" not in clarification_result:
-            return {
-                "needs_clarification": True,
-                "clarification_request": clarification_result.get("clarification_request", ""),
-                "parse_result": parse_result,
-                "reason": "Company ticker not identified"
-            }
-    
-    # Check if we need clarification for other reasons
-    if not has_sufficient_filters:
-        await cl.Message(content="🤔 **Insufficient information - generating clarification request...**").send()
-        
-        clarification_result = await call_mcp_tool("psx_generate_clarification_request", {
-            "query": user_query,
-            "intents": intents,
-            "metadata_keys": ["ticker", "statement_type", "filing_period"]
+        search_result = await call_mcp_tool("psx_query_index", {
+            "text_query": user_query,
+            "metadata_filters": parse_result.get("metadata_filters", {}),
+            "top_k": 10
         })
+    
+    if "error" in search_result:
+        logger.error(f"Search failed: {search_result['error']}")
+        return {"error": f"Search failed: {search_result['error']}"}
+    
+    # Extract results with enhanced metrics
+    if is_multi_company:
+        nodes = search_result.get("nodes", [])
+        total_results = search_result.get("total_results", 0)
+        summary = search_result.get("summary", {})
         
-        if "error" not in clarification_result and clarification_result.get("clarification_needed"):
-            return {
-                "needs_clarification": True,
-                "clarification_request": clarification_result.get("clarification_request", ""),
-                "parse_result": parse_result,
-                "reason": "Insufficient query details"
-            }
+        # Show detailed multi-company results
+        companies_with_data = summary.get("companies_with_data", [])
+        companies_without_data = summary.get("companies_without_data", [])
+        
+        result_msg = f"""✅ **Multi-Company Search Complete:**
+Total Documents Found: {total_results} relevant chunks
+Companies with Data: {len(companies_with_data)}
+Companies without Data: {len(companies_without_data)}
+"""
+        
+        if companies_with_data:
+            result_msg += f"Data Available: {', '.join(companies_with_data)}\n"
+        if companies_without_data:
+            result_msg += f"Limited Data: {', '.join(companies_without_data)}\n"
+            
+        if summary.get("recommendations"):
+            result_msg += f"Recommendations: {'; '.join(summary['recommendations'])}"
+    else:
+        nodes = search_result.get("nodes", [])
+        total_results = len(nodes)
+        
+        result_msg = f"""✅ **Search Complete:**
+Documents Found: {total_results} relevant chunks
+Company Covered: {', '.join(company_tickers)}
+Average Relevance: {search_result.get('avg_relevance', 'N/A')}"""
     
-    # Step 2: Query the index with detailed progress
-    search_query = parse_result.get("search_query", user_query)
+    await cl.Message(content=result_msg).send()
     
-    await cl.Message(content=f"📚 **Step 2**: Searching financial statements database...\n- **Search Terms**: {search_query}\n- **Filters**: {metadata_filters}").send()
+    # Step 3: Generate response
+    await cl.Message(content="📝 **Step 3**: Generating response...").send()
     
-    logger.info(f"Search query: {search_query}, Filters: {metadata_filters}")
-    
-    query_result = await call_mcp_tool("psx_query_index", {
-        "text_query": search_query,
-        "metadata_filters": metadata_filters,
-        "top_k": 10
+    # Update conversation context with current query
+    updated_context = conversation_context.copy()
+    updated_context.update({
+        "last_query": user_query,
+        "last_companies": company_tickers,
+        "last_statement_type": statement_type,
+        "last_periods": periods,
+        "last_results_count": total_results
     })
     
-    if "error" in query_result:
-        logger.error(f"Index query failed: {query_result['error']}")
-        return {"error": f"Error searching database: {query_result['error']}"}
+    # Store updated context in session
+    cl.user_session.set("conversation_context", updated_context)
     
-    nodes = query_result.get("nodes", [])
-    debug_info = query_result.get("debug_info", {})
-    
-    if not nodes:
-        logger.warning(f"No nodes found for query: {user_query}")
-        return {"error": "No relevant financial data found for your query"}
-    
-    # Enhanced validation: Check if we got the right company data
-    expected_ticker = metadata_filters.get("ticker")
-    returned_tickers = debug_info.get("returned_tickers", [])
-    
-    if expected_ticker and expected_ticker not in returned_tickers:
-        logger.warning(f"Expected ticker {expected_ticker} not found in results: {returned_tickers}")
-        return {
-            "error": f"No data found for {expected_ticker}. Available companies in search results: {', '.join(returned_tickers)}",
-            "suggestion": f"Try one of these available companies: {', '.join(returned_tickers[:5])}"
-        }
-    
-    # Show search results with more detail
-    tickers_found = set(returned_tickers)
-    periods_found = set()
-    statements_found = set()
-    
-    for node in nodes:
-        metadata = node.get("metadata", {})
-        if "filing_period" in metadata:
-            if isinstance(metadata["filing_period"], list):
-                periods_found.update(metadata["filing_period"])
-            else:
-                periods_found.add(str(metadata["filing_period"]))
-        if "statement_type" in metadata:
-            statements_found.add(metadata["statement_type"])
-    
-    search_feedback = f"""✅ **Search Complete:**
-- **Documents Found**: {len(nodes)} relevant chunks
-- **Companies Covered**: {', '.join(sorted(tickers_found)) if tickers_found else 'Various'}
-- **Periods Covered**: {', '.join(sorted(periods_found)) if periods_found else 'Multiple'}
-- **Statement Types**: {', '.join(sorted(statements_found)) if statements_found else 'Various'}
-- **Average Relevance**: {sum(node.get('score', 0) for node in nodes) / len(nodes):.3f}"""
-    
-    # Add validation message if we found the right data
-    if expected_ticker and expected_ticker in tickers_found:
-        search_feedback += f"\n- **✅ Found data for requested company**: {expected_ticker}"
-    
-    await cl.Message(content=search_feedback).send()
-    
-    logger.info(f"Found {len(nodes)} relevant nodes")
-    
-    # Step 3: Determine output format based on query analysis
-    output_format = "markdown_table"  # Default for financial statements
-    
-    # Enhanced format detection for financial queries
-    financial_keywords = ['balance sheet', 'profit and loss', 'cash flow', 'income statement', 'financial statement']
-    comparison_keywords = ['vs', 'versus', 'compare', 'comparison', 'against', 'and']
-    
-    is_financial = any(word in user_query.lower() for word in financial_keywords)
-    is_comparison = any(word in user_query.lower() for word in comparison_keywords)
-    
-    if is_comparison:
-        output_format = "comparative_analysis"
-    elif is_financial:
-        output_format = "markdown_table"
+    # Format response based on query type
+    if is_multi_company:
+        response_format = "comparative_analysis"
     else:
-        output_format = "text"
+        response_format = "detailed_analysis"
     
-    await cl.Message(content=f"📝 **Step 3**: Generating response...\n- **Format**: {output_format}\n- **Processing** {len(nodes)} relevant financial documents...").send()
-    
-    synthesis_result = await call_mcp_tool("psx_synthesize_response", {
+    generate_result = await call_mcp_tool("psx_synthesize_response", {
         "query": user_query,
         "nodes": nodes,
-        "output_format": output_format
+        "output_format": response_format
     })
     
-    if "error" in synthesis_result:
-        logger.error(f"Response synthesis failed: {synthesis_result['error']}")
-        return {"error": f"Error generating response: {synthesis_result['error']}"}
-    
-    # Save retrieved context
-    search_info = {
-        "search_query": search_query,
-        "metadata_filters": metadata_filters,
-        "intents": parse_result.get("intents", {}),
-        "output_format": output_format,
-        "tickers_found": list(tickers_found),
-        "periods_found": list(periods_found),
-        "statements_found": list(statements_found),
-        "validation": {
-            "expected_ticker": expected_ticker,
-            "ticker_found": expected_ticker in tickers_found if expected_ticker else True,
-            "company_identified_in_query": company_identified
-        }
-    }
-    
-    context_file = await save_retrieved_context(user_query, nodes, search_info)
+    if "error" in generate_result:
+        logger.error(f"Response generation failed: {generate_result['error']}")
+        return {"error": f"Response generation failed: {generate_result['error']}"}
     
     return {
-        "success": True,
-        "parse_result": parse_result,
-        "query_result": query_result,
-        "synthesis_result": synthesis_result,
-        "nodes": nodes,
-        "search_info": search_info,
-        "context_file": context_file,
-        "is_financial": is_financial,
-        "is_comparison": is_comparison,
-        "output_format": output_format
+        "response": generate_result.get("response", "No response generated"),
+        "sources": nodes,
+        "metadata": {
+            "companies": company_tickers,
+            "statement_type": statement_type,
+            "periods": periods,
+            "total_results": total_results,
+            "is_multi_company": is_multi_company,
+            "session_context": updated_context
+        }
     }
 
 @cl.on_chat_start
@@ -421,6 +380,9 @@ async def on_chat_start():
     """Initialize the chat session"""
     # Initialize message history - CRITICAL: Must be initialized here
     cl.user_session.set("messages", [])
+    
+    # Initialize conversation context for multi-turn conversations
+    cl.user_session.set("conversation_context", {})
     
     logger.info("New chat session started")
     
@@ -563,26 +525,40 @@ Please provide more specific details about:
             await cl.Message(content=error_msg).send()
             return
         
-        # Show final format information
-        format_info = mcp_data.get("output_format", "text")
-        format_description = {
-            "comparative_analysis": "Comparative analysis with side-by-side tables",
-            "markdown_table": "Structured financial statement tables",
-            "text": "Narrative analysis format"
-        }.get(format_info, "Standard format")
-        
-        # Prepare the enhanced system prompt with retrieved data
-        nodes = mcp_data["nodes"]
-        search_info = mcp_data["search_info"]
-        synthesis_result = mcp_data["synthesis_result"]
-        is_financial = mcp_data.get("is_financial", False)
-        is_comparison = mcp_data.get("is_comparison", False)
+        # Extract the response and nodes
+        nodes = mcp_data.get("sources", [])
+        response_text = mcp_data.get("response", "")
+        metadata = mcp_data.get("metadata", {})
         
         logger.info(f"Retrieved {len(nodes)} nodes for processing")
         
         # Enhanced system prompt with financial formatting instructions
         financial_instructions = ""
-        if is_financial:
+        if metadata.get("is_multi_company"):
+            financial_instructions = """
+
+SPECIAL FINANCIAL FORMATTING INSTRUCTIONS:
+Since this is a multi-company query, structure your response as follows:
+
+1. **Executive Summary** (2-3 sentences highlighting key findings)
+
+2. **Comparative Financial Data Table** (use markdown table format):
+   | Company | Metric | Current Period | Previous Period | Change |
+   |---------|--------|----------------|-----------------|--------|
+   | HBL     | Assets | X,XXX          | Y,YYY          | +Z%    |
+   | UBL     | Assets | X,XXX          | Y,YYY          | +Z%    |
+   
+3. **Key Comparative Highlights** (bullet points):
+   • Cross-company performance metrics
+   • Relative positioning and market share
+   • Notable differences in financial structure
+   
+4. **Individual Company Analysis** (if needed):
+   Use ## headers for each company's detailed analysis
+
+Use rich markdown formatting with tables, bullet points, and clear sections.
+"""
+        else:
             financial_instructions = """
 
 SPECIAL FINANCIAL FORMATTING INSTRUCTIONS:
@@ -605,8 +581,6 @@ Since this is a financial query, structure your response as follows:
    ## Balance Sheet Analysis
    ## Profitability Trends
    ## Cash Flow Performance
-   
-5. **Comparative Performance** (if multiple companies/periods)
 
 Use rich markdown formatting with tables, bullet points, and clear sections.
 """
@@ -615,24 +589,21 @@ Use rich markdown formatting with tables, bullet points, and clear sections.
 
 RETRIEVED DATA FOR CURRENT QUERY:
 Query: {message.content}
-Search Query Used: {search_info.get('search_query', '')}
-Metadata Filters: {search_info.get('metadata_filters', {})}
 Number of Chunks Retrieved: {len(nodes)}
-Output Format: {mcp_data.get('output_format', 'text')}
-Is Financial Query: {is_financial}
-Is Comparison Query: {is_comparison}
+Multi-Company Query: {metadata.get('is_multi_company', False)}
+Companies: {', '.join(metadata.get('companies', []))}
 
 Retrieved Financial Data Chunks:
 {json.dumps(nodes, indent=2)}
 
-Synthesized Response from PSX MCP:
-{synthesis_result.get('response', '')}
+Response from PSX MCP:
+{response_text}
 
 {financial_instructions}
 
 INSTRUCTIONS:
 Using the retrieved financial data above, provide a comprehensive response to the user's query. 
-{"Focus on financial statement analysis with rich formatting including tables, bullets, and clear sections." if is_financial else "Provide a thorough analysis using appropriate formatting."}
+Focus on financial statement analysis with rich formatting including tables, bullets, and clear sections.
 Include the source footnotes at the end showing which specific financial data chunks were used.
 Be thorough but conversational in your response style.
 Ensure all financial figures are properly formatted and contextually explained.

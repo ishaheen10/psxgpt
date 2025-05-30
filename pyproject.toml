@@ -17,6 +17,6 @@ dependencies = [
     "mcp[cli,core]>=1.6.0",
     "chainlit",
     "anthropic",
-    "literalai",
     "asyncpg",
+    "rapidfuzz",
 ]

@@ -411,64 +411,95 @@ async def parse_query(query: str) -> Dict[str, Any]:
         # Extract entities
         intents = {}
         
-        # Extract company information
-        company_result = await find_company(query)
-        if company_result["found"] and company_result["exact_match"]:
-            intents["company"] = company_result["matches"][0]["Company Name"]
-            intents["ticker"] = company_result["matches"][0]["Symbol"]
-        elif company_result["found"]:
-            # If not exact match but we found potential matches
-            top_match = company_result["matches"][0]
-            intents["company"] = top_match["Company Name"]
-            intents["ticker"] = top_match["Symbol"]
-            intents["company_uncertain"] = True
-            intents["potential_companies"] = company_result["matches"][:3]
+        # Enhanced company extraction with direct ticker matching first
+        query_upper = query.upper()
+        
+        # First, try direct ticker symbol matching
+        ticker_found = None
+        for ticker_item in TICKER_DATA:
+            ticker_symbol = ticker_item["Symbol"].upper()
+            # Look for ticker as a standalone word
+            if re.search(rf'\b{re.escape(ticker_symbol)}\b', query_upper):
+                ticker_found = ticker_symbol
+                intents["company"] = ticker_item["Company Name"]
+                intents["ticker"] = ticker_symbol
+                logger.info(f"Direct ticker match found: {ticker_symbol}")
+                break
+        
+        # If no direct ticker match, try company finding
+        if not ticker_found:
+            company_result = await find_company(query)
+            if company_result["found"]:
+                if company_result["exact_match"]:
+                    intents["company"] = company_result["matches"][0]["Company Name"]
+                    intents["ticker"] = company_result["matches"][0]["Symbol"]
+                    logger.info(f"Exact company match found: {intents['ticker']}")
+                elif len(company_result["matches"]) == 1:
+                    # Single partial match - use it
+                    intents["company"] = company_result["matches"][0]["Company Name"]
+                    intents["ticker"] = company_result["matches"][0]["Symbol"]
+                    intents["company_uncertain"] = True
+                    logger.info(f"Single partial match found: {intents['ticker']}")
+                else:
+                    # Multiple matches - mark as uncertain
+                    top_match = company_result["matches"][0]
+                    intents["company"] = top_match["Company Name"]
+                    intents["ticker"] = top_match["Symbol"]
+                    intents["company_uncertain"] = True
+                    intents["potential_companies"] = company_result["matches"][:3]
+                    logger.info(f"Multiple matches found, using top: {intents['ticker']}")
 
-        # Extract statement-like terms
-        statement_pattern = r'\b(profit and loss|income statement|p&l|balance sheet|cash flow|changes in equity|comprehensive income|notes|financial statements)\b'
-        statement_match = re.search(statement_pattern, query, re.IGNORECASE)
-        if statement_match:
-            stmt_text = statement_match.group(0).lower()
-            if any(term in stmt_text for term in ["profit and loss", "income statement", "p&l"]):
-                intents["statement"] = "profit_and_loss"
-            elif "balance sheet" in stmt_text:
-                intents["statement"] = "balance_sheet"
-            elif "cash flow" in stmt_text:
-                intents["statement"] = "cash_flow"
-            elif "changes in equity" in stmt_text:
-                intents["statement"] = "changes_in_equity"
-            elif any(term in stmt_text for term in ["note", "notes"]):
-                intents["statement"] = "notes"
-            else:
-                intents["statement"] = "financial_statements"
+        # Extract statement-like terms with more specific patterns
+        statement_patterns = [
+            (r'\b(?:profit\s+and\s+loss|income\s+statement|p\s*&\s*l)\b', 'profit_and_loss'),
+            (r'\bbalance\s+sheet\b', 'balance_sheet'),
+            (r'\bcash\s+flow\b', 'cash_flow'),
+            (r'\bchanges\s+in\s+equity\b', 'changes_in_equity'),
+            (r'\bcomprehensive\s+income\b', 'comprehensive_income')
+        ]
+        
+        for pattern, statement_type in statement_patterns:
+            if re.search(pattern, query, re.IGNORECASE):
+                intents["statement"] = statement_type
+                logger.info(f"Statement type identified: {statement_type}")
+                break
 
-        # Extract years
+        # Extract years with better validation
         year_matches = re.findall(r'\b(20\d{2})\b', query)
         if year_matches:
-            intents["year"] = year_matches[0]
+            # Use the most recent year if multiple found
+            years = sorted(year_matches, reverse=True)
+            intents["year"] = years[0]
+            logger.info(f"Year identified: {intents['year']}")
 
-        # Extract scope
-        if "unconsolidated" in query.lower():
-            intents["scope"] = "unconsolidated"
-        elif "consolidated" in query.lower():
-            intents["scope"] = "consolidated"
+        # Extract scope with specific patterns
+        scope_patterns = [
+            (r'\bunconsolidated\b', 'unconsolidated'),
+            (r'\bconsolidated\b', 'consolidated'),
+            (r'\bstandalone\b', 'unconsolidated'),
+            (r'\bseparate\b', 'unconsolidated')
+        ]
         
-        # Extract period
-        if any(term in query.lower() for term in ["quarter", "quarterly", "q1", "q2", "q3", "q4"]):
-            intents["period"] = "quarterly"
-            
-            # Try to extract quarter number
-            quarter_match = re.search(r'\b(q[1-4]|first quarter|second quarter|third quarter|fourth quarter)\b', query, re.IGNORECASE)
-            if quarter_match:
-                q_text = quarter_match.group(0).lower()
-                if q_text in ["q1", "first quarter"]:
-                    intents["quarter"] = "1"
-                elif q_text in ["q2", "second quarter"]:
-                    intents["quarter"] = "2"
-                elif q_text in ["q3", "third quarter"]:
-                    intents["quarter"] = "3"
-                elif q_text in ["q4", "fourth quarter"]:
-                    intents["quarter"] = "4"
+        for pattern, scope_value in scope_patterns:
+            if re.search(pattern, query, re.IGNORECASE):
+                intents["scope"] = scope_value
+                logger.info(f"Scope identified: {scope_value}")
+                break
+        
+        # Extract period with better quarterly detection
+        quarterly_patterns = [
+            (r'\b(?:q1|first\s+quarter)\b', '1'),
+            (r'\b(?:q2|second\s+quarter)\b', '2'),
+            (r'\b(?:q3|third\s+quarter)\b', '3'),
+            (r'\b(?:q4|fourth\s+quarter)\b', '4')
+        ]
+        
+        for pattern, quarter_num in quarterly_patterns:
+            if re.search(pattern, query, re.IGNORECASE):
+                intents["period"] = "quarterly"
+                intents["quarter"] = quarter_num
+                logger.info(f"Quarterly period identified: Q{quarter_num}")
+                break
         else:
             intents["period"] = "annual"
 
@@ -485,20 +516,27 @@ async def parse_query(query: str) -> Dict[str, Any]:
             if len(comp_years) > 1:
                 intents["comparison_years"] = comp_years
                 
-        # Build metadata filters directly
+        # Build metadata filters directly with proper validation
         metadata_filters = {}
         
-        # Add company filter if available
+        # Add company filter if available - THIS IS CRITICAL
         if "ticker" in intents:
             metadata_filters["ticker"] = intents["ticker"]
+            logger.info(f"Added ticker filter: {intents['ticker']}")
         
         # Add statement type filter if available
         if "statement" in intents:
             metadata_filters["statement_type"] = intents["statement"]
+            logger.info(f"Added statement_type filter: {intents['statement']}")
         
         # Add scope filter if available
         if "scope" in intents:
             metadata_filters["financial_statement_scope"] = intents["scope"]
+            logger.info(f"Added scope filter: {intents['scope']}")
+        
+        # Add is_statement filter for main financial statements
+        if "statement" in intents:
+            metadata_filters["is_statement"] = "yes"
         
         # Add filing_period filter based on year and period
         if "year" in intents:
@@ -507,31 +545,37 @@ async def parse_query(query: str) -> Dict[str, Any]:
             if "period" in intents and intents["period"] == "annual":
                 if any(term in query.lower() for term in ["only", "just", "specifically", "exact"]):
                     metadata_filters["filing_period"] = [y]
+                    logger.info(f"Added exact year filter: {y}")
                 else:
                     prev_year = str(int(y) - 1)
                     metadata_filters["filing_period"] = [y, prev_year]
-        
-        # Add period filter if available
-        if "period" in intents and "year" in intents:
-            y = str(intents["year"]).strip()
-            
-            if intents["period"] == "quarterly" and "quarter" in intents:
+                    logger.info(f"Added year comparison filter: {y}, {prev_year}")
+            elif "period" in intents and intents["period"] == "quarterly" and "quarter" in intents:
                 q = str(intents["quarter"]).strip()
                 current_period = f"Q{q}-{y}"
                 prev_year = str(int(y) - 1)
                 prev_period = f"Q{q}-{prev_year}"
                 metadata_filters["filing_period"] = [current_period, prev_period]
+                logger.info(f"Added quarterly filter: {current_period}, {prev_period}")
         
         # Build search query for semantic search
         search_query = build_search_query(intents)
+
+        # Determine if we have sufficient filters
+        has_filters = len(metadata_filters) > 0 and ("ticker" in metadata_filters or "statement_type" in metadata_filters)
+        
+        logger.info(f"Final metadata_filters: {metadata_filters}")
+        logger.info(f"Has sufficient filters: {has_filters}")
 
         return {
             "intents": intents,
             "metadata_filters": metadata_filters, 
             "search_query": search_query,
-            "has_filters": len(metadata_filters) > 0
+            "has_filters": has_filters
         }
     except Exception as e:
+        logger.error(f"Error parsing query: {str(e)}")
+        traceback.print_exc()
         return {
             "intents": {}, 
             "metadata_filters": {}, 
@@ -582,60 +626,117 @@ async def query_index(text_query: str, metadata_filters: Dict, top_k: int) -> Di
     global index
     
     try:
+        logger.info(f"=== QUERY INDEX START ===")
+        logger.info(f"Text query: '{text_query}'")
+        logger.info(f"Metadata filters received: {metadata_filters}")
+        logger.info(f"Top K: {top_k}")
+        
         # Create a copy of metadata_filters to avoid modifying the original
         query_filters = metadata_filters.copy()
         
-        # Keep filing_period in the query filters for initial filtering
-        filing_periods = None
-        if "filing_period" in query_filters:
-            filing_periods = query_filters["filing_period"]
-            logger.info(f"Using filing_period for filtering: {filing_periods}")
-        
-        # Create metadata filters for all fields including filing_period
-        standard_filters = []
+        # Validate and clean filters
+        valid_filters = {}
         for key, value in query_filters.items():
-            # Handle filing_period specially if it's a list
-            if key == "filing_period" and isinstance(value, list):
-                # Create a filter for each year in the list using OR logic
-                for year in value:
-                    standard_filters.append(MetadataFilter(key=key, value=year))
-                logger.info(f"Added multiple filing_period filters for years: {value}")
-            else:
-                standard_filters.append(MetadataFilter(key=key, value=value))
-                logger.info(f"Added standard filter for {key}: {value}")
+            if value is not None and str(value).strip():
+                if key == "filing_period" and isinstance(value, list):
+                    # Keep list as is for filing_period
+                    valid_filters[key] = value
+                else:
+                    valid_filters[key] = str(value).strip()
         
-        logger.info(f"Standard filters: {standard_filters}")
-        logger.info(f"Index query: {text_query}")
+        logger.info(f"Valid filters after cleaning: {valid_filters}")
+        
+        # Create metadata filters for llamaindex
+        standard_filters = []
+        filing_period_filters = []
+        
+        for key, value in valid_filters.items():
+            if key == "filing_period" and isinstance(value, list):
+                # Handle filing_period specially with OR logic
+                for period in value:
+                    if period and str(period).strip():
+                        filing_period_filters.append(MetadataFilter(key=key, value=str(period).strip()))
+                        logger.info(f"Added filing_period filter: {key} = {period}")
+            else:
+                # Handle all other filters with AND logic
+                standard_filters.append(MetadataFilter(key=key, value=value))
+                logger.info(f"Added standard filter: {key} = {value}")
+        
+        logger.info(f"Standard filters: {len(standard_filters)}")
+        logger.info(f"Filing period filters: {len(filing_period_filters)}")
 
+        # Build retriever with filters
         retriever_kwargs = {"similarity_top_k": top_k}
-        if standard_filters:
-            # Use OR operator for filing_period filters, AND for everything else
-            filing_period_filters = [f for f in standard_filters if f.key == "filing_period"]
-            other_filters = [f for f in standard_filters if f.key != "filing_period"]
-            
-            # If we have filing period filters, use OR logic between them
-            if filing_period_filters:
+        
+        if standard_filters or filing_period_filters:
+            if filing_period_filters and standard_filters:
+                # Combine both types of filters
                 retriever_kwargs["filters"] = MetadataFilters(
-                    filters=other_filters,
+                    filters=standard_filters,
+                    condition="and",
                     filters_with_or=[filing_period_filters]
                 )
-                logger.info("Using OR logic for filing_period filters")
+                logger.info("Using combined AND/OR filter logic")
+            elif filing_period_filters:
+                # Only filing period filters with OR logic
+                retriever_kwargs["filters"] = MetadataFilters(
+                    filters=filing_period_filters,
+                    condition="or"
+                )
+                logger.info("Using OR logic for filing_period only")
             else:
-                retriever_kwargs["filters"] = MetadataFilters(filters=standard_filters)
+                # Only standard filters with AND logic
+                retriever_kwargs["filters"] = MetadataFilters(
+                    filters=standard_filters,
+                    condition="and"
+                )
+                logger.info("Using AND logic for standard filters only")
 
+        logger.info(f"Retriever kwargs: {retriever_kwargs}")
+
+        # Execute the query
         retriever = index.as_retriever(**retriever_kwargs)
         nodes = retriever.retrieve(text_query)
-        logger.info(f"Retrieved {len(nodes)} nodes for query: {text_query}")
+        logger.info(f"Raw retrieval returned {len(nodes)} nodes")
         
-        # Convert to serializable format
+        # Convert to serializable format with validation
         nodes_serialized = []
         for i, node in enumerate(nodes):
-            nodes_serialized.append({
-                "node_id": node.node.node_id,
-                "text": node.node.text,
-                "metadata": node.node.metadata,
-                "score": node.score if hasattr(node, 'score') else None
-            })
+            try:
+                node_metadata = node.node.metadata if hasattr(node.node, 'metadata') else {}
+                node_text = node.node.text if hasattr(node.node, 'text') else ""
+                node_score = node.score if hasattr(node, 'score') else None
+                
+                # Log the first few nodes for debugging
+                if i < 3:
+                    logger.info(f"Node {i}: ticker={node_metadata.get('ticker', 'N/A')}, score={node_score}")
+                
+                nodes_serialized.append({
+                    "node_id": node.node.node_id,
+                    "text": node_text,
+                    "metadata": node_metadata,
+                    "score": node_score
+                })
+            except Exception as node_error:
+                logger.warning(f"Error processing node {i}: {node_error}")
+                continue
+        
+        logger.info(f"Successfully processed {len(nodes_serialized)} nodes")
+        
+        # Debug: Check what tickers were actually returned
+        returned_tickers = set()
+        for node in nodes_serialized:
+            ticker = node.get("metadata", {}).get("ticker")
+            if ticker:
+                returned_tickers.add(ticker)
+        
+        logger.info(f"Tickers in returned results: {sorted(returned_tickers)}")
+        
+        # If we have a ticker filter but got wrong results, log warning
+        expected_ticker = valid_filters.get("ticker")
+        if expected_ticker and expected_ticker not in returned_tickers:
+            logger.warning(f"Expected ticker '{expected_ticker}' not found in results!")
+            logger.warning(f"Got tickers: {sorted(returned_tickers)}")
         
         # Save context for debugging
         timestamp = datetime.datetime.now().strftime("%Y%m%d_%H%M%S")
@@ -644,7 +745,13 @@ async def query_index(text_query: str, metadata_filters: Dict, top_k: int) -> Di
             json.dump({
                 "query": text_query,
                 "metadata_filters": metadata_filters,
-                "nodes": nodes_serialized
+                "valid_filters": valid_filters,
+                "nodes": nodes_serialized,
+                "debug_info": {
+                    "expected_ticker": expected_ticker,
+                    "returned_tickers": sorted(returned_tickers),
+                    "filter_applied": len(standard_filters) > 0 or len(filing_period_filters) > 0
+                }
             }, f, indent=2)
         
         # Extract unique metadata values from results for reference
@@ -663,12 +770,20 @@ async def query_index(text_query: str, metadata_filters: Dict, top_k: int) -> Di
         for key in result_metadata:
             result_metadata[key] = sorted(list(result_metadata[key]))
         
+        logger.info(f"=== QUERY INDEX COMPLETE ===")
+        
         return {
             "nodes": nodes_serialized,
             "context_file": str(context_file),
             "metadata_summary": result_metadata,
             "query": text_query,
-            "filters": metadata_filters
+            "filters": metadata_filters,
+            "debug_info": {
+                "filters_applied": valid_filters,
+                "expected_ticker": expected_ticker,
+                "returned_tickers": sorted(returned_tickers),
+                "total_nodes": len(nodes_serialized)
+            }
         }
     except Exception as e:
         logger.error(f"Error querying index: {str(e)}")

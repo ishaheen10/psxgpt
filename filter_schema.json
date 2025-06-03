@@ -1,0 +1,87 @@
+{
+    "type": "object",
+    "properties": {
+      "ticker": {
+        "type": "string",
+        "description": "PSX ticker symbol (e.g., AKBL). Case-insensitive matching needed."
+      },
+      "entity_name": {
+        "type": "string",
+        "description": "Full name of the entity (e.g., 'Askari Bank Limited'). Used for display and contextual matching."
+      },
+      "financial_data": {
+        "type": "string",
+        "enum": ["yes", "no"],
+        "description": "Indicates whether the chunk contains financial data."
+      },
+      "financial_statement_scope": {
+        "type": "string",
+        "enum": ["consolidated", "unconsolidated", "none"],
+        "description": "Scope of the financial statements."
+      },
+      "is_statement": {
+        "type": "string",
+        "enum": ["yes", "no"],
+        "description": "Indicates if the chunk primarily contains one of the main financial statements."
+      },
+      "statement_type": {
+        "type": "string",
+        "enum": [
+          "profit_and_loss",
+          "balance_sheet",
+          "cash_flow",
+          "changes_in_equity",
+          "comprehensive_income",
+          "none"
+        ],
+        "description": "Type of financial statement."
+      },
+      "is_note": {
+        "type": "string",
+        "enum": ["yes", "no"],
+        "description": "Indicates if the chunk primarily represents a note to the financial statements."
+      },
+      "note_link": {
+        "type": "string",
+        "enum": [
+          "profit_and_loss",
+          "balance_sheet",
+          "cash_flow",
+          "changes_in_equity",
+          "comprehensive_income",
+          "none"
+        ],
+        "description": "If is_note is 'yes', indicates which statement type the note primarily relates to."
+      },
+      "auditor_report": {
+        "type": "string",
+        "enum": ["yes", "no"],
+        "description": "Indicates if the chunk contains the Independent Auditor's Report."
+      },
+      "director_report": {
+        "type": "string",
+        "enum": ["yes", "no"],
+        "description": "Indicates if the chunk contains the Directors' Report or Chairman's Statement."
+      },
+      "annual_report_discussion": {
+        "type": "string",
+        "enum": ["yes", "no"],
+        "description": "Indicates if the chunk contains Management Discussion & Analysis (MD&A)."
+      },
+      "filing_type": {
+        "type": "string",
+        "enum": ["annual", "quarterly"],
+        "description": "Type of filing period (annual or quarterly)."
+      },
+      "filing_period": {
+        "type": "array",
+        "items": { "type": "string" },
+        "description": "List of periods covered by the filing."
+      },
+      "source_file": {
+        "type": "string",
+        "description": "Original source filename."
+      }
+    }
+  }
+  

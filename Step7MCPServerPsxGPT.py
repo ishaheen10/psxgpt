@@ -1,800 +1,467 @@
+"""
+hybrid_server.py — Production-ready PSX MCP Server with Clean Architecture
+Combines the simplicity of the refactored version with robustness of the original.
+"""
+
 import os
 import sys
 import json
 import re
-import datetime
-import traceback
+import asyncio
 import logging
-import time
-from typing import Dict, List, Optional, Any
+from typing import Dict, List, Optional, Any, AsyncContextManager
 from pathlib import Path
+from dataclasses import dataclass
+from contextlib import asynccontextmanager
+import datetime
 
 from dotenv import load_dotenv
 from llama_index.core import StorageContext, load_index_from_storage
+from llama_index.core.vector_stores import MetadataFilter, MetadataFilters
+from llama_index.core.schema import NodeWithScore, TextNode
+from llama_index.core.response_synthesizers import get_response_synthesizer, ResponseMode
 from llama_index.embeddings.google_genai import GoogleGenAIEmbedding
 from llama_index.llms.google_genai import GoogleGenAI
-from llama_index.core.response_synthesizers import get_response_synthesizer, ResponseMode
-from llama_index.core.retrievers import VectorIndexRetriever
-from llama_index.core.schema import NodeWithScore
-from llama_index.core.vector_stores import MetadataFilters, MetadataFilter, ExactMatchFilter
+from mcp.server.fastmcp import FastMCP
 
-from mcp.server import Server
-from mcp.server.models import InitializationOptions
-import mcp.server.stdio
-import mcp.types as types
-
-# -----------------------------------------------------------------------------
-# CONFIGURATION AND SETUP
-# -----------------------------------------------------------------------------
-
-# Set up logging
-logging.basicConfig(
-    level=logging.INFO,
-    format='%(asctime)s - %(name)s - %(levelname)s - %(message)s'
-)
-logger = logging.getLogger("psx-financial-statements")
-
+# ─────────────────────────── Configuration ──────────────────────────────
 load_dotenv()
 
-# Server configuration
-server = Server("psx-financial-statements")
-
-# Paths configuration
-CURRENT_DIR = Path(__file__).parent
-INDEX_DIR = CURRENT_DIR / "gemini_index_metadata"
-CONTEXT_DIR = CURRENT_DIR / "retrieved_contexts"
+BASE_DIR = Path(__file__).parent.resolve()
+INDEX_DIR = BASE_DIR / "gemini_index_metadata"
+CONTEXT_DIR = BASE_DIR / "hybrid_contexts"
 CONTEXT_DIR.mkdir(exist_ok=True)
-TICKERS_PATH = CURRENT_DIR / "tickers.json"
+TICKERS_PATH = BASE_DIR / "tickers.json"
 
-# API Configuration
-GEMINI_API_KEY = os.getenv('GEMINI_API_KEY')
+GEMINI_API_KEY = os.getenv("GEMINI_API_KEY")
 if not GEMINI_API_KEY:
-    logger.error("GEMINI_API_KEY environment variable not set")
-    sys.exit(1)
+    raise RuntimeError("GEMINI_API_KEY environment variable not set")
 
-# -----------------------------------------------------------------------------
-# GLOBAL RESOURCES
-# -----------------------------------------------------------------------------
+# ─────────────────────────── Enhanced Logging ───────────────────────────
+logging.basicConfig(
+    level=logging.INFO,
+    format="%(asctime)s - %(name)s - %(levelname)s - %(message)s",
+)
+log = logging.getLogger("hybrid-psx-server")
 
-# Load company tickers
-try:
-    with open(TICKERS_PATH, 'r') as f:
-        TICKER_DATA = json.load(f)
-        TICKER_SYMBOLS = [item["Symbol"] for item in TICKER_DATA]
-        COMPANY_NAMES = [item["Company Name"] for item in TICKER_DATA]
-        logger.info(f"Loaded {len(TICKER_DATA)} companies from tickers.json")
-except Exception as e:
-    logger.error(f"Error loading tickers.json: {e}")
-    TICKER_DATA = []
-    TICKER_SYMBOLS = []
-    COMPANY_NAMES = []
+# ─────────────────────────── Custom Exceptions ──────────────────────────
+class PSXServerError(Exception):
+    """Base exception for PSX server errors"""
+    pass
 
-# Global index and model instances
-embed_model = None
-llm = None
-index = None
-response_synthesizer = None
+class IndexError(PSXServerError):
+    """Index loading/querying errors"""
+    pass
 
-# -----------------------------------------------------------------------------
-# RESOURCE HANDLERS
-# -----------------------------------------------------------------------------
+class SynthesisError(PSXServerError):
+    """Response synthesis errors"""
+    pass
 
-@server.list_resources()
-async def handle_list_resources() -> list[types.Resource]:
-    """List available resources"""
-    return [
-        types.Resource(
-            uri="psx://companies",
-            name="PSX Companies",
-            description="List of all Pakistan Stock Exchange companies with their ticker symbols",
-            mimeType="application/json"
-        ),
-        types.Resource(
-            uri="psx://filter_schema",
-            name="Filter Schema",
-            description="Schema for filtering PSX financial statement data",
-            mimeType="application/json"
-        ),
-        types.Resource(
-            uri="psx://server_info",
-            name="Server Info",
-            description="Information about this PSX MCP server",
-            mimeType="application/json"
-        )
-    ]
+class QueryParsingError(PSXServerError):
+    """Query parsing errors"""
+    pass
 
-@server.read_resource()
-async def handle_read_resource(uri: str) -> str:
-    """Read resource content"""
-    if uri == "psx://companies":
-        return json.dumps(TICKER_DATA, indent=2)
-    elif uri == "psx://filter_schema":
-        return json.dumps({
-            "type": "object",
-            "properties": {
-                "ticker": {
-                    "type": "string",
-                    "description": "PSX ticker symbol (e.g., AKBL). Case-insensitive matching needed."
-                },
-                "entity_name": {
-                    "type": "string",
-                    "description": "Full name of the entity (e.g., 'Askari Bank Limited'). Used for display and contextual matching."
-                },
-                "financial_data": {
-                    "type": "string",
-                    "enum": ["yes", "no"],
-                    "description": "Indicates whether the chunk contains financial data."
-                },
-                "financial_statement_scope": {
-                    "type": "string",
-                    "enum": ["consolidated", "unconsolidated", "none"],
-                    "description": "Scope of the financial statements."
-                },
-                "is_statement": {
-                    "type": "string",
-                    "enum": ["yes", "no"],
-                    "description": "Indicates if the chunk primarily contains one of the main financial statements."
-                },
-                "statement_type": {
-                    "type": "string",
-                    "enum": ["profit_and_loss", "balance_sheet", "cash_flow", "changes_in_equity", "comprehensive_income", "none"],
-                    "description": "Type of financial statement."
-                },
-                "is_note": {
-                    "type": "string",
-                    "enum": ["yes", "no"],
-                    "description": "Indicates if the chunk primarily represents a note to the financial statements."
-                },
-                "note_link": {
-                    "type": "string",
-                    "enum": ["profit_and_loss", "balance_sheet", "cash_flow", "changes_in_equity", "comprehensive_income", "none"],
-                    "description": "If is_note is 'yes', indicates which statement type the note primarily relates to."
-                },
-                "auditor_report": {
-                    "type": "string",
-                    "enum": ["yes", "no"],
-                    "description": "Indicates if the chunk contains the Independent Auditor's Report."
-                },
-                "director_report": {
-                    "type": "string",
-                    "enum": ["yes", "no"],
-                    "description": "Indicates if the chunk contains the Directors' Report or Chairman's Statement."
-                },
-                "annual_report_discussion": {
-                    "type": "string",
-                    "enum": ["yes", "no"],
-                    "description": "Indicates if the chunk contains Management Discussion & Analysis (MD&A)."
-                },
-                "filing_type": {
-                    "type": "string",
-                    "enum": ["annual", "quarterly"],
-                    "description": "Type of filing period (annual or quarterly)."
-                },
-                "filing_period": {
-                    "type": "array",
-                    "items": {"type": "string"},
-                    "description": "List of periods covered by the filing."
-                },
-                "source_file": {
-                    "type": "string",
-                    "description": "Original source filename."
-                }
-            }
-        }, indent=2)
-    elif uri == "psx://server_info":
-        return json.dumps({
-            "name": "PSX Financial Statements Server",
-            "version": "1.0.0",
-            "description": "Server for querying Pakistan Stock Exchange financial statement data",
-            "index_type": "Vector index with financial statement data",
-            "capabilities": ["metadata search", "semantic search", "response synthesis"],
-            "companies_available": len(TICKER_DATA)
-        }, indent=2)
+# ─────────────────────────── Retry Configuration ────────────────────────
+@dataclass
+class RetryConfig:
+    attempts: int = 3
+    base_delay: float = 1.0
+    factor: float = 2.0
+    max_delay: float = 10.0
+    timeout: float = 30.0
+
+async def retry_with_backoff(coro_func, config: RetryConfig = None, retriable_errors=(Exception,)):
+    """Enhanced retry logic with exponential backoff"""
+    if config is None:
+        config = RetryConfig()
     
-    raise ValueError(f"Unknown resource: {uri}")
-
-# -----------------------------------------------------------------------------
-# TOOL HANDLERS
-# -----------------------------------------------------------------------------
-
-@server.list_tools()
-async def handle_list_tools() -> list[types.Tool]:
-    """List available tools"""
-    return [
-        types.Tool(
-            name="psx_find_company",
-            description="Find a company by name or ticker symbol in the Pakistan Stock Exchange",
-            inputSchema={
-                "type": "object",
-                "properties": {
-                    "query": {
-                        "type": "string",
-                        "description": "Company name or ticker symbol to search for"
-                    }
-                },
-                "required": ["query"]
-            }
-        ),
-        types.Tool(
-            name="psx_parse_query",
-            description="Extract structured parameters from a financial statement query and build search filters",
-            inputSchema={
-                "type": "object",
-                "properties": {
-                    "query": {
-                        "type": "string",
-                        "description": "Natural language query about PSX financial statements"
-                    },
-                    "conversation_context": {
-                        "type": "object",
-                        "description": "Optional context from previous queries in the conversation"
-                    }
-                },
-                "required": ["query"]
-            }
-        ),
-        types.Tool(
-            name="psx_query_index",
-            description="Query the PSX financial statement vector index with semantic search and metadata filters",
-            inputSchema={
-                "type": "object",
-                "properties": {
-                    "text_query": {
-                        "type": "string",
-                        "description": "Semantic search query"
-                    },
-                    "metadata_filters": {
-                        "type": "object",
-                        "description": "Metadata filters for precise searching"
-                    },
-                    "top_k": {
-                        "type": "integer",
-                        "default": 15,
-                        "description": "Number of results to retrieve"
-                    }
-                },
-                "required": ["text_query"]
-            }
-        ),
-        types.Tool(
-            name="psx_synthesize_response",
-            description="Generate a structured response from PSX financial statement data retrieved from the index",
-            inputSchema={
-                "type": "object",
-                "properties": {
-                    "query": {
-                        "type": "string",
-                        "description": "Original user query"
-                    },
-                    "nodes": {
-                        "type": "array",
-                        "items": {
-                            "type": "object",
-                            "properties": {
-                                "text": {"type": "string"},
-                                "metadata": {"type": "object"},
-                                "score": {"type": "number"}
-                            }
-                        },
-                        "description": "Retrieved nodes from the index"
-                    },
-                    "output_format": {
-                        "type": "string",
-                        "enum": ["text", "markdown_table", "json"],
-                        "default": "text",
-                        "description": "Output format for the response"
-                    }
-                },
-                "required": ["query", "nodes"]
-            }
-        ),
-        types.Tool(
-            name="psx_generate_clarification_request",
-            description="Generate a clarification request for ambiguous PSX financial statement queries",
-            inputSchema={
-                "type": "object",
-                "properties": {
-                    "query": {
-                        "type": "string",
-                        "description": "Original user query"
-                    },
-                    "intents": {
-                        "type": "object",
-                        "description": "Parsed intents from the query"
-                    },
-                    "metadata_keys": {
-                        "type": "array",
-                        "items": {"type": "string"},
-                        "description": "Available metadata keys for filtering"
-                    }
-                },
-                "required": ["query", "intents", "metadata_keys"]
-            }
-        ),
-        types.Tool(
-            name="psx_query_multi_company",
-            description="Query multiple companies simultaneously for comparative analysis",
-            inputSchema={
-                "type": "object",
-                "properties": {
-                    "companies": {
-                        "type": "array",
-                        "items": {"type": "string"},
-                        "description": "List of company tickers to query"
-                    },
-                    "text_query": {
-                        "type": "string",
-                        "description": "Semantic search query"
-                    },
-                    "metadata_filters": {
-                        "type": "object",
-                        "description": "Metadata filters for precise searching"
-                    },
-                    "top_k": {
-                        "type": "integer",
-                        "default": 10,
-                        "description": "Number of results per company"
-                    }
-                },
-                "required": ["companies", "text_query"]
-            }
-        ),
-    ]
-
-@server.call_tool()
-async def handle_call_tool(
-    name: str,
-    arguments: dict | None
-) -> list[types.TextContent | types.ImageContent | types.EmbeddedResource]:
-    """Handle tool calls"""
+    delay = config.base_delay
+    last_error = None
     
-    if name == "psx_find_company":
-        result = await find_company(arguments.get("query", ""))
-        return [types.TextContent(type="text", text=json.dumps(result, indent=2))]
-    
-    elif name == "psx_parse_query":
-        result = await parse_query(arguments.get("query", ""), arguments.get("conversation_context", None))
-        return [types.TextContent(type="text", text=json.dumps(result, indent=2))]
-    
-    elif name == "psx_query_index":
-        result = await query_index(
-            text_query=arguments.get("text_query", ""),
-            metadata_filters=arguments.get("metadata_filters", {}),
-            top_k=arguments.get("top_k", 15)
-        )
-        return [types.TextContent(type="text", text=json.dumps(result, indent=2))]
-    
-    elif name == "psx_synthesize_response":
-        result = await synthesize_response(
-            query=arguments.get("query", ""),
-            nodes=arguments.get("nodes", []),
-            output_format=arguments.get("output_format", "text")
-        )
-        return [types.TextContent(type="text", text=json.dumps(result, indent=2))]
-    
-    elif name == "psx_generate_clarification_request":
-        result = await generate_clarification_request(
-            query=arguments.get("query", ""),
-            intents=arguments.get("intents", {}),
-            metadata_keys=arguments.get("metadata_keys", [])
-        )
-        return [types.TextContent(type="text", text=json.dumps(result, indent=2))]
-    
-    elif name == "psx_query_multi_company":
-        result = await query_multi_company(
-            companies=arguments.get("companies", []),
-            text_query=arguments.get("text_query", ""),
-            metadata_filters=arguments.get("metadata_filters", {}),
-            top_k=arguments.get("top_k", 10)
-        )
-        return [types.TextContent(type="text", text=json.dumps(result, indent=2))]
-    
-    raise ValueError(f"Unknown tool: {name}")
-
-# -----------------------------------------------------------------------------
-# TOOL IMPLEMENTATIONS
-# -----------------------------------------------------------------------------
-
-async def find_company(query: str) -> Dict[str, Any]:
-    """Find a company by name or ticker symbol in the Pakistan Stock Exchange"""
-    query = query.strip().upper()
-    matches = []
-    
-    # Check for direct ticker match
-    direct_ticker_match = next((item for item in TICKER_DATA if item["Symbol"].upper() == query), None)
-    if direct_ticker_match:
-        return {
-            "found": True,
-            "matches": [direct_ticker_match],
-            "exact_match": True,
-            "query": query
-        }
-    
-    # Check for partial matches in ticker or name
-    for item in TICKER_DATA:
-        ticker = item["Symbol"].upper()
-        name = item["Company Name"].upper()
+    for attempt in range(config.attempts):
+        try:
+            return await asyncio.wait_for(coro_func(), config.timeout)
+        except asyncio.TimeoutError as e:
+            last_error = PSXServerError(f"Operation timed out after {config.timeout}s")
+            log.warning(f"Timeout on attempt {attempt + 1}/{config.attempts}")
+        except retriable_errors as e:
+            last_error = e
+            log.warning(f"Retriable error on attempt {attempt + 1}/{config.attempts}: {e}")
+        except Exception as e:
+            log.error(f"Non-retriable error: {e}")
+            raise
         
-        if query in ticker or query in name:
-            matches.append(item)
+        if attempt < config.attempts - 1:
+            await asyncio.sleep(delay)
+            delay = min(delay * config.factor, config.max_delay)
     
-    # Also check for bank-specific searches
-    if "BANK" in query:
-        bank_matches = [item for item in TICKER_DATA if "BANK" in item["Company Name"].upper()]
-        # Add any bank matches not already in matches
-        for bank in bank_matches:
-            if bank not in matches:
-                matches.append(bank)
+    raise last_error
 
-    # Sort matches by relevance (exact matches first, then partial)
-    matches.sort(key=lambda x: (
-        0 if x["Symbol"].upper() == query else 
-        1 if query in x["Symbol"].upper() else 
-        2 if query in x["Company Name"].upper() else 3
-    ))
+# ─────────────────────────── Resource Manager ───────────────────────────
+class ResourceManager:
+    """Lightweight resource manager with proper lifecycle"""
     
-    # Limit to top 5 matches to avoid overwhelming
-    matches = matches[:5]
+    def __init__(self):
+        self.embed_model = None
+        self.llm = None
+        self.index = None
+        self.synthesizer = None
+        self._initialized = False
     
-    return {
-        "found": len(matches) > 0,
-        "matches": matches,
-        "exact_match": False,
-        "query": query
-    }
+    @asynccontextmanager
+    async def managed_lifecycle(self):
+        """Context manager for resource lifecycle"""
+        try:
+            await self._initialize()
+            log.info("Resources initialized successfully")
+            yield self
+        except Exception as e:
+            log.error(f"Resource initialization failed: {e}")
+            raise PSXServerError(f"Failed to initialize resources: {e}")
+        finally:
+            await self._cleanup()
+    
+    async def _initialize(self):
+        """Initialize all resources"""
+        # Initialize Google GenAI models
+        self.embed_model = GoogleGenAIEmbedding("text-embedding-004", api_key=GEMINI_API_KEY)
+        self.llm = GoogleGenAI(
+            model="models/gemini-2.5-flash-preview-04-17",
+            api_key=GEMINI_API_KEY,
+            temperature=0.3,
+        )
+        
+        # Load index with retry
+        await self._load_index()
+        
+        # Initialize synthesizer
+        self.synthesizer = get_response_synthesizer(
+            llm=self.llm,
+            response_mode=ResponseMode.COMPACT,
+            use_async=False,
+            verbose=True
+        )
+        
+        self._initialized = True
+    
+    async def _load_index(self):
+        """Load index with error handling"""
+        if not INDEX_DIR.exists():
+            raise IndexError(f"Index directory {INDEX_DIR} not found")
+        
+        async def _load():
+            storage_context = StorageContext.from_defaults(persist_dir=str(INDEX_DIR))
+            return load_index_from_storage(storage_context, embed_model=self.embed_model)
+        
+        self.index = await retry_with_backoff(
+            _load,
+            RetryConfig(attempts=3, timeout=60.0),
+            retriable_errors=(IOError, OSError)
+        )
+        
+        # Get document count for logging
+        try:
+            doc_count = len(self.index.docstore.docs)
+        except AttributeError:
+            doc_count = len(self.index.docstore.get_all_documents())
+        
+        log.info(f"Index loaded with {doc_count} documents")
+    
+    async def _cleanup(self):
+        """Clean up resources"""
+        log.info("Cleaning up resources...")
+        self.embed_model = None
+        self.llm = None
+        self.index = None
+        self.synthesizer = None
+        self._initialized = False
+    
+    @property
+    def is_healthy(self) -> bool:
+        """Check if resources are healthy"""
+        return (self._initialized and 
+                all([self.embed_model, self.llm, self.index, self.synthesizer]))
 
-async def parse_query(query: str, conversation_context: Optional[Dict] = None) -> Dict[str, Any]:
-    """Extract structured parameters from a financial statement query and build search filters
-    
-    Args:
-        query: Natural language query about PSX financial statements
-        conversation_context: Optional context from previous queries in the conversation
-    """
+# ─────────────────────────── Load Static Data ───────────────────────────
+with open(TICKERS_PATH, encoding="utf-8") as f:
+    TICKERS: List[Dict[str, str]] = json.load(f)
+
+# Global resource manager
+resource_manager = ResourceManager()
+
+# ─────────────────────────── Query Parsing Enhanced ─────────────────────
+STATEMENT_PATTERNS = [
+    (r"\b(?:profit\s+and\s+loss|income\s+statement|p\s*&\s*l)\b", "profit_and_loss"),
+    (r"\bbalance\s+sheet\b", "balance_sheet"),
+    (r"\bcash\s+flow\b", "cash_flow"),
+    (r"\bchanges\s+in\s+equity\b", "changes_in_equity"),
+    (r"\bcomprehensive\s+income\b", "comprehensive_income"),
+]
+
+SCOPE_PATTERNS = [
+    (r"\bunconsolidated\b", "unconsolidated"),
+    (r"\bconsolidated\b", "consolidated"),
+    (r"\bstandalone\b", "unconsolidated"),
+    (r"\bseparate\b", "unconsolidated"),
+]
+
+FILING_TYPE_PATTERNS = [
+    (r"\bannual(?:\s+(?:only|filings?))?\b", "annual"),
+    (r"\bquarterly(?:\s+(?:only|filings?))?\b", "quarterly"),
+    (r"\b(?:both|annual\s+and\s+quarterly|quarterly\s+and\s+annual)\b", "both"),
+    (r"\byearly(?:\s+(?:only|filings?))?\b", "annual"),
+    (r"\b(?:q[1-4]|quarter)\b", "quarterly"),  # If specific quarters mentioned, assume quarterly
+]
+
+def parse_query(query: str) -> Dict[str, Any]:
+    """Enhanced query parsing requiring explicit filing type specification"""
     try:
-        query = query.strip()
-        if not query:
-            return {"intents": {}, "metadata_filters": {}, "error": "Query cannot be empty"}
-        
-        # Initialize intents
-        intents = {}
-        
-        # Handle follow-up queries with reference resolution
-        resolved_query = resolve_query_references(query, conversation_context)
-        if resolved_query != query:
-            logger.info(f"Resolved reference query: '{query}' -> '{resolved_query}'")
-            query = resolved_query
-            intents["is_followup"] = True
-            intents["original_query"] = query
-        
-        # Enhanced multi-company extraction
-        companies_found = extract_multiple_companies(query)
-        if companies_found:
-            if len(companies_found) == 1:
-                intents["company"] = companies_found[0]["Company Name"]
-                intents["ticker"] = companies_found[0]["Symbol"]
-                logger.info(f"Single company identified: {intents['ticker']}")
-            else:
-                # Multiple companies found
-                intents["companies"] = companies_found
-                intents["tickers"] = [comp["Symbol"] for comp in companies_found]
-                intents["is_multi_company"] = True
-                logger.info(f"Multiple companies identified: {intents['tickers']}")
-                
-                # For multi-company queries, use the first as primary for backward compatibility
-                intents["company"] = companies_found[0]["Company Name"]
-                intents["ticker"] = companies_found[0]["Symbol"]
-        
-        # Extract statement-like terms with more specific patterns
-        statement_patterns = [
-            (r'\b(?:profit\s+and\s+loss|income\s+statement|p\s*&\s*l)\b', 'profit_and_loss'),
-            (r'\bbalance\s+sheet\b', 'balance_sheet'),
-            (r'\bcash\s+flow\b', 'cash_flow'),
-            (r'\bchanges\s+in\s+equity\b', 'changes_in_equity'),
-            (r'\bcomprehensive\s+income\b', 'comprehensive_income')
-        ]
-        
-        for pattern, statement_type in statement_patterns:
-            if re.search(pattern, query, re.IGNORECASE):
-                intents["statement"] = statement_type
-                logger.info(f"Statement type identified: {statement_type}")
+        intents, filters = {}, {}
+        q_up = query.upper()
+
+        # Enhanced company extraction with better matching
+        companies = extract_companies_from_query(query, TICKERS)
+        if companies:
+            tickers = [c["Symbol"] for c in companies]
+            intents["tickers"] = tickers
+            intents["is_multi_company"] = len(tickers) > 1
+            if len(tickers) == 1:
+                intents["ticker"] = tickers[0]
+                intents["company"] = companies[0]["Company Name"]
+                filters["ticker"] = tickers[0]
+
+        # Extract statement type
+        for pattern, stmt_type in STATEMENT_PATTERNS:
+            if re.search(pattern, query, re.I):
+                intents["statement_type"] = stmt_type
+                intents["statement"] = stmt_type
+                filters.update({"statement_type": stmt_type, "is_statement": "yes"})
                 break
 
-        # Enhanced year and period extraction - handle multiple quarters
-        year_matches = re.findall(r'\b(20\d{2})\b', query)
-        if year_matches:
-            years = sorted(set(year_matches), reverse=True)
-            intents["year"] = years[0]  # Primary year
-            if len(years) > 1:
-                intents["comparison_years"] = years
-            logger.info(f"Year(s) identified: {years}")
-
-        # Enhanced quarter extraction - handle Q1 Q2 Q3 patterns
-        quarter_patterns = [
-            r'\b(?:q1|first\s+quarter)\b',
-            r'\b(?:q2|second\s+quarter)\b', 
-            r'\b(?:q3|third\s+quarter)\b',
-            r'\b(?:q4|fourth\s+quarter)\b'
-        ]
-        
-        quarters_found = []
-        for i, pattern in enumerate(quarter_patterns, 1):
-            if re.search(pattern, query, re.IGNORECASE):
-                quarters_found.append(str(i))
-        
-        # Handle multiple quarters like "Q1 Q2 Q3"
-        if re.search(r'\bq[1-4]\s+q[1-4](?:\s+q[1-4])?\b', query, re.IGNORECASE):
-            quarter_mentions = re.findall(r'\bq([1-4])\b', query, re.IGNORECASE)
-            quarters_found = sorted(set(quarter_mentions))
-            logger.info(f"Multiple quarters detected: Q{', Q'.join(quarters_found)}")
-        
-        if quarters_found:
-            intents["quarters"] = quarters_found
-            intents["period"] = "quarterly"
-            if len(quarters_found) == 1:
-                intents["quarter"] = quarters_found[0]
-            else:
-                intents["is_multi_quarter"] = True
-        else:
-            intents["period"] = "annual"
-
-        # Extract scope with specific patterns
-        scope_patterns = [
-            (r'\bunconsolidated\b', 'unconsolidated'),
-            (r'\bconsolidated\b', 'consolidated'),
-            (r'\bstandalone\b', 'unconsolidated'),
-            (r'\bseparate\b', 'unconsolidated')
-        ]
-        
-        for pattern, scope_value in scope_patterns:
-            if re.search(pattern, query, re.IGNORECASE):
-                intents["scope"] = scope_value
-                logger.info(f"Scope identified: {scope_value}")
+        # Extract filing type (REQUIRED - matches server logic exactly)
+        filing_type = None
+        for pattern, ftype in FILING_TYPE_PATTERNS:
+            if re.search(pattern, query, re.I):
+                filing_type = ftype
                 break
         
-        # Extract detail requests
-        if any(term in query.lower() for term in ["detail", "details", "breakdown"]):
-            intents["needs_details"] = True
+        if not filing_type:
+            # If no explicit filing type found, raise error requiring specification
+            raise QueryParsingError(
+                "Please specify the filing type in your query. Use keywords like:\n"
+                "- 'annual' or 'yearly' for annual filings only\n"
+                "- 'quarterly' or 'Q1/Q2/Q3/Q4' for quarterly filings only\n"
+                "- 'both' or 'annual and quarterly' for both types\n\n"
+                "Example: 'HBL 2024 annual balance sheet consolidated'"
+            )
+        
+        intents["filing_type"] = filing_type
+        filters["filing_type"] = filing_type
 
-        # Extract comparison indicators
-        if any(term in query.lower() for term in ["compare", "versus", "vs", "against", "comparison"]):
-            intents["is_comparison"] = True
+        # Extract years and quarters
+        years = re.findall(r"\b(20\d{2})\b", query)
+        quarters = re.findall(r"\b[qQ]([1-4])\b", query)
+        
+        if years:
+            year = years[0]
+            intents["year"] = year
             
-        # Build metadata filters with enhanced multi-entity support
-        metadata_filters = build_metadata_filters(intents)
-        
-        # Build search query for semantic search
-        search_query = build_search_query(intents)
+            # Generate filing periods based on explicit filing type (matches server exactly)
+            filing_periods = []
+            
+            if filing_type == "annual":
+                # Annual filings only - include current and previous year for comparison
+                filing_periods.extend([year, str(int(year) - 1)])
+                
+            elif filing_type == "quarterly":
+                if quarters:
+                    # Specific quarters requested
+                    for q in sorted(set(quarters)):
+                        filing_periods.extend([f"Q{q}-{year}", f"Q{q}-{int(year)-1}"])
+                else:
+                    # All quarters for the year
+                    for q in ["1", "2", "3", "4"]:
+                        filing_periods.extend([f"Q{q}-{year}", f"Q{q}-{int(year)-1}"])
+                        
+            elif filing_type == "both":
+                # Both annual and quarterly
+                # Add annual periods
+                filing_periods.extend([year, str(int(year) - 1)])
+                # Add quarterly periods
+                if quarters:
+                    for q in sorted(set(quarters)):
+                        filing_periods.extend([f"Q{q}-{year}", f"Q{q}-{int(year)-1}"])
+                else:
+                    for q in ["1", "2", "3", "4"]:
+                        filing_periods.extend([f"Q{q}-{year}", f"Q{q}-{int(year)-1}"])
+            
+            # Remove duplicates while preserving order
+            seen = set()
+            filing_periods = [p for p in filing_periods if not (p in seen or seen.add(p))]
+            
+            filters["filing_period"] = filing_periods
+            
+        if quarters:
+            intents["quarters"] = quarters
 
-        # Determine if we have sufficient filters
-        has_filters = len(metadata_filters) > 0 and (
-            "ticker" in metadata_filters or 
-            "statement_type" in metadata_filters or
-            "tickers" in intents  # Multi-company support
-        )
+        # Extract scope
+        for pattern, scope in SCOPE_PATTERNS:
+            if re.search(pattern, query, re.I):
+                intents["scope"] = scope
+                filters["financial_statement_scope"] = scope
+                break
+
+        # Detect query intent (NEW)
+        query_intent = detect_query_intent(query, intents)
+        intents["query_intent"] = query_intent
+
+        # Build search query
+        search_parts = []
+        if companies:
+            search_parts.extend([c["Company Name"] for c in companies[:1]])
+        if "statement_type" in intents:
+            search_parts.append(intents["statement_type"].replace("_", " "))
+        if "year" in intents:
+            search_parts.append(intents["year"])
+        if filing_type:
+            search_parts.append(filing_type)
         
-        logger.info(f"Final metadata_filters: {metadata_filters}")
-        logger.info(f"Has sufficient filters: {has_filters}")
+        search_query = " ".join(search_parts) if search_parts else query
+
+        log.info(f"Parsed query - Companies: {[c['Symbol'] for c in companies] if companies else 'None'}, Filing type: {filing_type}, Query intent: {query_intent}, Filing periods: {filters.get('filing_period', [])}")
 
         return {
             "intents": intents,
-            "metadata_filters": metadata_filters, 
+            "metadata_filters": filters,
             "search_query": search_query,
-            "has_filters": has_filters,
-            "resolved_query": resolved_query if resolved_query != query else None
         }
-    except Exception as e:
-        logger.error(f"Error parsing query: {str(e)}")
-        traceback.print_exc()
-        return {
-            "intents": {}, 
-            "metadata_filters": {}, 
-            "search_query": query,
-            "error": f"Error parsing query: {str(e)}"
-        }
-
-def resolve_query_references(query: str, context: Optional[Dict]) -> str:
-    """Resolve references like 'the same', 'same for UBL' using conversation context"""
-    if not context:
-        return query
-    
-    query_lower = query.lower().strip()
-    
-    # Handle "same for [COMPANY]" pattern
-    same_for_match = re.search(r'(?:same|similar)\s+for\s+(\w+)', query_lower)
-    if same_for_match:
-        new_company = same_for_match.group(1).upper()
         
-        # Get the last query details from context
-        last_query = context.get("last_query", {})
-        if last_query:
-            # Reconstruct the query with the new company
-            statement = last_query.get("statement", "")
-            scope = last_query.get("scope", "")
-            year = last_query.get("year", "")
-            quarters = last_query.get("quarters", [])
-            
-            if statement and year:
-                resolved = f"Get me {new_company} {year}"
-                if scope:
-                    resolved += f" {scope}"
-                if statement:
-                    resolved += f" {statement.replace('_', ' ')}"
-                if quarters:
-                    resolved += f" for {' '.join([f'Q{q}' for q in quarters])}"
-                
-                return resolved
-    
-    # Handle "the same" pattern - try to find company mentioned in current query
-    if query_lower in ["the same", "same", "get me the same"]:
-        # Look for company mentioned elsewhere
-        for company_data in TICKER_DATA:
-            if company_data["Symbol"].upper() in query.upper():
-                new_company = company_data["Symbol"]
-                last_query = context.get("last_query", {})
-                if last_query:
-                    # Similar reconstruction as above
-                    pass
-    
-    return query
+    except QueryParsingError:
+        # Re-raise query parsing errors as-is
+        raise
+    except Exception as e:
+        log.error(f"Query parsing error: {e}")
+        raise QueryParsingError(f"Failed to parse query: {e}")
 
-def extract_multiple_companies(query: str) -> List[Dict]:
-    """Extract multiple companies from a query like 'UBL and HBL' or 'compare MCB vs BAHL'"""
+def extract_companies_from_query(query: str, tickers: List[Dict[str, str]]) -> List[Dict[str, str]]:
+    """Enhanced company extraction with better partial matching and multi-company support"""
     companies_found = []
     query_upper = query.upper()
     
-    # First pass: Direct ticker matching
-    for ticker_item in TICKER_DATA:
+    # Create mapping for common name variations
+    name_variations = {
+        "JS BANK": "JSBL",
+        "MEEZAN": "MEBL", 
+        "HABIB": "BAHL",
+        "ALFALAH": "BAFL",
+        "ASKARI": "AKBL",
+        "ALLIED": "ABL",
+        "FAYSAL": "FABL",
+        "BANK ISLAMI": "BISL",
+        "MCB": "MCB",
+        "UBL": "UBL",
+        "NBP": "NBP",
+        "HBL": "HBL"
+    }
+    
+    # First try exact ticker matches
+    for ticker_item in tickers:
         ticker_symbol = ticker_item["Symbol"].upper()
-        # Look for ticker as a standalone word
         if re.search(rf'\b{re.escape(ticker_symbol)}\b', query_upper):
             if ticker_item not in companies_found:
                 companies_found.append(ticker_item)
-                logger.info(f"Direct ticker match found: {ticker_symbol}")
+                log.info(f"Found exact ticker match: {ticker_symbol}")
     
-    # If we found multiple companies via ticker matching, return them
-    if len(companies_found) > 1:
-        return companies_found
+    # Try name variations (this can find multiple companies)
+    for name_variant, ticker_symbol in name_variations.items():
+        if re.search(rf'\b{re.escape(name_variant)}', query_upper):
+            # Find the ticker item
+            ticker_item = next((t for t in tickers if t["Symbol"].upper() == ticker_symbol), None)
+            if ticker_item and ticker_item not in companies_found:
+                companies_found.append(ticker_item)
+                log.info(f"Found name variant match: '{name_variant}' → {ticker_symbol}")
     
-    # Second pass: Company name matching if no ticker matches
+    # If still no matches or we want to be thorough, try partial company name matching  
     if not companies_found:
-        # Split query by common separators and check each part
-        parts = re.split(r'\s+(?:and|vs|versus|\&)\s+|\s*,\s*', query, flags=re.IGNORECASE)
-        
-        for part in parts:
-            part = part.strip()
-            if part:
-                # Try to find company by name
-                for ticker_item in TICKER_DATA:
-                    company_name_words = ticker_item["Company Name"].upper().split()
-                    part_upper = part.upper()
-                    
-                    # Check if any significant words match
-                    if any(word in part_upper for word in company_name_words if len(word) > 3):
+        for ticker_item in tickers:
+            company_name_upper = ticker_item["Company Name"].upper()
+            ticker_symbol = ticker_item["Symbol"].upper()
+            
+            # Split query into words and check for matches
+            query_words = re.findall(r'\b\w+\b', query_upper)
+            for word in query_words:
+                if len(word) >= 3:  # Only consider words with 3+ characters
+                    if (word in company_name_upper or 
+                        word in ticker_symbol):
                         if ticker_item not in companies_found:
                             companies_found.append(ticker_item)
-                            logger.info(f"Company name match found: {ticker_item['Symbol']}")
+                            log.info(f"Found partial match: '{word}' in {ticker_symbol}")
+                            break
+    
+    # Sort by ticker symbol for consistency
+    companies_found.sort(key=lambda x: x["Symbol"])
     
     return companies_found
 
-def build_metadata_filters(intents: Dict) -> Dict:
-    """Build metadata filters from parsed intents with multi-company support"""
-    metadata_filters = {}
+def detect_query_intent(query: str, intents: Dict[str, Any]) -> str:
+    """Detect the intent of the query to determine response formatting"""
+    query_lower = query.lower()
     
-    # Handle single vs multi-company
-    if "is_multi_company" in intents:
-        # For multi-company queries, we'll handle this in the query logic
-        # For now, use the primary company
-        if "ticker" in intents:
-            metadata_filters["ticker"] = intents["ticker"]
-    else:
-        # Single company
-        if "ticker" in intents:
-            metadata_filters["ticker"] = intents["ticker"]
-            logger.info(f"Added ticker filter: {intents['ticker']}")
+    # Analysis intent keywords
+    analysis_keywords = [
+        "analyze", "analysis", "performance", "trends", "insights", "evaluate", 
+        "assess", "review", "interpret", "explain", "what does", "how did",
+        "growth", "decline", "improve", "worse", "better", "profitability",
+        "efficiency", "liquidity", "solvency", "ratios"
+    ]
     
-    # Add statement type filter if available
-    if "statement" in intents:
-        metadata_filters["statement_type"] = intents["statement"]
-        logger.info(f"Added statement_type filter: {intents['statement']}")
+    # Comparison intent keywords  
+    comparison_keywords = [
+        "compare", "comparison", "versus", "vs", "against", "compared to",
+        "difference", "differences", "side by side", "contrast"
+    ]
     
-    # Add scope filter if available
-    if "scope" in intents:
-        metadata_filters["financial_statement_scope"] = intents["scope"]
-        logger.info(f"Added scope filter: {intents['scope']}")
+    # Statement request keywords (when requesting raw data)
+    statement_keywords = [
+        "show me", "display", "get", "retrieve", "fetch", "give me",
+        "provide", "statement", "sheet", "report"
+    ]
     
-    # Add is_statement filter for main financial statements
-    if "statement" in intents:
-        metadata_filters["is_statement"] = "yes"
+    # Multi-company indicates comparison
+    if intents.get("is_multi_company") or any(kw in query_lower for kw in comparison_keywords):
+        return "comparison"
     
-    # Enhanced filing_period handling for multiple quarters
-    if "year" in intents:
-        y = str(intents["year"]).strip()
-        
-        if "period" in intents and intents["period"] == "quarterly":
-            if "is_multi_quarter" in intents and "quarters" in intents:
-                # Multiple quarters requested
-                periods = []
-                for q in intents["quarters"]:
-                    periods.append(f"Q{q}-{y}")
-                    # Also add previous year for comparison
-                    prev_year = str(int(y) - 1)
-                    periods.append(f"Q{q}-{prev_year}")
-                metadata_filters["filing_period"] = periods
-                logger.info(f"Added multi-quarter filter: {periods}")
-            elif "quarter" in intents:
-                # Single quarter
-                q = str(intents["quarter"]).strip()
-                current_period = f"Q{q}-{y}"
-                prev_year = str(int(y) - 1)
-                prev_period = f"Q{q}-{prev_year}"
-                metadata_filters["filing_period"] = [current_period, prev_period]
-                logger.info(f"Added quarterly filter: {current_period}, {prev_period}")
-        else:
-            # Annual period
-            if any(term in intents.get("original_query", "").lower() for term in ["only", "just", "specifically", "exact"]):
-                metadata_filters["filing_period"] = [y]
-                logger.info(f"Added exact year filter: {y}")
-            else:
-                prev_year = str(int(y) - 1)
-                metadata_filters["filing_period"] = [y, prev_year]
-                logger.info(f"Added year comparison filter: {y}, {prev_year}")
+    # Analysis keywords indicate analytical intent
+    if any(kw in query_lower for kw in analysis_keywords):
+        return "analysis"
     
-    return metadata_filters
+    # Statement keywords with specific statement types indicate data request
+    if (any(kw in query_lower for kw in statement_keywords) and 
+        intents.get("statement_type")):
+        return "statement"
+    
+    # Default to statement if specific statement type is mentioned
+    if intents.get("statement_type"):
+        return "statement"
+    
+    # Default to analysis for general queries
+    return "analysis"
 
-def build_search_query(intents: Dict) -> str:
-    """Build a search query string from parsed intents for semantic search"""
-    query_parts = []
-    
-    # Add company name if available
-    if "company" in intents:
-        query_parts.append(intents["company"])
-    
-    # Add statement type if available
-    if "statement" in intents:
-        statement_map = {
-            "profit_and_loss": "profit and loss statement",
-            "balance_sheet": "balance sheet",
-            "cash_flow": "cash flow statement",
-            "changes_in_equity": "statement of changes in equity",
-            "notes": "notes to financial statements",
-            "financial_statements": "financial statements"
-        }
-        stmt = statement_map.get(intents["statement"], "financial statements")
-        query_parts.append(stmt)
-    
-    # Add scope if available
-    if "scope" in intents:
-        query_parts.append(intents["scope"])
-    
-    # Add period if available
-    if "period" in intents and "quarter" in intents and intents["period"] == "quarterly":
-        query_parts.append(f"Q{intents['quarter']}")
-    elif "period" in intents:
-        query_parts.append(intents["period"])
-    
-    # Add year if available
-    if "year" in intents:
-        query_parts.append(intents["year"])
-    
-    # Join all parts with spaces
-    return " ".join(query_parts)
-
-async def query_index(text_query: str, metadata_filters: Dict, top_k: int) -> Dict[str, Any]:
-    """Query the PSX financial statement vector index with semantic search and metadata filters"""
-    global index
+# ─────────────────────────── Enhanced Retrieval ─────────────────────────
+async def retrieve_nodes(text_query: str, filters: Dict[str, Any], top_k: int = 15) -> List[NodeWithScore]:
+    """Enhanced node retrieval with proper error handling using native LlamaIndex filters"""
+    if not resource_manager.is_healthy:
+        raise IndexError("Resource manager not healthy")
     
     try:
-        logger.info(f"=== QUERY INDEX START ===")
-        logger.info(f"Text query: '{text_query}'")
-        logger.info(f"Metadata filters received: {metadata_filters}")
-        logger.info(f"Top K: {top_k}")
+        log.info(f"=== QUERYING INDEX ===")
+        log.info(f"Text query: '{text_query}'")
+        log.info(f"Metadata filters: {filters}")
+        log.info(f"Top K: {top_k}")
         
-        # Create a copy of metadata_filters to avoid modifying the original
-        query_filters = metadata_filters.copy()
-        
-        # Validate and clean filters
+        # Clean and validate filters
         valid_filters = {}
-        for key, value in query_filters.items():
+        for key, value in filters.items():
             if value is not None and str(value).strip():
                 if key == "filing_period" and isinstance(value, list):
                     # Keep list as is for filing_period
@@ -802,9 +469,9 @@ async def query_index(text_query: str, metadata_filters: Dict, top_k: int) -> Di
                 else:
                     valid_filters[key] = str(value).strip()
         
-        logger.info(f"Valid filters after cleaning: {valid_filters}")
+        log.info(f"Valid filters after cleaning: {valid_filters}")
         
-        # Create metadata filters for llamaindex
+        # Create metadata filters for llamaindex using Step7's working approach
         standard_filters = []
         filing_period_filters = []
         
@@ -814,16 +481,13 @@ async def query_index(text_query: str, metadata_filters: Dict, top_k: int) -> Di
                 for period in value:
                     if period and str(period).strip():
                         filing_period_filters.append(MetadataFilter(key=key, value=str(period).strip()))
-                        logger.info(f"Added filing_period filter: {key} = {period}")
+                        log.info(f"Added filing_period filter: {key} = {period}")
             else:
                 # Handle all other filters with AND logic
                 standard_filters.append(MetadataFilter(key=key, value=value))
-                logger.info(f"Added standard filter: {key} = {value}")
+                log.info(f"Added standard filter: {key} = {value}")
         
-        logger.info(f"Standard filters: {len(standard_filters)}")
-        logger.info(f"Filing period filters: {len(filing_period_filters)}")
-
-        # Build retriever with filters
+        # Build retriever with filters using Step7's working approach
         retriever_kwargs = {"similarity_top_k": top_k}
         
         if standard_filters or filing_period_filters:
@@ -834,414 +498,364 @@ async def query_index(text_query: str, metadata_filters: Dict, top_k: int) -> Di
                     condition="and",
                     filters_with_or=[filing_period_filters]
                 )
-                logger.info("Using combined AND/OR filter logic")
+                log.info("Using combined AND/OR filter logic")
             elif filing_period_filters:
                 # Only filing period filters with OR logic
                 retriever_kwargs["filters"] = MetadataFilters(
                     filters=filing_period_filters,
                     condition="or"
                 )
-                logger.info("Using OR logic for filing_period only")
+                log.info("Using OR logic for filing_period only")
             else:
                 # Only standard filters with AND logic
                 retriever_kwargs["filters"] = MetadataFilters(
                     filters=standard_filters,
                     condition="and"
                 )
-                logger.info("Using AND logic for standard filters only")
+                log.info("Using AND logic for standard filters only")
 
-        logger.info(f"Retriever kwargs: {retriever_kwargs}")
-
-        # Execute the query
-        retriever = index.as_retriever(**retriever_kwargs)
-        nodes = retriever.retrieve(text_query)
-        logger.info(f"Raw retrieval returned {len(nodes)} nodes")
+        # Execute the query using native LlamaIndex filtering
+        retriever = resource_manager.index.as_retriever(**retriever_kwargs)
+        nodes = await retriever.aretrieve(text_query)
+        log.info(f"Native filter retrieval returned {len(nodes)} nodes")
         
-        # Convert to serializable format with validation
-        nodes_serialized = []
-        for i, node in enumerate(nodes):
-            try:
-                node_metadata = node.node.metadata if hasattr(node.node, 'metadata') else {}
-                node_text = node.node.text if hasattr(node.node, 'text') else ""
-                node_score = node.score if hasattr(node, 'score') else None
-                
-                # Log the first few nodes for debugging
-                if i < 3:
-                    logger.info(f"Node {i}: ticker={node_metadata.get('ticker', 'N/A')}, score={node_score}")
-                
-                nodes_serialized.append({
-                    "node_id": node.node.node_id,
-                    "text": node_text,
-                    "metadata": node_metadata,
-                    "score": node_score
-                })
-            except Exception as node_error:
-                logger.warning(f"Error processing node {i}: {node_error}")
-                continue
+        return nodes
         
-        logger.info(f"Successfully processed {len(nodes_serialized)} nodes")
-        
-        # Debug: Check what tickers were actually returned
-        returned_tickers = set()
-        for node in nodes_serialized:
-            ticker = node.get("metadata", {}).get("ticker")
-            if ticker:
-                returned_tickers.add(ticker)
-        
-        logger.info(f"Tickers in returned results: {sorted(returned_tickers)}")
-        
-        # If we have a ticker filter but got wrong results, log warning
-        expected_ticker = valid_filters.get("ticker")
-        if expected_ticker and expected_ticker not in returned_tickers:
-            logger.warning(f"Expected ticker '{expected_ticker}' not found in results!")
-            logger.warning(f"Got tickers: {sorted(returned_tickers)}")
-        
-        # Save context for debugging
-        timestamp = datetime.datetime.now().strftime("%Y%m%d_%H%M%S")
-        context_file = CONTEXT_DIR / f"context_{timestamp}.json"
-        with open(context_file, "w") as f:
-            json.dump({
-                "query": text_query,
-                "metadata_filters": metadata_filters,
-                "valid_filters": valid_filters,
-                "nodes": nodes_serialized,
-                "debug_info": {
-                    "expected_ticker": expected_ticker,
-                    "returned_tickers": sorted(returned_tickers),
-                    "filter_applied": len(standard_filters) > 0 or len(filing_period_filters) > 0
-                }
-            }, f, indent=2)
-        
-        # Extract unique metadata values from results for reference
-        result_metadata = {}
-        for node in nodes_serialized:
-            for key, value in node["metadata"].items():
-                if key not in result_metadata:
-                    result_metadata[key] = set()
-                if isinstance(value, list):
-                    for v in value:
-                        result_metadata[key].add(str(v))
-                else:
-                    result_metadata[key].add(str(value))
-        
-        # Convert sets to lists for JSON serialization
-        for key in result_metadata:
-            result_metadata[key] = sorted(list(result_metadata[key]))
-        
-        logger.info(f"=== QUERY INDEX COMPLETE ===")
-        
-        return {
-            "nodes": nodes_serialized,
-            "context_file": str(context_file),
-            "metadata_summary": result_metadata,
-            "query": text_query,
-            "filters": metadata_filters,
-            "debug_info": {
-                "filters_applied": valid_filters,
-                "expected_ticker": expected_ticker,
-                "returned_tickers": sorted(returned_tickers),
-                "total_nodes": len(nodes_serialized)
-            }
-        }
     except Exception as e:
-        logger.error(f"Error querying index: {str(e)}")
-        traceback.print_exc()
-        return {"nodes": [], "context_file": None, "error": f"Error querying index: {str(e)}"}
+        log.error(f"Retrieval error: {e}")
+        raise IndexError(f"Failed to retrieve nodes: {e}")
 
-async def synthesize_response(query: str, nodes: List[Dict], output_format: str) -> Dict[str, Any]:
-    """Generate a structured response from PSX financial statement data retrieved from the index"""
-    global response_synthesizer
+async def synthesize_response(query: str, nodes: List[NodeWithScore], query_intent: str = "analysis") -> Dict[str, Any]:
+    """Enhanced response synthesis with intent-based formatting"""
+    if not nodes:
+        return {
+            "response": "No relevant financial data found for your query.",
+            "format_hint": "text",
+            "intent": query_intent
+        }
+    
+    if not resource_manager.is_healthy:
+        raise SynthesisError("Resource manager not healthy")
     
     try:
-        if not nodes:
-            return {"response": "No relevant data found. Please try rephrasing or specifying different criteria."}
-
-        # Convert dict nodes back to NodeWithScore objects
-        nodes_obj = []
-        for node in nodes:
-            node_obj = type('Node', (), {
-                'node_id': node['node_id'],
-                'text': node['text'],
-                'metadata': node['metadata']
-            })()
-            nodes_obj.append(NodeWithScore(node=node_obj, score=node.get('score')))
-
-        # Use a simpler prompt that relies more on Claude's reasoning
-        if output_format == "markdown_table":
+        # Create intent-specific prompts
+        if query_intent == "statement":
             prompt = f"""
-Generate a well-formatted Markdown table from the provided financial statement data for the query: "{query}"
+You are extracting financial statement data. For the query: "{query}"
 
-Extract the key financial data points and organize them into a clear, readable table that highlights the most important information.
-Include appropriate headings, and if there are multiple years/periods, arrange them for easy comparison.
+INSTRUCTIONS:
+1. Extract the raw financial statement data exactly as it appears
+2. Format as a clean, professional markdown table
+3. Include all relevant line items with their values
+4. Show figures in thousands/millions as indicated in the source
+5. Preserve the original structure and hierarchy
+6. DO NOT add analysis or interpretation
+7. Include period information clearly
+8. If multiple periods, show them side by side for comparison
+
+Focus on presenting the pure financial data in a clear, tabular format.
 """
-        elif output_format == "json":
+            format_hint = "table"
+            
+        elif query_intent == "comparison":
             prompt = f"""
-Generate a structured JSON object from the financial statement data for the query: "{query}"
+You are comparing financial data across multiple entities. For the query: "{query}"
 
-Extract the key financial data points and organize them in a JSON structure that captures the hierarchical nature of the data.
-Include appropriate keys and maintain the relationships between different data points.
+INSTRUCTIONS:
+1. Create a comparative analysis with side-by-side data presentation
+2. Use markdown tables for numerical comparisons
+3. Highlight key differences and similarities
+4. Calculate percentage differences where relevant
+5. Structure with:
+   - Executive summary of key differences
+   - Comparative data table(s)
+   - Key insights in bullet points
+6. Focus on meaningful business insights
+7. Show trends and relative performance
+
+Provide a comprehensive comparative analysis with clear data presentation.
 """
-        else:  # text
+            format_hint = "comparison"
+            
+        else:  # analysis intent
             prompt = f"""
-Generate a concise text summary of the financial statement data for the query: "{query}"
+You are analyzing financial statement data. For the query: "{query}"
 
-Focus on the key insights and important numbers, explaining their significance in the context of financial reporting.
-Highlight trends or notable items, and ensure the information is presented in a clear, logical flow.
+INSTRUCTIONS:
+1. Provide analytical insights with supporting data
+2. Include relevant financial metrics and ratios
+3. Explain the significance of key figures
+4. Structure with:
+   - Executive summary
+   - Key financial data (in tables where appropriate)
+   - Analysis and insights
+   - Notable trends or concerns
+5. Balance data presentation with meaningful interpretation
+6. Use professional financial analysis language
+
+Provide actionable insights supported by the financial data.
 """
-
-        logger.info(f"Synthesizing response for {len(nodes_obj)} nodes with format: {output_format}")
-
-        response_obj = response_synthesizer.synthesize(
-            query=prompt,
-            nodes=nodes_obj,
-        )
-
-        response_text = response_obj.response if hasattr(response_obj, 'response') else str(response_obj)
+            format_hint = "analysis"
         
-        if output_format == "markdown_table":
-            response_text = extract_markdown_table(response_text)
+        log.info(f"Synthesizing {query_intent} response for {len(nodes)} nodes")
 
-        return {"response": response_text}
+        async def _synthesize():
+            return resource_manager.synthesizer.synthesize(query=prompt, nodes=nodes)
+        
+        response = await retry_with_backoff(
+            _synthesize,
+            RetryConfig(attempts=2, timeout=60),
+            retriable_errors=(ConnectionError, TimeoutError)
+        )
+        
+        response_text = response.response if hasattr(response, 'response') else str(response)
+        
+        # Apply post-processing based on intent
+        if query_intent == "statement" and format_hint == "table":
+            response_text = extract_markdown_table(response_text)
+        
+        log.info(f"Synthesis completed: {len(str(response_text))} characters, format: {format_hint}")
+        
+        return {
+            "response": response_text,
+            "format_hint": format_hint,
+            "intent": query_intent
+        }
+        
     except Exception as e:
-        logger.error(f"Error synthesizing response: {str(e)}")
-        traceback.print_exc()
-        return {"response": f"Error synthesizing response: {str(e)}"}
+        log.error(f"Synthesis error: {e}")
+        raise SynthesisError(f"Failed to synthesize response: {e}")
 
 def extract_markdown_table(response_text: str) -> str:
-    """Extract markdown table from response text"""
-    pattern = r"`markdown\s*([\s\S]*?)\s*`"
-    match = re.search(pattern, str(response_text))
-    if match:
-        return match.group(1).strip()
-
-    table_pattern = r"^\s*#.*\n##.*\n.*\|\s*-.*\|.*\n(\|.*\|.*\n)+"
-    match = re.search(table_pattern, str(response_text), re.MULTILINE)
-    if match:
-        return match.group(0).strip()
-
-    return str(response_text).strip()
-
-async def generate_clarification_request(query: str, intents: Dict, metadata_keys: List[str]) -> Dict[str, Any]:
-    """Generate a clarification request for ambiguous PSX financial statement queries"""
+    """Extract and clean markdown table from response text"""
     try:
-        missing_info = []
-        if "bank" in intents and "ticker" in metadata_keys and not intents.get("bank"):
-            missing_info.append("Bank identifier (e.g., ticker)")
-        if "statement" in intents and "statement_type" in metadata_keys and not intents.get("statement"):
-            missing_info.append("Statement type (e.g., profit and loss)")
-        if ("bank" in intents or "statement" in intents) and "financial_statement_scope" in metadata_keys and not intents.get("scope"):
-            missing_info.append("Scope (consolidated or unconsolidated)")
-        if ("bank" in intents or "statement" in intents) and "filing_period" in metadata_keys and not intents.get("year"):
-            missing_info.append("Time period (e.g., year or quarter)")
-
-        if missing_info:
-            clarification_request = "Please clarify the following details for your query:\n\n"
-            for i, info in enumerate(missing_info, 1):
-                clarification_request += f"{i}. {info}\n"
-            escaped_query = query.replace('"', '\\"')
-            clarification_request += f'\nOriginal query: "{escaped_query}"\n\nThis will help me find the exact data you need.'
-            return {"clarification_needed": True, "clarification_request": clarification_request}
+        response_str = str(response_text)
         
-        return {"clarification_needed": False, "clarification_request": None}
-    except Exception as e:
-        return {"clarification_needed": False, "clarification_request": f"Error generating clarification: {str(e)}"}
-
-async def query_multi_company(companies: List[str], text_query: str, metadata_filters: Dict, top_k: int) -> Dict[str, Any]:
-    """Query multiple companies simultaneously for comparative analysis"""
-    global index
-    
-    try:
-        logger.info(f"=== MULTI-COMPANY QUERY START ===")
-        logger.info(f"Companies: {companies}")
-        logger.info(f"Text query: '{text_query}'")
-        logger.info(f"Metadata filters: {metadata_filters}")
-        logger.info(f"Top K per company: {top_k}")
+        # Look for markdown table patterns
+        table_patterns = [
+            # Pattern 1: Standard markdown table
+            r'(\|.*\|.*\n\|[-\s:]+\|.*\n(?:\|.*\|.*\n)*)',
+            # Pattern 2: Table with headers
+            r'(#+.*\n\|.*\|.*\n\|[-\s:]+\|.*\n(?:\|.*\|.*\n)*)',
+            # Pattern 3: Table within code blocks
+            r'```(?:markdown)?\s*((?:\|.*\|.*\n\|[-\s:]+\|.*\n(?:\|.*\|.*\n)*))\s*```'
+        ]
         
-        all_results = {}
-        combined_nodes = []
-        total_results = 0
+        for pattern in table_patterns:
+            matches = re.finditer(pattern, response_str, re.MULTILINE)
+            for match in matches:
+                table_content = match.group(1) if len(match.groups()) > 0 else match.group(0)
+                if '|' in table_content and '-' in table_content:
+                    # Clean up the table
+                    lines = table_content.strip().split('\n')
+                    cleaned_lines = []
+                    for line in lines:
+                        if line.strip() and ('|' in line or line.strip().startswith('#')):
+                            cleaned_lines.append(line.strip())
+                    if len(cleaned_lines) >= 3:  # Header, separator, at least one data row
+                        return '\n'.join(cleaned_lines)
         
-        # Query each company
-        for company in companies:
-            logger.info(f"Processing company: {company}")
-            
-            # Create company-specific filters
-            company_filters = metadata_filters.copy()
-            company_filters['ticker'] = company
-            
-            # Query for this specific company
-            company_result = await query_index(
-                text_query=text_query,
-                metadata_filters=company_filters,
-                top_k=top_k
-            )
-            
-            if "error" in company_result:
-                logger.warning(f"Error querying {company}: {company_result['error']}")
-                all_results[company] = {"error": company_result["error"], "nodes": [], "count": 0}
-            else:
-                company_nodes = company_result.get("nodes", [])
-                logger.info(f"Found {len(company_nodes)} nodes for {company}")
-                
-                # Add company identifier to each node for tracking
-                for node in company_nodes:
-                    if isinstance(node, dict):
-                        node["query_company"] = company
-                
-                all_results[company] = {
-                    "nodes": company_nodes,
-                    "count": len(company_nodes)
-                }
-                combined_nodes.extend(company_nodes)
-                total_results += len(company_nodes)
-        
-        # Generate summary
-        companies_with_data = [c for c in companies if all_results.get(c, {}).get("count", 0) > 0]
-        companies_without_data = [c for c in companies if all_results.get(c, {}).get("count", 0) == 0]
-        
-        summary = {
-            "companies_with_data": companies_with_data,
-            "companies_without_data": companies_without_data,
-            "total_results": total_results,
-            "recommendations": []
-        }
-        
-        if companies_without_data:
-            summary["recommendations"].append(f"Consider expanding search criteria for: {', '.join(companies_without_data)}")
-        
-        logger.info(f"=== MULTI-COMPANY QUERY COMPLETE ===")
-        logger.info(f"Total results across all companies: {total_results}")
-        
-        return {
-            "nodes": combined_nodes,
-            "company_results": all_results,
-            "total_results": total_results,
-            "companies_processed": companies,
-            "summary": summary,
-            "context_file": "multi_company_search_results.json"
-        }
+        # If no table found, return original text
+        return response_str.strip()
         
     except Exception as e:
-        logger.error(f"Error in multi-company query: {str(e)}")
-        logger.error(traceback.format_exc())
-        
-        return {
-            "nodes": [],
-            "company_results": {},
-            "total_results": 0,
-            "error": f"Multi-company query failed: {str(e)}",
-            "context_file": None
-        }
+        log.warning(f"Error extracting markdown table: {e}")
+        return str(response_text).strip()
 
-# -----------------------------------------------------------------------------
-# INITIALIZATION
-# -----------------------------------------------------------------------------
-
-async def initialize_models():
-    """Initialize models and index"""
-    global embed_model, llm, index, response_synthesizer
-    
-    logger.info("Initializing Gemini models...")
-    
+def save_context(query: str, nodes: List[NodeWithScore], metadata: Dict) -> str:
+    """Save retrieval context for debugging"""
     try:
-        embed_model = GoogleGenAIEmbedding(model_name="text-embedding-004", api_key=GEMINI_API_KEY)
-        llm = GoogleGenAI(
-            model="models/gemini-2.5-flash-preview-04-17",
-            api_key=GEMINI_API_KEY,
-            temperature=0.3,
-        )
-        logger.info(f"Using LLM: {llm.model}")
-    except Exception as e:
-        logger.error(f"Error initializing Google GenAI models: {e}")
-        sys.exit(1)
-
-    # Load index
-    if not INDEX_DIR.exists():
-        logger.error(f"Index directory {INDEX_DIR} not found. Please ensure the index is built.")
-        sys.exit(1)
-
-    logger.info(f"Loading index from {INDEX_DIR}")
-    try:
-        storage_context = StorageContext.from_defaults(persist_dir=str(INDEX_DIR))
-        index = load_index_from_storage(storage_context, embed_model=embed_model)
-        logger.info("Index loaded successfully")
+        timestamp = datetime.datetime.now().strftime("%Y%m%d_%H%M%S")
+        filename = CONTEXT_DIR / f"context_{timestamp}.json"
         
-        # Initialize response synthesizer
-        response_synthesizer = get_response_synthesizer(
-            llm=llm,
-            response_mode=ResponseMode.COMPACT,
-            use_async=False,
-            verbose=True
-        )
-        
-    except Exception as e:
-        logger.error(f"Error loading index: {str(e)}")
-        try:
-            from llama_index.core.indices.vector_store import VectorStoreIndex
-            storage_context = StorageContext.from_defaults(persist_dir=str(INDEX_DIR))
-            index = load_index_from_storage(storage_context)
-            logger.info("Index loaded successfully using alternative method")
-            
-            response_synthesizer = get_response_synthesizer(
-                llm=llm,
-                response_mode=ResponseMode.COMPACT,
-                use_async=False,
-                verbose=True
-            )
-        except Exception as e2:
-            logger.error(f"Alternative loading method also failed: {str(e2)}")
-            traceback.print_exc()
-            sys.exit(1)
-
-# -----------------------------------------------------------------------------
-# MAIN EXECUTION
-# -----------------------------------------------------------------------------
-
-async def main():
-    """Main entry point"""
-    # Initialize models
-    await initialize_models()
-    
-    # Test tool functionality
-    try:
-        logger.info("Testing tools...")
-        # Test company finding
-        test_company = "Meezan Bank"
-        test_result = await find_company(test_company)
-        logger.info(f"Company finder test for '{test_company}': {test_result['found']}")
-        
-        # Test query parsing
-        test_query = "Show me Meezan Bank's unconsolidated profit and loss statement for 2022"
-        parse_result = await parse_query(test_query)
-        logger.info(f"Query parsing test successful: {parse_result.get('intents', {}).get('company', 'None')}")
-    except Exception as e:
-        logger.warning(f"Tool functionality test failed: {e}")
-    
-    # Run the server
-    async with mcp.server.stdio.stdio_server() as (read_stream, write_stream):
-        # Create initialization options with required capabilities field
-        init_options = InitializationOptions(
-            server_name="psx-financial-statements",
-            server_version="1.0.0",
-            capabilities={
-                "tools": {
-                    "list": True,
-                    "call": True
-                },
-                "resources": {
-                    "list": True,
-                    "read": True
-                }
+        serialized_nodes = [
+            {
+                "node_id": n.node.node_id,
+                "text": n.node.text,
+                "metadata": n.node.metadata,
+                "score": n.score,
             }
-        )
+            for n in nodes
+        ]
         
-        # Run the server with proper options
-        await server.run(
-            read_stream,
-            write_stream,
-            init_options
-        )
+        context = {
+            "timestamp": timestamp,
+            "query": query,
+            "metadata": metadata,
+            "nodes": serialized_nodes,
+            "node_count": len(nodes)
+        }
+        
+        filename.write_text(json.dumps(context, indent=2))
+        log.info(f"Context saved: {filename}")
+        return str(filename)
+        
+    except Exception as e:
+        log.warning(f"Failed to save context: {e}")
+        return ""
 
+# ─────────────────────────── Lifespan Management ────────────────────────
+@asynccontextmanager
+async def app_lifespan(mcp_server: FastMCP):
+    """Application lifecycle management"""
+    log.info("Starting Hybrid PSX MCP Server...")
+    try:
+        async with resource_manager.managed_lifecycle():
+            yield {"resource_manager": resource_manager, "tickers": TICKERS}
+    except Exception as e:
+        log.error(f"Server startup failed: {e}")
+        raise
+    finally:
+        log.info("Hybrid PSX MCP Server shutdown complete")
+
+# ─────────────────────────── FastMCP Application ────────────────────────
+mcp = FastMCP(name="hybrid-psx-financial", lifespan=app_lifespan)
+
+# ─────────────────────────── Resources ───────────────────────────────────
+@mcp.resource("psx://companies")
+def get_companies() -> str:
+    """List of PSX companies"""
+    return json.dumps(TICKERS, indent=2)
+
+@mcp.resource("psx://server_info")
+def get_server_info() -> str:
+    """Server information and health status"""
+    return json.dumps({
+        "name": "Hybrid PSX Financial Server",
+        "version": "1.0.0",
+        "health": resource_manager.is_healthy,
+        "companies": len(TICKERS),
+        "capabilities": ["semantic_search", "metadata_filtering", "response_synthesis"]
+    }, indent=2)
+
+# ─────────────────────────── Tools ───────────────────────────────────────
+@mcp.tool()
+async def psx_parse_query(query: str) -> Dict[str, Any]:
+    """Parse financial query into structured components"""
+    return parse_query(query)
+
+@mcp.tool()
+async def psx_query_index(text_query: str, metadata_filters: Dict[str, Any], top_k: int = 15) -> Dict[str, Any]:
+    """Query the financial statements index"""
+    try:
+        nodes = await retrieve_nodes(text_query, metadata_filters, top_k)
+        
+        # Serialize nodes
+        serialized = [
+            {
+                "node_id": n.node.node_id,
+                "text": n.node.text,
+                "metadata": n.node.metadata,
+                "score": n.score,
+            }
+            for n in nodes
+        ]
+        
+        context_file = save_context(text_query, nodes, metadata_filters)
+        
+        return {
+            "nodes": serialized,
+            "context_file": context_file,
+            "total_nodes": len(serialized)
+        }
+        
+    except QueryParsingError as e:
+        log.warning(f"Query parsing error: {e}")
+        return {"nodes": [], "error": str(e), "error_type": "query_parsing"}
+    except Exception as e:
+        log.error(f"Query index error: {e}")
+        return {"nodes": [], "error": str(e), "error_type": "general"}
+
+@mcp.tool()
+async def psx_synthesize_response(query: str, nodes: List[Dict[str, Any]], query_intent: str = "analysis") -> Dict[str, Any]:
+    """Synthesize response from retrieved nodes with intent-based formatting"""
+    try:
+        # Reconstruct NodeWithScore objects
+        node_objects = []
+        for node_data in nodes:
+            text_node = TextNode(
+                text=node_data.get("text", ""),
+                metadata=node_data.get("metadata", {}),
+                id_=node_data.get("node_id", "")
+            )
+            node_objects.append(NodeWithScore(node=text_node, score=node_data.get("score", 0.0)))
+        
+        # Call enhanced synthesis with intent
+        synthesis_result = await synthesize_response(query, node_objects, query_intent)
+        
+        return {
+            "response": synthesis_result.get("response", ""),
+            "format_hint": synthesis_result.get("format_hint", "text"),
+            "intent": synthesis_result.get("intent", query_intent)
+        }
+        
+    except Exception as e:
+        log.error(f"Synthesis error: {e}")
+        return {
+            "response": f"Synthesis failed: {str(e)}",
+            "format_hint": "text",
+            "intent": query_intent
+        }
+
+@mcp.tool()
+async def psx_query_multi_company(companies: List[str], text_query: str, metadata_filters: Dict[str, Any], top_k: int = 10) -> Dict[str, Any]:
+    """Query multiple companies for comparison"""
+    try:
+        all_nodes = []
+        company_results = {}
+        
+        for company in companies:
+            company_filters = {**metadata_filters, "ticker": company}
+            result = await psx_query_index(text_query, company_filters, top_k)
+            company_results[company] = result
+            all_nodes.extend(result.get("nodes", []))
+        
+        context_file = save_context(text_query, [], {"companies": companies, "filters": metadata_filters})
+        
+        return {
+            "nodes": all_nodes,
+            "company_results": company_results,
+            "context_file": context_file,
+            "total_nodes": len(all_nodes)
+        }
+        
+    except Exception as e:
+        log.error(f"Multi-company query error: {e}")
+        return {"nodes": [], "error": str(e)}
+
+@mcp.tool()
+async def psx_get_query_help() -> Dict[str, Any]:
+    """Get help on how to format queries with required filing type specification"""
+    return {
+        "filing_type_requirement": "All queries must explicitly specify the filing type",
+        "supported_filing_types": {
+            "annual": {
+                "keywords": ["annual", "yearly", "annual only", "annual filings"],
+                "description": "Annual financial statements only",
+                "example": "HBL 2024 annual balance sheet consolidated"
+            },
+            "quarterly": {
+                "keywords": ["quarterly", "Q1", "Q2", "Q3", "Q4", "quarter", "quarterly only"],
+                "description": "Quarterly financial statements only", 
+                "example": "HBL 2024 Q2 quarterly income statement consolidated"
+            },
+            "both": {
+                "keywords": ["both", "annual and quarterly", "quarterly and annual"],
+                "description": "Both annual and quarterly financial statements",
+                "example": "HBL 2024 both balance sheet consolidated"
+            }
+        },
+        "query_structure": "COMPANY YEAR FILING_TYPE STATEMENT_TYPE SCOPE",
+        "examples": [
+            "HBL 2024 annual balance sheet consolidated",
+            "FATIMA 2023 quarterly profit and loss unconsolidated", 
+            "MCB 2024 both cash flow consolidated",
+            "KTM 2024 Q1 quarterly balance sheet consolidated"
+        ],
+        "error_handling": "If filing type is not specified, the system will return an error with specific guidance"
+    }
+
+# ─────────────────────────── Entry Point ────────────────────────────────
 if __name__ == "__main__":
-    import asyncio
-    asyncio.run(main())
+    log.info("Starting Hybrid PSX MCP Server...")
+    mcp.run() 

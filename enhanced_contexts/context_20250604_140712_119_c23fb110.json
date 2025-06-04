@@ -1,0 +1,276 @@
+{
+  "timestamp": "20250604_140712",
+  "query": "UBL lending exposure 2023",
+  "query_hash": "c23fb110",
+  "metadata": {
+    "is_statement": "no",
+    "is_note": "yes",
+    "note_link": "balance_sheet",
+    "filing_type": "annual"
+  },
+  "nodes": [
+    {
+      "node_id": "United_Bank_Limited_Annual_2024_chunks_chunk_264",
+      "text": "--- Metadata Context ---\nentity_name: United Bank Limited\nticker: UBL\nfiling_type: annual\nfiling_period: 2024, 2023\nfinancial_data: yes\nfinancial_statement_scope: unconsolidated\nis_statement: no\nis_note: yes\nnote_link: balance_sheet\nauditor_report: no\ndirector_report: no\nannual_report_discussion: no\n--- End Context ---\n\n# 47.1.5 Concentration of Advances\n\nThe Bank's top 10 exposures on the basis of total (funded and non-funded exposures) aggregated to Rs. 846,033 million (2023: Rs. 478,848 million) are as follows:\n\n| |2024|2023| | | | |\n|---|---|---|---|---|---|---|\n|Funded|650,326,358|166,962,464| | | | |\n|Non Funded|195,706,719|311,886,407| | | | |\n|Total Exposure|846,033,077|478,848,871| | | | |\n\nThe sanctioned limits against these top 10 exposures aggregated to Rs. 1,037,771 million (2023: Rs. 531,971 million).\n\nNone of the exposure against these top 10 exposures is classified.\n\nFor the purpose of this note, exposure means outstanding funded facilities and utilised non-funded facilities as at the reporting date.\n\n---",
+      "metadata": {
+        "chunk_number": 264,
+        "financial_data": "yes",
+        "financial_statement_scope": "unconsolidated",
+        "is_statement": "no",
+        "statement_type": "none",
+        "is_note": "yes",
+        "note_link": "balance_sheet",
+        "auditor_report": "no",
+        "director_report": "no",
+        "annual_report_discussion": "no",
+        "file_name": "United_Bank_Limited_Annual_2024_chunks.md",
+        "ticker": "UBL",
+        "entity_name": "United Bank Limited",
+        "filing_type": "annual",
+        "filing_period": [
+          "2024",
+          "2023"
+        ],
+        "source_file": "United_Bank_Limited_Annual_2024_chunks.md"
+      },
+      "score": 0.7757994231561234
+    },
+    {
+      "node_id": "United_Bank_Limited_Annual_2024_chunks_chunk_517",
+      "text": "--- Metadata Context ---\nentity_name: United Bank Limited\nticker: UBL\nfiling_type: annual\nfiling_period: 2024, 2023\nfinancial_data: yes\nfinancial_statement_scope: consolidated\nis_statement: no\nis_note: yes\nnote_link: balance_sheet\nauditor_report: no\ndirector_report: no\nannual_report_discussion: no\n--- End Context ---\n\n# 49.1.5 Concentration of Advances\n\nThe Bank's top 10 exposures on the basis of total (funded and non-funded exposures) aggregated to Rs.846,033 million (2023: Rs. 478,848 million) are as follows:\n\n|Funded|650,326,358|\n|---|---|\n|Non Funded|195,706,719|\n|Total Exposure|846,033,077|\n\nThe sanctioned limits against these top 10 exposures aggregated to Rs. 1,037,771 million (2023: Rs. 531,971 million).\n\nNone of the exposure against these top 10 exposures is classified.\n\nFor the purpose of this note, exposure means outstanding funded facilities and utilised non-funded facilities as at the reporting date.\n\n---",
+      "metadata": {
+        "chunk_number": 517,
+        "financial_data": "yes",
+        "financial_statement_scope": "consolidated",
+        "is_statement": "no",
+        "statement_type": "none",
+        "is_note": "yes",
+        "note_link": "balance_sheet",
+        "auditor_report": "no",
+        "director_report": "no",
+        "annual_report_discussion": "no",
+        "file_name": "United_Bank_Limited_Annual_2024_chunks.md",
+        "ticker": "UBL",
+        "entity_name": "United Bank Limited",
+        "filing_type": "annual",
+        "filing_period": [
+          "2024",
+          "2023"
+        ],
+        "source_file": "United_Bank_Limited_Annual_2024_chunks.md"
+      },
+      "score": 0.7752096654165967
+    },
+    {
+      "node_id": "United_Bank_Limited_Annual_2024_chunks_chunk_401",
+      "text": "--- Metadata Context ---\nentity_name: United Bank Limited\nticker: UBL\nfiling_type: annual\nfiling_period: 2024, 2023\nfinancial_data: yes\nfinancial_statement_scope: consolidated\nis_statement: no\nis_note: yes\nnote_link: balance_sheet\nauditor_report: no\ndirector_report: no\nannual_report_discussion: no\n--- End Context ---\n\n# 7. LENDINGS TO FINANCIAL INSTITUTIONS\n\n| | |Note|2024|2023|Cost / Amortised cost|Credit loss allowance|Surplus / (Deficit)|Carrying Value| | |\n|---|---|---|---|---|---|---|---|---|---|---|\n|7.1|Particulars of lendings to financial institutions| | | | | | | | | |\n| |In local currency|18,492,483|34,447,852| | | | | | | |\n| |In foreign currencies|-|4,868,418| | | | | | | |\n| |Total|18,492,483|39,316,270| | | | | | | |\n|7.2|These represent unsecured lendings carrying mark-up ranging from Nil (2023: 22.05% to 22.50%) per annum.| | | | | | | | | |\n| | |7.3|These represent lendings to financial institutions against investment securities. These carry mark-up ranging from 13.89% (2023: 22.05% to 22.95%) per annum, and are due to mature in January 2025.| | | | | | | |\n|7.4|These represent secured lendings against investment securities carrying mark-up at 13.90% (2023: Nil) per annum.| | | | | | | | | |\n|7.5|Securities held as collateral against lendings to financial institutions| | | | | | | | | |\n\n# Market Treasury Bills\n\n|Held by Group|Further given as collateral|Total|\n|---|---|---|\n|2,492,483|-|2,492,483|\n|Pakistan Investment Bonds|-|-|\n|Government of Pakistan Sukuks|16,000,000|-|\n|Total|18,492,483|21,947,852|\n\n# 7.6\n\nLendings to financial institutions are all classified as stage 1.\n\n---",
+      "metadata": {
+        "chunk_number": 401,
+        "financial_data": "yes",
+        "financial_statement_scope": "consolidated",
+        "is_statement": "no",
+        "statement_type": "none",
+        "is_note": "yes",
+        "note_link": "balance_sheet",
+        "auditor_report": "no",
+        "director_report": "no",
+        "annual_report_discussion": "no",
+        "file_name": "United_Bank_Limited_Annual_2024_chunks.md",
+        "ticker": "UBL",
+        "entity_name": "United Bank Limited",
+        "filing_type": "annual",
+        "filing_period": [
+          "2024",
+          "2023"
+        ],
+        "source_file": "United_Bank_Limited_Annual_2024_chunks.md"
+      },
+      "score": 0.7146504266802115
+    },
+    {
+      "node_id": "Habib_Bank_Limited_Annual_2024_chunks_chunk_896",
+      "text": "--- Metadata Context ---\nentity_name: Habib Bank Limited\nticker: HBL\nfiling_type: annual\nfiling_period: 2024, 2023\nfinancial_data: yes\nfinancial_statement_scope: unconsolidated\nis_statement: no\nis_note: yes\nnote_link: balance_sheet\nauditor_report: no\ndirector_report: no\nannual_report_discussion: no\n--- End Context ---\n\n# 45.1.8 Concentration of Advances\n\nThe Bank's top 10 exposures on the basis of total (funded and non-funded) exposures aggregated to Rs 1,050,494.038 million (2023: Rs 574,511.968 million).\n\n| |2024|2023|\n|---|---|---|\n|Funded|931,966,430|360,158,898|\n|Non-funded|118,527,608|214,353,070|\n|Total exposure|1,050,494,038|574,511,968|\n\n45.1.8.1 The sanctioned limits against these top 10 exposures aggregated to Rs 1,195,888.813 million (2023: Rs 682,802.632 million).\n\n45.1.8.2 All of the above exposures are performing.\n\n---",
+      "metadata": {
+        "chunk_number": 896,
+        "financial_data": "yes",
+        "financial_statement_scope": "unconsolidated",
+        "is_statement": "no",
+        "statement_type": "none",
+        "is_note": "yes",
+        "note_link": "balance_sheet",
+        "auditor_report": "no",
+        "director_report": "no",
+        "annual_report_discussion": "no",
+        "file_name": "Habib_Bank_Limited_Annual_2024_chunks.md",
+        "ticker": "HBL",
+        "entity_name": "Habib Bank Limited",
+        "filing_type": "annual",
+        "filing_period": [
+          "2024",
+          "2023"
+        ],
+        "source_file": "Habib_Bank_Limited_Annual_2024_chunks.md"
+      },
+      "score": 0.7112505673242383
+    },
+    {
+      "node_id": "Habib_Bank_Limited_Annual_2024_chunks_chunk_396",
+      "text": "--- Metadata Context ---\nentity_name: Habib Bank Limited\nticker: HBL\nfiling_type: annual\nfiling_period: 2024, 2023\nfinancial_data: yes\nfinancial_statement_scope: consolidated\nis_statement: no\nis_note: yes\nnote_link: balance_sheet\nauditor_report: no\ndirector_report: no\nannual_report_discussion: no\n--- End Context ---\n\n# 45.1.8 Concentration of Advances\n\nThe Group's top 10 exposures on the basis of total (funded and non-funded) exposure aggregated to Rs 1,050,494.038 million (2023: Rs 574,511.968 million).\n\n| |2024|2023|\n|---|---|---|\n|Funded|931,966,430|360,158,898|\n|Non - funded|118,527,608|214,353,070|\n|Total exposure|1,050,494,038|574,511,968|\n\n# 45.1.8.1\n\nThe sanctioned limits against these top 10 exposures aggregated to Rs 1,195,888.813 million (2023: 682,802.632 million).\n\n# 45.1.8.2\n\nAll of the above exposures are performing.\n\n---",
+      "metadata": {
+        "chunk_number": 396,
+        "financial_data": "yes",
+        "financial_statement_scope": "consolidated",
+        "is_statement": "no",
+        "statement_type": "none",
+        "is_note": "yes",
+        "note_link": "balance_sheet",
+        "auditor_report": "no",
+        "director_report": "no",
+        "annual_report_discussion": "no",
+        "file_name": "Habib_Bank_Limited_Annual_2024_chunks.md",
+        "ticker": "HBL",
+        "entity_name": "Habib Bank Limited",
+        "filing_type": "annual",
+        "filing_period": [
+          "2024",
+          "2023"
+        ],
+        "source_file": "Habib_Bank_Limited_Annual_2024_chunks.md"
+      },
+      "score": 0.7050373171140911
+    },
+    {
+      "node_id": "United_Bank_Limited_Annual_2024_chunks_chunk_259",
+      "text": "--- Metadata Context ---\nentity_name: United Bank Limited\nticker: UBL\nfiling_type: annual\nfiling_period: 2024, 2023\nfinancial_data: yes\nfinancial_statement_scope: unconsolidated\nis_statement: no\nis_note: yes\nnote_link: balance_sheet\nauditor_report: no\ndirector_report: no\nannual_report_discussion: no\n--- End Context ---\n\n# 47.1.2 Investment in debt securities\n\n|Credit risk by industry sector|Gross investments|Non-performing investments|Credit loss allowance held|\n|---|---|---|---|\n|Chemical and pharmaceuticals|528,106|28,108|135|\n|Financial|5,769,429,669|360,000|30,121|\n|Food|912|912|-|\n|Production and transmission of energy|18,396,008|-|-|\n|Metal and allied|78,125|-|15|\n|Textile|229,263|229,263|-|\n|Others|2,823,628|-|948|\n|Total|5,791,485,711|618,283|31,219|\n\n---",
+      "metadata": {
+        "chunk_number": 259,
+        "financial_data": "yes",
+        "financial_statement_scope": "unconsolidated",
+        "is_statement": "no",
+        "statement_type": "none",
+        "is_note": "yes",
+        "note_link": "balance_sheet",
+        "auditor_report": "no",
+        "director_report": "no",
+        "annual_report_discussion": "no",
+        "file_name": "United_Bank_Limited_Annual_2024_chunks.md",
+        "ticker": "UBL",
+        "entity_name": "United Bank Limited",
+        "filing_type": "annual",
+        "filing_period": [
+          "2024",
+          "2023"
+        ],
+        "source_file": "United_Bank_Limited_Annual_2024_chunks.md"
+      },
+      "score": 0.7044564422564822
+    },
+    {
+      "node_id": "Bank_Alfalah_Limited_Annual_2024_chunks_chunk_986",
+      "text": "--- Metadata Context ---\nentity_name: Bank Alfalah Limited\nticker: BAFL\nfiling_type: annual\nfiling_period: 2024, 2023\nfinancial_data: yes\nfinancial_statement_scope: unconsolidated\nis_statement: no\nis_note: yes\nnote_link: balance_sheet\nauditor_report: no\ndirector_report: no\nannual_report_discussion: no\n--- End Context ---\n\n# 48.1.9 Concentration of Advances\n\nThe Bank's top 10 exposures on the basis of total funded and non-funded exposures aggregated to Rs. 468,501.847 million (2023: Rs. 157,762.230 million) are as following:\n\n|Type|2024|2023|\n|---|---|---|\n|Funded|381,239,490|61,314,267|\n|Non Funded|87,262,357|96,447,963|\n|Total Exposure|468,501,847|157,762,230|\n\nThe sanctioned limits against these top 10 exposures aggregated to Rs. 608,466.300 million (2023: Rs. 263,838.992 million). None of the top 10 exposures are classified. For the purpose of this note, exposure means outstanding funded facilities and utilised non-funded facilities as at the reporting date.\n\n---",
+      "metadata": {
+        "chunk_number": 986,
+        "financial_data": "yes",
+        "financial_statement_scope": "unconsolidated",
+        "is_statement": "no",
+        "statement_type": "none",
+        "is_note": "yes",
+        "note_link": "balance_sheet",
+        "auditor_report": "no",
+        "director_report": "no",
+        "annual_report_discussion": "no",
+        "file_name": "Bank_Alfalah_Limited_Annual_2024_chunks.md",
+        "ticker": "BAFL",
+        "entity_name": "Bank Alfalah Limited",
+        "filing_type": "annual",
+        "filing_period": [
+          "2024",
+          "2023"
+        ],
+        "source_file": "Bank_Alfalah_Limited_Annual_2024_chunks.md"
+      },
+      "score": 0.7020153972647527
+    },
+    {
+      "node_id": "United_Bank_Limited_Annual_2024_chunks_chunk_194",
+      "text": "--- Metadata Context ---\nentity_name: United Bank Limited\nticker: UBL\nfiling_type: annual\nfiling_period: 2024, 2023\nfinancial_data: yes\nfinancial_statement_scope: unconsolidated\nis_statement: no\nis_note: yes\nnote_link: balance_sheet\nauditor_report: no\ndirector_report: no\nannual_report_discussion: no\n--- End Context ---\n\n# 9.3.1 Gross loans disbursed to women, women-owned and managed enterprises amounting to Rs. 8,980.054 million (2023:1,649.816 million)\n\n# 9.4 Particulars of credit loss allowance against advances\n\n|Advances - Exposure|Stage 1|Stage 2|Stage 3|Total|\n|---|---|---|---|---|\n|Opening balance|563,413,657|48,113,494|105,540,520|717,067,671|\n|Impact of adoption of IFRS 9|(57,023,856)|52,722,599|48,143|(4,253,114)|\n|New advances|1,024,071,074|27,778,410|-|1,051,849,484|\n|Advances derecognised or repaid|(158,910,082)|(27,795,479)|(5,213,688)|(191,919,249)|\n|Transfer to stage 1|8,037,446|(8,037,446)|-|-|\n|Transfer to stage 2|(4,339,486)|5,177,038|(837,552)|-|\n|Transfer to stage 3|(921,944)|(17,125,631)|18,047,575|-|\n|Amounts charged off - agriculture financing|-|-|(69,501)|(69,501)|\n|Amounts written off / charged off|-|-|(577,830)|(577,830)|\n|Other adjustments|(5,627,359)|1,001,856|54,112|(4,571,391)|\n|Exchange adjustments|(826,258)|(572,622)|(999,829)|(2,398,709)|\n|Closing balance|1,367,873,192|81,262,219|115,991,950|1,565,127,361|\n\n---",
+      "metadata": {
+        "chunk_number": 194,
+        "financial_data": "yes",
+        "financial_statement_scope": "unconsolidated",
+        "is_statement": "no",
+        "statement_type": "none",
+        "is_note": "yes",
+        "note_link": "balance_sheet",
+        "auditor_report": "no",
+        "director_report": "no",
+        "annual_report_discussion": "no",
+        "file_name": "United_Bank_Limited_Annual_2024_chunks.md",
+        "ticker": "UBL",
+        "entity_name": "United Bank Limited",
+        "filing_type": "annual",
+        "filing_period": [
+          "2024",
+          "2023"
+        ],
+        "source_file": "United_Bank_Limited_Annual_2024_chunks.md"
+      },
+      "score": 0.7002534944542822
+    },
+    {
+      "node_id": "United_Bank_Limited_Annual_2024_chunks_chunk_510",
+      "text": "--- Metadata Context ---\nentity_name: United Bank Limited\nticker: UBL\nfiling_type: annual\nfiling_period: 2024, 2023\nfinancial_data: yes\nfinancial_statement_scope: consolidated\nis_statement: no\nis_note: yes\nnote_link: balance_sheet\nauditor_report: no\ndirector_report: no\nannual_report_discussion: no\n--- End Context ---\n\n# 49. RISK MANAGEMENT\n\nThe Bank has an integrated risk management structure in place covering domestic and international operations. The Board Risk and Compliance Committee (BRCC), a sub-committee of the Board of Directors (BoD); oversees the entire risk management process of the Bank. Management Risk Committee (MRC) oversees all risks collectively at senior management level. The Committee is chaired by the President and comprises of Heads of all major areas such as Risk, Finance, SAM and Business Groups. The Risk and Credit Policy Group led by Group Executive Risk and Credit Policy (GE-R&CP) is responsible for the development and implementation of all risk policies approved by the BoD in line with the guidelines issued by SBP and respective overseas central banks. The group is organized into various functions such as Credit Risk Management, Credit Policy & Research, Market & Treasury Risk and Basel, Financial Institution Risk, Consumer Risk, Operational Risk, Credit Administration Division, Environmental, Social & Governance Risk and Information Security Risk. The role of the Risk and Credit Policy Group, interalia, includes:\n\n- Determining guidelines relating to the Bank\u2019s risk appetite.\n- Reviewing risks on an aggregate and enterprise level.\n- Recommending risk management policies in accordance with the Prudential Regulations, Basel II / III framework, Regulatory framework of foreign countries where the bank operates and international best practices.\n- Reviewing policies / manuals and ensuring that these are in accordance with BRCC / BoD approved Risk Management Policy.\n- Approving credits and granting approval authority to qualified and experienced individuals.\n- Portfolio reviews focusing on quality assessment, risk profiles, industry concentrations etc.\n- Identify problem credits and level of provisioning required.\n- To establish an extensive Information Security (IS) Program and governance structure, to manage the security of the information assets.\n- Ensuring development of an effective MIS for timely identification, control and reporting of risks across the Bank.\n- Assessing the position of Bank\u2019s Risk Weighted Assets (RWAs) in line with the applicable standards under Basel for computation of capital requirement(s) for the Bank.\n\nThe latter half of 2024 marked a period of stability for the global economy, as Central Banks around the globe began reducing their rates, signalling a potential shift in the global economic cycle and monetary policy approach.\n\n# 49.1.1 Lendings to financial institutions\n\n|Credit risk by public / private sector|Gross lendings|Non-performing|Credit loss allowance held|\n|---|---|---|---|\n|Public / Government|-|-|-|\n|Private|18,492,483|-|-|\n|Total|18,492,483|-|-|\n\n---",
+      "metadata": {
+        "chunk_number": 510,
+        "financial_data": "yes",
+        "financial_statement_scope": "consolidated",
+        "is_statement": "no",
+        "statement_type": "none",
+        "is_note": "yes",
+        "note_link": "balance_sheet",
+        "auditor_report": "no",
+        "director_report": "no",
+        "annual_report_discussion": "no",
+        "file_name": "United_Bank_Limited_Annual_2024_chunks.md",
+        "ticker": "UBL",
+        "entity_name": "United Bank Limited",
+        "filing_type": "annual",
+        "filing_period": [
+          "2024",
+          "2023"
+        ],
+        "source_file": "United_Bank_Limited_Annual_2024_chunks.md"
+      },
+      "score": 0.6996337200540015
+    },
+    {
+      "node_id": "BankIslami_Pakistan_Limited_Annual_2024_chunks_chunk_548",
+      "text": "--- Metadata Context ---\nentity_name: Bank Islami Limited\nticker: BISL\nfiling_type: annual\nfiling_period: 2024, 2023\nfinancial_data: yes\nfinancial_statement_scope: unconsolidated\nis_statement: no\nis_note: yes\nnote_link: balance_sheet\nauditor_report: no\ndirector_report: no\nannual_report_discussion: no\n--- End Context ---\n\n# 48.1.5  Concentration of Financing\n\nThe bank top 10 exposures on the basis of total (funded and non-funded exposures) aggregated to Rs. 130,787.942 million (2023: Rs. 103,355.651 million) are as following:\n\n| |2024|2023|\n|---|---|---|\n|Funded|121,521,031|92,505,694|\n|Non Funded|9,266,911|10,849,957|\n|Total Exposure|130,787,942|103,355,651|\n\nThe sanctioned limits against these top 10 exposures aggregated to Rs. 141,317 million (2023: Rs. 110,907 million).\n\nFor the purpose of this note, exposure means outstanding funded facilities and utilized non-funded facilities as at the reporting date.\n\nAnnual Report 2024 | 187\n\n---",
+      "metadata": {
+        "chunk_number": 548,
+        "financial_data": "yes",
+        "financial_statement_scope": "unconsolidated",
+        "is_statement": "no",
+        "statement_type": "none",
+        "is_note": "yes",
+        "note_link": "balance_sheet",
+        "auditor_report": "no",
+        "director_report": "no",
+        "annual_report_discussion": "no",
+        "file_name": "BankIslami_Pakistan_Limited_Annual_2024_chunks.md",
+        "ticker": "BISL",
+        "entity_name": "Bank Islami Limited",
+        "filing_type": "annual",
+        "filing_period": [
+          "2024",
+          "2023"
+        ],
+        "source_file": "BankIslami_Pakistan_Limited_Annual_2024_chunks.md"
+      },
+      "score": 0.6988307263047567
+    }
+  ],
+  "node_count": 10,
+  "server_version": "enhanced",
+  "save_time": "2025-06-04T14:07:12.119098"
+}

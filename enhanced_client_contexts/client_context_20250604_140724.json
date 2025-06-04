@@ -1,0 +1,179 @@
+{
+  "timestamp": "20250604_140724",
+  "original_query": "lending exposure for 2024 and 2023 for UBL and JSBL",
+  "query_plan": {
+    "companies": [
+      "UBL",
+      "JSBL"
+    ],
+    "intent": "analysis",
+    "confidence": 0.9,
+    "queries_count": 4,
+    "needs_clarification": false,
+    "sample_query": {
+      "search_query": "UBL lending exposure 2024",
+      "metadata_filters": {
+        "is_statement": "no",
+        "is_note": "yes",
+        "note_link": "balance_sheet",
+        "filing_type": "annual"
+      }
+    }
+  },
+  "execution_result": {
+    "total_nodes": 40,
+    "response_length": 2074,
+    "companies": [
+      "UBL",
+      "JSBL"
+    ],
+    "intent": "analysis",
+    "query_stats": {
+      "total_queries": 4,
+      "successful_queries": 4,
+      "failed_queries": 0,
+      "success_rate": 1.0,
+      "total_attempts": 4,
+      "query_attempts": [
+        {
+          "query_index": 1,
+          "attempt": 1,
+          "search_query": "UBL lending exposure 2024",
+          "filters": {
+            "is_statement": "no",
+            "is_note": "yes",
+            "note_link": "balance_sheet",
+            "filing_type": "annual"
+          },
+          "result": "success",
+          "nodes_count": 10,
+          "relevant_nodes": 10
+        },
+        {
+          "query_index": 2,
+          "attempt": 1,
+          "search_query": "UBL lending exposure 2023",
+          "filters": {
+            "is_statement": "no",
+            "is_note": "yes",
+            "note_link": "balance_sheet",
+            "filing_type": "annual"
+          },
+          "result": "success",
+          "nodes_count": 10,
+          "relevant_nodes": 10
+        },
+        {
+          "query_index": 3,
+          "attempt": 1,
+          "search_query": "JSBL lending exposure 2024",
+          "filters": {
+            "is_statement": "no",
+            "is_note": "yes",
+            "note_link": "balance_sheet",
+            "filing_type": "annual"
+          },
+          "result": "success",
+          "nodes_count": 10,
+          "relevant_nodes": 10
+        },
+        {
+          "query_index": 4,
+          "attempt": 1,
+          "search_query": "JSBL lending exposure 2023",
+          "filters": {
+            "is_statement": "no",
+            "is_note": "yes",
+            "note_link": "balance_sheet",
+            "filing_type": "annual"
+          },
+          "result": "success",
+          "nodes_count": 10,
+          "relevant_nodes": 10
+        }
+      ]
+    },
+    "error": null
+  },
+  "sample_nodes": [
+    {
+      "node_id": "United_Bank_Limited_Annual_2024_chunks_chunk_264",
+      "text": "--- Metadata Context ---\nentity_name: United Bank Limited\nticker: UBL\nfiling_type: annual\nfiling_period: 2024, 2023\nfinancial_data: yes\nfinancial_statement_scope: unconsolidated\nis_statement: no\nis_note: yes\nnote_link: balance_sheet\nauditor_report: no\ndirector_report: no\nannual_report_discussion: no\n--- End Context ---\n\n# 47.1.5 Concentration of Advances\n\nThe Bank's top 10 exposures on the basis of total (funded and non-funded exposures) aggregated to Rs. 846,033 million (2023: Rs. 478,848 million) are as follows:\n\n| |2024|2023| | | | |\n|---|---|---|---|---|---|---|\n|Funded|650,326,358|166,962,464| | | | |\n|Non Funded|195,706,719|311,886,407| | | | |\n|Total Exposure|846,033,077|478,848,871| | | | |\n\nThe sanctioned limits against these top 10 exposures aggregated to Rs. 1,037,771 million (2023: Rs. 531,971 million).\n\nNone of the exposure against these top 10 exposures is classified.\n\nFor the purpose of this note, exposure means outstanding funded facilities and utilised non-funded facilities as at the reporting date.\n\n---",
+      "metadata": {
+        "chunk_number": 264,
+        "financial_data": "yes",
+        "financial_statement_scope": "unconsolidated",
+        "is_statement": "no",
+        "statement_type": "none",
+        "is_note": "yes",
+        "note_link": "balance_sheet",
+        "auditor_report": "no",
+        "director_report": "no",
+        "annual_report_discussion": "no",
+        "file_name": "United_Bank_Limited_Annual_2024_chunks.md",
+        "ticker": "UBL",
+        "entity_name": "United Bank Limited",
+        "filing_type": "annual",
+        "filing_period": [
+          "2024",
+          "2023"
+        ],
+        "source_file": "United_Bank_Limited_Annual_2024_chunks.md"
+      },
+      "score": 0.7662422445875
+    },
+    {
+      "node_id": "United_Bank_Limited_Annual_2024_chunks_chunk_517",
+      "text": "--- Metadata Context ---\nentity_name: United Bank Limited\nticker: UBL\nfiling_type: annual\nfiling_period: 2024, 2023\nfinancial_data: yes\nfinancial_statement_scope: consolidated\nis_statement: no\nis_note: yes\nnote_link: balance_sheet\nauditor_report: no\ndirector_report: no\nannual_report_discussion: no\n--- End Context ---\n\n# 49.1.5 Concentration of Advances\n\nThe Bank's top 10 exposures on the basis of total (funded and non-funded exposures) aggregated to Rs.846,033 million (2023: Rs. 478,848 million) are as follows:\n\n|Funded|650,326,358|\n|---|---|\n|Non Funded|195,706,719|\n|Total Exposure|846,033,077|\n\nThe sanctioned limits against these top 10 exposures aggregated to Rs. 1,037,771 million (2023: Rs. 531,971 million).\n\nNone of the exposure against these top 10 exposures is classified.\n\nFor the purpose of this note, exposure means outstanding funded facilities and utilised non-funded facilities as at the reporting date.\n\n---",
+      "metadata": {
+        "chunk_number": 517,
+        "financial_data": "yes",
+        "financial_statement_scope": "consolidated",
+        "is_statement": "no",
+        "statement_type": "none",
+        "is_note": "yes",
+        "note_link": "balance_sheet",
+        "auditor_report": "no",
+        "director_report": "no",
+        "annual_report_discussion": "no",
+        "file_name": "United_Bank_Limited_Annual_2024_chunks.md",
+        "ticker": "UBL",
+        "entity_name": "United Bank Limited",
+        "filing_type": "annual",
+        "filing_period": [
+          "2024",
+          "2023"
+        ],
+        "source_file": "United_Bank_Limited_Annual_2024_chunks.md"
+      },
+      "score": 0.7583191093308187
+    },
+    {
+      "node_id": "United_Bank_Limited_Annual_2024_chunks_chunk_401",
+      "text": "--- Metadata Context ---\nentity_name: United Bank Limited\nticker: UBL\nfiling_type: annual\nfiling_period: 2024, 2023\nfinancial_data: yes\nfinancial_statement_scope: consolidated\nis_statement: no\nis_note: yes\nnote_link: balance_sheet\nauditor_report: no\ndirector_report: no\nannual_report_discussion: no\n--- End Context ---\n\n# 7. LENDINGS TO FINANCIAL INSTITUTIONS\n\n| | |Note|2024|2023|Cost / Amortised cost|Credit loss allowance|Surplus / (Deficit)|Carrying Value| | |\n|---|---|---|---|---|---|---|---|---|---|---|\n|7.1|Particulars of lendings to financial institutions| | | | | | | | | |\n| |In local currency|18,492,483|34,447,852| | | | | | | |\n| |In foreign currencies|-|4,868,418| | | | | | | |\n| |Total|18,492,483|39,316,270| | | | | | | |\n|7.2|These represent unsecured lendings carrying mark-up ranging from Nil (2023: 22.05% to 22.50%) per annum.| | | | | | | | | |\n| | |7.3|These represent lendings to financial institutions against investment securities. These carry mark-up ranging from 13.89% (2023: 22.05% to 22.95%) per annum, and are due to mature in January 2025.| | | | | | | |\n|7.4|These represent secured lendings against investment securities carrying mark-up at 13.90% (2023: Nil) per annum.| | | | | | | | | |\n|7.5|Securities held as collateral against lendings to financial institutions| | | | | | | | | |\n\n# Market Treasury Bills\n\n|Held by Group|Further given as collateral|Total|\n|---|---|---|\n|2,492,483|-|2,492,483|\n|Pakistan Investment Bonds|-|-|\n|Government of Pakistan Sukuks|16,000,000|-|\n|Total|18,492,483|21,947,852|\n\n# 7.6\n\nLendings to financial institutions are all classified as stage 1.\n\n---",
+      "metadata": {
+        "chunk_number": 401,
+        "financial_data": "yes",
+        "financial_statement_scope": "consolidated",
+        "is_statement": "no",
+        "statement_type": "none",
+        "is_note": "yes",
+        "note_link": "balance_sheet",
+        "auditor_report": "no",
+        "director_report": "no",
+        "annual_report_discussion": "no",
+        "file_name": "United_Bank_Limited_Annual_2024_chunks.md",
+        "ticker": "UBL",
+        "entity_name": "United Bank Limited",
+        "filing_type": "annual",
+        "filing_period": [
+          "2024",
+          "2023"
+        ],
+        "source_file": "United_Bank_Limited_Annual_2024_chunks.md"
+      },
+      "score": 0.7112142278314262
+    }
+  ],
+  "client_version": "enhanced"
+}

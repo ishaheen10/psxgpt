@@ -66,6 +66,59 @@ streaming_llm = GoogleGenAI(model="models/gemini-2.5-flash-preview-04-17", api_k
 # Import prompts library
 from prompts import prompts
 
+# ─────────────────────────── Conversation Context Management ─────────────────
+class ConversationContext(BaseModel):
+    """Simple conversation context following Claude's stateless API pattern"""
+    messages: List[Dict[str, str]] = Field(default_factory=list, description="Conversation history in Claude format")
+    
+    def add_message(self, role: str, content: str):
+        """Add a message to conversation history"""
+        self.messages.append({"role": role, "content": content})
+        # Keep only last 10 messages for token efficiency (following industry best practices)
+        if len(self.messages) > 10:
+            self.messages = self.messages[-10:]
+    
+    def get_messages_for_claude(self) -> List[Dict[str, str]]:
+        """Get conversation history in Claude's required format"""
+        return self.messages.copy()
+    
+    def get_context_summary(self) -> str:
+        """Get a brief context summary for follow-up queries"""
+        if not self.messages:
+            return ""
+        
+        # Extract companies and intents from recent messages
+        recent_content = " ".join([msg["content"] for msg in self.messages[-3:]])
+        
+        # Simple context extraction (could be enhanced with NLP)
+        companies = []
+        for ticker_data in TICKERS:
+            if ticker_data["Symbol"].upper() in recent_content.upper():
+                companies.append(ticker_data["Symbol"])
+        
+        context = "Previous conversation context:\n"
+        if companies:
+            context += f"Companies discussed: {', '.join(companies)}\n"
+        if self.messages:
+            context += f"Recent queries: {len(self.messages)} messages\n"
+        
+        return context
+
+def get_conversation_context() -> ConversationContext:
+    """Get or create conversation context from user session"""
+    context_data = cl.user_session.get("conversation_context")
+    if context_data:
+        try:
+            return ConversationContext.model_validate(context_data)
+        except Exception:
+            pass  # Create new context if validation fails
+    
+    return ConversationContext()
+
+def save_conversation_context(context: ConversationContext):
+    """Save conversation context to user session"""
+    cl.user_session.set("conversation_context", context.model_dump())
+
 # ─────────────────────────── Data Models ────────────────────────────────
 class QueryPlan(BaseModel):
     companies: List[str] = Field(description="Ticker symbols extracted")
@@ -223,8 +276,8 @@ def find_best_ticker_match(query_ticker: str) -> str:
     # Return original if no match found
     return query_ticker
 
-async def parse_query_with_claude(user_query: str) -> QueryPlan:
-    """Use Claude 3.5 Haiku to parse user query into structured query plan"""
+async def parse_query_with_claude(user_query: str, conversation_context: Optional[ConversationContext] = None) -> QueryPlan:
+    """Use Claude 3.5 Haiku to parse user query into structured query plan with conversation context"""
     log.info(f"Parsing query with Claude: {user_query[:100]}...")
     
     # Create ticker context for Claude - only banks
@@ -233,8 +286,19 @@ async def parse_query_with_claude(user_query: str) -> QueryPlan:
     # Detect quarterly requests for Q4 calculation logic
     is_quarterly_request = any(q_term in user_query.lower() for q_term in ["quarterly", "quarter", "q1", "q2", "q3", "q4"])
     
-    # Generate user prompt using prompts library
+    # Build messages array for Claude's stateless API
+    messages = []
+    
+    # Add conversation history if available (Claude's native format)
+    if conversation_context:
+        context_messages = conversation_context.get_messages_for_claude()
+        if context_messages:
+            messages.extend(context_messages)
+            log.info(f"📝 Added {len(context_messages)} previous messages to conversation context")
+    
+    # Add current user query
     user_prompt = prompts.get_parsing_user_prompt(user_query, bank_tickers, is_quarterly_request)
+    messages.append({"role": "user", "content": user_prompt})
 
     try:
         response = await anthropic_client.messages.create(
@@ -242,7 +306,7 @@ async def parse_query_with_claude(user_query: str) -> QueryPlan:
             max_tokens=2000,
             temperature=0.1,
             system=prompts.PARSING_SYSTEM_PROMPT,
-            messages=[{"role": "user", "content": user_prompt}],
+            messages=messages,  # Use Claude's native message format
             tools=[{
                 "name": "create_query_plan",
                 "description": "Create structured query plan for PSX financial data",
@@ -821,6 +885,10 @@ def auth_callback(username: str, password: str) -> Optional[cl.User]:
 
 @cl.on_chat_start
 async def on_chat_start():
+    # Clear conversation context for new session
+    cl.user_session.set("conversation_context", None)
+    log.info("🔄 Started new chat session - cleared conversation context")
+    
     welcome = """# 🏦 PSX Financial Assistant (Enhanced)
 
 **AI-Powered Financial Data Analysis for Pakistan Stock Exchange**
@@ -832,6 +900,7 @@ async def on_chat_start():
 - **Enhanced Error Handling** with detailed diagnostics
 - **Real-time Processing Statistics** and success rates
 - **Improved Logging** for better debugging and monitoring
+- **🆕 Conversation Context** - Follow-up queries now understand previous context!
 
 ## 🎯 **What you can ask:**
 
@@ -848,6 +917,11 @@ async def on_chat_start():
 - "Compare MCB and NBP balance sheets side by side"
 - "Show me Meezan Bank and Bank Al Falah's profit and loss account unconsolidated for 2024"
 
+**🆕 Follow-up Queries (NEW!):**
+- After analyzing companies: "Show me their sector exposure"
+- After financial statements: "What about their quarterly data?"
+- After comparisons: "I want to see exposure by sector and industry"
+
 ## 🔢 **NEW: Intelligent Q4 Calculation**
 When you request quarterly data, the system automatically:
 - **Retrieves Q1, Q2, Q3** quarterly reports  
@@ -857,19 +931,28 @@ When you request quarterly data, the system automatically:
 
 This solves the industry challenge where companies file annual reports but don't provide separate Q4 quarterly data!
 
+## 💬 **NEW: Conversation Context**
+The system now remembers your previous queries and can handle follow-up questions:
+- **Context Awareness**: Understands "their", "them", "these companies" references
+- **Smart Inference**: Automatically applies previous companies to new queries
+- **Consistency**: Maintains analysis scope across related queries
+- **Natural Flow**: Ask follow-up questions without repeating company names
+
 ## 🔧 **System Improvements:**
 - **Enhanced error recovery** with multiple query attempts
 - **Detailed query statistics** showing success rates
 - **Better context saving** for debugging and analysis
 - **Improved logging** with processing time tracking
 - **Robust timeout handling** for reliable performance
+- **Conversation memory** for natural follow-up queries
 
 ## ℹ️ **Technical Notes:**
 - Framework async warnings (if any) don't affect functionality
 - Context files are saved for both server and client debugging
 - All queries work despite any background warnings
+- Conversation context is automatically managed
 
-The system uses **Claude 3.5 Haiku** for intelligent query parsing and generates optimized database queries automatically with comprehensive error handling.
+The system uses **Claude 3.5 Haiku** for intelligent query parsing and generates optimized database queries automatically with comprehensive error handling and conversation awareness.
 
 **What would you like to analyze today?**
 """
@@ -882,12 +965,16 @@ async def on_message(message: cl.Message):
         log.info(f"📥 Processing user query: '{message.content[:100]}...'")
         start_time = datetime.now()
         
+        # Load conversation context
+        conversation_context = get_conversation_context()
+        log.info(f"💬 Loaded conversation context with {len(conversation_context.messages)} previous messages")
+        
         # Step 1: Parse query with Claude (enhanced logging)
         step1 = cl.Message(content="🧠 **Step 1:** Analyzing your query...")
         await step1.send()
         
-        log.info("🔍 Starting Claude query parsing...")
-        query_plan = await parse_query_with_claude(message.content)
+        log.info("🔍 Starting Claude query parsing with conversation context...")
+        query_plan = await parse_query_with_claude(message.content, conversation_context)
         
         # Handle clarification needs with enhanced messaging
         if query_plan.needs_clarification:
@@ -1002,6 +1089,12 @@ async def on_message(message: cl.Message):
         
         await response_msg.stream_token(completion_summary)
         await response_msg.update()
+        
+        # Save conversation context for future messages
+        conversation_context.add_message("user", message.content)
+        conversation_context.add_message("assistant", complete_response[:500] + "..." if len(complete_response) > 500 else complete_response)
+        save_conversation_context(conversation_context)
+        log.info(f"💾 Saved conversation context with {len(conversation_context.messages)} messages")
         
         log.info(f"🎉 Message processing completed successfully in {processing_time:.1f}s")
         

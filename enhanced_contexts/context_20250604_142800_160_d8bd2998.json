@@ -1,0 +1,276 @@
+{
+  "timestamp": "20250604_142800",
+  "query": "HBL balance sheet quarterly 2024",
+  "query_hash": "d8bd2998",
+  "metadata": {
+    "is_statement": "yes",
+    "statement_type": "balance_sheet",
+    "filing_type": "quarterly",
+    "financial_statement_scope": "consolidated"
+  },
+  "nodes": [
+    {
+      "node_id": "Habib_Bank_Limited_Quarterly_2024-06-30_chunks_chunk_16",
+      "text": "--- Metadata Context ---\nentity_name: Habib Bank Limited\nticker: HBL\nfiling_type: quarterly\nfiling_period: Q2-2024, Q2-2023\nfinancial_data: yes\nfinancial_statement_scope: consolidated\nis_statement: yes\nstatement_type: balance_sheet\nis_note: no\nauditor_report: no\ndirector_report: no\nannual_report_discussion: no\n--- End Context ---\n\n# CONTINGENCIES AND COMMITMENTS\n\nThe annexed notes 1 to 41 form an integral part of these condensed interim consolidated financial statements.\n\nMuhammad Nassir Salim\n\nRayomond Kotwal\n\nDr. Najeeb Samie\n\nSalim Raza\n\nShaffiq Dharamshi\n\nPresident and Chief Executive Officer\n\nChief Financial Officer\n\nDirector\n\nDirector\n\nDirector\n---\n\n---",
+      "metadata": {
+        "chunk_number": 16,
+        "financial_data": "yes",
+        "financial_statement_scope": "consolidated",
+        "is_statement": "yes",
+        "statement_type": "balance_sheet",
+        "is_note": "no",
+        "note_link": "none",
+        "auditor_report": "no",
+        "director_report": "no",
+        "annual_report_discussion": "no",
+        "file_name": "Habib_Bank_Limited_Quarterly_2024-06-30_chunks.md",
+        "ticker": "HBL",
+        "entity_name": "Habib Bank Limited",
+        "filing_type": "quarterly",
+        "filing_period": [
+          "Q2-2024",
+          "Q2-2023"
+        ],
+        "source_file": "Habib_Bank_Limited_Quarterly_2024-06-30_chunks.md"
+      },
+      "score": 0.7137385630949831
+    },
+    {
+      "node_id": "Habib_Bank_Limited_Quarterly_2024-06-30_chunks_chunk_15",
+      "text": "--- Metadata Context ---\nentity_name: Habib Bank Limited\nticker: HBL\nfiling_type: quarterly\nfiling_period: Q2-2024, Q2-2023\nfinancial_data: yes\nfinancial_statement_scope: consolidated\nis_statement: yes\nstatement_type: balance_sheet\nis_note: no\nauditor_report: no\ndirector_report: no\nannual_report_discussion: no\n--- End Context ---\n\n# CONDENSED INTERIM CONSOLIDATED STATEMENT OF FINANCIAL POSITION AS AT JUNE 30, 2024\n\n# Habib Bank Limited\n\n# Condensed Interim Consolidated Statement of Financial Position\n\n# As at June 30, 2024\n\n|Note|(Unaudited)|(Audited)|\n|---|---|---|\n| |June 30, 2024|December 31, 2023|\n| |(Rupees in '000)| |\n|ASSETS| | |\n|Cash and balances with treasury banks|600,969,015|547,528,581|\n|Balances with other banks|75,322,541|56,603,548|\n|Lendings to financial institutions|133,255,245|88,598,160|\n|Investments|3,174,438,091|2,562,299,087|\n|Advances|1,778,798,350|1,861,344,592|\n|Property and equipment|122,763,571|117,239,722|\n|Right-of-use assets|24,923,293|24,654,745|\n|Intangible assets|22,839,875|22,720,543|\n|Deferred tax assets|12,009,005|480,874|\n|Other assets|289,078,642|252,878,451|\n| |6,234,397,628|5,534,348,303|\n|LIABILITIES| | |\n|Bills payable|71,517,825|51,700,823|\n|Borrowings|589,102,935|665,042,679|\n|Deposits and other accounts|4,847,435,655|4,142,351,836|\n|Lease liabilities|32,550,696|30,489,986|\n|Subordinated debt|20,374,000|19,699,000|\n|Deferred tax liabilities|-|-|\n|Other liabilities|299,062,426|259,043,326|\n| |5,860,043,537|5,168,327,650|\n|NET ASSETS|374,354,091|366,020,653|\n|REPRESENTED BY| | |\n|Shareholders' equity| | |\n|Share capital|14,668,525|14,668,525|\n|Reserves|102,157,377|100,805,157|\n|Surplus on revaluation of assets - net of tax|32,034,846|25,857,323|\n|Unappropriated profit|223,722,848|221,883,756|\n|Total equity attributable to the equity holders of the Bank|372,583,596|363,214,761|\n|Non-controlling interest|1,770,495|2,805,892|\n| |374,354,091|366,020,653|\n\n---",
+      "metadata": {
+        "chunk_number": 15,
+        "financial_data": "yes",
+        "financial_statement_scope": "consolidated",
+        "is_statement": "yes",
+        "statement_type": "balance_sheet",
+        "is_note": "no",
+        "note_link": "none",
+        "auditor_report": "no",
+        "director_report": "no",
+        "annual_report_discussion": "no",
+        "file_name": "Habib_Bank_Limited_Quarterly_2024-06-30_chunks.md",
+        "ticker": "HBL",
+        "entity_name": "Habib Bank Limited",
+        "filing_type": "quarterly",
+        "filing_period": [
+          "Q2-2024",
+          "Q2-2023"
+        ],
+        "source_file": "Habib_Bank_Limited_Quarterly_2024-06-30_chunks.md"
+      },
+      "score": 0.7060778294347737
+    },
+    {
+      "node_id": "Habib_Bank_Limited_Quarterly_2024-03-31_chunks_chunk_17",
+      "text": "--- Metadata Context ---\nentity_name: Habib Bank Limited\nticker: HBL\nfiling_type: quarterly\nfiling_period: Q1-2024, Q1-2023\nfinancial_data: yes\nfinancial_statement_scope: consolidated\nis_statement: yes\nstatement_type: balance_sheet\nis_note: no\nauditor_report: no\ndirector_report: no\nannual_report_discussion: no\n--- End Context ---\n\n# CONDENSED INTERIM CONSOLIDATED STATEMENT OF FINANCIAL POSITION\n\n# Habib Bank Limited\n\n# AS AT MARCH 31, 2024\n\n# Condensed Interim Consolidated Statement of Financial Position\n\n# As at March 31, 2024\n\n|Note|(Unaudited) March 31, 2024|(Audited) December 31, 2023|\n|---|---|---|\n|ASSETS| | |\n|Cash and balances with treasury banks|507,555,506|547,528,581|\n|Balances with other banks|62,366,148|56,603,548|\n|Lendings to financial institutions|71,569,018|88,598,160|\n|Investments|2,622,887,959|2,562,299,087|\n|Advances|1,749,903,269|1,861,344,592|\n|Property and equipment|117,793,374|117,239,722|\n|Right-of-use assets|24,561,908|24,654,745|\n|Intangible assets|23,040,261|22,720,543|\n|Deferred tax assets|6,349,272|480,874|\n|Other assets|287,162,849|252,878,451|\n| |5,473,189,564|5,534,348,303|\n|LIABILITIES| | |\n|Bills payable|45,321,857|51,700,823|\n|Borrowings|337,435,221|665,042,679|\n|Deposits and other accounts|4,375,917,445|4,142,351,836|\n|Lease liabilities|31,855,763|30,489,986|\n|Subordinated debt|20,374,000|19,699,000|\n|Deferred tax liabilities|-|-|\n|Other liabilities|292,458,992|259,043,326|\n| |5,103,363,278|5,168,327,650|\n|NET ASSETS|369,826,286|366,020,653|\n|REPRESENTED BY| | |\n|Shareholders' equity| | |\n|Share capital|14,668,525|14,668,525|\n|Reserves|102,454,846|100,805,157|\n|Surplus on revaluation of assets - net of tax|30,274,979|25,857,323|\n|Unappropriated profit|220,248,558|221,883,756|\n|Total equity attributable to the equity holders of the Bank|367,646,908|363,214,761|\n|Non-controlling interest|2,179,378|2,805,892|\n| |369,826,286|366,020,653|\n\n---",
+      "metadata": {
+        "chunk_number": 17,
+        "financial_data": "yes",
+        "financial_statement_scope": "consolidated",
+        "is_statement": "yes",
+        "statement_type": "balance_sheet",
+        "is_note": "no",
+        "note_link": "none",
+        "auditor_report": "no",
+        "director_report": "no",
+        "annual_report_discussion": "no",
+        "file_name": "Habib_Bank_Limited_Quarterly_2024-03-31_chunks.md",
+        "ticker": "HBL",
+        "entity_name": "Habib Bank Limited",
+        "filing_type": "quarterly",
+        "filing_period": [
+          "Q1-2024",
+          "Q1-2023"
+        ],
+        "source_file": "Habib_Bank_Limited_Quarterly_2024-03-31_chunks.md"
+      },
+      "score": 0.7049159393142975
+    },
+    {
+      "node_id": "Habib_Bank_Limited_Quarterly_2024-09-30_chunks_chunk_15",
+      "text": "--- Metadata Context ---\nentity_name: Habib Bank Limited\nticker: HBL\nfiling_type: quarterly\nfiling_period: Q3-2024, Q3-2023\nfinancial_data: yes\nfinancial_statement_scope: consolidated\nis_statement: yes\nstatement_type: balance_sheet\nis_note: no\nauditor_report: no\ndirector_report: no\nannual_report_discussion: no\n--- End Context ---\n\n# CONDENSED INTERIM CONSOLIDATED STATEMENT OF FINANCIAL POSITION AS AT SEPTEMBER 30, 2024\n\n# Habib Bank Limited\n\n# Condensed Interim Consolidated Statement of Financial Position\n\n# As at September 30, 2024\n\n| | |(Unaudited)|(Audited)|\n|---|---|---|---|\n|Note|September 30, 2024|December 31, 2023| |\n| | | |(Rupees in '000)|\n|ASSETS| | | |\n|Cash and balances with treasury banks|5|554,404,989|547,528,581|\n|Balances with other banks|6|68,838,898|56,603,548|\n|Lendings to financial institutions|7|41,389,811|88,598,160|\n|Investments|8|3,186,285,087|2,562,299,087|\n|Advances|9|1,848,217,072|1,861,344,592|\n|Property and equipment|10|128,712,117|117,239,722|\n|Right-of-use assets|11|25,841,473|24,654,745|\n|Intangible assets|12|23,226,843|22,720,543|\n|Deferred tax assets|19| |480,874|\n|Other assets|13|327,474,076|252,878,451|\n|Total Assets| |6,204,390,366|5,534,348,303|\n|LIABILITIES| | | |\n|Bills payable|14|48,349,894|51,700,823|\n|Borrowings|15|539,958,133|665,042,679|\n|Deposits and other accounts|16|4,809,351,714|4,142,351,836|\n|Lease liabilities|17|33,762,328|30,489,986|\n|Subordinated debt|18|20,374,000|19,699,000|\n|Deferred tax liabilities|19|10,824,625| |\n|Other liabilities|20|330,184,612|259,043,326|\n|Total Liabilities| |5,792,805,306|5,168,327,650|\n|NET ASSETS| |411,585,060|366,020,653|\n|REPRESENTED BY| | | |\n|Shareholders' equity| | | |\n|Share capital| |14,668,525|14,668,525|\n|Reserves| |106,200,740|100,805,157|\n|Surplus on revaluation of assets - net of tax|21|58,153,651|25,857,323|\n|Unappropriated profit| |231,003,300|221,883,756|\n|Total equity attributable to the equity holders of the Bank| |410,026,216|363,214,761|\n|Non-controlling interest| |1,558,844|2,805,892|\n|Total Net Assets| |411,585,060|366,020,653|\n\n---",
+      "metadata": {
+        "chunk_number": 15,
+        "financial_data": "yes",
+        "financial_statement_scope": "consolidated",
+        "is_statement": "yes",
+        "statement_type": "balance_sheet",
+        "is_note": "no",
+        "note_link": "none",
+        "auditor_report": "no",
+        "director_report": "no",
+        "annual_report_discussion": "no",
+        "file_name": "Habib_Bank_Limited_Quarterly_2024-09-30_chunks.md",
+        "ticker": "HBL",
+        "entity_name": "Habib Bank Limited",
+        "filing_type": "quarterly",
+        "filing_period": [
+          "Q3-2024",
+          "Q3-2023"
+        ],
+        "source_file": "Habib_Bank_Limited_Quarterly_2024-09-30_chunks.md"
+      },
+      "score": 0.7021510973558314
+    },
+    {
+      "node_id": "Habib_Metropolitan_Bank_Limited_Quarterly_2024-03-31_chunks_chunk_0",
+      "text": "--- Metadata Context ---\nentity_name: Habib Metropolitan Bank Limited\nticker: HMB\nfiling_type: quarterly\nfiling_period: Q1-2024, Q1-2023\nfinancial_data: yes\nfinancial_statement_scope: consolidated\nis_statement: yes\nstatement_type: balance_sheet\nis_note: no\nauditor_report: no\ndirector_report: no\nannual_report_discussion: no\n--- End Context ---\n\n# Habib Metropolitan Bank Ltd.\n\n# Subsidiary of Habib Bank AG Zurich\n\n# Consolidated Accounts for the quarter ended 31 March 2024\n\n# (Un-audited)\n\n# CONSOLIDATED CONDENSED INTERIM STATEMENT OF FINANCIAL POSITION AS AT 31 MARCH 2024\n\n|Note|31 March 2024 (Un-Audited)|31 December 2023 (Audited)|\n|---|---|---|\n|ASSETS| | |\n|Cash and balances with treasury banks|104,981,308|91,467,062|\n|Balances with other banks|10,918,562|21,269,948|\n|Lendings to financial institutions|5,177,650|5,496,284|\n|Investments|893,092,141|920,634,761|\n|Advances|457,420,450|433,632,602|\n|Property and equipment|16,335,417|15,782,163|\n|Right-of-use assets|7,984,977|7,625,010|\n|Intangible assets|382,295|368,333|\n|Deferred tax assets|4,677,464|5,265,313|\n|Other assets|77,402,015|72,121,302|\n|Total Assets|1,578,372,279|1,573,662,778|\n|LIABILITIES| | |\n|Bills payable|17,627,500|28,352,699|\n|Borrowings|287,824,012|335,270,858|\n|Deposits and other accounts|1,084,833,696|1,011,485,773|\n|Lease liabilities|9,623,087|9,086,176|\n|Sub-ordinated debts|\u2013|\u2013|\n|Deferred tax liabilities|\u2013|\u2013|\n|Other liabilities|79,970,824|91,278,065|\n|Total Liabilities|1,479,879,119|1,475,473,571|\n|NET ASSETS|98,493,160|98,189,207|\n|REPRESENTED BY| | |\n|Share capital|10,478,315|10,478,315|\n|Reserves|32,612,141|31,432,768|\n|Surplus / (deficit) on revaluation of assets|4,407,415|4,829,814|\n|Unappropriated profit|46,591,883|47,254,919|\n| |94,089,754|93,995,816|\n|Non-controlling interest|4,403,406|4,193,391|\n| |98,493,160|98,189,207|\n\nCONTINGENCIES AND COMMITMENTS\n\nThe annexed notes 1 to 40 form an integral part of these consolidated condensed interim financial statements.\n\nFUZAIL ABBAS      KHURRAM SHAHZAD KHAN   MOHSIN A. NATHANI  RASHID AHMED JAFER  MOHAMEDALI R. HABIB\n\nChief Financial Officer President & Chief Executive Officer Director Director Chairman\n\n---",
+      "metadata": {
+        "chunk_number": 0,
+        "financial_data": "yes",
+        "financial_statement_scope": "consolidated",
+        "is_statement": "yes",
+        "statement_type": "balance_sheet",
+        "is_note": "no",
+        "note_link": "none",
+        "auditor_report": "no",
+        "director_report": "no",
+        "annual_report_discussion": "no",
+        "file_name": "Habib_Metropolitan_Bank_Limited_Quarterly_2024-03-31_chunks.md",
+        "ticker": "HMB",
+        "entity_name": "Habib Metropolitan Bank Limited",
+        "filing_type": "quarterly",
+        "filing_period": [
+          "Q1-2024",
+          "Q1-2023"
+        ],
+        "source_file": "Habib_Metropolitan_Bank_Limited_Quarterly_2024-03-31_chunks.md"
+      },
+      "score": 0.6847278736201416
+    },
+    {
+      "node_id": "Habib_Bank_Limited_Quarterly_2024-09-30_chunks_chunk_102",
+      "text": "--- Metadata Context ---\nentity_name: Habib Bank Limited\nticker: HBL\nfiling_type: quarterly\nfiling_period: Q3-2024, Q3-2023\nfinancial_data: yes\nfinancial_statement_scope: consolidated\nis_statement: yes\nstatement_type: balance_sheet\nis_note: yes\nnote_link: balance_sheet\nauditor_report: no\ndirector_report: no\nannual_report_discussion: no\n--- End Context ---\n\n# STATEMENT OF FINANCIAL POSITION\n\n|(Unaudited)|(Audited)|Note|September 30, 2024|December 31, 2023|\n|---|---|---|---|---|\n|ASSETS (Rupees in '000)|ASSETS (Rupees in '000)|ASSETS (Rupees in '000)|ASSETS (Rupees in '000)|ASSETS (Rupees in '000)|\n|Cash and balances with treasury banks| | |36,209,940|40,418,980|\n|Balances with other banks| | |842,760|476,714|\n|Due from financial institutions|38.1| |24,806,680|19,500,000|\n|Investments|38.2| |321,747,174|226,552,494|\n|Islamic financing and related assets - net|38.3| |199,821,375|213,054,465|\n|Property and equipment| | |7,187,883|7,392,659|\n|Right-of-use assets| | |7,300,833|6,526,100|\n|Intangible assets| | |46,992|48,248|\n|Due from Head Office| | |9,704,842|-|\n|Deferred tax assets| | |792,579|1,270,557|\n|Other assets| | |37,362,397|23,894,137|\n|Total Assets|Total Assets|Total Assets|645,823,455|539,134,354|\n|LIABILITIES|LIABILITIES|LIABILITIES|LIABILITIES|LIABILITIES|\n|Bills payable| | |40,503|40,454|\n|Due to financial institutions|38.4| |22,506,464|32,119,436|\n|Deposits and other accounts|38.5| |528,802,167|422,709,734|\n|Due to Head Office| | |-|9,382,906|\n|Lease liabilities| | |9,917,787|8,572,063|\n|Subordinated debt| | |-|-|\n|Deferred tax liabilities| | |-|-|\n|Other liabilities| | |27,097,302|23,443,740|\n|Total Liabilities|Total Liabilities|Total Liabilities|588,364,223|496,268,333|\n|NET ASSETS|NET ASSETS|NET ASSETS|57,459,232|42,866,021|\n|REPRESENTED BY| | | | |\n|Islamic Banking Fund| | |500,000|500,000|\n|Reserves| | |-|-|\n|Surplus / (deficit) on revaluation of investments - net of tax| | |3,336,183|(1,322,417)|\n|Unappropriated profit|38.6| |53,623,049|43,688,438|\n|Total Net Assets|Total Net Assets|Total Net Assets|57,459,232|42,866,021|\n|Contingencies and commitments|Contingencies and commitments|Contingencies and commitments|Contingencies and commitments|Contingencies and commitments|\n\n---",
+      "metadata": {
+        "chunk_number": 102,
+        "financial_data": "yes",
+        "financial_statement_scope": "consolidated",
+        "is_statement": "yes",
+        "statement_type": "balance_sheet",
+        "is_note": "yes",
+        "note_link": "balance_sheet",
+        "auditor_report": "no",
+        "director_report": "no",
+        "annual_report_discussion": "no",
+        "file_name": "Habib_Bank_Limited_Quarterly_2024-09-30_chunks.md",
+        "ticker": "HBL",
+        "entity_name": "Habib Bank Limited",
+        "filing_type": "quarterly",
+        "filing_period": [
+          "Q3-2024",
+          "Q3-2023"
+        ],
+        "source_file": "Habib_Bank_Limited_Quarterly_2024-09-30_chunks.md"
+      },
+      "score": 0.6846675115757503
+    },
+    {
+      "node_id": "Habib_Metropolitan_Bank_Limited_Quarterly_2024-09-30_chunks_chunk_108",
+      "text": "--- Metadata Context ---\nentity_name: Habib Metropolitan Bank Limited\nticker: HMB\nfiling_type: quarterly\nfiling_period: Q3-2024, Q3-2023\nfinancial_data: yes\nfinancial_statement_scope: consolidated\nis_statement: yes\nstatement_type: balance_sheet\nis_note: no\nauditor_report: no\ndirector_report: no\nannual_report_discussion: no\n--- End Context ---\n\n# Habib Metropolitan Bank Ltd.\n\n# Subsidiary of Habib Bank AG Zurich\n\n# Consolidated Accounts for the nine months\n\n# ended 30 September 2024\n\n# (Un-audited)\n\n# CONSOLIDATED CONDENSED INTERIM STATEMENT OF FINANCIAL POSITION AS AT 30 SEPTEMBER 2024\n\n|Note|30 September 2024 (Un-Audited)|31 December 2023 (Audited)|\n|---|---|---|\n|ASSETS|Rupees in \u2018000|Rupees in \u2018000|\n|Cash and balances with treasury banks|100,587,433|91,467,062|\n|Balances with other banks|5,352,393|21,269,948|\n|Lendings to financial institutions|30,970,815|5,496,284|\n|Investments|918,041,169|920,634,761|\n|Advances|505,988,135|433,632,602|\n|Property and equipment|17,237,110|15,782,163|\n|Right-of-use assets|8,463,137|7,625,010|\n|Intangible assets|576,350|368,333|\n|Deferred tax assets|\u2013|5,265,313|\n|Other assets|101,283,076|72,121,302|\n|Total Assets|1,688,499,618|1,573,662,778|\n|LIABILITIES| | |\n|Bills payable|42,620,328|28,352,699|\n|Borrowings|370,406,126|335,270,858|\n|Deposits and other accounts|1,044,071,947|1,011,485,773|\n|Lease liabilities|10,215,409|9,086,176|\n|Sub-ordinated debts|\u2013|\u2013|\n|Deferred tax liabilities|2,377,653|\u2013|\n|Other liabilities|102,446,394|91,278,065|\n|Total Liabilities|1,572,137,857|1,475,473,571|\n|NET ASSETS|116,361,761|98,189,207|\n|REPRESENTED BY| | |\n|Share capital|10,478,315|10,478,315|\n|Reserves|35,238,086|31,432,768|\n|Surplus / (deficit) on revaluation of assets|13,554,195|4,829,814|\n|Unappropriated profit|52,527,516|47,254,919|\n| |111,798,112|93,995,816|\n|Non-controlling interest|4,563,649|4,193,391|\n| |116,361,761|98,189,207|\n\nCONTINGENCIES AND COMMITMENTS\n\nThe annexed notes 1 to 41 form an integral part of these consolidated condensed interim financial statements.\n\nFUZAIL ABBAS      KHURRAM SHAHZAD KHAN    RASHID AHMED JAFER   MOHOMED BASHIR    MOHAMEDALI R. HABIB\n\nChief Financial Officer President & Director             Director           Chairman Chief Executive Officer\n\n---",
+      "metadata": {
+        "chunk_number": 108,
+        "financial_data": "yes",
+        "financial_statement_scope": "consolidated",
+        "is_statement": "yes",
+        "statement_type": "balance_sheet",
+        "is_note": "no",
+        "note_link": "none",
+        "auditor_report": "no",
+        "director_report": "no",
+        "annual_report_discussion": "no",
+        "file_name": "Habib_Metropolitan_Bank_Limited_Quarterly_2024-09-30_chunks.md",
+        "ticker": "HMB",
+        "entity_name": "Habib Metropolitan Bank Limited",
+        "filing_type": "quarterly",
+        "filing_period": [
+          "Q3-2024",
+          "Q3-2023"
+        ],
+        "source_file": "Habib_Metropolitan_Bank_Limited_Quarterly_2024-09-30_chunks.md"
+      },
+      "score": 0.6815210202597414
+    },
+    {
+      "node_id": "Habib_Metropolitan_Bank_Limited_Quarterly_2024-06-30_chunks_chunk_109",
+      "text": "--- Metadata Context ---\nentity_name: Habib Metropolitan Bank Limited\nticker: HMB\nfiling_type: quarterly\nfiling_period: Q2-2024, Q2-2023\nfinancial_data: yes\nfinancial_statement_scope: consolidated\nis_statement: yes\nstatement_type: balance_sheet\nis_note: no\nauditor_report: no\ndirector_report: no\nannual_report_discussion: no\n--- End Context ---\n\n# Habib Metropolitan Bank Ltd.\n\n# Subsidiary of Habib Bank AG Zurich\n\n# Consolidated Accounts for the half year and quarter ended 30 June 2024\n\n# (Un-audited)\n\n# CONSOLIDATED CONDENSED INTERIM STATEMENT OF FINANCIAL POSITION AS AT 30 JUNE 2024\n\n|Note|30 June 2024 (Un-Audited)|31 December 2023 (Audited)|\n|---|---|---|\n|ASSETS|Rupees in \u2018000|Rupees in \u2018000|\n|Cash and balances with treasury banks|99,066,092|91,467,062|\n|Balances with other banks|10,405,861|21,269,948|\n|Lendings to financial institutions|5,022,730|5,496,284|\n|Investments|867,151,761|920,634,761|\n|Advances|457,639,690|433,632,602|\n|Property and equipment|16,648,886|15,782,163|\n|Right-of-use assets|8,150,670|7,625,010|\n|Intangible assets|642,690|368,333|\n|Deferred tax assets|3,130,223|5,265,313|\n|Other assets|89,965,431|72,121,302|\n|Total Assets|1,557,824,034|1,573,662,778|\n|LIABILITIES| | |\n|Bills payable|30,422,105|28,352,699|\n|Borrowings|230,231,799|335,270,858|\n|Deposits and other accounts|1,097,398,162|1,011,485,773|\n|Lease liabilities|9,761,759|9,086,176|\n|Sub-ordinated debts|-|-|\n|Deferred tax liabilities|-|-|\n|Other liabilities|85,054,874|91,278,065|\n|Total Liabilities|1,452,868,699|1,475,473,571|\n|NET ASSETS|104,955,335|98,189,207|\n|REPRESENTED BY| | |\n|Share capital|10,478,315|10,478,315|\n|Reserves|33,731,889|31,432,768|\n|Surplus / (deficit) on revaluation of assets|7,010,118|4,829,814|\n|Unappropriated profit|49,188,364|47,254,919|\n| |100,408,686|93,995,816|\n|Non-controlling interest|4,546,649|4,193,391|\n| |104,955,335|98,189,207|\n\n---",
+      "metadata": {
+        "chunk_number": 109,
+        "financial_data": "yes",
+        "financial_statement_scope": "consolidated",
+        "is_statement": "yes",
+        "statement_type": "balance_sheet",
+        "is_note": "no",
+        "note_link": "none",
+        "auditor_report": "no",
+        "director_report": "no",
+        "annual_report_discussion": "no",
+        "file_name": "Habib_Metropolitan_Bank_Limited_Quarterly_2024-06-30_chunks.md",
+        "ticker": "HMB",
+        "entity_name": "Habib Metropolitan Bank Limited",
+        "filing_type": "quarterly",
+        "filing_period": [
+          "Q2-2024",
+          "Q2-2023"
+        ],
+        "source_file": "Habib_Metropolitan_Bank_Limited_Quarterly_2024-06-30_chunks.md"
+      },
+      "score": 0.6805991367520215
+    },
+    {
+      "node_id": "Bank_AL_Habib_Limited_Quarterly_2024-03-31_chunks_chunk_80",
+      "text": "--- Metadata Context ---\nentity_name: Bank AL Habib Limited\nticker: BAHL\nfiling_type: quarterly\nfiling_period: Q1-2024, Q1-2023\nfinancial_data: yes\nfinancial_statement_scope: consolidated\nis_statement: yes\nstatement_type: balance_sheet\nis_note: no\nauditor_report: no\ndirector_report: no\nannual_report_discussion: no\n--- End Context ---\n\n# CONSOLIDATED CONDENSED INTERIM STATEMENT OF FINANCIAL POSITION\n\n# AS AT 31 MARCH 2024\n\n(Un-audited)    (Audited)\n\n|Note|31 March 2024|31 December 2023|\n|---|---|---|\n|ASSETS| | |\n|Cash and balances with treasury banks|178,488,355|141,816,023|\n|Balances with other banks|5,252,233|6,662,922|\n|Lendings to financial institutions|6,963,360|1,649,716|\n|Investments|1,598,622,417|1,504,488,304|\n|Advances|809,432,552|868,868,391|\n|Property and equipment|69,636,098|67,614,531|\n|Right-of-use assets|12,696,374|11,969,724|\n|Intangible assets|159,395|212,691|\n|Deferred tax assets|8,145,883|1,790,812|\n|Other assets|186,464,425|137,128,649|\n|Total Assets|2,875,861,092|2,742,201,763|\n|LIABILITIES| | |\n|Bills payable|26,009,715|48,083,103|\n|Borrowings|465,310,850|477,438,034|\n|Deposits and other accounts|2,086,554,309|1,933,731,281|\n|Lease liabilities|15,422,644|14,633,878|\n|Subordinated debt|29,984,200|29,985,200|\n|Deferred tax liabilities|\u201300|\u2013000|\n|Other liabilities|124,388,540|110,603,569|\n|Total Liabilities|2,747,670,258|2,614,475,065|\n|NET ASSETS|128,190,834|127,726,698|\n|REPRESENTED BY| | |\n|Share capital|11,114,254|11,114,254|\n|Reserves|29,081,532|28,184,872|\n|Surplus on revaluation of assets|14,157,520|14,706,663|\n|Unappropriated profit|73,711,436|73,595,373|\n|Equity attributable to the shareholders of the Holding company|128,064,742|127,601,162|\n|Non-controlling interest|126,092|125,536|\n|Total equity|128,190,834|127,726,698|\n\nCONTINGENCIES AND COMMITMENTS\n\nThe annexed notes 1 to 44 form an integral part of these consolidated condensed interim financial statements.\n\nMANSOOR ALI KHAN\n\nChief Executive\n\nASHAR HUSAIN\n\nChief Financial Officer\n\nMOHAMMAD RAFIQUDDIN MEHKARI\n\nDirector\n\nFARHANA MOWJEE KHAN\n\nDirector\n\nABBAS D. HABIB\n\nChairman\n\n---",
+      "metadata": {
+        "chunk_number": 80,
+        "financial_data": "yes",
+        "financial_statement_scope": "consolidated",
+        "is_statement": "yes",
+        "statement_type": "balance_sheet",
+        "is_note": "no",
+        "note_link": "none",
+        "auditor_report": "no",
+        "director_report": "no",
+        "annual_report_discussion": "no",
+        "file_name": "Bank_AL_Habib_Limited_Quarterly_2024-03-31_chunks.md",
+        "ticker": "BAHL",
+        "entity_name": "Bank AL Habib Limited",
+        "filing_type": "quarterly",
+        "filing_period": [
+          "Q1-2024",
+          "Q1-2023"
+        ],
+        "source_file": "Bank_AL_Habib_Limited_Quarterly_2024-03-31_chunks.md"
+      },
+      "score": 0.6691053107097423
+    },
+    {
+      "node_id": "Bank_AL_Habib_Limited_Quarterly_2024-06-30_chunks_chunk_97",
+      "text": "--- Metadata Context ---\nentity_name: Bank AL Habib Limited\nticker: BAHL\nfiling_type: quarterly\nfiling_period: Q2-2024, Q2-2023\nfinancial_data: yes\nfinancial_statement_scope: consolidated\nis_statement: yes\nstatement_type: balance_sheet\nis_note: no\nauditor_report: no\ndirector_report: no\nannual_report_discussion: no\n--- End Context ---\n\n# CONSOLIDATED CONDENSED INTERIM STATEMENT OF FINANCIAL POSITION\n\n# AS AT 30 JUNE 2024\n\n(Un-audited)    (Audited)\n\n|Note|30 June 2024|31 December 2023|\n|---|---|---|\n|ASSETS| | |\n|Cash and balances with treasury banks|215,584,807|141,816,023|\n|Balances with other banks|4,384,313|6,662,922|\n|Lendings to financial institutions|\u201300|1,649,716|\n|Investments|1,836,301,713|1,504,488,304|\n|Advances|791,622,141|868,868,391|\n|Property and equipment|71,692,798|67,614,531|\n|Right-of-use assets|12,833,632|11,969,724|\n|Intangible assets|248,566|212,691|\n|Deferred tax assets|10,534,640|1,790,812|\n|Other assets|145,008,115|137,128,649|\n|Total Assets|3,088,210,725|2,742,201,763|\n|LIABILITIES| | |\n|Bills payable|48,919,202|48,083,103|\n|Borrowings|507,127,915|477,438,034|\n|Deposits and other accounts|2,221,129,176|1,933,731,281|\n|Lease liabilities|15,789,655|14,633,878|\n|Subordinated debt|25,990,800|29,985,200|\n|Deferred tax liabilities|\u201300|\u2013000|\n|Other liabilities|131,024,100|110,603,569|\n|Total Liabilities|2,949,980,848|2,614,475,065|\n|NET ASSETS|138,229,877|127,726,698|\n|REPRESENTED BY| | |\n|Share capital|11,114,254|11,114,254|\n|Reserves|30,220,345|28,184,872|\n|Surplus on revaluation of assets|15,150,660|14,706,663|\n|Unappropriated profit|81,611,977|73,595,373|\n|Equity attributable to the shareholders of the Holding company|138,097,236|127,601,162|\n|Non-controlling interest|132,641|125,536|\n|Total equity|138,229,877|127,726,698|\n\nCONTINGENCIES AND COMMITMENTS\n\nThe annexed notes 1 to 43 form an integral part of these consolidated condensed interim financial statements.\n\nMANSOOR ALI KHAN\n\nChief Executive\n\nASHAR HUSAIN\n\nChief Financial Officer\n\nMOHAMMAD RAFIQUDDIN MEHKARI\n\nDirector\n\nFARHANA MOWJEE KHAN\n\nDirector\n\nABBAS D. HABIB\n\nChairman\n\n60\n\n---",
+      "metadata": {
+        "chunk_number": 97,
+        "financial_data": "yes",
+        "financial_statement_scope": "consolidated",
+        "is_statement": "yes",
+        "statement_type": "balance_sheet",
+        "is_note": "no",
+        "note_link": "none",
+        "auditor_report": "no",
+        "director_report": "no",
+        "annual_report_discussion": "no",
+        "file_name": "Bank_AL_Habib_Limited_Quarterly_2024-06-30_chunks.md",
+        "ticker": "BAHL",
+        "entity_name": "Bank AL Habib Limited",
+        "filing_type": "quarterly",
+        "filing_period": [
+          "Q2-2024",
+          "Q2-2023"
+        ],
+        "source_file": "Bank_AL_Habib_Limited_Quarterly_2024-06-30_chunks.md"
+      },
+      "score": 0.6668171061796985
+    }
+  ],
+  "node_count": 10,
+  "server_version": "enhanced",
+  "save_time": "2025-06-04T14:28:00.160974"
+}

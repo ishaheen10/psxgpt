@@ -1,0 +1,275 @@
+{
+  "timestamp": "20250604_142906",
+  "query": "HBL cash flow Q3 2024",
+  "query_hash": "497baaa8",
+  "metadata": {
+    "is_statement": "yes",
+    "statement_type": "cash_flow",
+    "filing_type": "quarterly"
+  },
+  "nodes": [
+    {
+      "node_id": "Habib_Bank_Limited_Quarterly_2024-09-30_chunks_chunk_133",
+      "text": "--- Metadata Context ---\nentity_name: Habib Bank Limited\nticker: HBL\nfiling_type: quarterly\nfiling_period: Q3-2024, Q3-2023\nfinancial_data: yes\nfinancial_statement_scope: unconsolidated\nis_statement: yes\nstatement_type: cash_flow\nis_note: no\nauditor_report: no\ndirector_report: no\nannual_report_discussion: no\n--- End Context ---\n\n# CONDENSED INTERIM UNCONSOLIDATED CASH FLOW STATEMENT (UNAUDITED)\n\n# Habib Bank Limited FOR THE NINE MONTHS ENDED SEPTEMBER 30, 2024\n\n# Condensed Interim Unconsolidated Cash Flow Statement (Unaudited)\n\n# For the nine months ended September 30, 2024\n\n| |January 01 to September 30, 2024|January 01 to September 30, 2023|\n|---|---|---|\n|CASH FLOWS FROM OPERATING ACTIVITIES (Rupees in '000)| | |\n|Profit before taxation|86,671,532|83,018,007|\n|Dividend income|(4,232,600)|(3,027,681)|\n|Mark-up / return / profit / interest expensed on subordinated debt|3,234,146|3,126,563|\n| |85,673,078|83,116,889|\n|Adjustments:| | |\n|Depreciation|7,518,831|6,624,825|\n|Amortisation|1,921,368|1,482,463|\n|Depreciation on right-of-use assets|2,849,531|2,848,085|\n|Mark-up / return / profit / interest expensed on lease liability against right-of-use assets|2,328,345|2,756,769|\n|(Reversal) / charge of credit loss allowance against investments|(987,219)|1,085,470|\n|Credit loss allowance against loans and advances|12,002,079|4,862,098|\n|Provision / credit loss allowance against other assets|343,210|976,864|\n|Charge / (reversal) of credit loss allowance against off-balance sheet obligations|2,553,118|(108,955)|\n|Unrealised gain on Fair Value Through Profit and Loss (FVTPL) securities|(2,500,772)| |\n|Unrealised loss on held-for-trading securities| |45,071|\n|Gain on derecognition of joint venture| |(9,333,221)|\n|Gain on sale of property and equipment - net|(27,746)|(80,826)|\n|Workers' Welfare Fund|1,733,191|1,661,993|\n| |27,733,936|12,820,636|\n| |113,407,014|95,937,525|\n|(Increase) / decrease in operating assets| | |\n|Lendings to financial institutions|47,208,341|35,379,934|\n|Net investment in securities carried at FVTPL|62,333,897| |\n|Net investment in held-for-trading securities| |14,473,917|\n|Advances|(39,876,710)|36,913,976|\n|Other assets (excluding advance taxation)|(58,945,952)|(77,636,774)|\n| |10,719,576|9,131,053|\n|Increase / (decrease) in operating liabilities| | |\n|Bills payable|(3,264,033)|746,580|\n|Borrowings from financial institutions|(130,258,895)|219,331,018|\n|Deposits and other accounts|661,456,175|482,230,998|\n|Other liabilities|48,942,163|77,785,129|\n| |576,875,410|780,093,725|\n| |701,002,000|885,162,303|\n|Income tax paid|(56,616,630)|(37,195,950)|\n|Net cash flows generated from operating activities|644,385,370|847,966,353|\n|CASH FLOWS FROM INVESTING ACTIVITIES| | |\n|Net investment in securities carried at FVOCI|(565,107,576)| |\n|Net investment in securities carried at Amortised Cost|(12,796,316)| |\n|Net investment in available-for-sale securities| |(554,532,955)|\n|Net investment in held-to-maturity securities| |(34,875,279)|\n|Net investment in subsidiaries|(7,875,572)|(1,000,000)|\n|Net investment in associates|4,366|183,742|\n|Dividend received|4,157,086|3,007,875|\n|Investments in property and equipment|(18,689,237)|(10,983,825)|\n|Investments in intangible assets|(2,275,244)|(2,496,936)|\n|Proceeds from sale of property and equipment|73,803|125,242|\n|Effect of translation of net investment in foreign branches - net of tax|(2,560,531)|9,462,733|\n|Net cash flows used in investing activities|(605,069,221)|(591,109,403)|\n|CASH FLOWS FROM FINANCING ACTIVITIES| | |\n|Payment of mark-up on subordinated debt|(3,362,251)|(3,141,024)|\n|Payment of lease liability against right-of-use assets|(3,517,846)|(3,185,734)|\n|Dividend paid|(13,522,786)|(10,901,392)|\n|Net cash flows used in financing activities|(20,402,883)|(17,228,150)|\n|Increase in cash and cash equivalents during the period|18,913,266|239,628,800|\n|Cash and cash equivalents at the beginning of the period|567,431,489|288,384,257|\n|Effect of exchange rate changes on cash and cash equivalents|(19,237,406)|302,968|\n| |548,194,083|288,687,225|\n|Cash and cash equivalents at the end of the period|567,107,349|528,316,025|\n\nThe annexed notes 1 to 41 form an integral part of these condensed interim unconsolidated financial statements.\n\nMuhammad Nassir Salim\n\nPresident and Chief Executive Officer\n\nRayomond Kotwal\n\nChief Financial Officer\n\nSaba Kamal\n\nDirector\n\nDr. Najeeb Samie\n\nDirector\n\nMoez Ahamed Jamal\n\nDirector\n---\n\n---",
+      "metadata": {
+        "chunk_number": 133,
+        "financial_data": "yes",
+        "financial_statement_scope": "unconsolidated",
+        "is_statement": "yes",
+        "statement_type": "cash_flow",
+        "is_note": "no",
+        "note_link": "none",
+        "auditor_report": "no",
+        "director_report": "no",
+        "annual_report_discussion": "no",
+        "file_name": "Habib_Bank_Limited_Quarterly_2024-09-30_chunks.md",
+        "ticker": "HBL",
+        "entity_name": "Habib Bank Limited",
+        "filing_type": "quarterly",
+        "filing_period": [
+          "Q3-2024",
+          "Q3-2023"
+        ],
+        "source_file": "Habib_Bank_Limited_Quarterly_2024-09-30_chunks.md"
+      },
+      "score": 0.6964818587412036
+    },
+    {
+      "node_id": "Habib_Bank_Limited_Quarterly_2024-09-30_chunks_chunk_20",
+      "text": "--- Metadata Context ---\nentity_name: Habib Bank Limited\nticker: HBL\nfiling_type: quarterly\nfiling_period: Q3-2024, Q3-2023\nfinancial_data: yes\nfinancial_statement_scope: consolidated\nis_statement: yes\nstatement_type: cash_flow\nis_note: no\nauditor_report: no\ndirector_report: no\nannual_report_discussion: no\n--- End Context ---\n\n# CONDENSED INTERIM CONSOLIDATED CASH FLOW STATEMENT (UNAUDITED)\n\n# Habib Bank Limited FOR THE NINE MONTHS ENDED SEPTEMBER 30, 2024\n\n# Condensed Interim Consolidated Cash Flow Statement (Unaudited)\n\n# For the nine months ended September 30, 2024\n\n| |January 01 to September 30, 2024|January 01 to September 30, 2023|\n|---|---|---|\n|(Rupees in '000)| | |\n|CASH FLOWS FROM OPERATING ACTIVITIES| | |\n|Profit before taxation|85,877,134|83,528,481|\n|Dividend income|(2,707,304)|(1,982,094)|\n|Share of profit of associates and joint venture|(3,859,798)|(3,212,506)|\n|Mark-up / return / profit / interest expensed on subordinated debt|3,234,146|3,126,563|\n| |(3,332,956)|(2,068,037)|\n| |82,544,178|81,460,444|\n|Adjustments:| | |\n|Depreciation|8,073,306|7,066,703|\n|Amortisation|2,038,826|1,587,089|\n|Depreciation on right-of-use assets|3,380,134|3,456,482|\n|Mark-up / return / profit / interest expensed on lease liability against right-of-use assets|2,626,452|2,956,170|\n|(Reversal) / charge of credit loss allowance against investments|(1,090,312)|1,106,172|\n|Credit loss allowance against loans and advances|17,389,317|6,632,379|\n|Provision / credit loss allowance against other assets|343,210|876,697|\n|Charge / (reversal) of credit loss allowance against off-balance sheet obligations|2,553,118|(108,955)|\n|Unrealised gain on securities designated at fair value through profit and loss (FVTPL)|(2,604,456)| |\n|Unrealised loss on held-for-trading securities| |45,320|\n|Exchange loss / (gain) on goodwill|166,919|(947,686)|\n|Gain on derecognition of joint venture| |(3,731,399)|\n|Gain on sale of property and equipment - net|(32,040)|(47,795)|\n|Workers' Welfare Fund|1,766,365|1,711,805|\n| |34,610,839|20,602,982|\n| |117,155,017|102,063,426|\n|(Increase) / decrease in operating assets| | |\n|Lendings to financial institutions|47,208,349|35,379,934|\n|Net investment in securities carried at FVTPL|65,843,672| |\n|Net investment in held-for-trading securities| |13,492,701|\n|Advances|(30,903,597)|(6,680,960)|\n|Other assets (excluding advance taxation)|(45,101,849)|(80,045,386)|\n| |37,046,575|(37,853,711)|\n|Increase / (decrease) in operating liabilities| | |\n|Bills payable|(3,350,929)|855,567|\n|Borrowings from financial institutions|(125,084,546)|219,114,953|\n|Deposits and other accounts|666,999,878|505,758,845|\n|Other liabilities|77,476,105|85,149,390|\n| |616,040,508|810,878,755|\n| |770,242,100|875,088,470|\n|Income tax paid|(58,359,343)|(38,371,437)|\n|Net cash flows generated from operating activities|711,882,757|836,717,033|\n|CASH FLOWS FROM INVESTING ACTIVITIES| | |\n|Net investment in securities carried at FVOCI|(636,013,540)| |\n|Net investment in securities carried at Amortised Cost|(11,485,609)| |\n|Net investment in available-for-sale securities| |(541,465,226)|\n|Net investment in held-to-maturity securities| |(36,271,030)|\n|Net investment in associates|(1,903,059)|(2,468,249)|\n|Dividend received|2,631,790|1,962,288|\n|Investments in property and equipment|(19,551,522)|(11,639,426)|\n|Investments in intangible assets|(2,379,072)|(2,658,047)|\n|Proceeds from sale of property and equipment|84,384|163,133|\n|Effect of translation of net investment in foreign branches, subsidiaries, joint venture and associates - net of tax|958,725|11,004,687|\n|Net cash flows used in investing activities|(667,657,903)|(581,371,870)|\n|CASH FLOWS FROM FINANCING ACTIVITIES| | |\n|Proceeds from issuance of subordinated debt|675,000| |\n|Payment of mark-up on subordinated debt|(3,256,522)|(3,141,024)|\n|Payment of lease liability against right-of-use assets|(3,141,378)|(3,533,042)|\n|Dividend paid|(19,390,196)|(10,901,392)|\n|Net cash flows used in financing activities|(25,113,096)|(17,575,458)|\n|Increase in cash and cash equivalents during the period|19,111,758|237,769,705|\n|Cash and cash equivalents at the beginning of the period|621,766,036|330,545,077|\n|Effect of exchange rate changes on cash and cash equivalents|(17,633,907)|6,983,331|\n| |604,132,129|337,528,408|\n|Cash and cash equivalents at the end of the period|623,243,887|575,298,113|\n\nThe annexed notes 1 to 41 form an integral part of these condensed interim consolidated financial statements.\n\nMuhammad Nassir Salim\n\nRayomond Kotwal\n\nSaba Kamal\n\nDr. Najeeb Samie\n\nMoez Ahamed Jamal\n\nPresident and Chief Executive Officer\n\nChief Financial Officer\n\nDirector\n\nDirector\n\nDirector\n\n5\n\nQuarterly Report | September 2024\n---\n\n---",
+      "metadata": {
+        "chunk_number": 20,
+        "financial_data": "yes",
+        "financial_statement_scope": "consolidated",
+        "is_statement": "yes",
+        "statement_type": "cash_flow",
+        "is_note": "no",
+        "note_link": "none",
+        "auditor_report": "no",
+        "director_report": "no",
+        "annual_report_discussion": "no",
+        "file_name": "Habib_Bank_Limited_Quarterly_2024-09-30_chunks.md",
+        "ticker": "HBL",
+        "entity_name": "Habib Bank Limited",
+        "filing_type": "quarterly",
+        "filing_period": [
+          "Q3-2024",
+          "Q3-2023"
+        ],
+        "source_file": "Habib_Bank_Limited_Quarterly_2024-09-30_chunks.md"
+      },
+      "score": 0.6908874822284077
+    },
+    {
+      "node_id": "Habib_Bank_Limited_Quarterly_2024-06-30_chunks_chunk_142",
+      "text": "--- Metadata Context ---\nentity_name: Habib Bank Limited\nticker: HBL\nfiling_type: quarterly\nfiling_period: Q2-2024, Q2-2023\nfinancial_data: yes\nfinancial_statement_scope: unconsolidated\nis_statement: yes\nstatement_type: cash_flow\nis_note: no\nauditor_report: no\ndirector_report: no\nannual_report_discussion: no\n--- End Context ---\n\n# CONDENSED INTERIM UNCONSOLIDATED CASH FLOW STATEMENT (UNAUDITED)\n\n# Habib Bank Limited FOR THE SIX MONTHS ENDED JUNE 30, 2024\n\n# Condensed Interim Unconsolidated Cash Flow Statement (Unaudited)\n\n# For the six months ended June 30, 2024\n\n| |January 01 to June 30, 2024|January 01 to June 30, 2023|\n|---|---|---|\n|CASH FLOWS FROM OPERATING ACTIVITIES|(Rupees in '000)| |\n|Profit before taxation|57,946,805|53,295,489|\n|Dividend income|(2,882,282)|(2,801,904)|\n|Mark-up / return / profit / interest expensed on subordinated debt|2,196,194|1,978,849|\n| |57,260,717|52,472,434|\n|Adjustments:| | |\n|Depreciation|4,967,763|4,349,386|\n|Amortisation|1,284,947|970,808|\n|Depreciation on right-of-use assets|1,901,464|1,809,655|\n|Mark-up / return / profit / interest expensed on lease liability against right-of-use assets|1,619,010|1,702,418|\n|(Reversal) / charge of credit loss allowance against investments|(1,426,560)|1,728,150|\n|Credit loss allowance against loans and advances|6,962,313|3,416,380|\n|Provision / credit loss allowance against other assets|200,062|727,830|\n|Charge / (reversal) of credit loss allowance against off-balance sheet obligations|936,932|(237,925)|\n|Unrealised gain on Fair Value Through Profit and Loss (FVTPL) securities|(1,227,421)|-|\n|Unrealised loss on held-for-trading securities|-|128,317|\n|Gain on derecognition of joint venture|-|(9,333,221)|\n|Gain on sale of property and equipment - net|(25,808)|(108,063)|\n|Workers' Welfare Fund|1,158,981|1,064,278|\n| |16,351,683|6,218,013|\n| |73,612,400|58,690,447|\n|(Increase) / decrease in operating assets| | |\n|Lendings to financial institutions|(44,657,093)|201,609,823|\n|Net investment in securities carried at FVTPL|16,654,995|-|\n|Net investment in held-for-trading securities|-|(52,772,984)|\n|Advances|30,702,331|95,885,877|\n|Other assets (excluding advance taxation)|(27,454,859)|(50,959,794)|\n| |(24,754,626)|193,762,922|\n|Increase / (decrease) in operating liabilities| | |\n|Bills payable|19,899,004|15,965,849|\n|Borrowings from financial institutions|(79,791,701)|(23,496,009)|\n|Deposits and other accounts|713,989,741|200,159,697|\n|Other liabilities|30,726,607|34,402,731|\n| |684,823,651|227,032,268|\n| |733,681,425|479,485,637|\n|Income tax paid|(37,878,686)|(22,182,482)|\n|Net cash flows generated from operating activities|695,802,739|457,303,155|\n|CASH FLOWS FROM INVESTING ACTIVITIES| | |\n|Net investment in securities carried at FVOCI|(532,695,916)|-|\n|Net investment in securities carried at Amortised Cost|(51,134,595)|-|\n|Net investment in available-for-sale securities|-|(218,941,455)|\n|Net investment in held-to-maturity securities|-|63,439,174|\n|Net investment in subsidiaries|(7,894,415)|(1,000,000)|\n|Net investment in associates|(6,701)|30,210|\n|Dividend received|2,873,304|2,360,647|\n|Investments in property and equipment|(10,447,094)|(7,533,738)|\n|Investments in intangible assets|(1,499,436)|(1,557,773)|\n|Proceeds from sale of property and equipment|62,353|144,613|\n|Effect of translation of net investment in foreign branches - net of tax|(3,141,834)|9,969,446|\n|Net cash flows used in investing activities|(603,884,334)|(153,088,876)|\n|CASH FLOWS FROM FINANCING ACTIVITIES| | |\n|Payment of mark-up on subordinated debt|(2,305,489)|(1,994,036)|\n|Payment of lease liability against right-of-use assets|(2,106,617)|(1,198,118)|\n|Dividend paid|(13,551,235)|(5,743,726)|\n|Net cash flows used in financing activities|(17,963,341)|(8,935,880)|\n|Increase in cash and cash equivalents during the period|73,955,064|295,278,399|\n|Cash and cash equivalents at the beginning of the period|568,868,330|285,179,381|\n|Effect of exchange rate changes on cash and cash equivalents|(20,674,247)|3,507,844|\n| |548,194,083|288,687,225|\n|Cash and cash equivalents at the end of the period|622,149,147|583,965,624|\n\nThe annexed notes 1 to 41 form an integral part of these condensed interim unconsolidated financial statements.\n\nMuhammad Nassir Salim\n\nPresident and Chief Executive Officer\n\nRayomond Kotwal\n\nChief Financial Officer\n\nDr. Najeeb Samie\n\nDirector\n\nSalim Raza\n\nDirector\n\nShaffiq Dharamshi\n\nDirector\n---\n\n---",
+      "metadata": {
+        "chunk_number": 142,
+        "financial_data": "yes",
+        "financial_statement_scope": "unconsolidated",
+        "is_statement": "yes",
+        "statement_type": "cash_flow",
+        "is_note": "no",
+        "note_link": "none",
+        "auditor_report": "no",
+        "director_report": "no",
+        "annual_report_discussion": "no",
+        "file_name": "Habib_Bank_Limited_Quarterly_2024-06-30_chunks.md",
+        "ticker": "HBL",
+        "entity_name": "Habib Bank Limited",
+        "filing_type": "quarterly",
+        "filing_period": [
+          "Q2-2024",
+          "Q2-2023"
+        ],
+        "source_file": "Habib_Bank_Limited_Quarterly_2024-06-30_chunks.md"
+      },
+      "score": 0.6807193793587283
+    },
+    {
+      "node_id": "Habib_Bank_Limited_Quarterly_2024-03-31_chunks_chunk_139",
+      "text": "--- Metadata Context ---\nentity_name: Habib Bank Limited\nticker: HBL\nfiling_type: quarterly\nfiling_period: Q1-2024, Q1-2023\nfinancial_data: yes\nfinancial_statement_scope: unconsolidated\nis_statement: yes\nstatement_type: cash_flow\nis_note: no\nauditor_report: no\ndirector_report: no\nannual_report_discussion: no\n--- End Context ---\n\n# CONDENSED INTERIM UNCONSOLIDATED CASH FLOW STATEMENT (UNAUDITED)\n\n# FOR THE THREE MONTHS ENDED MARCH 31, 2024\n\n# Habib Bank Limited\n\n# Condensed Interim Unconsolidated Cash Flow Statement (Unaudited)\n\n# For the three months ended March 31, 2024\n\n| |January 01 to March 31, 2024|January 01 to March 31, 2023|\n|---|---|---|\n|----------- (Rupees in '000) -----------|----------- (Rupees in '000) -----------|----------- (Rupees in '000) -----------|\n|CASH FLOWS FROM OPERATING ACTIVITIES|CASH FLOWS FROM OPERATING ACTIVITIES|CASH FLOWS FROM OPERATING ACTIVITIES|\n|Profit before taxation|29,691,816|25,341,677|\n|Dividend income|(1,653,891)|(1,216,253)|\n|Mark-up / return / profit / interest expensed on subordinated debt|1,088,714|885,926|\n| |29,126,639|25,011,350|\n|Adjustments:|Adjustments:|Adjustments:|\n|Depreciation|2,460,172|2,174,511|\n|Amortisation|642,821|471,464|\n|Depreciation on right-of-use assets|947,857|927,293|\n|Mark-up / return / profit / interest expensed on lease liability against right-of-use assets|861,673|823,636|\n|Credit loss allowance against investments|285,224|1,587,076|\n|Credit loss allowance against loans and advances|1,731,727|536,207|\n|Credit loss allowance against other assets|405|896,367|\n|Charge / (reversal) of credit loss allowance against off-balance sheet obligations|231,936|(255,051)|\n|Unrealised loss on fair value through profit and loss (FVTPL) securities|125,359|-|\n|Unrealised loss on held-for-trading securities|-| |\n|Gain on derecognition of joint venture|-|(9,333,221)|\n|Gain on sale of property and equipment - net|(12,723)|(106,259)|\n|Workers' Welfare Fund|579,105|508,167|\n| |7,853,556|(1,398,949)|\n| |36,980,195|23,612,401|\n|(Increase) / decrease in operating assets|(Increase) / decrease in operating assets|(Increase) / decrease in operating assets|\n|Lendings to financial institutions|17,029,142|85,851,403|\n|FVTPL securities|9,420,338|-|\n|Held-for-trading securities|-|(69,711,066)|\n|Advances|83,951,214|15,819,362|\n|Other assets (excluding advance taxation)|(31,791,837)|(56,083,522)|\n| |78,608,857|(24,123,823)|\n|Increase / (decrease) in operating liabilities|Increase / (decrease) in operating liabilities|Increase / (decrease) in operating liabilities|\n|Bills payable|(6,325,695)|(5,817,965)|\n|Borrowings from financial institutions|(330,681,404)|103,579,239|\n|Deposits and other accounts|234,456,904|121,032,565|\n|Other liabilities|29,085,159|50,777,446|\n| |(73,465,036)|269,571,285|\n| |42,124,016|269,059,863|\n|Income tax paid|(16,292,247)|(5,862,566)|\n|Net cash flows generated from operating activities|25,831,769|263,197,297|\n|CASH FLOWS FROM INVESTING ACTIVITIES|CASH FLOWS FROM INVESTING ACTIVITIES|CASH FLOWS FROM INVESTING ACTIVITIES|\n|Net investment in FVOCI securities|(32,808,843)|-|\n|Net investment in securities carried at Amortised Cost|(11,730,884)|-|\n|Net investment in available-for-sale securities|-|(162,519,684)|\n|Net investment in held-to-maturity securities|-|39,183,914|\n|Net investment in subsidiaries|(2,000,000)|(1,000,000)|\n|Net investment in associates|4,880|5,990|\n|Dividend received|1,337,629|950,911|\n|Investment in property and equipment|(2,995,050)|(3,826,652)|\n|Investment in intangible assets|(1,110,315)|(475,194)|\n|Proceeds from sale of property and equipment|27,130|209,090|\n|Effect of translation of net investment in foreign branches - net of tax|(2,240,790)|11,834,059|\n|Net cash flows used in investing activities|(51,516,243)|(115,637,566)|\n|CASH FLOWS FROM FINANCING ACTIVITIES|CASH FLOWS FROM FINANCING ACTIVITIES|CASH FLOWS FROM FINANCING ACTIVITIES|\n|Payment of mark-up on subordinated debt|(1,518,632)|(891,174)|\n|Payment of lease liability against right-of-use assets|(653,020)|(1,061,405)|\n|Dividend paid|(3,721)|(4,425)|\n|Net cash flows used in financing activities|(2,175,373)|(1,957,004)|\n|(Decrease) / increase in cash and cash equivalents during the period|(27,859,847)|145,602,727|\n|Cash and cash equivalents at the beginning of the period|550,572,814|287,604,092|\n|Effect of exchange rate changes on cash and cash equivalents|(2,378,731)|1,083,133|\n| |548,194,083|288,687,225|\n|Cash and cash equivalents at the end of the period|520,334,236|434,289,952|\n\nThe annexed notes 1 to 41 form an integral part of these condensed interim unconsolidated financial statements.\n\nMuhammad Nassir Salim\n\nRayomond Kotwal\n\nKhaleel Ahmed\n\nMoez Ahamed Jamal\n\nDr. Najeeb Samie\n\nPresident and Chief Executive Officer\n\nChief Financial Officer\n\nDirector\n\nDirector\n\nDirector\n---\n\n---",
+      "metadata": {
+        "chunk_number": 139,
+        "financial_data": "yes",
+        "financial_statement_scope": "unconsolidated",
+        "is_statement": "yes",
+        "statement_type": "cash_flow",
+        "is_note": "no",
+        "note_link": "none",
+        "auditor_report": "no",
+        "director_report": "no",
+        "annual_report_discussion": "no",
+        "file_name": "Habib_Bank_Limited_Quarterly_2024-03-31_chunks.md",
+        "ticker": "HBL",
+        "entity_name": "Habib Bank Limited",
+        "filing_type": "quarterly",
+        "filing_period": [
+          "Q1-2024",
+          "Q1-2023"
+        ],
+        "source_file": "Habib_Bank_Limited_Quarterly_2024-03-31_chunks.md"
+      },
+      "score": 0.6794104123411978
+    },
+    {
+      "node_id": "Habib_Bank_Limited_Quarterly_2024-03-31_chunks_chunk_22",
+      "text": "--- Metadata Context ---\nentity_name: Habib Bank Limited\nticker: HBL\nfiling_type: quarterly\nfiling_period: Q1-2024, Q1-2023\nfinancial_data: yes\nfinancial_statement_scope: consolidated\nis_statement: yes\nstatement_type: cash_flow\nis_note: no\nauditor_report: no\ndirector_report: no\nannual_report_discussion: no\n--- End Context ---\n\n# CONDENSED INTERIM CONSOLIDATED CASH FLOW STATEMENT (UNAUDITED)\n\n# Habib Bank Limited FOR THE THREE MONTHS ENDED MARCH 31, 2024\n\n# Condensed Interim Consolidated Cash Flow Statement (Unaudited)\n\n# For the three months ended March 31, 2024\n\n| |January 01 to March 31, 2024|January 01 to March 31, 2023|\n|---|---|---|\n|(Rupees in '000)| | |\n|CASH FLOWS FROM OPERATING ACTIVITIES| | |\n|Profit before taxation|30,113,283|21,502,137|\n|Dividend income|(1,007,077)|(851,300)|\n|Share of profit of associates and joint venture|(896,406)|(809,741)|\n|Mark-up / return / profit / interest expensed on subordinated debt|1,088,714|885,926|\n| |(814,769)|(775,115)|\n| |29,298,514|20,727,022|\n|Adjustments:| | |\n|Depreciation|2,640,650|2,313,052|\n|Amortisation|680,315|504,592|\n|Depreciation on right-of-use assets|1,089,301|1,118,813|\n|Mark-up / return / profit / interest expensed on lease liability against right-of-use assets|956,534|879,808|\n|Credit loss allowance against investments|226,644|1,579,290|\n|Credit loss allowance against loans and advances|3,400,795|1,218,993|\n|Credit loss allowance against other assets|405|796,200|\n|Charge / (reversal) of credit loss allowance against off-balance sheet obligations|231,936|(255,051)|\n|Unrealised loss on securities designated at fair value through profit and loss (FVTPL)|126,350|-|\n|Unrealised loss on held-for-trading securities|-|372,523|\n|Gain on derecognition of joint venture|-|(3,731,399)|\n|Gain on sale of property and equipment - net|(15,704)|(78,595)|\n|Workers' Welfare Fund|588,286|528,186|\n| |9,925,512|5,246,412|\n| |39,224,026|25,973,434|\n|(Increase) / decrease in operating assets| | |\n|Lendings to financial institutions|17,029,142|85,851,403|\n|FVTPL securities|(622,504)|-|\n|Held-for-trading securities|-|(73,426,685)|\n|Advances|84,056,195|180,506|\n|Other assets (excluding advance taxation)|(31,244,676)|(62,257,961)|\n| |69,218,157|(49,652,737)|\n|Increase / (decrease) in operating liabilities| | |\n|Bills payable|(6,378,966)|(5,779,672)|\n|Borrowings from financial institutions|(327,607,458)|105,292,501|\n|Deposits and other accounts|233,565,609|144,881,225|\n|Other liabilities|25,428,794|61,319,726|\n| |(74,992,021)|305,713,780|\n| |33,450,162|282,034,477|\n|Income tax paid|(16,373,300)|(6,309,160)|\n|Net cash flows generated from operating activities|17,076,862|275,725,317|\n|CASH FLOWS FROM INVESTING ACTIVITIES| | |\n|Net investment in FVOCI securities|(32,250,336)|-|\n|Net investment in securities carried at Amortised Cost|(10,353,111)|-|\n|Net investment in available-for-sale securities|-|(146,580,833)|\n|Net investment in held-to-maturity securities|-|36,378,178|\n|Net investment in associates|(3,931,734)|(3,947,384)|\n|Dividend received|690,815|585,958|\n|Investment in property and equipment|(3,267,514)|(3,932,714)|\n|Investment in intangible assets|(1,112,449)|(536,957)|\n|Proceeds from sale of property and equipment|32,125|181,497|\n|Effect of translation of net investment in foreign branches, subsidiaries, joint venture and associates - net of tax|124,902|15,856,095|\n|Net cash flows used in investing activities|(50,067,302)|(101,996,160)|\n|CASH FLOWS FROM FINANCING ACTIVITIES| | |\n|Proceeds from issuance of subordinated debt|675,000|-|\n|Payment of mark-up on subordinated debt|(1,087,352)|(891,174)|\n|Payment of lease liability against right-of-use assets|(803,962)|(1,170,601)|\n|Dividend paid|(3,721)|(4,425)|\n|Net cash flows used in financing activities|(1,220,035)|(2,066,200)|\n|Decrease in cash and cash equivalents during the period|(34,210,475)|171,662,957|\n|Cash and cash equivalents at the beginning of the period|601,189,179|322,350,781|\n|Effect of exchange rate changes on cash and cash equivalents|2,942,950|15,177,627|\n| |604,132,129|337,528,408|\n|Cash and cash equivalents at the end of the period|569,921,654|509,191,365|\n\nThe annexed notes 1 to 41 form an integral part of these condensed interim consolidated financial statements.\n\nMuhammad Nassir Salim\n\nPresident and Chief Executive Officer\n\nRayomond Kotwal\n\nChief Financial Officer\n\nKhaleel Ahmed\n\nDirector\n\nMoez Ahamed Jamal\n\nDirector\n\nDr. Najeeb Samie\n\nDirector\n---\n\n---",
+      "metadata": {
+        "chunk_number": 22,
+        "financial_data": "yes",
+        "financial_statement_scope": "consolidated",
+        "is_statement": "yes",
+        "statement_type": "cash_flow",
+        "is_note": "no",
+        "note_link": "none",
+        "auditor_report": "no",
+        "director_report": "no",
+        "annual_report_discussion": "no",
+        "file_name": "Habib_Bank_Limited_Quarterly_2024-03-31_chunks.md",
+        "ticker": "HBL",
+        "entity_name": "Habib Bank Limited",
+        "filing_type": "quarterly",
+        "filing_period": [
+          "Q1-2024",
+          "Q1-2023"
+        ],
+        "source_file": "Habib_Bank_Limited_Quarterly_2024-03-31_chunks.md"
+      },
+      "score": 0.6766883196495457
+    },
+    {
+      "node_id": "Habib_Bank_Limited_Quarterly_2024-06-30_chunks_chunk_22",
+      "text": "--- Metadata Context ---\nentity_name: Habib Bank Limited\nticker: HBL\nfiling_type: quarterly\nfiling_period: Q2-2024, Q2-2023\nfinancial_data: yes\nfinancial_statement_scope: consolidated\nis_statement: yes\nstatement_type: cash_flow\nis_note: no\nauditor_report: no\ndirector_report: no\nannual_report_discussion: no\n--- End Context ---\n\n# CONDENSED INTERIM CONSOLIDATED CASH FLOW STATEMENT (UNAUDITED)\n\n# Habib Bank Limited FOR THE SIX MONTHS ENDED JUNE 30, 2024\n\n# Condensed Interim Consolidated Cash Flow Statement (Unaudited)\n\n# For the six months ended June 30, 2024\n\n| |January 01 to June 30, 2024|January 01 to June 30, 2023|\n|---|---|---|\n|(Rupees in '000)| | |\n|CASH FLOWS FROM OPERATING ACTIVITIES| | |\n|Profit before taxation|57,848,092|51,509,142|\n|Dividend income|(1,426,218)|(1,826,891)|\n|Share of profit of associates and joint venture|(2,436,752)|(2,174,577)|\n|Mark-up / return / profit / interest expensed on subordinated debt|2,196,194|1,978,849|\n| |(1,666,776)|(2,022,619)|\n| |56,181,316|49,486,523|\n|Adjustments:| | |\n|Depreciation|5,330,368|4,640,763|\n|Amortisation|1,359,972|1,038,239|\n|Depreciation on right-of-use assets|2,243,842|2,201,677|\n|Mark-up / return / profit / interest expensed on lease liability against right-of-use assets|1,806,465|1,826,797|\n|(Reversal) / charge of credit loss allowance against investments|(1,518,370)|1,720,364|\n|Credit loss allowance against loans and advances|10,700,530|4,262,459|\n|Provision / credit loss allowance against other assets|200,062|627,663|\n|Charge / (reversal) of credit loss allowance against off-balance sheet obligations|936,932|(237,925)|\n|Unrealised gain on securities designated at Fair Value Through Profit and Loss (FVTPL)|(1,226,854)|-|\n|Unrealised loss on held-for-trading securities|-|133,121|\n|Exchange loss / (gain) on goodwill|82,400|(1,123,883)|\n|Gain on derecognition of joint venture|-|(3,731,399)|\n|Gain on sale of property and equipment - net|(29,289)|(108,085)|\n|Workers' Welfare Fund|1,181,628|1,102,188|\n| |21,067,686|12,351,979|\n| |77,249,002|61,838,502|\n|(Increase) / decrease in operating assets| | |\n|Lendings to financial institutions|(44,657,085)|201,609,823|\n|Net investment in securities carried at FVTPL|17,454,222|-|\n|Net investment in held-for-trading securities|-|(56,893,765)|\n|Advances|45,203,912|63,803,220|\n|Other assets (excluding advance taxation)|(23,908,738)|(52,626,275)|\n| |(5,907,689)|155,893,003|\n|Increase / (decrease) in operating liabilities| | |\n|Bills payable|19,817,002|16,077,289|\n|Borrowings from financial institutions|(75,939,744)|(19,627,610)|\n|Deposits and other accounts|705,083,819|224,015,003|\n|Other liabilities|38,080,358|43,275,277|\n| |687,041,435|263,739,959|\n| |758,382,748|481,471,464|\n|Income tax paid|(38,793,497)|(22,981,367)|\n|Net cash flows generated from operating activities|719,589,251|458,490,097|\n|CASH FLOWS FROM INVESTING ACTIVITIES| | |\n|Net investment in securities carried at FVOCI|(566,448,311)|-|\n|Net investment in securities carried at Amortised Cost|(49,776,465)|-|\n|Net investment in available-for-sale securities|-|(206,264,781)|\n|Net investment in held-to-maturity securities|-|63,083,887|\n|Net investment in associates|(1,675,299)|(2,725,744)|\n|Dividend received|1,417,240|1,385,634|\n|Investments in property and equipment|(10,939,027)|(7,929,403)|\n|Investments in intangible assets|(1,573,051)|(1,625,486)|\n|Proceeds from sale of property and equipment|36,140|154,283|\n|Effect of translation of net investment in foreign branches, subsidiaries, joint venture and associates - net of tax|(1,580,082)|12,794,081|\n|Net cash flows used in investing activities|(630,538,855)|(141,127,529)|\n|CASH FLOWS FROM FINANCING ACTIVITIES| | |\n|Proceeds from issuance of subordinated debt|675,000|-|\n|Payment of mark-up on subordinated debt|(2,210,651)|(1,994,036)|\n|Payment of lease liability against right-of-use assets|(1,804,083)|(2,417,093)|\n|Dividend paid|(13,551,235)|(5,743,726)|\n|Net cash flows used in financing activities|(16,890,969)|(10,154,855)|\n|Decrease in cash and cash equivalents during the period|72,159,427|307,207,713|\n|Cash and cash equivalents at the beginning of the period|625,512,980|322,210,726|\n|Effect of exchange rate changes on cash and cash equivalents|(21,380,851)|15,317,682|\n| |604,132,129|337,528,408|\n|Cash and cash equivalents at the end of the period|676,291,556|644,736,121|\n\nThe annexed notes 1 to 41 form an integral part of these condensed interim consolidated financial statements.\n\nMuhammad Nassir Salim\n\nPresident and Chief Executive Officer\n\nRayomond Kotwal\n\nChief Financial Officer\n\nDr. Najeeb Samie\n\nDirector\n\nSalim Raza\n\nDirector\n\nShaffiq Dharamshi\n\nDirector\n---\n\n---",
+      "metadata": {
+        "chunk_number": 22,
+        "financial_data": "yes",
+        "financial_statement_scope": "consolidated",
+        "is_statement": "yes",
+        "statement_type": "cash_flow",
+        "is_note": "no",
+        "note_link": "none",
+        "auditor_report": "no",
+        "director_report": "no",
+        "annual_report_discussion": "no",
+        "file_name": "Habib_Bank_Limited_Quarterly_2024-06-30_chunks.md",
+        "ticker": "HBL",
+        "entity_name": "Habib Bank Limited",
+        "filing_type": "quarterly",
+        "filing_period": [
+          "Q2-2024",
+          "Q2-2023"
+        ],
+        "source_file": "Habib_Bank_Limited_Quarterly_2024-06-30_chunks.md"
+      },
+      "score": 0.6757851480002154
+    },
+    {
+      "node_id": "Bank_AL_Habib_Limited_Quarterly_2024-09-30_chunks_chunk_8",
+      "text": "--- Metadata Context ---\nentity_name: Bank AL Habib Limited\nticker: BAHL\nfiling_type: quarterly\nfiling_period: Q3-2024, Q3-2023\nfinancial_data: yes\nfinancial_statement_scope: unconsolidated\nis_statement: yes\nstatement_type: cash_flow\nis_note: no\nauditor_report: no\ndirector_report: no\nannual_report_discussion: no\n--- End Context ---\n\n# UNCONSOLIDATED CONDENSED INTERIM CASH FLOW STATEMENT (UN-AUDITED)\n\n# FOR THE NINE MONTHS PERIOD ENDED 30 SEPTEMBER 2024\n\n|Note|30 September 2024|30 September 2023|\n|---|---|---|\n|CASH FLOW FROM OPERATING ACTIVITIES|CASH FLOW FROM OPERATING ACTIVITIES|CASH FLOW FROM OPERATING ACTIVITIES|\n|Profit before taxation|63,063,486|52,950,884|\n|Less: Dividend income|(867,949)|(1,114,219)|\n| |62,195,537|51,836,665|\n|Adjustments:| | |\n|Depreciation|4,037,208|3,225,316|\n|Depreciation on right-of-use assets|1,821,307|1,716,716|\n|Amortisation|141,444|204,390|\n|Workers\u2019 welfare fund|1,412,504|1,081,519|\n|Credit loss allowance / provisions / (reversals) and write-offs - net|11,874,577|(1,051,343)|\n|Gain on sale of property and equipment - net|(834,455)|(261,839)|\n|Gain on termination of leases|(58,345)|(31,167)|\n|Unrealised loss measured at FVTPL|253,672|\u201300|\n|Charge for defined benefit plan|900,000|621,000|\n|Charge for compensated absences|317,717|182,463|\n|Finance charges on leased assets|1,524,129|1,138,148|\n| |21,389,758|6,825,203|\n| |83,585,295|58,661,868|\n|Decrease / (increase) in operating assets| | |\n|Lendings to financial institutions|1,649,716|13,108,939|\n|Securities classified as FVTPL|2,708,139|95,638|\n|Advances|82,071,183|(61,041,217)|\n|Other assets|(57,900,988)|(60,924,755)|\n| |28,528,050|(108,761,395)|\n|Increase / (decrease) in operating liabilities| | |\n|Bills payable|(18,907,494)|(18,765,289)|\n|Borrowings from financial institutions|(11,665,541)|(126,545,747)|\n|Deposits|288,271,139|343,983,829|\n|Other liabilities (excluding current taxation)|16,751,960|7,135,085|\n| |274,450,064|205,807,878|\n| |386,563,409|155,708,351|\n|Income tax paid|(27,694,858)|(23,503,925)|\n|Net cash flow generated from operating activities|358,868,551|132,204,426|\n|CASH FLOW FROM INVESTING ACTIVITIES|CASH FLOW FROM INVESTING ACTIVITIES|CASH FLOW FROM INVESTING ACTIVITIES|\n|Net investments in amortized cost securities|20,775,171|2,382,688|\n|Net investments in securities classified as FVOCI|(314,979,091)|(79,939,967)|\n|Net investments in subsidiaries|(3,000,000)|\u201300|\n|Dividends received|878,996|1,092,984|\n|Investments in property and equipment|(9,379,702)|(6,204,264)|\n|Proceeds from sale of property and equipment|806,886|290,284|\n|Effect of translation of net investment in foreign branches|(134,749)|289,251|\n|Net cash flow used in investing activities|(305,032,489)|(82,089,024)|\n|CASH FLOW FROM FINANCING ACTIVITIES|CASH FLOW FROM FINANCING ACTIVITIES|CASH FLOW FROM FINANCING ACTIVITIES|\n|Payments of subordinated debt|(3,995,400)|(4,200)|\n|Dividend paid|(13,150,218)|(12,548,765)|\n|Payments of lease obligations against right-of-use assets|(2,771,844)|(2,504,381)|\n|Net cash flow used in financing activities|(19,917,462)|(15,057,346)|\n|Increase in cash and cash equivalents|33,918,600|35,058,056|\n|Cash and cash equivalents at beginning of the period|147,202,286|108,736,601|\n|Cash and cash equivalents at end of the period|181,120,886|143,794,657|\n\nThe annexed notes 1 to 42 form an integral part of these unconsolidated condensed interim financial statements.\n\nMANSOOR ALI KHAN Chief Executive\n\nASHAR HUSAIN Chief Financial Officer\n\nMOHAMMAD RAFIQUDDIN MEHKARI Director\n\nFARHANA MOWJEE KHAN Director\n\nABBAS D. HABIB Chairman\n---\n\n---",
+      "metadata": {
+        "chunk_number": 8,
+        "financial_data": "yes",
+        "financial_statement_scope": "unconsolidated",
+        "is_statement": "yes",
+        "statement_type": "cash_flow",
+        "is_note": "no",
+        "note_link": "none",
+        "auditor_report": "no",
+        "director_report": "no",
+        "annual_report_discussion": "no",
+        "file_name": "Bank_AL_Habib_Limited_Quarterly_2024-09-30_chunks.md",
+        "ticker": "BAHL",
+        "entity_name": "Bank AL Habib Limited",
+        "filing_type": "quarterly",
+        "filing_period": [
+          "Q3-2024",
+          "Q3-2023"
+        ],
+        "source_file": "Bank_AL_Habib_Limited_Quarterly_2024-09-30_chunks.md"
+      },
+      "score": 0.6629776133067147
+    },
+    {
+      "node_id": "Habib_Metropolitan_Bank_Limited_Quarterly_2024-09-30_chunks_chunk_113",
+      "text": "--- Metadata Context ---\nentity_name: Habib Metropolitan Bank Limited\nticker: HMB\nfiling_type: quarterly\nfiling_period: Q3-2024, Q3-2023\nfinancial_data: yes\nfinancial_statement_scope: consolidated\nis_statement: yes\nstatement_type: cash_flow\nis_note: no\nauditor_report: no\ndirector_report: no\nannual_report_discussion: no\n--- End Context ---\n\n# CONSOLIDATED CONDENSED INTERIM CASH FLOW STATEMENT (UN-AUDITED)\n\n# FOR THE NINE MONTHS ENDED 30 SEPTEMBER 2024\n\n|Note|30 September 2024 (Un-Audited)|30 September 2023|\n|---|---|---|\n|CASH FLOWS FROM OPERATING ACTIVITIES|CASH FLOWS FROM OPERATING ACTIVITIES|CASH FLOWS FROM OPERATING ACTIVITIES|\n|Profit before taxation|37,976,611|37,834,251|\n|Less: Dividend income|(550,809)|(465,326)|\n| |37,425,802|37,368,925|\n|Adjustments| | |\n|Net mark-up / interest income|(51,457,575)|(52,650,402)|\n|Depreciation on operating fixed assets|1,810,899|1,446,395|\n|Depreciation on right-of-use assets|1,136,748|1,074,414|\n|Amortization|187,347|85,313|\n|Markup on Lease liability against right-of-use assets|879,584|716,593|\n|Credit loss allowance and write offs excluding recovery of written off bad debts|3,222,441|3,515,579|\n|Gain on sale of fixed assets - net|(39,188)|(22,691)|\n|Provision against workers' welfare fund|772,973|796,656|\n|Unrealized gain FVTPL securities|(812,531)| |\n|Provision against compensated absences|117,369|96,482|\n|Provision against defined benefit plan|251,716|232,855|\n| |(43,930,217)|(44,708,806)|\n| |(6,504,415)|(7,339,881)|\n|(Increase) / decrease in operating assets| | |\n|Securities classified as FVPL|(11,879,380)| |\n|Lendings to financial institutions|(25,488,198)|35,293,306|\n|Advances|(74,056,914)|2,912,100|\n|Other assets (excluding dividend and non-banking assets)|(4,918,332)|(4,460,149)|\n| |(116,342,824)|33,745,257|\n|Increase / (decrease) in operating liabilities| | |\n|Bills payable|14,267,629|(783,944)|\n|Borrowings from financial institutions|25,406,680|(145,838,120)|\n|Deposits and other accounts|32,586,174|86,959,312|\n|Other liabilities (excluding current taxation)|(3,792,850)|11,782,356|\n| |68,467,633|(47,880,396)|\n| |(54,379,606)|(21,475,020)|\n|Payment against compensated absences|(66,969)|(82,982)|\n|Payment against workers' welfare fund|(21,645)|(8,642)|\n|Contribution to the defined benefit plan|(68,039)|(20,343)|\n|Mark-up / Interest received|177,626,989|140,424,041|\n|Mark-up / Interest paid|(135,056,416)|(95,463,603)|\n|Income tax paid|(21,086,396)|(15,951,699)|\n|Net cash flow (used in) from operating activities|(33,052,082)|7,421,752|\n|CASH FLOWS FROM INVESTING ACTIVITIES|CASH FLOWS FROM INVESTING ACTIVITIES|CASH FLOWS FROM INVESTING ACTIVITIES|\n|Net Investments in securities classified as FVOCI|16,244,536| |\n|Net investments in amortized cost securities|16,211,264| |\n|Net Investments in available for sale securities| |(106,033,933)|\n|Net Investments in held to maturity securities| |145,135,119|\n|Dividend received|550,809|424,894|\n|Investments in property and equipment|(3,288,955)|(2,102,979)|\n|Investments in intangible assets|(384,689)|(295,542)|\n|Proceeds from sale of property and equipment|65,901|38,093|\n|Effect of translation of net investment in an offshore branch|(1,499)|10,710|\n|Net cash flow from investing activities|29,397,367|37,176,362|\n|CASH FLOWS FROM FINANCING ACTIVITIES|CASH FLOWS FROM FINANCING ACTIVITIES|CASH FLOWS FROM FINANCING ACTIVITIES|\n|Dividend paid|(10,913,578)|(9,678,617)|\n|Payment of lease liability against right-of-use assets|(1,725,226)|(1,531,502)|\n|Net cash used in financing activities|(12,638,804)|(11,210,119)|\n|(Decrease) / increase in cash and cash equivalents|(16,293,519)|33,387,995|\n|Cash and cash equivalents at the beginning of the period|111,848,372|76,276,054|\n|Cash and cash equivalents at the end of the period|95,554,853|109,664,049|\n\nThe annexed notes 1 to 41 form an integral part of these consolidated condensed interim financial statements.\n\nFUZAIL ABBAS Chief Financial Officer\n\nKHURRAM SHAHZAD KHAN President & Chief Executive Officer\n\nRASHID AHMED JAFER Director\n\nMOHOMED BASHIR Director\n\nMOHAMEDALI R. HABIB Chairman\n\n---",
+      "metadata": {
+        "chunk_number": 113,
+        "financial_data": "yes",
+        "financial_statement_scope": "consolidated",
+        "is_statement": "yes",
+        "statement_type": "cash_flow",
+        "is_note": "no",
+        "note_link": "none",
+        "auditor_report": "no",
+        "director_report": "no",
+        "annual_report_discussion": "no",
+        "file_name": "Habib_Metropolitan_Bank_Limited_Quarterly_2024-09-30_chunks.md",
+        "ticker": "HMB",
+        "entity_name": "Habib Metropolitan Bank Limited",
+        "filing_type": "quarterly",
+        "filing_period": [
+          "Q3-2024",
+          "Q3-2023"
+        ],
+        "source_file": "Habib_Metropolitan_Bank_Limited_Quarterly_2024-09-30_chunks.md"
+      },
+      "score": 0.6626251509922688
+    },
+    {
+      "node_id": "Habib_Metropolitan_Bank_Limited_Quarterly_2024-09-30_chunks_chunk_9",
+      "text": "--- Metadata Context ---\nentity_name: Habib Metropolitan Bank Limited\nticker: HMB\nfiling_type: quarterly\nfiling_period: Q3-2024, Q3-2023\nfinancial_data: yes\nfinancial_statement_scope: unconsolidated\nis_statement: yes\nstatement_type: cash_flow\nis_note: no\nauditor_report: no\ndirector_report: no\nannual_report_discussion: no\n--- End Context ---\n\n# UNCONSOLIDATED CONDENSED INTERIM CASH FLOW STATEMENT (UN-AUDITED)\n\n# FOR THE NINE MONTHS ENDED 30 SEPTEMBER 2024\n\n|Note|30 September 2024 (Un-Audited)|30 September 2023| | |\n|---|---|---|---|---|\n|CASH FLOW FROM OPERATING ACTIVITIES|CASH FLOW FROM OPERATING ACTIVITIES|CASH FLOW FROM OPERATING ACTIVITIES| | |\n|Profit before taxation|36,901,091|37,035,391| | |\n|Less: Dividend income|(541,507)|(446,932)| | |\n| |36,359,584|36,588,459| | |\n|Adjustments| | | | |\n|Net mark-up / interest income|(49,877,037)|(51,400,193)| | |\n|Depreciation on operating fixed assets|1,783,061|1,437,490| | |\n|Depreciation on right-of-use assets|1,132,053|1,069,240| | |\n|Amortisation|185,114|84,635| | |\n|Markup on lease liability against right-of-use assets|872,442|713,320| | |\n|Credit loss allowance and write offs excluding recovery of written off bad debts|3,068,427|3,270,721| | |\n|Gain on sale of fixed assets - net|(29,731)|(21,420)| | |\n|Provision against workers' welfare fund|751,329|781,779| | |\n|Unrealized gain on FVTPL securities|(786,197)|\u2013| | |\n|Provision against compensated absences|117,369|96,482| | |\n|Provision against defined benefit plan|248,563|230,196| | |\n| |(42,534,607)|(42,534,607)| | |\n|(Increase) / decrease in operating assets| | | | |\n|Securities classified as FVTPL|(11,850,086)|\u2013| | |\n|Lendings to financial institutions|(25,488,198)|35,293,306| | |\n|Advances|(68,954,205)|4,812,755| | |\n|Other assets (excluding advance taxation)|(4,837,183)|(1,015,926)| | |\n| |(111,129,672)|(111,129,672)| | |\n|Increase / (decrease) in operating liabilities| | | | |\n|Bills payable|14,267,629|(783,944)| | |\n|Borrowings from financial institutions|21,612,228|(145,803,607)| | |\n|Deposits and other accounts|33,596,568|86,889,770| | |\n|Other liabilities (excluding current taxation)|(4,119,821)|13,085,907| | |\n| |65,356,604| | | |\n|Payment against compensated absences|(51,948,091)|(14,671,030)| | |\n|Contribution to the defined benefit plan|(66,969)|(82,982)| | |\n|Mark-up / Interest received|(60,000)|(20,000)| | |\n|Mark-up / Interest paid|173,378,385|133,987,841| | |\n|Income tax paid|(132,467,797)|(94,889,944)| | |\n|Net cash flow (used in) / from operating activities|(20,634,803)|(15,902,696)| | |\n| |(31,799,275)| | | |\n|CASH FLOW FROM INVESTING ACTIVITIES|CASH FLOW FROM INVESTING ACTIVITIES|CASH FLOW FROM INVESTING ACTIVITIES| | |\n|Net investments in securities classified as FVOCI|16,400,321|\u2013| | |\n|Net investments in amortised cost securities|15,611,265|\u2013| | |\n|Net investments in available for sale securities|\u2013|(106,021,064)| | |\n|Net investments in held to maturity securities|\u2013|144,285,119| | |\n|Investment in new subsidiary|(1,000,000)|\u2013| | |\n|Dividend received|541,507|406,500| | |\n|Investments in property and equipment|(3,173,078)|(2,057,020)| | |\n|Investments in intangible assets|(380,111)|(293,234)| | |\n|Proceeds from sale of property and equipment|39,836|32,651| | |\n|Effect of translation of net investment in an offshore branch|(1,499)|10,710| | |\n|Net cash flow from investing activities|28,038,241|36,363,662| | |\n|CASH FLOW FROM FINANCING ACTIVITIES|CASH FLOW FROM FINANCING ACTIVITIES|CASH FLOW FROM FINANCING ACTIVITIES| | |\n|Dividend paid|(11,002,501)|(9,677,657)| | |\n|Payment of lease liability against right-of-use assets|(1,713,583)|(1,520,494)| | |\n|Net cash used in financing activities|(12,716,084)|(11,198,151)| | |\n|(Decrease) / increase in cash and cash equivalents|(16,477,118)|33,586,700| | |\n|Cash and cash equivalents at the beginning of the period|111,701,908|75,860,490| | |\n|Cash and cash equivalents at the end of the period|95,224,790|109,447,190| | |\n\nThe annexed notes 1 to 41 form an integral part of these unconsolidated condensed interim financial statements.\n\nFUZAIL ABBAS Chief Financial Officer\n\nKHURRAM SHAHZAD KHAN President & Chief Executive Officer\n\nRASHID AHMED JAFER Director\n\nMOHOMED BASHIR Director\n\nMOHAMEDALI R. HABIB Chairman\n\n---",
+      "metadata": {
+        "chunk_number": 9,
+        "financial_data": "yes",
+        "financial_statement_scope": "unconsolidated",
+        "is_statement": "yes",
+        "statement_type": "cash_flow",
+        "is_note": "no",
+        "note_link": "none",
+        "auditor_report": "no",
+        "director_report": "no",
+        "annual_report_discussion": "no",
+        "file_name": "Habib_Metropolitan_Bank_Limited_Quarterly_2024-09-30_chunks.md",
+        "ticker": "HMB",
+        "entity_name": "Habib Metropolitan Bank Limited",
+        "filing_type": "quarterly",
+        "filing_period": [
+          "Q3-2024",
+          "Q3-2023"
+        ],
+        "source_file": "Habib_Metropolitan_Bank_Limited_Quarterly_2024-09-30_chunks.md"
+      },
+      "score": 0.6614644864430526
+    },
+    {
+      "node_id": "Habib_Metropolitan_Bank_Limited_Quarterly_2024-03-31_chunks_chunk_5",
+      "text": "--- Metadata Context ---\nentity_name: Habib Metropolitan Bank Limited\nticker: HMB\nfiling_type: quarterly\nfiling_period: Q1-2024, Q1-2023\nfinancial_data: yes\nfinancial_statement_scope: consolidated\nis_statement: yes\nstatement_type: cash_flow\nis_note: no\nauditor_report: no\ndirector_report: no\nannual_report_discussion: no\n--- End Context ---\n\n# CONSOLIDATED CONDENSED INTERIM CASH FLOW STATEMENT (UN-AUDITED)\n\n# FOR THE QUARTER ENDED 31 MARCH 2024\n\n|Note|31 March 2024|31 March 2023|\n|---|---|---|\n|CASH FLOWS FROM OPERATING ACTIVITIES|CASH FLOWS FROM OPERATING ACTIVITIES|CASH FLOWS FROM OPERATING ACTIVITIES|\n|Profit before taxation for the period|11,901,030|10,257,034|\n|Less: Dividend income|(207,119)|(131,230)|\n|Adjustments|11,693,911|10,125,804|\n|Depreciation on operating fixed assets|562,442|443,835|\n|Depreciation on right-of-use assets|373,167|321,246|\n|Amortization|42,800|18,041|\n|Markup on Lease liability against right-of-use assets|279,031|211,136|\n|Credit loss allowance and write offs excluding recovery of written off bad debts|891,572|1,085,252|\n|Net gain on sale of fixed assets|(15,735)|(9,157)|\n|Provision against workers' welfare fund|244,476|178,410|\n|Unrealized gain FVTPL securities|(44,166)| |\n|Provision against compensated absences|23,716|12,450|\n|Provision against defined benefit plan|82,867|75,366|\n|Total Adjustments|2,440,170|2,336,579|\n|(Increase) / decrease in operating assets|14,134,081|12,462,383|\n|Securities classified as FVPL|\u2013|\u2013|\n|Lendings to financial institutions|316,823|72,428,796|\n|Advances|(23,786,105)|(7,428,601)|\n|Other assets (excluding dividend and non-banking assets)|(3,438,601)|(5,904,028)|\n|Increase / (decrease) in operating liabilities|(26,907,883)|59,096,167|\n|Bills payable|(10,725,199)|7,754,486|\n|Borrowings from financial institutions|(50,341,485)|(35,054,782)|\n|Deposits and other accounts|73,347,923|55,796,425|\n|Other liabilities (excluding current taxation)|(11,240,567)|7,903,335|\n|Total Operating Liabilities|1,040,672|36,399,464|\n|Payment against compensated absences|(11,733,130)|107,958,014|\n|Income tax paid|(6,916)|(7,950)|\n|Net cash flow (used in) / generated from operating activities|(19,566,908)|105,308,580|\n|CASH FLOWS FROM INVESTING ACTIVITIES|CASH FLOWS FROM INVESTING ACTIVITIES|CASH FLOWS FROM INVESTING ACTIVITIES|\n|Net Investments in securities classified as FVOCI|27,936,360|(80,114,077)|\n|Net investments in amortized cost securities|(788,228)|8,645,400|\n|Dividend received|207,119|133,708|\n|Investments in fixed assets|(1,129,138)|(429,692)|\n|Investments in intangible assets|(56,760)|(1,700)|\n|Proceeds from sale of fixed assets|27,672|14,496|\n|Effect of translation of net investment in an offshore branch|(894)|9,260|\n|Net cash flow generated / (used in) from investing activities|26,196,131|(71,742,605)|\n|CASH FLOWS FROM FINANCING ACTIVITIES|CASH FLOWS FROM FINANCING ACTIVITIES|CASH FLOWS FROM FINANCING ACTIVITIES|\n|Dividend paid|(5,764,049)|(3,406,313)|\n|Payment of lease liability against right-of-use assets|(475,254)|(447,576)|\n|Net cash used in financing activities|(6,239,303)|(3,853,889)|\n|(Decrease) / increase in cash and cash equivalents|389,920|29,712,086|\n|Cash and cash equivalents at the beginning of the period|111,848,372|76,276,054|\n|Cash and cash equivalents at the end of the period|112,238,292|105,988,140|\n\nThe annexed notes 1 to 40 form an integral part of these consolidated condensed interim financial statements.\n\nFUZAIL ABBAS Chief Financial Officer\n\nKHURRAM SHAHZAD KHAN President & Chief Executive Officer\n\nMOHSIN A. NATHANI Director\n\nRASHID AHMED JAFER Director\n\nMOHAMEDALI R. HABIB Chairman\n\n---",
+      "metadata": {
+        "chunk_number": 5,
+        "financial_data": "yes",
+        "financial_statement_scope": "consolidated",
+        "is_statement": "yes",
+        "statement_type": "cash_flow",
+        "is_note": "no",
+        "note_link": "none",
+        "auditor_report": "no",
+        "director_report": "no",
+        "annual_report_discussion": "no",
+        "file_name": "Habib_Metropolitan_Bank_Limited_Quarterly_2024-03-31_chunks.md",
+        "ticker": "HMB",
+        "entity_name": "Habib Metropolitan Bank Limited",
+        "filing_type": "quarterly",
+        "filing_period": [
+          "Q1-2024",
+          "Q1-2023"
+        ],
+        "source_file": "Habib_Metropolitan_Bank_Limited_Quarterly_2024-03-31_chunks.md"
+      },
+      "score": 0.6542415232793003
+    }
+  ],
+  "node_count": 10,
+  "server_version": "enhanced",
+  "save_time": "2025-06-04T14:29:06.374627"
+}

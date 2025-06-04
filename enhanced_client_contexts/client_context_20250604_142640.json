@@ -1,0 +1,137 @@
+{
+  "timestamp": "20250604_142640",
+  "original_query": "Show me the annual lending exposure by sector for HBL in 2024",
+  "query_plan": {
+    "companies": [
+      "HBL"
+    ],
+    "intent": "analysis",
+    "confidence": 0.9,
+    "queries_count": 1,
+    "needs_clarification": false,
+    "sample_query": {
+      "search_query": "HBL annual lending exposure by sector 2024",
+      "metadata_filters": {
+        "ticker": "HBL",
+        "filing_type": "annual",
+        "is_statement": "no",
+        "is_note": "yes",
+        "note_link": "balance_sheet"
+      }
+    }
+  },
+  "execution_result": {
+    "total_nodes": 10,
+    "response_length": 2676,
+    "companies": [
+      "HBL"
+    ],
+    "intent": "analysis",
+    "query_stats": {
+      "total_queries": 1,
+      "successful_queries": 1,
+      "failed_queries": 0,
+      "success_rate": 1.0,
+      "total_attempts": 1,
+      "query_attempts": [
+        {
+          "query_index": 1,
+          "attempt": 1,
+          "search_query": "HBL annual lending exposure by sector 2024",
+          "filters": {
+            "ticker": "HBL",
+            "filing_type": "annual",
+            "is_statement": "no",
+            "is_note": "yes",
+            "note_link": "balance_sheet"
+          },
+          "result": "success",
+          "nodes_count": 10,
+          "relevant_nodes": 10
+        }
+      ]
+    },
+    "error": null
+  },
+  "sample_nodes": [
+    {
+      "node_id": "Habib_Bank_Limited_Annual_2024_chunks_chunk_395",
+      "text": "--- Metadata Context ---\nentity_name: Habib Bank Limited\nticker: HBL\nfiling_type: annual\nfiling_period: 2024, 2023\nfinancial_data: yes\nfinancial_statement_scope: consolidated\nis_statement: no\nis_note: yes\nnote_link: balance_sheet\nauditor_report: no\ndirector_report: no\nannual_report_discussion: no\n--- End Context ---\n\n# NOTES TO THE CONSOLIDATED FINANCIAL STATEMENTS\n\n# FOR THE YEAR ENDED DECEMBER 31, 2024\n\n# 45.1.7 Contingencies and Commitments\n\n|Industry Sector|2024|2023|\n|---|---|---|\n|Credit risk by industry sector| | |\n|Chemicals and pharmaceuticals|41,443,407|36,167,390|\n|Agribusiness|13,461,635|4,178,806|\n|Textile|114,830,817|80,634,652|\n|Cement|8,638,073|14,765,985|\n|Defence|269,094|290,546|\n|Sugar|1,730,198|3,109,657|\n|Shoes and leather garments|3,900,372|4,320,346|\n|Automobile and transportation equipment|49,948,055|39,722,529|\n|Financial|766,028,539|570,328,562|\n|Hotel and tourism|1,058,405|875,811|\n|Insurance|500,374|993,400|\n|Electronics and electrical appliances|16,191,885|19,355,327|\n|Oil and gas|167,552,502|60,339,941|\n|Power and energy|96,170,094|131,803,825|\n|Education and medical|4,684,751|2,670,328|\n|Telecommunication|10,304,155|13,422,268|\n|Printing and publishing|2,772,253|3,414,375|\n|Construction|34,585,288|29,976,998|\n|Mining and quarrying|75,670|849,292|\n|Food, tobacco and beverages|79,064,697|54,607,091|\n|Wholesale and retail trade|53,672,282|33,187,800|\n|Metal and allied|12,272,203|20,889,158|\n|Individuals|4,944,234|18,930,486|\n|Farming, cattle and dairy|735,671|1,264,486|\n|Ports and shipping|6,577,469|407,567|\n|Trust funds and non-profit organisations|15,158,605|17,086,309|\n|Research and development|6,448,281|8,598,177|\n|Others|224,650,337|81,343,290|\n|Total|1,737,669,346|1,253,534,402|\n\n# Credit risk by public / private sector\n\n|Public / Government|168,139,549|217,765,026|\n|---|---|---|\n|Private|1,569,529,797|1,035,769,376|\n|Total|1,737,669,346|1,253,534,402|\n\n---",
+      "metadata": {
+        "chunk_number": 395,
+        "financial_data": "yes",
+        "financial_statement_scope": "consolidated",
+        "is_statement": "no",
+        "statement_type": "none",
+        "is_note": "yes",
+        "note_link": "balance_sheet",
+        "auditor_report": "no",
+        "director_report": "no",
+        "annual_report_discussion": "no",
+        "file_name": "Habib_Bank_Limited_Annual_2024_chunks.md",
+        "ticker": "HBL",
+        "entity_name": "Habib Bank Limited",
+        "filing_type": "annual",
+        "filing_period": [
+          "2024",
+          "2023"
+        ],
+        "source_file": "Habib_Bank_Limited_Annual_2024_chunks.md"
+      },
+      "score": 0.73360230544222
+    },
+    {
+      "node_id": "Habib_Bank_Limited_Annual_2024_chunks_chunk_895",
+      "text": "--- Metadata Context ---\nentity_name: Habib Bank Limited\nticker: HBL\nfiling_type: annual\nfiling_period: 2024, 2023\nfinancial_data: yes\nfinancial_statement_scope: unconsolidated\nis_statement: no\nis_note: yes\nnote_link: balance_sheet\nauditor_report: no\ndirector_report: no\nannual_report_discussion: no\n--- End Context ---\n\n# 45.1.7  Contingencies and Commitments\n\n# Credit risk by industry sector\n\n|Industry Sector| |2024| | | | |2023| | |\n|---|---|---|---|---|---|---|---|---|---|\n|Chemicals and pharmaceuticals|41,443,407|36,167,390| | | | | | | |\n|Agribusiness|13,461,635|4,178,806| | | | | | | |\n|Textile|114,830,817| | | | | | |80,634,652| |\n|Cement|8,638,073|14,765,985| | | | | | | |\n|Defence|269,094|290,546| | | | | | | |\n|Sugar|1,730,198|3,109,657| | | | | | | |\n|Shoes and leather garments|3,900,372|4,320,346| | | | | | | |\n|Automobile and transportation equipment|49,948,055|39,641,511| | | | | | | |\n|Financial|765,842,661| | | | | | |543,896,288| |\n|Hotel and tourism|1,058,405|845,330| | | | | | | |\n|Insurance|500,374|993,400| | | | | | | |\n|Electronics and electrical appliances|16,191,885|19,355,327| | | | | | | |\n|Oil and gas|167,552,502| | | | | | |60,339,941| |\n|Power and energy|96,170,094|131,803,825| | | | | | | |\n|Education and medical|4,684,751|2,670,328| | | | | | | |\n|Telecommunication|10,304,155|13,422,268| | | | | | | |\n|Printing and publishing|2,772,253|3,414,375| | | | | | | |\n|Construction|34,585,288|28,793,627| | | | | | | |\n|Mining and quarrying|75,670|849,292| | | | | | | |\n|Research and development|6,448,281|8,598,176| | | | | | | |\n|Food, tobacco and beverages|79,064,697|54,607,091| | | | | | | |\n|Wholesale and retail trade|51,325,476|30,688,521| | | | | | | |\n|Metal and allied|12,367,889|20,889,158| | | | | | | |\n|Individuals|3,719,234|18,930,486| | | | | | | |\n|Farming, cattle and dairy|735,671|1,264,486| | | | | | | |\n|Ports and shipping|6,577,469|407,567| | | | | | | |\n|Trust funds and non-profit organisations|15,158,605|17,086,309| | | | | | | |\n|Others|188,839,515| | | | | | |78,648,399| |\n|Total|1,698,196,526| | | | | | |1,220,613,087| |\n\n# NOTES TO THE UNCONSOLIDATED FINANCIAL STATEMENTS\n\n# FOR THE YEAR ENDED DECEMBER 31, 2024\n\n|Credit risk by public / private sector|2024|2023|\n|---|---|---|\n|Public / Government|162,115,533|217,765,027|\n|Private|1,536,080,993|1,002,848,060|\n|Total|1,698,196,526|1,220,613,087|\n\n---",
+      "metadata": {
+        "chunk_number": 895,
+        "financial_data": "yes",
+        "financial_statement_scope": "unconsolidated",
+        "is_statement": "no",
+        "statement_type": "none",
+        "is_note": "yes",
+        "note_link": "balance_sheet",
+        "auditor_report": "no",
+        "director_report": "no",
+        "annual_report_discussion": "no",
+        "file_name": "Habib_Bank_Limited_Annual_2024_chunks.md",
+        "ticker": "HBL",
+        "entity_name": "Habib Bank Limited",
+        "filing_type": "annual",
+        "filing_period": [
+          "2024",
+          "2023"
+        ],
+        "source_file": "Habib_Bank_Limited_Annual_2024_chunks.md"
+      },
+      "score": 0.7305897829502994
+    },
+    {
+      "node_id": "Habib_Bank_Limited_Annual_2024_chunks_chunk_896",
+      "text": "--- Metadata Context ---\nentity_name: Habib Bank Limited\nticker: HBL\nfiling_type: annual\nfiling_period: 2024, 2023\nfinancial_data: yes\nfinancial_statement_scope: unconsolidated\nis_statement: no\nis_note: yes\nnote_link: balance_sheet\nauditor_report: no\ndirector_report: no\nannual_report_discussion: no\n--- End Context ---\n\n# 45.1.8 Concentration of Advances\n\nThe Bank's top 10 exposures on the basis of total (funded and non-funded) exposures aggregated to Rs 1,050,494.038 million (2023: Rs 574,511.968 million).\n\n| |2024|2023|\n|---|---|---|\n|Funded|931,966,430|360,158,898|\n|Non-funded|118,527,608|214,353,070|\n|Total exposure|1,050,494,038|574,511,968|\n\n45.1.8.1 The sanctioned limits against these top 10 exposures aggregated to Rs 1,195,888.813 million (2023: Rs 682,802.632 million).\n\n45.1.8.2 All of the above exposures are performing.\n\n---",
+      "metadata": {
+        "chunk_number": 896,
+        "financial_data": "yes",
+        "financial_statement_scope": "unconsolidated",
+        "is_statement": "no",
+        "statement_type": "none",
+        "is_note": "yes",
+        "note_link": "balance_sheet",
+        "auditor_report": "no",
+        "director_report": "no",
+        "annual_report_discussion": "no",
+        "file_name": "Habib_Bank_Limited_Annual_2024_chunks.md",
+        "ticker": "HBL",
+        "entity_name": "Habib Bank Limited",
+        "filing_type": "annual",
+        "filing_period": [
+          "2024",
+          "2023"
+        ],
+        "source_file": "Habib_Bank_Limited_Annual_2024_chunks.md"
+      },
+      "score": 0.7300707205673153
+    }
+  ],
+  "client_version": "enhanced"
+}

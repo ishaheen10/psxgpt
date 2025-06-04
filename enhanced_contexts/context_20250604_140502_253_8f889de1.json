@@ -1,0 +1,277 @@
+{
+  "timestamp": "20250604_140502",
+  "query": "JSBL profit and loss annual 2024",
+  "query_hash": "8f889de1",
+  "metadata": {
+    "statement_type": "profit_and_loss",
+    "is_statement": "yes",
+    "is_note": "no",
+    "filing_type": "annual",
+    "financial_statement_scope": "consolidated"
+  },
+  "nodes": [
+    {
+      "node_id": "JS_Bank_Limited_Annual_2024_chunks_chunk_298",
+      "text": "--- Metadata Context ---\nentity_name: JS Bank Limited\nticker: JSBL\nfiling_type: annual\nfiling_period: 2024, 2023\nfinancial_data: yes\nfinancial_statement_scope: consolidated\nis_statement: yes\nstatement_type: profit_and_loss\nis_note: no\nauditor_report: no\ndirector_report: no\nannual_report_discussion: no\n--- End Context ---\n\n# JS BANK LIMITED\n\n# CONSOLIDATED STATEMENT OF PROFIT AND LOSS ACCOUNT\n\n# FOR THE YEAR ENDED DECEMBER 31, 2024\n\n(Restated)\n\n| |2024|2023| |2024|2023|\n|---|---|---|---|---|---|\n|--------------- USD in '000 ---------------| | |Note|--------------- Rupees in '000 ---------------| |\n|Mark-up / return / interest / profit earned|795,021|473,918|25|221,453,179|132,009,866|\n|Mark-up / return / interest / profit expensed|529,486|332,059|26|147,488,285|92,495,085|\n|Net mark-up / interest / profit|265,535|141,859| |73,964,894|39,514,781|\n|NON MARK-UP / INTEREST INCOME|NON MARK-UP / INTEREST INCOME|NON MARK-UP / INTEREST INCOME|NON MARK-UP / INTEREST INCOME|NON MARK-UP / INTEREST INCOME|NON MARK-UP / INTEREST INCOME|\n|Fee and commission income|32,247|21,280|27|8,982,540|5,927,547|\n|Dividend income|1,622|1,758| |451,838|489,582|\n|Foreign exchange income|16,621|21,081| |4,629,745|5,872,014|\n|Income / (loss) from derivatives|90|(59)| |24,937|(16,426)|\n|Gain on securities - net|5,369|1,381|28|1,495,476|384,782|\n|Net gains / (losses) on derecognition of financial assets measured at amortised cost|-|-| |-|-|\n|Share of profit / (loss) of associates|1,470|(218)|29|409,539|(60,643)|\n|Other income|1,037|2,172|29|288,837|605,011|\n|Total non mark-up / interest income|58,456|47,395| |16,282,912|13,201,867|\n|Total Income|323,991|189,254| |90,247,806|52,716,648|\n|NON MARK-UP / INTEREST EXPENSES|NON MARK-UP / INTEREST EXPENSES|NON MARK-UP / INTEREST EXPENSES|NON MARK-UP / INTEREST EXPENSES|NON MARK-UP / INTEREST EXPENSES|NON MARK-UP / INTEREST EXPENSES|\n|Operating expenses|184,348|111,182|30|51,350,253|30,969,655|\n|Workers' welfare fund|2,404|1,187|31|669,542|330,734|\n|Other charges|483|293|32|134,606|81,477|\n|Total non-mark-up / interest expenses|187,235|112,662| |52,154,401|31,381,866|\n|Profit before credit loss allowance|136,756|76,592| |38,093,405|21,334,782|\n|Credit loss allowance and write offs - net|26,617|21,613|33|7,414,240|6,020,259|\n|Bargain purchase gain on acquisition of subsidiary|-|12,076|1.4.3.7|-|3,363,805|\n|Profit before taxation|110,139|67,055| |30,679,165|18,678,328|\n|Taxation|62,176|29,803|34|17,319,093|8,301,497|\n|Profit after taxation|47,963|37,252| |13,360,072|10,376,831|\n|Attributable to:|Attributable to:|Attributable to:|Attributable to:|Attributable to:|Attributable to:|\n|Equity holders of the Bank|37,011|33,964| |10,309,369|9,460,636|\n|Non-controlling interest|10,952|3,288| |3,050,703|916,195|\n| |47,963|37,252| |13,360,072|10,376,831|\n|------------------ US Dollar ------------------| | | |------------------ Rupees ------------------| |\n|Earnings per share - basic and diluted|0.018|0.022|35|5.03|6.00|\n\nThe annexed notes 1 to 50 and annexures I and II form an integral part of these consolidated financial statements.\n\n___________________  ___________________  _____________     _____________         _____________\n\nPresident and Chief Executive Officer\n\nChief Financial Officer\n\nDirector\n\nDirector\n\nDirector\n\n---",
+      "metadata": {
+        "chunk_number": 298,
+        "financial_data": "yes",
+        "financial_statement_scope": "consolidated",
+        "is_statement": "yes",
+        "statement_type": "profit_and_loss",
+        "is_note": "no",
+        "note_link": "none",
+        "auditor_report": "no",
+        "director_report": "no",
+        "annual_report_discussion": "no",
+        "file_name": "JS_Bank_Limited_Annual_2024_chunks.md",
+        "ticker": "JSBL",
+        "entity_name": "JS Bank Limited",
+        "filing_type": "annual",
+        "filing_period": [
+          "2024",
+          "2023"
+        ],
+        "source_file": "JS_Bank_Limited_Annual_2024_chunks.md"
+      },
+      "score": 0.6993676475702805
+    },
+    {
+      "node_id": "JS_Bank_Limited_Annual_2024_chunks_chunk_633",
+      "text": "--- Metadata Context ---\nentity_name: JS Bank Limited\nticker: JSBL\nfiling_type: annual\nfiling_period: 2024, 2023\nfinancial_data: yes\nfinancial_statement_scope: consolidated\nis_statement: yes\nstatement_type: profit_and_loss\nis_note: no\nauditor_report: no\ndirector_report: no\nannual_report_discussion: no\n--- End Context ---\n\n# JS Investments Limited\n\n# Statement of Profit or Loss\n\n|Incone|2024|2023| |\n|---|---|---|---|\n|Remuneration from funds under management|629,135,058|268,000,007| |\n|Commission from funds under management|6,093,217|16,249,054| |\n|Profit from management and advisory client portfolio|201,063|595,107| |\n|Net unrealised gain or loss on remeasurement|534,431,337|275,845,762| |\n|Return on bank deposits|5,819,068|1,687,500| |\n|Return on debt security|8,827,279|5,310,001| |\n|Total Income|Total Income|20,552,535| |\n| | |310,285,878| |\n|Administrative expenses|(469,743,319)|(356,643,030)| |\n|Selling and distribution expenses|(36,130,706)|(27,067,045)| |\n|Operating profit|71,986,659|(71,914,189)| |\n|Finance charges|(31,730,685)|(25,680,905)| |\n|Total Income|Total Income|40,254,974| |\n|Other Income|7,064,407|23,316,192| |\n|Share of Profit from Associate|441,493,452|331,549,237| |\n|Profit before Income and Minimum Taxes|478,542,839|354,269,583| |\n|Taxation - Minimum Taxes|(24,776,741)|(12,941,005)| |\n|Total|Total|Profit before Income| |\n| |463,737,148|241,328,578| |\n|Tax Relief|(14,614,120)|(83,695,060)| |\n|Profit after taxation|448,923,024|310,024,438| |\n|For the year|For the year|47| |\n\nThe annexed notes form part of these financial statements.\n\n---",
+      "metadata": {
+        "chunk_number": 633,
+        "financial_data": "yes",
+        "financial_statement_scope": "consolidated",
+        "is_statement": "yes",
+        "statement_type": "profit_and_loss",
+        "is_note": "no",
+        "note_link": "none",
+        "auditor_report": "no",
+        "director_report": "no",
+        "annual_report_discussion": "no",
+        "file_name": "JS_Bank_Limited_Annual_2024_chunks.md",
+        "ticker": "JSBL",
+        "entity_name": "JS Bank Limited",
+        "filing_type": "annual",
+        "filing_period": [
+          "2024",
+          "2023"
+        ],
+        "source_file": "JS_Bank_Limited_Annual_2024_chunks.md"
+      },
+      "score": 0.6820654488505172
+    },
+    {
+      "node_id": "Askari_Bank_Limited_Annual_2024_chunks_chunk_394",
+      "text": "--- Metadata Context ---\nentity_name: Askari Bank Limited\nticker: AKBL\nfiling_type: annual\nfiling_period: 2024, 2023\nfinancial_data: yes\nfinancial_statement_scope: consolidated\nis_statement: yes\nstatement_type: profit_and_loss\nis_note: no\nauditor_report: no\ndirector_report: no\nannual_report_discussion: no\n--- End Context ---\n\n# CONSOLIDATED PROFIT AND LOSS ACCOUNT\n\n# FOR THE YEAR ENDED DECEMBER 31, 2024\n\n|Rupees in \u2018000|Note|2024|2023|\n|---|---|---|---|\n|Mark\u2013up / return / interest earned|27|401,257,754|305,634,875|\n|Mark\u2013up / return / interest expensed|28|337,603,215|246,184,226|\n|Net mark\u2013up / interest income| |63,654,539|59,450,649|\n|Non mark\u2013up / interest income| | | |\n|Fee and commission income|29|7,553,247|7,310,000|\n|Dividend income| |828,952|711,930|\n|Foreign exchange income| |4,079,139|3,896,622|\n|Income / (loss) from derivatives| |\u2013|\u2013|\n|Gain on securities|30|2,875,039|780,698|\n|Other income|31|692,012|564,383|\n|Total non\u2013markup / interest income| |16,028,389|13,263,633|\n|Total income| |79,682,928|72,714,282|\n|Non mark\u2013up / interest expenses| | | |\n|Operating expenses|32|35,990,556|28,786,370|\n|Workers\u2019 welfare fund| |550,236|533,110|\n|Other charges|33|72,041|245,543|\n|Total non\u2013markup / interest expenses| |36,612,833|29,565,023|\n|Profit before credit loss allowance / provisions| |43,070,095|43,149,259|\n|Credit loss allowance / provisions and write offs \u2013 net|34|(1,799,385)|966,361|\n|Other income / expense| |\u2013|\u2013|\n|Profit before taxation| |44,869,480|42,182,898|\n|Taxation|35|(23,612,925)|(20,642,489)|\n|Profit after taxation| |21,256,555|21,540,409|\n|Profit attributable to| | | |\n|Non\u2013controlling interest| |118,861|51,817|\n|Equity holders of the Bank| |21,137,694|21,488,592|\n| | |21,256,555|21,540,409|\n|(Rupees)| | | |\n|Basic and diluted earnings per share|36|14.58|14.83|\n\nThe annexed notes 1 to 50 and Annexures I and II form an integral part of these consolidated financial statements.\n\nChief Financial Officer President & CEO Director Director Chairman\n\nAskari Bank Limited\n---\n\n---",
+      "metadata": {
+        "chunk_number": 394,
+        "financial_data": "yes",
+        "financial_statement_scope": "consolidated",
+        "is_statement": "yes",
+        "statement_type": "profit_and_loss",
+        "is_note": "no",
+        "note_link": "none",
+        "auditor_report": "no",
+        "director_report": "no",
+        "annual_report_discussion": "no",
+        "file_name": "Askari_Bank_Limited_Annual_2024_chunks.md",
+        "ticker": "AKBL",
+        "entity_name": "Askari Bank Limited",
+        "filing_type": "annual",
+        "filing_period": [
+          "2024",
+          "2023"
+        ],
+        "source_file": "Askari_Bank_Limited_Annual_2024_chunks.md"
+      },
+      "score": 0.6161642806208169
+    },
+    {
+      "node_id": "United_Bank_Limited_Annual_2024_chunks_chunk_327",
+      "text": "--- Metadata Context ---\nentity_name: United Bank Limited\nticker: UBL\nfiling_type: annual\nfiling_period: 2024, 2023\nfinancial_data: yes\nfinancial_statement_scope: consolidated\nis_statement: yes\nstatement_type: profit_and_loss\nis_note: no\nauditor_report: no\ndirector_report: no\nannual_report_discussion: no\n--- End Context ---\n\n# Consolidated Profit and Loss Account\n\n# For the year ended December 31, 2024\n\n|Note|2024|2023|\n|---|---|---|\n|Mark-up / return / interest earned|1,084,641,497|535,211,524|\n|Mark-up / return / interest expensed|911,093,616|386,236,455|\n|Net mark-up / interest income|173,547,881|148,975,069|\n|Non mark-up / interest income| | |\n|Fee and commission income|21,535,329|19,751,084|\n|Dividend income|1,741,707|1,614,470|\n|Foreign exchange income|12,559,992|12,715,845|\n|Gain / (Loss) on derivatives|1,230,801|(65,266)|\n|Gain on securities - net|42,592,701|532,782|\n|Capital gain on derecognition of financial assets measured at amortised cost|2,894,427|-|\n|Other income|1,139,575|1,523,109|\n|Total non mark-up / interest income|83,694,532|36,072,024|\n|Total income|257,242,413|185,047,093|\n|Non mark-up / interest expenses| | |\n|Operating expenses|97,104,258|70,093,696|\n|Workers' Welfare Fund|3,145,755|2,158,813|\n|Other charges|75,270|240,326|\n|Total non mark-up / interest expenses|100,325,283|72,492,835|\n|Share of gain / (loss) of associates|895,183|(989,536)|\n|Profit before credit loss allowance|157,812,313|111,564,722|\n|Credit loss allowance / provisions and write-offs - net|12,775,474|980,157|\n|Profit before taxation from continuing operations|145,036,839|110,584,565|\n|Taxation|70,198,005|54,113,644|\n|Profit after taxation from continuing operations|74,838,834|56,470,921|\n|Discontinued operations| | |\n|Profit from discontinued operations - net of tax|938,610|-|\n|Attributable to:| | |\n|Equity holders of the Bank|75,777,444|56,470,921|\n|from continuing operations|74,823,735|55,145,075|\n|from discontinued operations|332,118|-|\n|Non-controlling interest|75,155,853|55,145,075|\n|from continuing operations|15,099|1,325,846|\n|from discontinued operation|606,492|-|\n|Total comprehensive income for the year|108,717,256|108,095,869|\n|Earnings per share for profit from continuing operations attributable to the equity holders of the Bank|61.12|45.05|\n|Earnings per share for profit attributable to the equity holders of the Bank|61.39|45.05|\n\nThe annexed notes 1 to 53 and annexures I, II and III form an integral part of these consolidated financial statements.\n\nSyed Manzoor Hussain Zaidi Chief Financial Officer\n\nMuhammad Jawaid Iqbal President & Chief Executive Officer\n\nShazia Syed Director\n\nDaniel Michael Howlett Director\n\nSir Mohammed Anwar Pervez, OBE, HPk Chairman\n\n---",
+      "metadata": {
+        "chunk_number": 327,
+        "financial_data": "yes",
+        "financial_statement_scope": "consolidated",
+        "is_statement": "yes",
+        "statement_type": "profit_and_loss",
+        "is_note": "no",
+        "note_link": "none",
+        "auditor_report": "no",
+        "director_report": "no",
+        "annual_report_discussion": "no",
+        "file_name": "United_Bank_Limited_Annual_2024_chunks.md",
+        "ticker": "UBL",
+        "entity_name": "United Bank Limited",
+        "filing_type": "annual",
+        "filing_period": [
+          "2024",
+          "2023"
+        ],
+        "source_file": "United_Bank_Limited_Annual_2024_chunks.md"
+      },
+      "score": 0.6126165717349478
+    },
+    {
+      "node_id": "Habib_Bank_Limited_Annual_2024_chunks_chunk_152",
+      "text": "--- Metadata Context ---\nentity_name: Habib Bank Limited\nticker: HBL\nfiling_type: annual\nfiling_period: 2024, 2023\nfinancial_data: yes\nfinancial_statement_scope: consolidated\nis_statement: yes\nstatement_type: profit_and_loss\nis_note: no\nauditor_report: no\ndirector_report: no\nannual_report_discussion: no\n--- End Context ---\n\n# CONSOLIDATED PROFIT AND LOSS ACCOUNT\n\n# HABIB BANK LIMITED\n\n# CONSOLIDATED STATEMENT OF PROFIT AND LOSS ACCOUNT FOR THE YEAR ENDED DECEMBER 31, 2024\n\n|2024|2023|Note|2024|2023| | | | | |\n|---|---|---|---|---|---|---|---|---|---|\n|(US $ in '000)| | |(Rupees in '000)| | | | | | |\n|2,919,376|2,557,333|Mark-up / return / profit / interest earned|25|813,192,081|712,345,078| | | | |\n|2,037,587|1,688,070|Mark-up / return / profit / interest expensed|26|567,569,845|470,212,037| | | | |\n|881,789|869,263|Net mark-up / return / profit / interest income| |245,622,236|242,133,041| | | | |\n| | |Non mark-up / interest income| | | | | | | |\n|177,788|151,679|Fee and commission income|27|49,522,881|42,250,183| | | | |\n|11,066|8,261|Dividend income| |3,082,420|2,300,969| | | | |\n|17,099|15,878|Share of profit of associates and joint venture| |4,763,000|4,422,695| | | | |\n|28,349|16,529|Foreign exchange income| |7,896,530|4,604,262| | | | |\n|20,719|(5,548)|Income / (loss) from derivatives| |5,771,367|(1,545,453)| | | | |\n|37,561|3,396|Gain on securities - net|28|10,462,735|945,981| | | | |\n|53,898|16,056|Other income|29|15,013,202|4,472,468| | | | |\n|346,480|206,251|Total non mark-up / interest income| |96,512,135|57,451,105| | | | |\n|1,228,269|1,075,514|Total income| |342,134,371|299,584,146| | | | |\n| | |Non mark-up / interest expenses| | | | | | | |\n|690,987|610,770|Operating expenses|30|192,474,447|170,130,095| | | | |\n|8,489|8,194|Workers' Welfare Fund|31|2,364,597|2,282,323| | | | |\n|1,282|1,274|Other charges|32|357,160|354,953| | | | |\n|700,758|620,238|Total non mark-up / interest expenses| |195,196,204|172,767,371| | | | |\n|527,511|455,276|Profit before credit loss allowance and taxation| |146,938,167|126,816,775| | | | |\n|95,508|47,624|Credit loss allowance and write offs - net|33|26,603,787|13,265,779| | | | |\n|432,003|407,652|Profit before taxation| |120,334,380|113,550,996| | | | |\n|224,483|200,300|Taxation|34|62,529,721|55,793,580| | | | |\n|207,520|207,352|Profit after taxation| |57,804,659|57,757,416| | | | |\n| | |Attributable to:| | | | | | | |\n|209,865|207,060|Equity holders of the Bank| |58,457,771|57,676,040| | | | |\n|(2,345)|292|Non-controlling interest| |(653,112)|81,376| | | | |\n|207,520|207,352| | |57,804,659|57,757,416| | | | |\n|--------------Rupees--------------|--------------Rupees--------------|--------------Rupees--------------|--------------Rupees--------------|--------------Rupees--------------| | | | | |\n|Basic and diluted earnings per share|35|39.85|39.32| | | | | | |\n\nThe annexed notes 1 to 48 and annexures I to III form an integral part of these consolidated financial statements.\n\nPresident and Chief Executive Officer\n\nMuhammad Nassir Salim\n\nChief Financial Officer\n\nRayomond Kotwal\n\nDirector\n\nKhaleel Ahmed\n\nDirector\n\nMoez Ahamed Jamal\n\nDirector\n\nDr. Najeeb Samie\n\n---",
+      "metadata": {
+        "chunk_number": 152,
+        "financial_data": "yes",
+        "financial_statement_scope": "consolidated",
+        "is_statement": "yes",
+        "statement_type": "profit_and_loss",
+        "is_note": "no",
+        "note_link": "none",
+        "auditor_report": "no",
+        "director_report": "no",
+        "annual_report_discussion": "no",
+        "file_name": "Habib_Bank_Limited_Annual_2024_chunks.md",
+        "ticker": "HBL",
+        "entity_name": "Habib Bank Limited",
+        "filing_type": "annual",
+        "filing_period": [
+          "2024",
+          "2023"
+        ],
+        "source_file": "Habib_Bank_Limited_Annual_2024_chunks.md"
+      },
+      "score": 0.6092102219854598
+    },
+    {
+      "node_id": "United_Bank_Limited_Annual_2024_chunks_chunk_539",
+      "text": "--- Metadata Context ---\nentity_name: United Bank Limited\nticker: UBL\nfiling_type: annual\nfiling_period: 2024, 2023\nfinancial_data: yes\nfinancial_statement_scope: consolidated\nis_statement: yes\nstatement_type: profit_and_loss\nis_note: no\nauditor_report: no\ndirector_report: no\nannual_report_discussion: no\n--- End Context ---\n\n# Consolidated Profit and Loss Account in USD\n\n# For the year ended December 31, 2024\n\n|Particulars|2024|2023|\n|---|---|---|\n|Mark-up / return / interest earned|------------ (US Dollars in \u2018000) ---------|------------ (US Dollars in \u2018000) ---------|\n|Mark-up / return / interest expensed|3,893,884|1,898,851|\n|Net mark-up / interest income|623,040|528,541|\n|Non mark-up / interest income| | |\n|Fee and commission income|77,312|70,074|\n|Dividend income|6,253|5,728|\n|Foreign exchange income|45,091|45,114|\n|Gain / (Loss) on derivatives|4,419|(232)|\n|Gain on securities - net|152,909|1,890|\n|Capital gain on derecognition of financial assets measured at amortised cost|10,391|-|\n|Other income|4,089|5,404|\n|Total non mark-up / interest income|300,464|127,978|\n|Total income|923,504|656,519|\n|Non mark-up / interest expenses| | |\n|Operating expenses|348,606|248,682|\n|Workers' Welfare Fund|11,293|7,659|\n|Other charges|270|853|\n|Total non mark-up / interest expenses|360,169|257,194|\n|Share of gain / (loss) of associates|3,214|(3,511)|\n|Profit before credit loss allowance|566,549|395,814|\n|Credit loss allowance / provisions and write-offs - net|45,864|3,477|\n|Profit before taxation from continuing operations|520,685|392,337|\n|Taxation|252,012|191,987|\n|Profit after taxation from continuing operations|268,673|200,350|\n|Discontinued operations| | |\n|Profit from discontinued operations - net of tax|3,370|-|\n|Total|272,043|200,350|\n|Attributable to:| | |\n|Equity holders of the Bank| | |\n|from continuing operations|268,620|195,646|\n|from discontinued operations|1,192|-|\n|Total|269,812|195,646|\n|Non-controlling interest| | |\n|from continuing operations|54|4,704|\n|from discontinued operation|2,177|-|\n|Total|2,231|4,704|\n|Total|272,043|200,350|\n\n---",
+      "metadata": {
+        "chunk_number": 539,
+        "financial_data": "yes",
+        "financial_statement_scope": "consolidated",
+        "is_statement": "yes",
+        "statement_type": "profit_and_loss",
+        "is_note": "no",
+        "note_link": "none",
+        "auditor_report": "no",
+        "director_report": "no",
+        "annual_report_discussion": "no",
+        "file_name": "United_Bank_Limited_Annual_2024_chunks.md",
+        "ticker": "UBL",
+        "entity_name": "United Bank Limited",
+        "filing_type": "annual",
+        "filing_period": [
+          "2024",
+          "2023"
+        ],
+        "source_file": "United_Bank_Limited_Annual_2024_chunks.md"
+      },
+      "score": 0.6090613185033433
+    },
+    {
+      "node_id": "Meezan_Bank_Limited_Annual_2024_chunks_chunk_744",
+      "text": "--- Metadata Context ---\nentity_name: Meezan Bank Limited\nticker: MEBL\nfiling_type: annual\nfiling_period: 2024, 2023\nfinancial_data: yes\nfinancial_statement_scope: consolidated\nis_statement: yes\nstatement_type: profit_and_loss\nis_note: no\nauditor_report: no\ndirector_report: no\nannual_report_discussion: no\n--- End Context ---\n\n# Consolidated Statement of Profit and Loss Account\n\n# For The Year Ended December 31, 2024\n\n| |Note|2024|2023|\n|---|---|---|---|\n| | |Rupees in \u2018000| |\n|Profit / return earned on Islamic financing and related assets, investments and placements|28|494,310,357|431,820,608|\n|Profit / return on deposits and other dues expensed|29|207,267,225|205,327,453|\n|Net profit / return| |287,043,132|226,493,155|\n\n---",
+      "metadata": {
+        "chunk_number": 744,
+        "financial_data": "yes",
+        "financial_statement_scope": "consolidated",
+        "is_statement": "yes",
+        "statement_type": "profit_and_loss",
+        "is_note": "no",
+        "note_link": "none",
+        "auditor_report": "no",
+        "director_report": "no",
+        "annual_report_discussion": "no",
+        "file_name": "Meezan_Bank_Limited_Annual_2024_chunks.md",
+        "ticker": "MEBL",
+        "entity_name": "Meezan Bank Limited",
+        "filing_type": "annual",
+        "filing_period": [
+          "2024",
+          "2023"
+        ],
+        "source_file": "Meezan_Bank_Limited_Annual_2024_chunks.md"
+      },
+      "score": 0.6072187208641252
+    },
+    {
+      "node_id": "MCB_Bank_Limited_Annual_2024_chunks_chunk_962",
+      "text": "--- Metadata Context ---\nentity_name: MCB Bank Limited\nticker: MCB\nfiling_type: annual\nfiling_period: 2024, 2023\nfinancial_data: yes\nfinancial_statement_scope: consolidated\nis_statement: yes\nstatement_type: profit_and_loss\nis_note: no\nauditor_report: no\ndirector_report: no\nannual_report_discussion: no\n--- End Context ---\n\n# Consolidated Statement of Profit and Loss Account\n\n# For the year ended December 31, 2024\n\n|Note|2024 (Rupees in '000)|2023 (Rupees in '000)|\n|---|---|---|\n|Mark\u2013up / return / interest earned|413,551,319|364,448,721|\n|Mark\u2013up / return / interest expensed|245,603,966|199,026,667|\n|Net mark\u2013up / interest income|167,947,353|165,422,054|\n|NON MARK\u2013UP / INTEREST INCOME|NON MARK\u2013UP / INTEREST INCOME|NON MARK\u2013UP / INTEREST INCOME|\n|Fee and commission income|24,784,627|22,460,483|\n|Dividend income|2,929,796|2,510,757|\n|Foreign exchange income|9,613,683|9,197,358|\n|Income from derivatives|1,982|15,837|\n|Gain on securities \u2013 net|3,466,555|837,442|\n|Net gains / (losses) on derecognition of financial assets measured at amortised cost|\u2013|\u2013|\n|Other income|443,544|375,874|\n|Total non\u2013markup / interest income|41,240,187|35,397,751|\n|Total income|209,187,540|200,819,805|\n|NON MARK\u2013UP / INTEREST EXPENSES|NON MARK\u2013UP / INTEREST EXPENSES|NON MARK\u2013UP / INTEREST EXPENSES|\n|Operating expenses|72,527,182|60,127,915|\n|Workers Welfare Fund|2,599,084|2,744,424|\n|Other charges|447,184|701,754|\n|Total non\u2013markup / interest expenses|75,573,450|63,574,093|\n|Share of profit of associates|2,441,139|1,348,508|\n|Profit before credit loss allowance|136,055,229|138,594,220|\n|Credit loss allowance and write offs \u2013 net|4,878,210|1,075,258|\n|PROFIT BEFORE TAXATION|131,177,019|137,518,962|\n|Taxation|67,711,345|72,247,962|\n|PROFIT AFTER TAXATION|63,465,674|65,271,000|\n|Attributable to:| | |\n|Equity shareholders of the Bank|63,225,058|65,104,619|\n|Non\u2013controlling interest|240,616|166,381|\n| |63,465,674|65,271,000|\n|Basic and diluted earnings per share attributable to ordinary shareholders|53.35|54.94|\n\nThe annexed notes 1 to 51 and annexure I form an integral part of these consolidated financial statements.\n\nHammad Khalid              Muhammad Nauman  Mian Umer Mansha  Shahzad Hussain     Muhammad Ali Zeb Chughtai\n\nChief Financial Officer President/Chief Executive Director          Director            Director\n\nAnnual Report 2024        437\n\n---",
+      "metadata": {
+        "chunk_number": 962,
+        "financial_data": "yes",
+        "financial_statement_scope": "consolidated",
+        "is_statement": "yes",
+        "statement_type": "profit_and_loss",
+        "is_note": "no",
+        "note_link": "none",
+        "auditor_report": "no",
+        "director_report": "no",
+        "annual_report_discussion": "no",
+        "file_name": "MCB_Bank_Limited_Annual_2024_chunks.md",
+        "ticker": "MCB",
+        "entity_name": "MCB Bank Limited",
+        "filing_type": "annual",
+        "filing_period": [
+          "2024",
+          "2023"
+        ],
+        "source_file": "MCB_Bank_Limited_Annual_2024_chunks.md"
+      },
+      "score": 0.5997685311697981
+    },
+    {
+      "node_id": "National_Bank_of_Pakistan_Annual_2024_chunks_chunk_548",
+      "text": "--- Metadata Context ---\nentity_name: National Bank of Pakistan\nticker: NBP\nfiling_type: annual\nfiling_period: 2024, 2023\nfinancial_data: yes\nfinancial_statement_scope: consolidated\nis_statement: yes\nstatement_type: profit_and_loss\nis_note: no\nauditor_report: no\ndirector_report: no\nannual_report_discussion: no\n--- End Context ---\n\n# NOTES TO AND FORMING PART OF THE CONSOLIDATED FINANCIAL STATEMENTS\n\n# CONSOLIDATED STATEMENT OF PROFIT AND LOSS ACCOUNT\n\n# FOR THE YEAR ENDED DECEMBER 31, 2024\n\n|(USD in '000)|(Rupees in '000)|Note|\n|---|---|---|\n|3,912,730|1,089,890,938|Mark-up / return / interest earned|\n|3,297,262|918,452,244|Mark-up / return / interest expensed|\n|615,468|171,438,694|Net mark-up / interest income|\n|104,725|29,171,163|Fee and commission income|\n|21,175|5,898,270|Dividend income|\n|21,228|5,913,142|Foreign exchange income|\n|-|-|Income / (loss) from derivatives|\n|101,221|28,195,070|Gain on securities|\n|-|-|Net loss on derecognition of financial assets|\n|(2,378)|(662,486)|measured at amortised cost|\n|2,171|604,843|Share of profit from joint venture - net of tax|\n|1,718|478,612|Share of profit from associates - net of tax|\n|2,602|724,806|Other income|\n|252,462|70,323,420|Total non-markup / interest income|\n|867,930|241,762,114|Total income|\n|646,536|180,092,705|Operating expenses|\n|-|-|Workers' welfare fund|\n|165|46,026|Other charges|\n|646,701|180,138,731|Total non-markup / interest expenses|\n|221,229|61,623,383|Profit before credit loss allowance / provisions|\n|16,167|4,503,223|Credit loss allowance / provisions and write offs - net|\n|205,062|57,120,160|PROFIT BEFORE TAXATION|\n|109,917|30,617,455|Taxation|\n|95,145|26,502,705|PROFIT AFTER TAXATION|\n|93,287|25,985,128|Attributable to: Equity holders of the Bank|\n|1,858|517,577|Non-controlling interest|\n|95,145|26,502,705| |\n|0.04|12.21|Basic earnings per share|\n|0.04|12.21|Diluted earnings per share|\n\nThe annexed notes 1 to 52 and annexures I and II form an integral part of these consolidated financial statements.\n\nAshraf Mahmood Wathra\n\nRehmat Ali Hasnie\n\nAbdul Wahid Sethi\n\nNasim Ahmad\n\nAli Syed\n\nChairman\n\nPresident & CEO\n\nChief Financial Officer\n\nDirector\n\nDirector\n\n---",
+      "metadata": {
+        "chunk_number": 548,
+        "financial_data": "yes",
+        "financial_statement_scope": "consolidated",
+        "is_statement": "yes",
+        "statement_type": "profit_and_loss",
+        "is_note": "no",
+        "note_link": "none",
+        "auditor_report": "no",
+        "director_report": "no",
+        "annual_report_discussion": "no",
+        "file_name": "National_Bank_of_Pakistan_Annual_2024_chunks.md",
+        "ticker": "NBP",
+        "entity_name": "National Bank of Pakistan",
+        "filing_type": "annual",
+        "filing_period": [
+          "2024",
+          "2023"
+        ],
+        "source_file": "National_Bank_of_Pakistan_Annual_2024_chunks.md"
+      },
+      "score": 0.598903064339594
+    },
+    {
+      "node_id": "Allied_Bank_Limited_Annual_2024_chunks_chunk_199",
+      "text": "--- Metadata Context ---\nentity_name: Allied Bank Limited\nticker: ABL\nfiling_type: annual\nfiling_period: 2024, 2023\nfinancial_data: yes\nfinancial_statement_scope: consolidated\nis_statement: yes\nstatement_type: profit_and_loss\nis_note: no\nauditor_report: no\ndirector_report: no\nannual_report_discussion: no\n--- End Context ---\n\n# Profit and Loss Account\n\n|Item| | | |2024| |2023| |2022|2021| |2020| | |2019| |\n|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|\n|Interest / Return / Non Interest Income earned| | | |376,760| |357,307| |215,469| |118,649| |110,547| |122,637| |\n| | | |Fee, Commission & Brokerage|14,081| |10,641| |8,147| |6,811| |5,441| |5,092| |\n| | | |Foreign Exchange Income|6,679| |9,167| |7,948| |1,973| |1,664| |1,992| |\n| | | |Gain on securities and Dividend income|6,462| |4,388| |4,487| |6,485| |5,076| |3,404| |\n| | | |Other income|758| |231| |93| |669| |362| |403| |\n| | | |Total Income|404,740|100%|381,734|100%|236,144|100%|134,587|100%|123,090|100%|133,528|100%|\n\n---",
+      "metadata": {
+        "chunk_number": 199,
+        "financial_data": "yes",
+        "financial_statement_scope": "consolidated",
+        "is_statement": "yes",
+        "statement_type": "profit_and_loss",
+        "is_note": "no",
+        "note_link": "none",
+        "auditor_report": "no",
+        "director_report": "no",
+        "annual_report_discussion": "no",
+        "file_name": "Allied_Bank_Limited_Annual_2024_chunks.md",
+        "ticker": "ABL",
+        "entity_name": "Allied Bank Limited",
+        "filing_type": "annual",
+        "filing_period": [
+          "2024",
+          "2023"
+        ],
+        "source_file": "Allied_Bank_Limited_Annual_2024_chunks.md"
+      },
+      "score": 0.5961733859217838
+    }
+  ],
+  "node_count": 10,
+  "server_version": "enhanced",
+  "save_time": "2025-06-04T14:05:02.253198"
+}

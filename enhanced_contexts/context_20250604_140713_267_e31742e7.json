@@ -1,0 +1,276 @@
+{
+  "timestamp": "20250604_140713",
+  "query": "JSBL lending exposure 2023",
+  "query_hash": "e31742e7",
+  "metadata": {
+    "is_statement": "no",
+    "is_note": "yes",
+    "note_link": "balance_sheet",
+    "filing_type": "annual"
+  },
+  "nodes": [
+    {
+      "node_id": "JS_Bank_Limited_Annual_2024_chunks_chunk_258",
+      "text": "--- Metadata Context ---\nentity_name: JS Bank Limited\nticker: JSBL\nfiling_type: annual\nfiling_period: 2024, 2023\nfinancial_data: yes\nfinancial_statement_scope: unconsolidated\nis_statement: no\nis_note: yes\nnote_link: balance_sheet\nauditor_report: no\ndirector_report: no\nannual_report_discussion: no\n--- End Context ---\n\n# 46.1.7 Concentration of Advances\n\nThe Bank's top 10 exposures on the basis of total (funded and non-funded exposures) aggregated to Rs. 111,459.037 million (2023: Rs. 68,633.786 million) are as following:\n\n| |2024|2023|\n|---|---|---|\n|Funded|75,066,413|36,721,558|\n|Non Funded|36,392,624|31,912,228|\n|Total Exposure|111,459,037|68,633,786|\n\n---",
+      "metadata": {
+        "chunk_number": 258,
+        "financial_data": "yes",
+        "financial_statement_scope": "unconsolidated",
+        "is_statement": "no",
+        "statement_type": "none",
+        "is_note": "yes",
+        "note_link": "balance_sheet",
+        "auditor_report": "no",
+        "director_report": "no",
+        "annual_report_discussion": "no",
+        "file_name": "JS_Bank_Limited_Annual_2024_chunks.md",
+        "ticker": "JSBL",
+        "entity_name": "JS Bank Limited",
+        "filing_type": "annual",
+        "filing_period": [
+          "2024",
+          "2023"
+        ],
+        "source_file": "JS_Bank_Limited_Annual_2024_chunks.md"
+      },
+      "score": 0.7662038260735812
+    },
+    {
+      "node_id": "JS_Bank_Limited_Annual_2024_chunks_chunk_583",
+      "text": "--- Metadata Context ---\nentity_name: JS Bank Limited\nticker: JSBL\nfiling_type: annual\nfiling_period: 2024, 2023\nfinancial_data: yes\nfinancial_statement_scope: consolidated\nis_statement: no\nis_note: yes\nnote_link: balance_sheet\nauditor_report: no\ndirector_report: no\nannual_report_discussion: no\n--- End Context ---\n\n# Concentration of Advances\n\nThe Bank's top 10 exposures on the basis of total (funded and non-funded exposures) aggregated to Rs. 111,459.037 million (2023: Rs. 68,633.79 million) are as following:\n\n|Note|Funded|Non Funded|Total Exposure|\n|---|---|---|---|\n|47.1.7.1|75,066,413|36,392,624|111,459,037|\n|47.1.7.2|36,392,624|31,912,228|68,633,786|\n\nNone of the exposure against these are classified.\n\nThe sanctioned limits against these top 10 exposures aggregated to Rs. 71,999.525 million (2023: Rs. 70,850.560 million).\n\n---",
+      "metadata": {
+        "chunk_number": 583,
+        "financial_data": "yes",
+        "financial_statement_scope": "consolidated",
+        "is_statement": "no",
+        "statement_type": "none",
+        "is_note": "yes",
+        "note_link": "balance_sheet",
+        "auditor_report": "no",
+        "director_report": "no",
+        "annual_report_discussion": "no",
+        "file_name": "JS_Bank_Limited_Annual_2024_chunks.md",
+        "ticker": "JSBL",
+        "entity_name": "JS Bank Limited",
+        "filing_type": "annual",
+        "filing_period": [
+          "2024",
+          "2023"
+        ],
+        "source_file": "JS_Bank_Limited_Annual_2024_chunks.md"
+      },
+      "score": 0.7587234828592433
+    },
+    {
+      "node_id": "JS_Bank_Limited_Annual_2024_chunks_chunk_259",
+      "text": "--- Metadata Context ---\nentity_name: JS Bank Limited\nticker: JSBL\nfiling_type: annual\nfiling_period: 2024, 2023\nfinancial_data: yes\nfinancial_statement_scope: unconsolidated\nis_statement: no\nis_note: yes\nnote_link: balance_sheet\nauditor_report: no\ndirector_report: no\nannual_report_discussion: no\n--- End Context ---\n\n# 46.1.7.1 The sanctioned limits against these top 10 exposures aggregated to Rs. 71,999.525 million (2023: Rs. 70,850.560 million).\n\nTotal funded classified therein\n\n| |2024| |2023| |\n|---|---|---|---|---|\n|Amount|Credit loss allowance held| |Amount|Credit loss allowance held|\n|OAEM|-|-|-|-|\n|Substandard|-|-|-|-|\n|Doubtful|-|-|-|-|\n|Loss|-|-|-|-|\n|Total|-|-|-|-|\n\n---",
+      "metadata": {
+        "chunk_number": 259,
+        "financial_data": "yes",
+        "financial_statement_scope": "unconsolidated",
+        "is_statement": "no",
+        "statement_type": "none",
+        "is_note": "yes",
+        "note_link": "balance_sheet",
+        "auditor_report": "no",
+        "director_report": "no",
+        "annual_report_discussion": "no",
+        "file_name": "JS_Bank_Limited_Annual_2024_chunks.md",
+        "ticker": "JSBL",
+        "entity_name": "JS Bank Limited",
+        "filing_type": "annual",
+        "filing_period": [
+          "2024",
+          "2023"
+        ],
+        "source_file": "JS_Bank_Limited_Annual_2024_chunks.md"
+      },
+      "score": 0.7273538869618906
+    },
+    {
+      "node_id": "JS_Bank_Limited_Annual_2024_chunks_chunk_579",
+      "text": "--- Metadata Context ---\nentity_name: JS Bank Limited\nticker: JSBL\nfiling_type: annual\nfiling_period: 2024, 2023\nfinancial_data: yes\nfinancial_statement_scope: consolidated\nis_statement: no\nis_note: yes\nnote_link: balance_sheet\nauditor_report: no\ndirector_report: no\nannual_report_discussion: no\n--- End Context ---\n\n# 47.1.3 Lendings to financial institutions\n\n|Credit risk by public/ private sector|Public / Government|Private| | | |\n|---|---|---|---|---|---|\n|2024|2023|2024|2023| | |\n|Lendings| |-|-|4,272,508|16,519,958|\n|Non-performing Lendings| |-|-|14,580|17,820|\n|Credit loss allowance / provision held| |-|-|17,820|17,820|\n\n---",
+      "metadata": {
+        "chunk_number": 579,
+        "financial_data": "yes",
+        "financial_statement_scope": "consolidated",
+        "is_statement": "no",
+        "statement_type": "none",
+        "is_note": "yes",
+        "note_link": "balance_sheet",
+        "auditor_report": "no",
+        "director_report": "no",
+        "annual_report_discussion": "no",
+        "file_name": "JS_Bank_Limited_Annual_2024_chunks.md",
+        "ticker": "JSBL",
+        "entity_name": "JS Bank Limited",
+        "filing_type": "annual",
+        "filing_period": [
+          "2024",
+          "2023"
+        ],
+        "source_file": "JS_Bank_Limited_Annual_2024_chunks.md"
+      },
+      "score": 0.7171032133727614
+    },
+    {
+      "node_id": "JS_Bank_Limited_Annual_2024_chunks_chunk_179",
+      "text": "--- Metadata Context ---\nentity_name: JS Bank Limited\nticker: JSBL\nfiling_type: annual\nfiling_period: 2024, 2023\nfinancial_data: yes\nfinancial_statement_scope: unconsolidated\nis_statement: no\nis_note: yes\nnote_link: balance_sheet\nauditor_report: no\ndirector_report: no\nannual_report_discussion: no\n--- End Context ---\n\n# 17.2 This carries average effective rate of 15.73% per annum (2023: 13.23%)\n\n# 18. SUBORDINATED DEBT\n\n|Term Finance Certificates - Fifth Issue|3,498,833|3,499,767|\n|---|---|---|\n|Term Finance Certificates - Fourth Issue|2,497,000|2,498,000|\n|Term Finance Certificates - Third Issue|2,500,000|2,500,000|\n| |8,495,833|8,497,767|\n\n---",
+      "metadata": {
+        "chunk_number": 179,
+        "financial_data": "yes",
+        "financial_statement_scope": "unconsolidated",
+        "is_statement": "no",
+        "statement_type": "none",
+        "is_note": "yes",
+        "note_link": "balance_sheet",
+        "auditor_report": "no",
+        "director_report": "no",
+        "annual_report_discussion": "no",
+        "file_name": "JS_Bank_Limited_Annual_2024_chunks.md",
+        "ticker": "JSBL",
+        "entity_name": "JS Bank Limited",
+        "filing_type": "annual",
+        "filing_period": [
+          "2024",
+          "2023"
+        ],
+        "source_file": "JS_Bank_Limited_Annual_2024_chunks.md"
+      },
+      "score": 0.7113919849629771
+    },
+    {
+      "node_id": "JS_Bank_Limited_Annual_2024_chunks_chunk_421",
+      "text": "--- Metadata Context ---\nentity_name: JS Bank Limited\nticker: JSBL\nfiling_type: annual\nfiling_period: 2024, 2023\nfinancial_data: yes\nfinancial_statement_scope: consolidated\nis_statement: no\nis_note: yes\nnote_link: balance_sheet\nauditor_report: no\ndirector_report: no\nannual_report_discussion: no\n--- End Context ---\n\n# 7. LENDINGS TO FINANCIAL INSTITUTIONS\n\nNote\n\n| | | |--------------- Rupees in '000 ---------------|\n|---|---|---|---|\n|Unsecured| | | |\n|Bai Muajjal Receivable|7.2|4,257,928|16,502,138|\n|Other placements| |14,580|17,820|\n| | |4,272,508|16,519,958|\n|Less: provision held against lendings|7.3|(14,580)|(17,820)|\n| | |4,257,928|16,502,138|\n\n# 7.1\n\nParticulars of lendings - gross\n\nIn local currency\n\n4,272,508\n\nIn foreign currencies\n\n-\n\n4,272,508\n\n7.2 The average return on this product is 19.6% (2023: 22.05% to 22.35%) per annum. The balance has maturity in 24 days (2023: 6 days to 110 days).\n\n---",
+      "metadata": {
+        "chunk_number": 421,
+        "financial_data": "yes",
+        "financial_statement_scope": "consolidated",
+        "is_statement": "no",
+        "statement_type": "none",
+        "is_note": "yes",
+        "note_link": "balance_sheet",
+        "auditor_report": "no",
+        "director_report": "no",
+        "annual_report_discussion": "no",
+        "file_name": "JS_Bank_Limited_Annual_2024_chunks.md",
+        "ticker": "JSBL",
+        "entity_name": "JS Bank Limited",
+        "filing_type": "annual",
+        "filing_period": [
+          "2024",
+          "2023"
+        ],
+        "source_file": "JS_Bank_Limited_Annual_2024_chunks.md"
+      },
+      "score": 0.709653132493901
+    },
+    {
+      "node_id": "JS_Bank_Limited_Annual_2024_chunks_chunk_169",
+      "text": "--- Metadata Context ---\nentity_name: JS Bank Limited\nticker: JSBL\nfiling_type: annual\nfiling_period: 2024, 2023\nfinancial_data: yes\nfinancial_statement_scope: unconsolidated\nis_statement: no\nis_note: yes\nnote_link: balance_sheet\nauditor_report: no\ndirector_report: no\nannual_report_discussion: no\n--- End Context ---\n\n# 15.2\n\nThese borrowings have been obtained from the SBP for providing financing facilities to exporters for adoption of new technologies and modernization of their plant and machinery. These borrowings have maturities upto February 2033. These carry mark-up rates ranging from 2.00% to 11.00% (2023: 2.00% to 11.00%) per annum.\n\n---",
+      "metadata": {
+        "chunk_number": 169,
+        "financial_data": "yes",
+        "financial_statement_scope": "unconsolidated",
+        "is_statement": "no",
+        "statement_type": "none",
+        "is_note": "yes",
+        "note_link": "balance_sheet",
+        "auditor_report": "no",
+        "director_report": "no",
+        "annual_report_discussion": "no",
+        "file_name": "JS_Bank_Limited_Annual_2024_chunks.md",
+        "ticker": "JSBL",
+        "entity_name": "JS Bank Limited",
+        "filing_type": "annual",
+        "filing_period": [
+          "2024",
+          "2023"
+        ],
+        "source_file": "JS_Bank_Limited_Annual_2024_chunks.md"
+      },
+      "score": 0.7093895493899733
+    },
+    {
+      "node_id": "JS_Bank_Limited_Annual_2024_chunks_chunk_252",
+      "text": "--- Metadata Context ---\nentity_name: JS Bank Limited\nticker: JSBL\nfiling_type: annual\nfiling_period: 2024, 2023\nfinancial_data: yes\nfinancial_statement_scope: unconsolidated\nis_statement: no\nis_note: yes\nnote_link: balance_sheet\nauditor_report: no\ndirector_report: no\nannual_report_discussion: no\n--- End Context ---\n\n# 46.1.3  Lendings to financial institutions\n\n# Credit risk by public / private sector\n\n| |Gross lendings| |Non-performing lendings|Credit loss allowance / provision held| | |\n|---|---|---|---|---|---|---|\n| | | | |Stage 1|Stage 2|Stage 3|\n| |2024|2023|2024|2023|2024|2023|\n|Public / Government|-|-|-|-|-|-|\n|Private|2,000,000|-|-|-|(270)|-|\n|Total|2,000,000|-|-|-|(270)|-|\n\n---",
+      "metadata": {
+        "chunk_number": 252,
+        "financial_data": "yes",
+        "financial_statement_scope": "unconsolidated",
+        "is_statement": "no",
+        "statement_type": "none",
+        "is_note": "yes",
+        "note_link": "balance_sheet",
+        "auditor_report": "no",
+        "director_report": "no",
+        "annual_report_discussion": "no",
+        "file_name": "JS_Bank_Limited_Annual_2024_chunks.md",
+        "ticker": "JSBL",
+        "entity_name": "JS Bank Limited",
+        "filing_type": "annual",
+        "filing_period": [
+          "2024",
+          "2023"
+        ],
+        "source_file": "JS_Bank_Limited_Annual_2024_chunks.md"
+      },
+      "score": 0.7090541647022265
+    },
+    {
+      "node_id": "JS_Bank_Limited_Annual_2024_chunks_chunk_473",
+      "text": "--- Metadata Context ---\nentity_name: JS Bank Limited\nticker: JSBL\nfiling_type: annual\nfiling_period: 2024, 2023\nfinancial_data: yes\nfinancial_statement_scope: consolidated\nis_statement: no\nis_note: yes\nnote_link: balance_sheet\nauditor_report: no\ndirector_report: no\nannual_report_discussion: no\n--- End Context ---\n\n# 15.2\n\nThese borrowings have been obtained from the SBP for providing financing facilities to exporters for adoption of new technologies and modernization of their plant and machinery. These borrowings have maturities up to February 2033. These carry mark-up rates ranging from 2.00% to 11.00% (2023: 2.00% to 11.00%) per annum.\n\n---",
+      "metadata": {
+        "chunk_number": 473,
+        "financial_data": "yes",
+        "financial_statement_scope": "consolidated",
+        "is_statement": "no",
+        "statement_type": "none",
+        "is_note": "yes",
+        "note_link": "balance_sheet",
+        "auditor_report": "no",
+        "director_report": "no",
+        "annual_report_discussion": "no",
+        "file_name": "JS_Bank_Limited_Annual_2024_chunks.md",
+        "ticker": "JSBL",
+        "entity_name": "JS Bank Limited",
+        "filing_type": "annual",
+        "filing_period": [
+          "2024",
+          "2023"
+        ],
+        "source_file": "JS_Bank_Limited_Annual_2024_chunks.md"
+      },
+      "score": 0.7081215960036009
+    },
+    {
+      "node_id": "JS_Bank_Limited_Annual_2024_chunks_chunk_262",
+      "text": "--- Metadata Context ---\nentity_name: JS Bank Limited\nticker: JSBL\nfiling_type: annual\nfiling_period: 2024, 2023\nfinancial_data: yes\nfinancial_statement_scope: unconsolidated\nis_statement: no\nis_note: yes\nnote_link: balance_sheet\nauditor_report: no\ndirector_report: no\nannual_report_discussion: no\n--- End Context ---\n\n# 46.1.9 Sensitivity of ECL to Future Economic Conditions\n\nThe ECL are sensitive to judgements and assumption made regarding formulation of forward-looking scenarios and how much such scenarios are incorporated into calculations. The Bank performs sensitivity analysis on the ECL recognized on each of its segments.\n\nThe table below shows the loss allowance on each segment assuming each forward-looking scenario (e.g. improved, base and worst) were weighted 100 percent instead of applying scenario probability across the three scenarios.\n\n| | | |Improved|Base| |Worst| |\n|---|---|---|---|---|---|---|---|\n|Total ECL as per FS|10,295,547|10,264,354| | | |10,332,996| |\n|Corporate and commercial| |10,264,354|-0.30%|10,294,204|-0.01%|10,332,996|0.36%|\n|Medium enterprise|3,102,096|3,090,088|-0.39%|3,101,704|-0.01%|3,115,931|0.45%|\n|Small enterprise|1,043,376|1,037,153|-0.60%|1,042,937|-0.04%|1,051,649|0.79%|\n|Consumer|659,847|634,018|-3.91%|659,123|-0.11%|689,059|4.43%|\n|Agriculture|265,580|264,238|-0.51%|265,519|-0.02%|267,202|0.61%|\n|Credit Card|218,710|188,465|-13.83%|217,910|-0.37%|252,687|15.54%|\n|Staff|816|816|0.00%|816|0.00%|816|0.00%|\n|Overseas Operations|192,503|155,396|-19.28%|191,847|-0.34%|232,674|20.87%|\n\n---",
+      "metadata": {
+        "chunk_number": 262,
+        "financial_data": "yes",
+        "financial_statement_scope": "unconsolidated",
+        "is_statement": "no",
+        "statement_type": "none",
+        "is_note": "yes",
+        "note_link": "balance_sheet",
+        "auditor_report": "no",
+        "director_report": "no",
+        "annual_report_discussion": "no",
+        "file_name": "JS_Bank_Limited_Annual_2024_chunks.md",
+        "ticker": "JSBL",
+        "entity_name": "JS Bank Limited",
+        "filing_type": "annual",
+        "filing_period": [
+          "2024",
+          "2023"
+        ],
+        "source_file": "JS_Bank_Limited_Annual_2024_chunks.md"
+      },
+      "score": 0.7047240833174672
+    }
+  ],
+  "node_count": 10,
+  "server_version": "enhanced",
+  "save_time": "2025-06-04T14:07:13.267642"
+}

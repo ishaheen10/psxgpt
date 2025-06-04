@@ -1,0 +1,275 @@
+{
+  "timestamp": "20250604_142904",
+  "query": "HBL profit and loss Q3 2024",
+  "query_hash": "da131da1",
+  "metadata": {
+    "is_statement": "yes",
+    "statement_type": "profit_and_loss",
+    "filing_type": "quarterly"
+  },
+  "nodes": [
+    {
+      "node_id": "Habib_Bank_Limited_Quarterly_2024-09-30_chunks_chunk_130",
+      "text": "--- Metadata Context ---\nentity_name: Habib Bank Limited\nticker: HBL\nfiling_type: quarterly\nfiling_period: Q3-2024, Q3-2023\nfinancial_data: yes\nfinancial_statement_scope: unconsolidated\nis_statement: yes\nstatement_type: profit_and_loss\nis_note: no\nauditor_report: no\ndirector_report: no\nannual_report_discussion: no\n--- End Context ---\n\n# CONDENSED INTERIM UNCONSOLIDATED PROFIT AND LOSS ACCOUNT (UNAUDITED)\n\n# Habib Bank Limited\n\n# FOR THE NINE MONTHS ENDED SEPTEMBER 30, 2024\n\n# Condensed Interim Unconsolidated Profit and Loss Account (Unaudited)\n\n# For the nine months ended September 30, 2024\n\n|Note|January 01 to September 30, 2024|January 01 to September 30, 2023|July 01 to September 30, 2024|July 01 to September 30, 2023| | | |\n|---|---|---|---|---|---|---|---|\n|24|592,409,107|479,819,379|207,779,869|179,635,207| | | |\n|25|419,162,015|315,537,127|147,460,493|120,566,279| | | |\n| |Net mark-up / return / profit / interest income|173,247,092|164,282,252|60,319,376|59,068,928| | |\n| |Non mark-up / interest income| | | | | | |\n| |26|Fee and commission income|31,988,252|26,908,502|10,719,292|9,489,747| |\n| |Dividend income|4,232,600|3,027,681|1,350,318|225,777| | |\n| |Foreign exchange income / (loss)|5,090,464|781,986|(323,775)|(277,919)| | |\n| |Income / (loss) from derivatives|4,947,966|(3,140,330)|1,479,890|2,011,230| | |\n| |27|Gain / (loss) on securities - net|6,439,110|(325,450)|4,868,915|(112,741)| |\n| |28|Other income|511,006|9,883,533|159,614|226,162| |\n| |Total non mark-up / interest income|53,209,398|37,135,922|18,254,254|11,562,256| | |\n| |Total income|226,456,490|201,418,174|78,573,630|70,631,184| | |\n| |Non mark-up / interest expenses| | | | | | |\n| |29|Operating expenses|123,953,732|110,496,644|41,938,410|39,464,922| |\n| |Workers' Welfare Fund|1,733,191|1,661,993|574,210|597,715| | |\n| |30|Other charges|350,644|82,090|191,807|5,610| |\n| |Total non mark-up / interest expenses|126,037,567|112,240,727|42,704,427|40,068,247| | |\n| |Profit before credit loss allowance and taxation|100,418,923|89,177,447|35,869,203|30,562,937| | |\n| |31|Credit loss allowance and write offs - net|13,747,391|6,159,440|7,144,476|840,419| |\n| |Profit before taxation|86,671,532|83,018,007|28,724,727|29,722,518| | |\n| |32|Taxation|43,281,595|40,200,911|13,985,335|14,616,755| |\n| |Profit after taxation|43,389,937|42,817,096|14,739,392|15,105,763| | |\n| |(Rupees)|(Rupees)|Basic and diluted earnings per share|33| | | |\n| |29.58|29.19|10.05|10.30| | | |\n\nThe annexed notes 1 to 41 form an integral part of these condensed interim unconsolidated financial statements.\n\nPresident and Chief Executive Officer\n\nMuhammad Nassir Salim\n\nChief Financial Officer\n\nRayomond Kotwal\n\nDirector\n\nSaba Kamal\n\nDirector\n\nDr. Najeeb Samie\n\nDirector\n\nMoez Ahamed Jamal\n\nQuarterly Report | September 2024\n---\n\n---",
+      "metadata": {
+        "chunk_number": 130,
+        "financial_data": "yes",
+        "financial_statement_scope": "unconsolidated",
+        "is_statement": "yes",
+        "statement_type": "profit_and_loss",
+        "is_note": "no",
+        "note_link": "none",
+        "auditor_report": "no",
+        "director_report": "no",
+        "annual_report_discussion": "no",
+        "file_name": "Habib_Bank_Limited_Quarterly_2024-09-30_chunks.md",
+        "ticker": "HBL",
+        "entity_name": "Habib Bank Limited",
+        "filing_type": "quarterly",
+        "filing_period": [
+          "Q3-2024",
+          "Q3-2023"
+        ],
+        "source_file": "Habib_Bank_Limited_Quarterly_2024-09-30_chunks.md"
+      },
+      "score": 0.7130062867869748
+    },
+    {
+      "node_id": "Habib_Bank_Limited_Quarterly_2024-09-30_chunks_chunk_17",
+      "text": "--- Metadata Context ---\nentity_name: Habib Bank Limited\nticker: HBL\nfiling_type: quarterly\nfiling_period: Q3-2024, Q3-2023\nfinancial_data: yes\nfinancial_statement_scope: consolidated\nis_statement: yes\nstatement_type: profit_and_loss\nis_note: no\nauditor_report: no\ndirector_report: no\nannual_report_discussion: no\n--- End Context ---\n\n# CONDENSED INTERIM CONSOLIDATED PROFIT AND LOSS ACCOUNT (UNAUDITED)\n\n# Habib Bank Limited\n\n# FOR THE NINE MONTHS ENDED SEPTEMBER 30, 2024\n\n# Condensed Interim Consolidated Profit and Loss Account (Unaudited)\n\n# For the nine months ended September 30, 2024\n\n| |Note|January 01 to September 30, 2024|January 01 to September 30, 2023|July 01 to September 30, 2024|July 01 to September 30, 2023| |\n|---|---|---|---|---|---|---|\n| |24|625,448,323|509,965,767|217,894,310|190,768,778| |\n| |25|440,160,149|332,106,284|154,172,294|125,782,767| |\n| |Net mark-up / return / profit / interest income|185,288,174|177,859,483|63,722,016|64,986,011| |\n| |Non mark-up / interest income| | | | | |\n| |26|Fee and commission income|36,578,176|30,458,872|12,418,458|10,680,111|\n| |Dividend income|2,707,304|1,982,094|1,281,086|155,203| |\n| |Share of profit of associates and joint venture|3,859,798|3,212,506|1,423,046|1,037,929| |\n| |Foreign exchange income / (loss)|5,577,357|1,639,398|(583,158)|(955,992)| |\n| |Income / (loss) from derivatives|4,947,966|(3,140,330)|1,479,890|2,011,230| |\n| |27|Gain / (loss) on securities - net|6,565,936|(307,328)|4,989,325|(79,989)|\n| |28|Other income|469,136|4,347,253|170,859|182,160|\n| |Total non mark-up / interest income|60,705,673|38,192,465|21,179,506|13,030,652| |\n| |Total income|245,993,847|216,051,948|84,901,522|78,016,663| |\n| |Non mark-up / interest expenses| | | | | |\n| |29|Operating expenses|138,968,168|123,298,170|47,162,592|43,949,709|\n| |Workers' Welfare Fund|1,766,365|1,711,805|584,737|609,617| |\n| |30|Other charges|350,644|82,090|191,807|5,610|\n| |Total non mark-up / interest expenses|141,085,177|125,092,065|47,939,136|44,564,936| |\n| |Profit before credit loss allowance and taxation|104,908,670|90,959,883|36,962,386|33,451,727| |\n| |31|Credit loss allowance and write offs - net|19,031,536|7,431,402|8,933,344|1,432,388|\n| |Profit before taxation|85,877,134|83,528,481|28,029,042|32,019,339| |\n| |32|Taxation|42,622,238|40,557,222|13,831,193|15,388,058|\n| |Profit after taxation|43,254,896|42,971,259|14,197,849|16,631,281| |\n| |Attributable to:| | | | | |\n| |Equity holders of the Bank|44,044,843|42,829,432|14,450,194|16,636,075| |\n| |Non-controlling interest|(789,947)|141,827|(252,345)|(4,794)| |\n| | |43,254,896|42,971,259|14,197,849|16,631,281| |\n| | | |------------------------------------------Rupees------------------------------------------| | | |\n| |33|Basic and diluted earnings per share|30.03|29.20|9.85|11.34|\n\nThe annexed notes 1 to 41 form an integral part of these condensed interim consolidated financial statements.\n\nPresident and Chief Executive Officer\n\nMuhammad Nassir Salim\n\nChief Financial Officer\n\nRayomond Kotwal\n\nDirector\n\nSaba Kamal\n\nDirector\n\nDr. Najeeb Samie\n\nDirector\n\nMoez Ahamed Jamal\n\nQuarterly Report | September 2024\n---\n\n---",
+      "metadata": {
+        "chunk_number": 17,
+        "financial_data": "yes",
+        "financial_statement_scope": "consolidated",
+        "is_statement": "yes",
+        "statement_type": "profit_and_loss",
+        "is_note": "no",
+        "note_link": "none",
+        "auditor_report": "no",
+        "director_report": "no",
+        "annual_report_discussion": "no",
+        "file_name": "Habib_Bank_Limited_Quarterly_2024-09-30_chunks.md",
+        "ticker": "HBL",
+        "entity_name": "Habib Bank Limited",
+        "filing_type": "quarterly",
+        "filing_period": [
+          "Q3-2024",
+          "Q3-2023"
+        ],
+        "source_file": "Habib_Bank_Limited_Quarterly_2024-09-30_chunks.md"
+      },
+      "score": 0.7045770361453256
+    },
+    {
+      "node_id": "Habib_Bank_Limited_Quarterly_2024-06-30_chunks_chunk_139",
+      "text": "--- Metadata Context ---\nentity_name: Habib Bank Limited\nticker: HBL\nfiling_type: quarterly\nfiling_period: Q2-2024, Q2-2023\nfinancial_data: yes\nfinancial_statement_scope: unconsolidated\nis_statement: yes\nstatement_type: profit_and_loss\nis_note: no\nauditor_report: no\ndirector_report: no\nannual_report_discussion: no\n--- End Context ---\n\n# CONDENSED INTERIM UNCONSOLIDATED PROFIT AND LOSS ACCOUNT (UNAUDITED)\n\n# Habib Bank Limited\n\n# FOR THE SIX MONTHS ENDED JUNE 30, 2024\n\n# Condensed Interim Unconsolidated Profit and Loss Account (Unaudited)\n\n# For the six months ended June 30, 2024\n\n|Note|January 01 to June 30, 2024|January 01 to June 30, 2023|April 01 to June 30, 2024|April 01 to June 30, 2023| | |\n|---|---|---|---|---|---|---|\n| | |24|384,629,238|300,184,172|198,191,742|159,899,622|\n| | |25|271,701,522|194,970,848|141,122,626|106,262,438|\n| |Net mark-up / return / profit / interest income|112,927,716|105,213,324|57,069,116|53,637,184| |\n| |Non mark-up / interest income| | | | | |\n|26|Fee and commission income|21,268,960|17,418,755|10,738,142|9,174,745| |\n| |Dividend income|2,882,282|2,801,904|1,228,391|1,585,651| |\n| |Foreign exchange income|5,414,239|1,059,905|1,601,294|676,762| |\n| |Income / (loss) from derivatives|3,468,076|(5,151,560)|1,050,235|1,008,856| |\n|27|Gain / (loss) on securities - net|1,570,195|(212,709)|1,857,302|866,295| |\n|28|Other income|351,392|9,657,371|311,280|88,439| |\n| |Total non mark-up / interest income|34,955,144|25,573,666|16,786,644|13,400,748| |\n| |Total income|147,882,860|130,786,990|73,855,760|67,037,932| |\n| |Non mark-up / interest expenses| | | | | |\n|29|Operating expenses|82,015,322|71,031,722|40,456,236|35,828,061| |\n| |Workers' Welfare Fund|1,158,981|1,064,278|579,876|556,111| |\n|30|Other charges|158,837|76,480|341|60,715| |\n| |Total non mark-up / interest expenses|83,333,140|72,172,480|41,036,453|36,444,887| |\n| |Profit before credit loss allowance and taxation|64,549,720|58,614,510|32,819,307|30,593,045| |\n|31|Credit loss allowance and write offs - net|6,602,915|5,319,021|4,564,318|2,639,233| |\n| |Profit before taxation|57,946,805|53,295,489|28,254,989|27,953,812| |\n|32|Taxation|29,296,260|25,584,156|14,199,421|15,542,365| |\n| |Profit after taxation|28,650,545|27,711,333|14,055,568|12,411,447| |\n| |Basic and diluted earnings per share| | | | | |\n| | |33|19.53|18.89|9.58|8.46|\n\nThe annexed notes 1 to 41 form an integral part of these condensed interim unconsolidated financial statements.\n\nPresident and Chief Executive Officer\n\nMuhammad Nassir Salim\n\nChief Financial Officer\n\nRayomond Kotwal\n\nDirector\n\nDr. Najeeb Samie\n\nDirector\n\nSalim Raza\n\nDirector\n\nShaffiq Dharamshi\n\nHBL Half Yearly Report | June 2024 612\n---\n\n---",
+      "metadata": {
+        "chunk_number": 139,
+        "financial_data": "yes",
+        "financial_statement_scope": "unconsolidated",
+        "is_statement": "yes",
+        "statement_type": "profit_and_loss",
+        "is_note": "no",
+        "note_link": "none",
+        "auditor_report": "no",
+        "director_report": "no",
+        "annual_report_discussion": "no",
+        "file_name": "Habib_Bank_Limited_Quarterly_2024-06-30_chunks.md",
+        "ticker": "HBL",
+        "entity_name": "Habib Bank Limited",
+        "filing_type": "quarterly",
+        "filing_period": [
+          "Q2-2024",
+          "Q2-2023"
+        ],
+        "source_file": "Habib_Bank_Limited_Quarterly_2024-06-30_chunks.md"
+      },
+      "score": 0.7014085950368473
+    },
+    {
+      "node_id": "Habib_Bank_Limited_Quarterly_2024-09-30_chunks_chunk_214",
+      "text": "--- Metadata Context ---\nentity_name: Habib Bank Limited\nticker: HBL\nfiling_type: quarterly\nfiling_period: Q3-2024, Q3-2023\nfinancial_data: yes\nfinancial_statement_scope: unconsolidated\nis_statement: yes\nstatement_type: profit_and_loss\nis_note: no\nauditor_report: no\ndirector_report: no\nannual_report_discussion: no\n--- End Context ---\n\n# PROFIT AND LOSS ACCOUNT\n\n|(Unaudited)| | |For the nine months ended| |\n|---|---|---|---|---|\n| | | |September 30, 2024|September 30, 2023|\n|PROFIT / RETURN EARNED|38.8| |74,490,881|53,122,249|\n|PROFIT / RETURN EXPENSED|38.9| |38,149,118|30,443,179|\n|NET PROFIT / RETURN| | |36,341,763|22,679,070|\n|Other income| | | | |\n|Fee and commission income| | |1,657,490|1,323,547|\n|Dividend income| | |-|-|\n|Foreign exchange income| | |634,057|734,507|\n|Income from derivatives| | |-|-|\n|Gain on securities- net| | |93,155|5,592|\n|Others| | |-|-|\n|Total other income| | |2,384,702|2,063,646|\n|Total income| | |38,726,465|24,742,716|\n|Other expenses| | | | |\n|Operating expenses| | |8,883,836|6,270,802|\n|Workers' Welfare Fund| | |526,646|367,195|\n|Other charges| | |562|220|\n|Total other expenses| | |9,411,044|6,638,217|\n|Profit before credit loss allowance| | |29,315,421|18,104,499|\n|Charge / (reversal) of credit loss allowance and write offs - net| | |2,983,144|(255,259)|\n|Profit before taxation| | |26,332,277|18,359,758|\n|Taxation| | |12,902,816|8,996,281|\n|Profit after taxation| | |13,429,461|9,363,477|\n\n---\n\n---",
+      "metadata": {
+        "chunk_number": 214,
+        "financial_data": "yes",
+        "financial_statement_scope": "unconsolidated",
+        "is_statement": "yes",
+        "statement_type": "profit_and_loss",
+        "is_note": "no",
+        "note_link": "none",
+        "auditor_report": "no",
+        "director_report": "no",
+        "annual_report_discussion": "no",
+        "file_name": "Habib_Bank_Limited_Quarterly_2024-09-30_chunks.md",
+        "ticker": "HBL",
+        "entity_name": "Habib Bank Limited",
+        "filing_type": "quarterly",
+        "filing_period": [
+          "Q3-2024",
+          "Q3-2023"
+        ],
+        "source_file": "Habib_Bank_Limited_Quarterly_2024-09-30_chunks.md"
+      },
+      "score": 0.6993291974264019
+    },
+    {
+      "node_id": "Habib_Bank_Limited_Quarterly_2024-03-31_chunks_chunk_136",
+      "text": "--- Metadata Context ---\nentity_name: Habib Bank Limited\nticker: HBL\nfiling_type: quarterly\nfiling_period: Q1-2024, Q1-2023\nfinancial_data: yes\nfinancial_statement_scope: unconsolidated\nis_statement: yes\nstatement_type: profit_and_loss\nis_note: no\nauditor_report: no\ndirector_report: no\nannual_report_discussion: no\n--- End Context ---\n\n# CONDENSED INTERIM UNCONSOLIDATED PROFIT AND LOSS ACCOUNT (UNAUDITED)\n\n# Habib Bank Limited\n\n# FOR THE THREE MONTHS ENDED MARCH 31, 2024\n\n# Condensed Interim Unconsolidated Profit and Loss Account (Unaudited)\n\n# For the three months ended March 31, 2024\n\n|Note|January 01 to March 31, 2024|January 01 to March 31, 2023|\n|---|---|---|\n|Mark-up / return / profit / interest earned|186,437,496|140,284,550|\n|Mark-up / return / profit / interest expensed|130,578,896|88,708,410|\n|Net mark-up / return / profit / interest income|55,858,600|51,576,140|\n|Non mark-up / interest income|Non mark-up / interest income|Non mark-up / interest income|\n|Fee and commission income|10,530,818|8,244,010|\n|Dividend income|1,653,891|1,216,253|\n|Foreign exchange income|3,812,945|383,143|\n|Income / (loss) from derivatives|2,417,841|(6,160,416)|\n|Loss on securities - net|(287,107)|(1,079,004)|\n|Other income|40,112|9,568,932|\n|Total non mark-up / interest income|18,168,500|12,172,918|\n|Total income|74,027,100|63,749,058|\n|Non mark-up / interest expenses|Non mark-up / interest expenses|Non mark-up / interest expenses|\n|Operating expenses|41,559,086|35,203,661|\n|Workers' Welfare Fund|579,105|508,167|\n|Other charges|158,496|15,765|\n|Total non mark-up / interest expenses|42,296,687|35,727,593|\n|Profit before credit loss allowance and taxation|31,730,413|28,021,465|\n|Credit loss allowance and write offs - net|2,038,597|2,679,788|\n|Profit before taxation|29,691,816|25,341,677|\n|Taxation|15,096,839|10,041,791|\n|Profit after taxation|14,594,977|15,299,886|\n|(Rupees)|(Rupees)|(Rupees)|\n|Basic and diluted earnings per share|9.95|10.43|\n\nThe annexed notes 1 to 41 form an integral part of these condensed interim unconsolidated financial statements.\n\nMuhammad Nassir Salim\n\nPresident and Chief Executive Officer\n\nRayomond Kotwal\n\nChief Financial Officer\n\nKhaleel Ahmed\n\nDirector\n\nMoez Ahamed Jamal\n\nDirector\n\nDr. Najeeb Samie\n\nDirector\n---\n\n---",
+      "metadata": {
+        "chunk_number": 136,
+        "financial_data": "yes",
+        "financial_statement_scope": "unconsolidated",
+        "is_statement": "yes",
+        "statement_type": "profit_and_loss",
+        "is_note": "no",
+        "note_link": "none",
+        "auditor_report": "no",
+        "director_report": "no",
+        "annual_report_discussion": "no",
+        "file_name": "Habib_Bank_Limited_Quarterly_2024-03-31_chunks.md",
+        "ticker": "HBL",
+        "entity_name": "Habib Bank Limited",
+        "filing_type": "quarterly",
+        "filing_period": [
+          "Q1-2024",
+          "Q1-2023"
+        ],
+        "source_file": "Habib_Bank_Limited_Quarterly_2024-03-31_chunks.md"
+      },
+      "score": 0.6954173810624027
+    },
+    {
+      "node_id": "Habib_Bank_Limited_Quarterly_2024-09-30_chunks_chunk_103",
+      "text": "--- Metadata Context ---\nentity_name: Habib Bank Limited\nticker: HBL\nfiling_type: quarterly\nfiling_period: Q3-2024, Q3-2023\nfinancial_data: yes\nfinancial_statement_scope: consolidated\nis_statement: yes\nstatement_type: profit_and_loss\nis_note: yes\nnote_link: profit_and_loss\nauditor_report: no\ndirector_report: no\nannual_report_discussion: no\n--- End Context ---\n\n# PROFIT AND LOSS ACCOUNT\n\n|(Unaudited)| | |For the nine months ended September 30, 2024|September 30, 2023|\n|---|---|---|---|---|\n|(Rupees in '000)|(Rupees in '000)|(Rupees in '000)|(Rupees in '000)|(Rupees in '000)|\n|Profit / return earned|38.8| |74,490,881|53,122,249|\n|Profit / return expensed|38.9| |38,149,118|30,443,179|\n|Net profit / return| | |36,341,763|22,679,070|\n|Other income| | | | |\n|Fee and commission income| | |1,657,490|1,323,547|\n|Dividend income| | |-|-|\n|Foreign exchange income| | |634,057|734,507|\n|Income from derivatives| | |-|-|\n|Gain on securities- net| | |93,155|5,592|\n|Others| | |-|-|\n|Total other income| | |2,384,702|2,063,646|\n|Total income| | |38,726,465|24,742,716|\n|Other expenses| | | | |\n|Operating expenses| | |8,883,836|6,270,802|\n|Workers' Welfare Fund| | |526,646|367,195|\n|Other charges| | |562|220|\n|Total other expenses| | |9,411,044|6,638,217|\n|Profit before credit loss allowance| | |29,315,421|18,104,499|\n|Charge / (reversal) of credit loss allowance and write offs - net| | |2,983,144|(255,259)|\n|Profit before taxation| | |26,332,277|18,359,758|\n|Taxation| | |12,902,816|8,996,281|\n|Profit after taxation| | |13,429,461|9,363,477|\n\n---\n\n---",
+      "metadata": {
+        "chunk_number": 103,
+        "financial_data": "yes",
+        "financial_statement_scope": "consolidated",
+        "is_statement": "yes",
+        "statement_type": "profit_and_loss",
+        "is_note": "yes",
+        "note_link": "profit_and_loss",
+        "auditor_report": "no",
+        "director_report": "no",
+        "annual_report_discussion": "no",
+        "file_name": "Habib_Bank_Limited_Quarterly_2024-09-30_chunks.md",
+        "ticker": "HBL",
+        "entity_name": "Habib Bank Limited",
+        "filing_type": "quarterly",
+        "filing_period": [
+          "Q3-2024",
+          "Q3-2023"
+        ],
+        "source_file": "Habib_Bank_Limited_Quarterly_2024-09-30_chunks.md"
+      },
+      "score": 0.6933640373527853
+    },
+    {
+      "node_id": "Habib_Bank_Limited_Quarterly_2024-06-30_chunks_chunk_17",
+      "text": "--- Metadata Context ---\nentity_name: Habib Bank Limited\nticker: HBL\nfiling_type: quarterly\nfiling_period: Q2-2024, Q2-2023\nfinancial_data: yes\nfinancial_statement_scope: consolidated\nis_statement: yes\nstatement_type: profit_and_loss\nis_note: no\nauditor_report: no\ndirector_report: no\nannual_report_discussion: no\n--- End Context ---\n\n# CONDENSED INTERIM CONSOLIDATED PROFIT AND LOSS ACCOUNT (UNAUDITED)\n\n# Habib Bank Limited\n\n# FOR THE SIX MONTHS ENDED JUNE 30, 2024\n\n|Note|January 01 to June 30, 2024|January 01 to June 30, 2023|April 01 to June 30, 2024|April 01 to June 30, 2023|\n|---|---|---|---|---|\n|Mark-up / return / profit / interest earned|407,554,013|319,196,989|209,239,568|170,646,148|\n|Mark-up / return / profit / interest expensed|285,987,855|205,242,241|148,210,583|112,534,426|\n|Net mark-up / return / profit / interest income|121,566,158|113,954,748|61,028,985|58,111,722|\n|Non mark-up / interest income|Non mark-up / interest income|Non mark-up / interest income|Non mark-up / interest income|Non mark-up / interest income|\n|Fee and commission income|24,159,718|19,778,761|12,267,800|10,435,040|\n|Dividend income|1,426,218|1,826,891|419,141|975,591|\n|Share of profit of associates and joint venture|2,436,752|2,174,577|1,540,346|1,364,836|\n|Foreign exchange income|6,160,515|1,514,114|2,072,819|755,418|\n|Income / (loss) from derivatives|3,468,076|(5,151,560)|1,050,235|1,008,856|\n|Gain / (loss) on securities - net|1,576,611|(227,339)|1,859,708|853,952|\n|Other income|298,277|4,165,093|149,392|110,678|\n|Total non mark-up / interest income|39,526,167|24,080,537|19,359,441|15,504,371|\n|Total income|161,092,325|138,035,285|80,388,426|73,616,093|\n|Non mark-up / interest expenses|Non mark-up / interest expenses|Non mark-up / interest expenses|Non mark-up / interest expenses|Non mark-up / interest expenses|\n|Operating expenses|91,805,576|79,348,461|45,610,827|40,152,734|\n|Workers' Welfare Fund|1,181,628|1,102,188|593,342|574,002|\n|Other charges|158,837|76,480|341|60,715|\n|Total non mark-up / interest expenses|93,146,041|80,527,129|46,204,510|40,787,451|\n|Profit before credit loss allowance and taxation|67,946,284|57,508,156|34,183,916|32,828,642|\n|Credit loss allowance and write offs - net|10,098,192|5,999,014|6,449,107|2,821,637|\n|Profit before taxation|57,848,092|51,509,142|27,734,809|30,007,005|\n|Taxation|28,791,045|25,169,164|13,721,345|16,923,726|\n|Profit after taxation|29,057,047|26,339,978|14,013,464|13,083,279|\n|Attributable to:| | | | |\n|Equity holders of the Bank|29,594,649|26,193,357|14,377,433|12,992,306|\n|Non-controlling interest|(537,602)|146,621|(363,969)|90,973|\n|29,057,047|29,057,047|29,057,047|29,057,047|29,057,047|\n|------------------------------------------Rupees------------------------------------------|------------------------------------------Rupees------------------------------------------|------------------------------------------Rupees------------------------------------------|------------------------------------------Rupees------------------------------------------|------------------------------------------Rupees------------------------------------------|\n|Basic and diluted earnings per share|20.18|17.86|9.81|8.86|\n\nThe annexed notes 1 to 41 form an integral part of these condensed interim consolidated financial statements.\n\nPresident and Chief Executive Officer\n\nMuhammad Nassir Salim\n\nChief Financial Officer\n\nRayomond Kotwal\n\nDirector\n\nDr. Najeeb Samie\n\nDirector\n\nSalim Raza\n\nDirector\n\nShaffiq Dharamshi\n\nHBL Half Yearly Report | June 2024  132\n---\n\n---",
+      "metadata": {
+        "chunk_number": 17,
+        "financial_data": "yes",
+        "financial_statement_scope": "consolidated",
+        "is_statement": "yes",
+        "statement_type": "profit_and_loss",
+        "is_note": "no",
+        "note_link": "none",
+        "auditor_report": "no",
+        "director_report": "no",
+        "annual_report_discussion": "no",
+        "file_name": "Habib_Bank_Limited_Quarterly_2024-06-30_chunks.md",
+        "ticker": "HBL",
+        "entity_name": "Habib Bank Limited",
+        "filing_type": "quarterly",
+        "filing_period": [
+          "Q2-2024",
+          "Q2-2023"
+        ],
+        "source_file": "Habib_Bank_Limited_Quarterly_2024-06-30_chunks.md"
+      },
+      "score": 0.6898147792280157
+    },
+    {
+      "node_id": "Habib_Bank_Limited_Quarterly_2024-03-31_chunks_chunk_19",
+      "text": "--- Metadata Context ---\nentity_name: Habib Bank Limited\nticker: HBL\nfiling_type: quarterly\nfiling_period: Q1-2024, Q1-2023\nfinancial_data: yes\nfinancial_statement_scope: consolidated\nis_statement: yes\nstatement_type: profit_and_loss\nis_note: no\nauditor_report: no\ndirector_report: no\nannual_report_discussion: no\n--- End Context ---\n\n# CONDENSED INTERIM CONSOLIDATED PROFIT AND LOSS ACCOUNT (UNAUDITED)\n\n# Habib Bank Limited\n\n# FOR THE THREE MONTHS ENDED MARCH 31, 2024\n\n# Condensed Interim Consolidated Profit and Loss Account (Unaudited)\n\n# For the three months ended March 31, 2024\n\n|Note|January 01 to March 31, 2024|January 01 to March 31, 2023|\n|---|---|---|\n|24|198,314,445|148,550,841|\n|25|137,777,272|92,707,815|\n| |60,537,173|55,843,026|\n|Non mark-up / interest income|Non mark-up / interest income|Non mark-up / interest income|\n|26|11,891,918|9,343,721|\n| |1,007,077|851,300|\n| |896,406|809,741|\n| |4,087,696|758,696|\n| |2,417,841|(6,160,416)|\n|27|(283,097)|(1,081,291)|\n|28|148,885|4,054,415|\n| |20,166,726|8,576,166|\n| |80,703,899|64,419,192|\n|Non mark-up / interest expenses|Non mark-up / interest expenses|Non mark-up / interest expenses|\n|29|46,194,749|39,195,727|\n| |588,286|528,186|\n|30|158,496|15,765|\n| |46,941,531|39,739,678|\n| |33,762,368|24,679,514|\n|31|3,649,085|3,177,377|\n| |30,113,283|21,502,137|\n|32|15,069,700|8,245,438|\n| |15,043,583|13,256,699|\n| |15,217,216|13,201,051|\n| |(173,633)|55,648|\n| |15,043,583|13,256,699|\n|--------------Rupees--------------|--------------Rupees--------------|--------------Rupees--------------|\n|33|10.37|9.00|\n\nThe annexed notes 1 to 41 form an integral part of these condensed interim consolidated financial statements.\n\nPresident and Chief Executive Officer\n\nMuhammad Nassir Salim\n\nChief Financial Officer\n\nRayomond Kotwal\n\nDirector\n\nKhaleel Ahmed\n\nDirector\n\nMoez Ahamed Jamal\n\nDirector\n\nDr. Najeeb Samie\n---\n\n---",
+      "metadata": {
+        "chunk_number": 19,
+        "financial_data": "yes",
+        "financial_statement_scope": "consolidated",
+        "is_statement": "yes",
+        "statement_type": "profit_and_loss",
+        "is_note": "no",
+        "note_link": "none",
+        "auditor_report": "no",
+        "director_report": "no",
+        "annual_report_discussion": "no",
+        "file_name": "Habib_Bank_Limited_Quarterly_2024-03-31_chunks.md",
+        "ticker": "HBL",
+        "entity_name": "Habib Bank Limited",
+        "filing_type": "quarterly",
+        "filing_period": [
+          "Q1-2024",
+          "Q1-2023"
+        ],
+        "source_file": "Habib_Bank_Limited_Quarterly_2024-03-31_chunks.md"
+      },
+      "score": 0.6825195715212824
+    },
+    {
+      "node_id": "Habib_Bank_Limited_Quarterly_2024-03-31_chunks_chunk_223",
+      "text": "--- Metadata Context ---\nentity_name: Habib Bank Limited\nticker: HBL\nfiling_type: quarterly\nfiling_period: Q1-2024, Q1-2023\nfinancial_data: yes\nfinancial_statement_scope: unconsolidated\nis_statement: yes\nstatement_type: profit_and_loss\nis_note: no\nauditor_report: no\ndirector_report: no\nannual_report_discussion: no\n--- End Context ---\n\n# PROFIT AND LOSS ACCOUNT\n\n|(Unaudited)| |For the three months ended|March 31, 2024|March 31, 2023|\n|---|---|---|---|---|\n|PROFIT AND LOSS ACCOUNT|PROFIT AND LOSS ACCOUNT|PROFIT AND LOSS ACCOUNT|PROFIT AND LOSS ACCOUNT|PROFIT AND LOSS ACCOUNT|\n|Profit / return earned|Profit / return earned|Profit / return earned|Profit / return earned|21,340,795|\n|Profit / return expensed|Profit / return expensed|Profit / return expensed|Profit / return expensed|11,253,785|\n|Net profit / return|Net profit / return|Net profit / return|Net profit / return|10,087,010|\n|Other income|Other income|Other income|Other income| |\n|Fee and commission income|Fee and commission income|Fee and commission income|Fee and commission income|520,262|\n|Dividend income|Dividend income|Dividend income|Dividend income|-|\n|Foreign exchange income|Foreign exchange income|Foreign exchange income|Foreign exchange income|182,442|\n|Income from derivatives|Income from derivatives|Income from derivatives|Income from derivatives|-|\n|Gain on securities - net|Gain on securities - net|Gain on securities - net|Gain on securities - net|16,280|\n|Others|Others|Others|Others|-|\n|Total other income|Total other income|Total other income|Total other income|718,984|\n|Total income|Total income|Total income|Total income|10,805,994|\n|Other expenses|Other expenses|Other expenses|Other expenses| |\n|Operating expenses|Operating expenses|Operating expenses|Operating expenses|2,793,724|\n|Workers' Welfare Fund|Workers' Welfare Fund|Workers' Welfare Fund|Workers' Welfare Fund|152,745|\n|Other charges|Other charges|Other charges|Other charges|125|\n|Total other expenses|Total other expenses|Total other expenses|Total other expenses|2,946,594|\n|Profit before credit loss allowance|Profit before credit loss allowance|Profit before credit loss allowance|Profit before credit loss allowance|7,859,400|\n|Charge / (reversal) of credit loss allowance and write offs - net|Charge / (reversal) of credit loss allowance and write offs - net|Charge / (reversal) of credit loss allowance and write offs - net|Charge / (reversal) of credit loss allowance and write offs - net|222,158|\n|Profit before taxation|Profit before taxation|Profit before taxation|Profit before taxation|7,637,242|\n|Taxation|Taxation|Taxation|Taxation|3,742,247|\n|Profit after taxation|Profit after taxation|Profit after taxation|Profit after taxation|3,894,995|\n\n---\n\n---",
+      "metadata": {
+        "chunk_number": 223,
+        "financial_data": "yes",
+        "financial_statement_scope": "unconsolidated",
+        "is_statement": "yes",
+        "statement_type": "profit_and_loss",
+        "is_note": "no",
+        "note_link": "none",
+        "auditor_report": "no",
+        "director_report": "no",
+        "annual_report_discussion": "no",
+        "file_name": "Habib_Bank_Limited_Quarterly_2024-03-31_chunks.md",
+        "ticker": "HBL",
+        "entity_name": "Habib Bank Limited",
+        "filing_type": "quarterly",
+        "filing_period": [
+          "Q1-2024",
+          "Q1-2023"
+        ],
+        "source_file": "Habib_Bank_Limited_Quarterly_2024-03-31_chunks.md"
+      },
+      "score": 0.6795953446555515
+    },
+    {
+      "node_id": "Habib_Bank_Limited_Quarterly_2024-06-30_chunks_chunk_224",
+      "text": "--- Metadata Context ---\nentity_name: Habib Bank Limited\nticker: HBL\nfiling_type: quarterly\nfiling_period: Q2-2024, Q2-2023\nfinancial_data: yes\nfinancial_statement_scope: unconsolidated\nis_statement: yes\nstatement_type: profit_and_loss\nis_note: no\nauditor_report: no\ndirector_report: no\nannual_report_discussion: no\n--- End Context ---\n\n# PROFIT AND LOSS ACCOUNT\n\n|(Unaudited)| |For the six months ended|June 30, 2024|June 30, 2023|\n|---|---|---|---|---|\n|(Rupees in '000)|(Rupees in '000)|(Rupees in '000)|(Rupees in '000)|(Rupees in '000)|\n|Profit / return earned|38.8| |47,103,850|31,824,096|\n|Profit / return expensed|38.9| |24,401,673|19,640,615|\n|Net profit / return| | |22,702,177|12,183,481|\n|Other income| | | | |\n|Fee and commission income| | |1,162,292|768,817|\n|Dividend income| | |-|-|\n|Foreign exchange income| | |421,906|426,776|\n|Income from derivatives| | |-|-|\n|Gain on securities- net| | |25,075|12,186|\n|Others| | |-|-|\n|Total other income| | |1,609,273|1,207,779|\n|Total income| | |24,311,450|13,391,260|\n|Other expenses| | | | |\n|Operating expenses| | |5,779,585|4,011,541|\n|Workers' Welfare Fund| | |313,798|192,789|\n|Other charges| | |125|120|\n|Total other expenses| | |6,093,508|4,204,450|\n|Profit before credit loss allowance| | |18,217,942|9,186,810|\n|Charge / (reversal) of credit loss allowance and write offs - net| | |2,528,060|(452,646)|\n|Profit before taxation| | |15,689,882|9,639,456|\n|Taxation| | |7,688,042|4,723,333|\n|Profit after taxation| | |8,001,840|4,916,123|\n\n---\n\n---",
+      "metadata": {
+        "chunk_number": 224,
+        "financial_data": "yes",
+        "financial_statement_scope": "unconsolidated",
+        "is_statement": "yes",
+        "statement_type": "profit_and_loss",
+        "is_note": "no",
+        "note_link": "none",
+        "auditor_report": "no",
+        "director_report": "no",
+        "annual_report_discussion": "no",
+        "file_name": "Habib_Bank_Limited_Quarterly_2024-06-30_chunks.md",
+        "ticker": "HBL",
+        "entity_name": "Habib Bank Limited",
+        "filing_type": "quarterly",
+        "filing_period": [
+          "Q2-2024",
+          "Q2-2023"
+        ],
+        "source_file": "Habib_Bank_Limited_Quarterly_2024-06-30_chunks.md"
+      },
+      "score": 0.6774159835231484
+    }
+  ],
+  "node_count": 10,
+  "server_version": "enhanced",
+  "save_time": "2025-06-04T14:29:04.974678"
+}

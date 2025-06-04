@@ -1,0 +1,276 @@
+{
+  "timestamp": "20250604_130853",
+  "query": "UBL balance sheet 2023",
+  "query_hash": "d71cdde5",
+  "metadata": {
+    "is_statement": "yes",
+    "is_note": "no",
+    "statement_type": "balance_sheet",
+    "filing_type": "annual"
+  },
+  "nodes": [
+    {
+      "node_id": "United_Bank_Limited_Annual_2024_chunks_chunk_538",
+      "text": "--- Metadata Context ---\nentity_name: United Bank Limited\nticker: UBL\nfiling_type: annual\nfiling_period: 2024, 2023\nfinancial_data: yes\nfinancial_statement_scope: consolidated\nis_statement: yes\nstatement_type: balance_sheet\nis_note: no\nauditor_report: no\ndirector_report: no\nannual_report_discussion: no\n--- End Context ---\n\n# CONSOLIDATED STATEMENT OF FINANCIAL POSITION IN USD\n\n| | | | |2024|2023|\n|---|---|---|---|---|---|\n| | |ASSETS| | | |\n| | | |Cash and balances with treasury banks|1,115,909|984,017|\n| | | |Balances with other banks|215,287|118,606|\n| | | |Lendings to financial institutions|66,388|139,488|\n| | |Investments| |21,144,376|15,737,387|\n| | |Advances| |5,182,129|3,093,872|\n| | | |Property and Equipment|307,277|271,270|\n| | | |Right-of-use of assets|36,730|30,552|\n| | | |Intangible assets|10,023|9,056|\n| | | |Deferred tax assets|-|-|\n| | |Other assets| |890,100|564,664|\n|Total Assets| | | |28,968,219|20,948,912|\n| | |LIABILITIES| | | |\n| | | |Bills payable|158,757|77,111|\n| | |Borrowings| |17,430,887|10,018,736|\n| | | |Deposits and other accounts|9,477,207|9,347,582|\n| | | |Lease liabilities|44,448|37,162|\n| | | |Subordinated debt|35,900|35,479|\n| | | |Deferred tax liabilities|141,128|7,377|\n| | | |Other liabilities|528,185|411,231|\n|Total Liabilities| | | |27,816,512|19,934,678|\n| | |NET ASSETS| | | |\n| | | | |1,151,707|1,014,234|\n| | | |REPRESENTED BY:| | |\n| | | |Share capital|43,948|43,432|\n| | |Reserves| |411,900|414,288|\n| | | |Surplus on revaluation of assets - net|277,543|158,149|\n| | | |Unappropriated profit|418,137|345,486|\n| | | |Total equity attributable to the equity holders of the Bank|1,151,528|961,355|\n| | | |Non-controlling interest|179|52,879|\n|Total Net Assets| | | |1,151,707|1,014,234|\n\nThese figures have been converted at Rs. 278.55 per US Dollar from the audited consolidated financial statements.\n\nSyed Manzoor Hussain Zaidi\n\nMuhammad Jawaid Iqbal\n\nShazia Syed\n\nDaniel Michael Howlett\n\nSir Mohammed Anwar Pervez, OBE, HPk\n\nChief Financial Officer\n\nPresident & Chief Executive Officer\n\nDirector\n\nDirector\n\nChairman\n\n280 United Bank Limited Annual Report 2024 281\n\n---",
+      "metadata": {
+        "chunk_number": 538,
+        "financial_data": "yes",
+        "financial_statement_scope": "consolidated",
+        "is_statement": "yes",
+        "statement_type": "balance_sheet",
+        "is_note": "no",
+        "note_link": "none",
+        "auditor_report": "no",
+        "director_report": "no",
+        "annual_report_discussion": "no",
+        "file_name": "United_Bank_Limited_Annual_2024_chunks.md",
+        "ticker": "UBL",
+        "entity_name": "United Bank Limited",
+        "filing_type": "annual",
+        "filing_period": [
+          "2024",
+          "2023"
+        ],
+        "source_file": "United_Bank_Limited_Annual_2024_chunks.md"
+      },
+      "score": 0.7550370289279277
+    },
+    {
+      "node_id": "United_Bank_Limited_Annual_2024_chunks_chunk_121",
+      "text": "--- Metadata Context ---\nentity_name: United Bank Limited\nticker: UBL\nfiling_type: annual\nfiling_period: 2024, 2023\nfinancial_data: yes\nfinancial_statement_scope: unconsolidated\nis_statement: yes\nstatement_type: balance_sheet\nis_note: no\nauditor_report: no\ndirector_report: no\nannual_report_discussion: no\n--- End Context ---\n\n# Notes to and forming part of the Unconsolidated Financial Statements\n\n# UNCONSOLIDATED STATEMENT OF FINANCIAL POSITION\n\n# For the year ended December 31, 2024\n\n# As at December 31, 2024\n\n# AS AT DECEMBER 31, 2024\n\n2. We confirm that for the purpose of our audit we have covered more than sixty per cent of the total loans and advances of the Bank.\n\nThe engagement partner on the audit resulting in this independent auditor\u2019s report is Omer Chughtai.\n\n| | |Note|2024|2023|\n|---|---|---|---|---|\n| | | | |(Rupees in '000)|\n| |ASSETS| | | |\n| |Cash and balances with treasury banks| |309,745,911|277,330,217|\n| |Balances with other banks| |59,968,246|30,700,751|\n| |Lendings to financial institutions| |18,492,483|34,447,852|\n| |Investments| |5,886,894,503|4,385,216,671|\n| |Advances| |1,443,481,944|613,565,526|\n| |Property and equipment| |85,246,731|65,087,643|\n| |Right-of-use assets| |9,896,084|8,497,029|\n| |Intangible assets| |2,481,475|2,458,834|\n| |Deferred tax assets| |-|-|\n| |Other assets| |246,924,757|157,692,979|\n|Total Assets| | |8,063,132,134|5,574,997,502|\n| |LIABILITIES| | | |\n| |Bills payable| |44,221,818|21,651,784|\n| |Borrowings| |4,855,373,516|2,815,470,554|\n| |Deposits and other accounts| |2,640,211,489|2,350,540,823|\n| |Lease liabilities| |12,008,797|10,339,867|\n| |Subordinated debt| |10,000,000|10,000,000|\n| |Deferred tax liabilities| |38,959,061|1,921,889|\n| |Other liabilities| |146,135,202|112,572,054|\n|Total Liabilities| | |7,746,909,883|5,322,496,971|\n| |NET ASSETS| |316,222,251|252,500,531|\n| |REPRESENTED BY:| | | |\n| |Share capital| |12,241,797|12,241,797|\n| |Reserves| |114,734,831|107,800,978|\n| |Surplus on revaluation of assets - net| |77,289,805|41,965,460|\n| |Unappropriated profit| |111,955,818|90,492,296|\n|Total Net Assets| | |316,222,251|252,500,531|\n\nCONTINGENCIES AND COMMITMENTS 24\n\nThe annexed notes 1 to 51 and annexures I, II and III form an integral part of these unconsolidated financial statements.\n\nSyed Manzoor Hussain Zaidi\n\nChief Financial Officer\n\nMuhammad Jawaid Iqbal\n\nPresident & Chief Executive Officer\n\nShazia Syed\n\nDirector\n\nDaniel Michael Howlett\n\nDirector\n\nSir Mohammed Anwar Pervez, OBE, HPk\n\nChairman\n\nPlace: Karachi\n\nDate:\n\nUDIN:\n\n---",
+      "metadata": {
+        "chunk_number": 121,
+        "financial_data": "yes",
+        "financial_statement_scope": "unconsolidated",
+        "is_statement": "yes",
+        "statement_type": "balance_sheet",
+        "is_note": "no",
+        "note_link": "none",
+        "auditor_report": "no",
+        "director_report": "no",
+        "annual_report_discussion": "no",
+        "file_name": "United_Bank_Limited_Annual_2024_chunks.md",
+        "ticker": "UBL",
+        "entity_name": "United Bank Limited",
+        "filing_type": "annual",
+        "filing_period": [
+          "2024",
+          "2023"
+        ],
+        "source_file": "United_Bank_Limited_Annual_2024_chunks.md"
+      },
+      "score": 0.738578733177353
+    },
+    {
+      "node_id": "United_Bank_Limited_Annual_2024_chunks_chunk_326",
+      "text": "--- Metadata Context ---\nentity_name: United Bank Limited\nticker: UBL\nfiling_type: annual\nfiling_period: 2024, 2023\nfinancial_data: yes\nfinancial_statement_scope: consolidated\nis_statement: yes\nstatement_type: balance_sheet\nis_note: no\nauditor_report: no\ndirector_report: no\nannual_report_discussion: no\n--- End Context ---\n\n# Consolidated Statement of Financial Position\n\n# As at December 31, 2024\n\n| |CONSOLIDATED STATEMENT OF FINANCIAL POSITION| | | | |\n|---|---|---|---|---|---|\n| | |Note|2024|2023| |\n| | | |------------------------------------------ (Rupees in \u2018000) ----------------------------| | |\n| |ASSETS| | | | |\n|5|Cash and balances with treasury banks|310,836,376|277,355,760| | |\n|6|Balances with other banks|59,968,246|33,430,371| | |\n|7|Lendings to financial institutions|18,492,483|39,316,270| | |\n|8|Investments|5,889,765,841|4,435,750,870| | |\n|9|Advances|1,443,481,944|872,040,932| | |\n|10|Property and Equipment|85,591,999|76,460,159| | |\n|11|Right-of-use of assets|10,231,121|8,611,473| | |\n|12|Intangible assets|2,792,016|2,552,398| | |\n|13|Deferred tax assets|-|-| | |\n|14|Other assets|247,937,251|159,156,653| | |\n|Total Assets|Total Assets|8,069,097,277|5,904,674,886| | |\n| |LIABILITIES| | | | |\n|16|Bills payable|44,221,818|21,734,531| | |\n|17|Borrowings|4,855,373,516|2,823,887,914| | |\n|18|Deposits and other accounts|2,639,875,985|2,634,716,102| | |\n|19|Lease liabilities|12,381,018|10,474,561| | |\n|20|Subordinated debt|10,000,000|10,000,000| | |\n|13|Deferred tax liabilities|39,311,263|2,079,220| | |\n|21|Other liabilities|147,125,664|115,909,963| | |\n|Total Liabilities|Total Liabilities|7,748,289,264|5,618,802,291| | |\n| |NET ASSETS| | | | |\n|Total Net Assets|Total Net Assets|320,808,013|285,872,595| | |\n| |REPRESENTED BY:| | | | |\n|22|Share capital|12,241,797|12,241,797| | |\n|Reserves|Reserves|114,734,831|116,771,416| | |\n|23|Surplus on revaluation of assets - net|77,309,424|44,575,947| | |\n| |Unappropriated profit|116,472,051|97,379,056| | |\n|Total equity attributable to the equity holders of the Bank|Total equity attributable to the equity holders of the Bank|320,758,103|270,968,216| | |\n|24|Non-controlling interest|49,910|14,904,379| | |\n|Total|Total|320,808,013|285,872,595| | |\n| |CONTINGENCIES AND COMMITMENTS| | | | |\n\nThe annexed notes 1 to 53 and annexures I, II and III form an integral part of these consolidated financial statements.\n\nSyed Manzoor Hussain Zaidi\n\nChief Financial Officer\n\nOmer Chughtai\n\nPresident & Chief Executive Officer\n\nShazia Syed\n\nDirector\n\nDaniel Michael Howlett\n\nDirector\n\nSir Mohammed Anwar Pervez, OBE, HPk\n\nChairman\n\nPlace: Karachi\n\nDate:\n\nUDIN:\n\n---",
+      "metadata": {
+        "chunk_number": 326,
+        "financial_data": "yes",
+        "financial_statement_scope": "consolidated",
+        "is_statement": "yes",
+        "statement_type": "balance_sheet",
+        "is_note": "no",
+        "note_link": "none",
+        "auditor_report": "no",
+        "director_report": "no",
+        "annual_report_discussion": "no",
+        "file_name": "United_Bank_Limited_Annual_2024_chunks.md",
+        "ticker": "UBL",
+        "entity_name": "United Bank Limited",
+        "filing_type": "annual",
+        "filing_period": [
+          "2024",
+          "2023"
+        ],
+        "source_file": "United_Bank_Limited_Annual_2024_chunks.md"
+      },
+      "score": 0.7340301058238734
+    },
+    {
+      "node_id": "Habib_Bank_Limited_Annual_2024_chunks_chunk_675",
+      "text": "--- Metadata Context ---\nentity_name: Habib Bank Limited\nticker: HBL\nfiling_type: annual\nfiling_period: 2024, 2023\nfinancial_data: yes\nfinancial_statement_scope: unconsolidated\nis_statement: yes\nstatement_type: balance_sheet\nis_note: no\nauditor_report: no\ndirector_report: no\nannual_report_discussion: no\n--- End Context ---\n\n# LIABILITIES\n\n|340,526|183,912|Bills payable|15|94,853,624|51,228,670|\n|---|---|---|---|---|---|\n|2,828,025|2,367,054|Borrowings|16|787,746,499|659,342,821|\n|14,687,375|13,894,022|Deposits and other accounts|17|4,091,168,379|3,870,179,912|\n|110,533|96,444|Lease Liabilities|18|30,788,980|26,864,447|\n|67,758|67,758|Subordinated debt|19|18,874,000|18,874,000|\n|-|-|Deferred tax liabilities| |-|-|\n|928,333|866,638|Other liabilities|20|258,587,052|241,401,905|\n|18,962,550|17,475,828| | |5,282,018,534|4,867,891,755|\n\n# NET ASSETS\n\n1,356,258\n1,198,274\nNET ASSETS\n\n377,785,296\n333,779,408\n\n---",
+      "metadata": {
+        "chunk_number": 675,
+        "financial_data": "yes",
+        "financial_statement_scope": "unconsolidated",
+        "is_statement": "yes",
+        "statement_type": "balance_sheet",
+        "is_note": "no",
+        "note_link": "none",
+        "auditor_report": "no",
+        "director_report": "no",
+        "annual_report_discussion": "no",
+        "file_name": "Habib_Bank_Limited_Annual_2024_chunks.md",
+        "ticker": "HBL",
+        "entity_name": "Habib Bank Limited",
+        "filing_type": "annual",
+        "filing_period": [
+          "2024",
+          "2023"
+        ],
+        "source_file": "Habib_Bank_Limited_Annual_2024_chunks.md"
+      },
+      "score": 0.6799339851640571
+    },
+    {
+      "node_id": "Habib_Bank_Limited_Annual_2024_chunks_chunk_676",
+      "text": "--- Metadata Context ---\nentity_name: Habib Bank Limited\nticker: HBL\nfiling_type: annual\nfiling_period: 2024, 2023\nfinancial_data: yes\nfinancial_statement_scope: unconsolidated\nis_statement: yes\nstatement_type: balance_sheet\nis_note: no\nauditor_report: no\ndirector_report: no\nannual_report_discussion: no\n--- End Context ---\n\n# REPRESENTED BY\n\n# Shareholders' equity\n\n|52,660|52,660|Share capital|21|14,668,525|14,668,525|\n|---|---|---|---|---|---|\n|296,668|309,602|Reserves| |82,636,883|86,239,700|\n|206,386|94,703|Surplus on revaluation of assets - net of tax|22|57,488,888|26,379,538|\n|800,544|741,309|Unappropriated profit| |222,991,000|206,491,645|\n|1,356,258|1,198,274| | |377,785,296|333,779,408|\n\n---",
+      "metadata": {
+        "chunk_number": 676,
+        "financial_data": "yes",
+        "financial_statement_scope": "unconsolidated",
+        "is_statement": "yes",
+        "statement_type": "balance_sheet",
+        "is_note": "no",
+        "note_link": "none",
+        "auditor_report": "no",
+        "director_report": "no",
+        "annual_report_discussion": "no",
+        "file_name": "Habib_Bank_Limited_Annual_2024_chunks.md",
+        "ticker": "HBL",
+        "entity_name": "Habib Bank Limited",
+        "filing_type": "annual",
+        "filing_period": [
+          "2024",
+          "2023"
+        ],
+        "source_file": "Habib_Bank_Limited_Annual_2024_chunks.md"
+      },
+      "score": 0.676179860337187
+    },
+    {
+      "node_id": "Bank_AL_Habib_Limited_Annual_2024_chunks_chunk_81",
+      "text": "--- Metadata Context ---\nentity_name: Bank AL Habib Limited\nticker: BAHL\nfiling_type: annual\nfiling_period: 2024, 2023\nfinancial_data: yes\nfinancial_statement_scope: unconsolidated\nis_statement: yes\nstatement_type: balance_sheet\nis_note: no\nauditor_report: no\ndirector_report: no\nannual_report_discussion: no\n--- End Context ---\n\n# UNCONSOLIDATED STATEMENT OF FINANCIAL POSITION\n\n# AS AT 31 DECEMBER 2024\n\n# (Restated)\n\n|Note|2024|2023|\n|---|---|---|\n|ASSETS| | |\n|Cash and balances with treasury banks|201,532,248|141,815,998|\n|Balances with other banks|5,836,908|6,580,672|\n|Lendings to financial institutions|38,941,542|1,649,716|\n|Investments|1,924,732,913|1,503,895,348|\n|Advances|910,850,199|869,458,809|\n|Property and equipment|75,939,019|67,602,830|\n|Right-of-use assets|13,679,198|11,969,724|\n|Intangible assets|129,154|124,462|\n|Deferred tax assets|4,535,942|4,844,408|\n|Other assets|143,858,082|136,130,442|\n|Total Assets|3,320,035,205|2,744,072,409|\n|LIABILITIES| | |\n|Bills payable|52,263,043|48,083,103|\n|Borrowings|667,043,213|477,438,034|\n|Deposits and other accounts|2,278,956,911|1,934,036,510|\n|Lease liabilities|16,848,698|14,441,482|\n|Subordinated debt|25,988,400|29,985,200|\n|Deferred tax liabilities|\u2013000|\u2013000|\n|Other liabilities|126,946,320|110,428,991|\n|Total Liabilities|3,168,046,585|2,614,413,320|\n|NET ASSETS|151,988,620|129,659,089|\n|REPRESENTED BY| | |\n|Share capital|11,114,254|11,114,254|\n|Reserves|32,050,356|28,184,872|\n|Surplus on revaluation of assets|21,604,223|17,764,334|\n|Unappropriated profit|87,219,787|72,595,629|\n| |151,988,620|129,659,089|\n\n---",
+      "metadata": {
+        "chunk_number": 81,
+        "financial_data": "yes",
+        "financial_statement_scope": "unconsolidated",
+        "is_statement": "yes",
+        "statement_type": "balance_sheet",
+        "is_note": "no",
+        "note_link": "none",
+        "auditor_report": "no",
+        "director_report": "no",
+        "annual_report_discussion": "no",
+        "file_name": "Bank_AL_Habib_Limited_Annual_2024_chunks.md",
+        "ticker": "BAHL",
+        "entity_name": "Bank AL Habib Limited",
+        "filing_type": "annual",
+        "filing_period": [
+          "2024",
+          "2023"
+        ],
+        "source_file": "Bank_AL_Habib_Limited_Annual_2024_chunks.md"
+      },
+      "score": 0.6726197187021101
+    },
+    {
+      "node_id": "Habib_Bank_Limited_Annual_2024_chunks_chunk_425",
+      "text": "--- Metadata Context ---\nentity_name: Habib Bank Limited\nticker: HBL\nfiling_type: annual\nfiling_period: 2024, 2023\nfinancial_data: yes\nfinancial_statement_scope: unconsolidated\nis_statement: yes\nstatement_type: balance_sheet\nis_note: no\nauditor_report: no\ndirector_report: no\nannual_report_discussion: no\n--- End Context ---\n\n# STATEMENT OF FINANCIAL POSITION\n\n|Note|2024|2023|\n|---|---|---|\n|(Rupees in '000)|(Rupees in '000)|(Rupees in '000)|\n|ASSETS| | |\n|Cash and balances with treasury banks|39,849,968|40,418,980|\n|Balances with other banks|760,800|476,714|\n|Due from financial institutions|30,000,000|19,500,000|\n|Investments|349,841,214|226,552,494|\n|Islamic financing and related assets - net|193,867,617|213,054,465|\n|Property and equipment|7,307,282|7,392,659|\n|Right-of-use assets|7,553,230|6,526,100|\n|Intangible assets|43,133|48,248|\n|Due from Head Office|-|-|\n|Deferred tax assets|-|1,270,557|\n|Other assets|25,835,979|23,894,137|\n|Total Assets|655,059,223|539,134,354|\n|LIABILITIES| | |\n|Bills payable|39,072|40,454|\n|Due to financial institutions|45,450,071|32,119,436|\n|Deposits and other accounts|494,894,964|422,709,734|\n|Due to Head Office|5,926,658|9,382,906|\n|Lease liabilities|10,332,557|8,572,063|\n|Subordinated debt|-|-|\n|Deferred tax liabilities|1,904,986|-|\n|Other liabilities|33,565,331|23,443,740|\n|Total Liabilities|592,113,639|496,268,333|\n|NET ASSETS|62,945,584|42,866,021|\n|REPRESENTED BY| | |\n|Islamic Banking Fund|500,000|500,000|\n|Reserves|-|-|\n|Surplus / (deficit) on revaluation of investments - net of tax|4,361,869|(1,322,417)|\n|Unappropriated profit|58,083,715|43,688,438|\n|Total Represented By|62,945,584|42,866,021|\n|Contingencies and commitments|9| |\n\n---",
+      "metadata": {
+        "chunk_number": 425,
+        "financial_data": "yes",
+        "financial_statement_scope": "unconsolidated",
+        "is_statement": "yes",
+        "statement_type": "balance_sheet",
+        "is_note": "no",
+        "note_link": "none",
+        "auditor_report": "no",
+        "director_report": "no",
+        "annual_report_discussion": "no",
+        "file_name": "Habib_Bank_Limited_Annual_2024_chunks.md",
+        "ticker": "HBL",
+        "entity_name": "Habib Bank Limited",
+        "filing_type": "annual",
+        "filing_period": [
+          "2024",
+          "2023"
+        ],
+        "source_file": "Habib_Bank_Limited_Annual_2024_chunks.md"
+      },
+      "score": 0.6695568953112073
+    },
+    {
+      "node_id": "National_Bank_of_Pakistan_Annual_2024_chunks_chunk_516",
+      "text": "--- Metadata Context ---\nentity_name: National Bank of Pakistan\nticker: NBP\nfiling_type: annual\nfiling_period: 2024, 2023\nfinancial_data: yes\nfinancial_statement_scope: unconsolidated\nis_statement: yes\nstatement_type: balance_sheet\nis_note: no\nauditor_report: no\ndirector_report: no\nannual_report_discussion: no\n--- End Context ---\n\n# LIABILITIES\n\n| |2024 (Rupees in '000)|2023 (Rupees in '000)|\n|---|---|---|\n|Bills payable|1,397,301|477,959|\n|Due to financial institutions|-|-|\n|Deposits and other accounts|309,438,083|113,801,806|\n|Due to head office|2,883,224|12,960,028|\n|Lease liabilities|814,024|811,291|\n|Subordinated debt|-|-|\n|Other liabilities|2,846,597|2,249,195|\n|Total liabilities|317,379,229|130,300,279|\n\n---",
+      "metadata": {
+        "chunk_number": 516,
+        "financial_data": "yes",
+        "financial_statement_scope": "unconsolidated",
+        "is_statement": "yes",
+        "statement_type": "balance_sheet",
+        "is_note": "no",
+        "note_link": "none",
+        "auditor_report": "no",
+        "director_report": "no",
+        "annual_report_discussion": "no",
+        "file_name": "National_Bank_of_Pakistan_Annual_2024_chunks.md",
+        "ticker": "NBP",
+        "entity_name": "National Bank of Pakistan",
+        "filing_type": "annual",
+        "filing_period": [
+          "2024",
+          "2023"
+        ],
+        "source_file": "National_Bank_of_Pakistan_Annual_2024_chunks.md"
+      },
+      "score": 0.6680152960658089
+    },
+    {
+      "node_id": "Habib_Bank_Limited_Annual_2024_chunks_chunk_674",
+      "text": "--- Metadata Context ---\nentity_name: Habib Bank Limited\nticker: HBL\nfiling_type: annual\nfiling_period: 2024, 2023\nfinancial_data: yes\nfinancial_statement_scope: unconsolidated\nis_statement: yes\nstatement_type: balance_sheet\nis_note: no\nauditor_report: no\ndirector_report: no\nannual_report_discussion: no\n--- End Context ---\n\n# UNCONSOLIDATED STATEMENT OF FINANCIAL POSITION\n\n# HABIB BANK LIMITED\n\n# UNCONSOLIDATED STATEMENT OF FINANCIAL POSITION AS AT DECEMBER 31, 2024\n\n|2024|2023| |Note|2024|2023| |\n|---|---|---|---|---|---|---|\n| |(US $ in '000)| | | |(Rupees in '000)| |\n|1,511,885|1,813,611|Cash and balances with treasury banks|5|421,135,641|505,181,227| |\n|150,963|154,417|Balances with other banks|6|42,050,611|43,012,856| |\n|302,617|318,069|Lendings to financial institutions|7|84,293,922|88,598,160| |\n|8,612,199|8,974,797|Investments|8|2,398,928,165|2,499,929,784| |\n|8,095,367|5,973,851|Advances|9|2,254,964,431|1,664,016,203| |\n|455,582|409,347|Property and equipment|10|126,902,235|114,023,722| |\n|84,017|77,717|Right-of-use assets|11|23,402,937|21,648,036| |\n|61,112|53,810|Intangible assets|12|17,022,673|14,988,816| |\n|11,537|40,947|Deferred tax assets|13|3,213,765|11,405,839| |\n|1,033,529|857,536|Other assets|14|287,889,450|238,866,520| |\n|20,318,808|18,674,102| | |5,659,803,830|5,201,671,163| |\n\n---",
+      "metadata": {
+        "chunk_number": 674,
+        "financial_data": "yes",
+        "financial_statement_scope": "unconsolidated",
+        "is_statement": "yes",
+        "statement_type": "balance_sheet",
+        "is_note": "no",
+        "note_link": "none",
+        "auditor_report": "no",
+        "director_report": "no",
+        "annual_report_discussion": "no",
+        "file_name": "Habib_Bank_Limited_Annual_2024_chunks.md",
+        "ticker": "HBL",
+        "entity_name": "Habib Bank Limited",
+        "filing_type": "annual",
+        "filing_period": [
+          "2024",
+          "2023"
+        ],
+        "source_file": "Habib_Bank_Limited_Annual_2024_chunks.md"
+      },
+      "score": 0.6677553246483383
+    },
+    {
+      "node_id": "Bank_AL_Habib_Limited_Annual_2024_chunks_chunk_384",
+      "text": "--- Metadata Context ---\nentity_name: Bank AL Habib Limited\nticker: BAHL\nfiling_type: annual\nfiling_period: 2024, 2023\nfinancial_data: yes\nfinancial_statement_scope: consolidated\nis_statement: yes\nstatement_type: balance_sheet\nis_note: no\nauditor_report: no\ndirector_report: no\nannual_report_discussion: no\n--- End Context ---\n\n# CONSOLIDATED STATEMENT OF FINANCIAL POSITION\n\n# AS AT 31 DECEMBER 2024\n\n(Restated)\n\n|Note|2024|2023|\n|---|---|---|\n|ASSETS| | |\n|Cash and balances with treasury banks|201,935,630|141,816,023|\n|Balances with other banks|5,887,584|6,662,922|\n|Lendings to financial institutions|38,941,542|1,649,716|\n|Investments|1,926,109,064|1,504,488,304|\n|Advances|910,279,117|868,868,391|\n|Property and equipment|76,057,034|67,614,531|\n|Right-of-use assets|13,731,222|11,969,724|\n|Intangible assets|237,024|212,691|\n|Deferred tax assets|4,529,802|4,843,108|\n|Other assets|145,422,433|137,128,649|\n|Total Assets|3,323,130,452|2,745,254,059|\n|LIABILITIES| | |\n|Bills payable|52,263,043|48,083,103|\n|Borrowings|667,043,213|477,438,034|\n|Deposits and other accounts|2,277,961,527|1,933,731,281|\n|Lease liabilities|16,897,021|14,441,482|\n|Subordinated debt|25,988,400|29,985,200|\n|Deferred tax liabilities|\u2013000|\u2013000|\n|Other liabilities|127,773,646|110,795,965|\n|Total Liabilities|3,167,926,850|2,614,475,065|\n|NET ASSETS|155,203,602|130,778,994|\n|REPRESENTED BY| | |\n|Share capital|11,114,254|11,114,254|\n|Reserves|32,050,356|28,184,872|\n|Surplus on revaluation of assets|21,624,360|17,758,959|\n|Unappropriated profit|90,259,109|73,595,373|\n|Equity attributable to the shareholders of the Holding Company|155,048,079|130,653,458|\n|Non-controlling interest|155,523|125,536|\n|Total equity|155,203,602|130,778,994|\n\nCONTINGENCIES AND COMMITMENTS\n\nThe annexed notes 1 to 50 and annexures I and II form an integral part of these consolidated financial statements.\n\nMANSOOR ALI KHAN\n\nChief Executive\n\nASHAR HUSAIN\n\nChief Financial Officer\n\nMOHAMMAD RAFIQUDDIN MEHKARI\n\nDirector\n\nARSHAD NASAR\n\nDirector\n\nABBAS D. HABIB\n\nChairman\n\n170\n\n---",
+      "metadata": {
+        "chunk_number": 384,
+        "financial_data": "yes",
+        "financial_statement_scope": "consolidated",
+        "is_statement": "yes",
+        "statement_type": "balance_sheet",
+        "is_note": "no",
+        "note_link": "none",
+        "auditor_report": "no",
+        "director_report": "no",
+        "annual_report_discussion": "no",
+        "file_name": "Bank_AL_Habib_Limited_Annual_2024_chunks.md",
+        "ticker": "BAHL",
+        "entity_name": "Bank AL Habib Limited",
+        "filing_type": "annual",
+        "filing_period": [
+          "2024",
+          "2023"
+        ],
+        "source_file": "Bank_AL_Habib_Limited_Annual_2024_chunks.md"
+      },
+      "score": 0.6672627473394349
+    }
+  ],
+  "node_count": 10,
+  "server_version": "enhanced",
+  "save_time": "2025-06-04T13:08:53.315739"
+}

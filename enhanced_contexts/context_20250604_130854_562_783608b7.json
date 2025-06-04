@@ -1,0 +1,276 @@
+{
+  "timestamp": "20250604_130854",
+  "query": "MCB balance sheet Q3 2023",
+  "query_hash": "783608b7",
+  "metadata": {
+    "is_statement": "yes",
+    "is_note": "no",
+    "statement_type": "balance_sheet",
+    "filing_type": "quarterly"
+  },
+  "nodes": [
+    {
+      "node_id": "MCB_Bank_Limited_Quarterly_2024-09-30_chunks_chunk_7",
+      "text": "--- Metadata Context ---\nentity_name: MCB Bank Limited\nticker: MCB\nfiling_type: quarterly\nfiling_period: Q3-2024, Q3-2023\nfinancial_data: yes\nfinancial_statement_scope: unconsolidated\nis_statement: yes\nstatement_type: balance_sheet\nis_note: no\nauditor_report: no\ndirector_report: no\nannual_report_discussion: no\n--- End Context ---\n\n# Unconsolidated Condensed Interim Statement of Financial Position\n\n# As at September 30, 2024\n\n|Note|September 30, 2024|December 31, 2023|\n|---|---|---|\n|---------Rupees in '000---------|---------Rupees in '000---------|---------Rupees in '000---------|\n|ASSETS| | |\n|Cash and balances with treasury banks|191,327,896|170,716,648|\n|Balances with other banks|34,222,065|35,073,136|\n|Lendings to financial institutions|122,591,638|96,213,400|\n|Investments|1,507,152,309|1,249,439,347|\n|Advances|674,756,161|577,863,329|\n|Property and equipment|80,866,670|76,943,546|\n|Right-of-use assets|5,374,881|5,877,865|\n|Intangible assets|1,317,471|1,035,483|\n|Other assets|177,114,561|214,016,002|\n|Total Assets|2,794,723,652|2,427,178,756|\n|LIABILITIES| | |\n|Bills payable|10,635,774|25,095,911|\n|Borrowings|285,763,009|216,611,046|\n|Deposits and other accounts|2,064,825,927|1,805,387,294|\n|Lease liabilities|8,510,277|8,686,003|\n|Subordinated debt|-|-|\n|Deferred tax liabilities|8,075,528|100,718|\n|Other liabilities|154,752,724|140,590,915|\n|Total Liabilities|2,532,563,239|2,196,471,887|\n|NET ASSETS|262,160,413|230,706,869|\n|REPRESENTED BY| | |\n|Share capital|11,850,600|11,850,600|\n|Reserves|103,840,990|98,723,536|\n|Surplus on revaluation of assets|37,840,231|24,093,197|\n|Unappropriated profit|108,628,592|96,039,536|\n|Total|262,160,413|230,706,869|\n\n---",
+      "metadata": {
+        "chunk_number": 7,
+        "financial_data": "yes",
+        "financial_statement_scope": "unconsolidated",
+        "is_statement": "yes",
+        "statement_type": "balance_sheet",
+        "is_note": "no",
+        "note_link": "none",
+        "auditor_report": "no",
+        "director_report": "no",
+        "annual_report_discussion": "no",
+        "file_name": "MCB_Bank_Limited_Quarterly_2024-09-30_chunks.md",
+        "ticker": "MCB",
+        "entity_name": "MCB Bank Limited",
+        "filing_type": "quarterly",
+        "filing_period": [
+          "Q3-2024",
+          "Q3-2023"
+        ],
+        "source_file": "MCB_Bank_Limited_Quarterly_2024-09-30_chunks.md"
+      },
+      "score": 0.7371822279792531
+    },
+    {
+      "node_id": "MCB_Bank_Limited_Quarterly_2024-09-30_chunks_chunk_83",
+      "text": "--- Metadata Context ---\nentity_name: MCB Bank Limited\nticker: MCB\nfiling_type: quarterly\nfiling_period: Q3-2024, Q3-2023\nfinancial_data: yes\nfinancial_statement_scope: consolidated\nis_statement: yes\nstatement_type: balance_sheet\nis_note: no\nauditor_report: no\ndirector_report: no\nannual_report_discussion: no\n--- End Context ---\n\n# Consolidated Condensed Interim Financial Statements for the Nine Months Period Ended September 30, 2024\n\n# MCB Bank Limited & Subsidiary Companies\n\n# Consolidated Condensed Interim Statement of Financial Position\n\n# As At September 30, 2024\n\n|Note|September 30, 2024|December 31, 2023| | | | | | |\n|---|---|---|---|---|---|---|---|---|\n| |7|210,303,882|190,245,798| | | | | |\n| |8|35,578,172|37,806,854| | | | | |\n| |9|122,591,638|89,713,400| | | | | |\n| |10|1,652,672,283|1,372,343,715| | | | | |\n| |11|770,011,641|670,673,495| | | | | |\n| |12|85,765,067|80,736,669| | | | | |\n| |13|7,488,847|8,001,881| | | | | |\n| |14|2,683,514|1,859,032| | | | | |\n| |15|200,865,311|228,704,335| | | | | |\n|Total Assets| |3,087,960,355|2,680,085,179| | | | | |\n\n---",
+      "metadata": {
+        "chunk_number": 83,
+        "financial_data": "yes",
+        "financial_statement_scope": "consolidated",
+        "is_statement": "yes",
+        "statement_type": "balance_sheet",
+        "is_note": "no",
+        "note_link": "none",
+        "auditor_report": "no",
+        "director_report": "no",
+        "annual_report_discussion": "no",
+        "file_name": "MCB_Bank_Limited_Quarterly_2024-09-30_chunks.md",
+        "ticker": "MCB",
+        "entity_name": "MCB Bank Limited",
+        "filing_type": "quarterly",
+        "filing_period": [
+          "Q3-2024",
+          "Q3-2023"
+        ],
+        "source_file": "MCB_Bank_Limited_Quarterly_2024-09-30_chunks.md"
+      },
+      "score": 0.7320767020013583
+    },
+    {
+      "node_id": "MCB_Bank_Limited_Quarterly_2024-06-30_chunks_chunk_9",
+      "text": "--- Metadata Context ---\nentity_name: MCB Bank Limited\nticker: MCB\nfiling_type: quarterly\nfiling_period: Q2-2024, Q2-2023\nfinancial_data: yes\nfinancial_statement_scope: unconsolidated\nis_statement: yes\nstatement_type: balance_sheet\nis_note: no\nauditor_report: no\ndirector_report: no\nannual_report_discussion: no\n--- End Context ---\n\n# Unconsolidated Condensed Interim Statement of Financial Position\n\n| | | |Note|Unaudited|Audited| |\n|---|---|---|---|---|---|---|\n| | | | |June 30, 2024|December 31, 2023| |\n| | |ASSETS| | | | |\n| | | |7|Cash and balances with treasury banks|222,764,096|170,716,648|\n| | | |8|Balances with other banks|38,500,986|35,073,136|\n| | | |9|Lendings to financial institutions|80,861,177|96,213,400|\n| | | |10|Investments|1,481,698,677|1,249,439,347|\n| | | |11|Advances|608,683,610|577,863,329|\n| | | |12|Property and equipment|79,525,336|76,943,546|\n| | | |13|Right-of-use assets|5,637,632|5,877,865|\n| | | |14|Intangible assets|1,383,993|1,035,483|\n| | | |15|Deferred tax assets|4,829,434|-|\n| | | |16|Other assets|149,473,945|214,016,002|\n| | |Total Assets| |2,673,358,886|2,427,178,756| |\n| | |LIABILITIES| | | | |\n| | | |18|Bills payable|14,579,220|25,095,911|\n| | | |19|Borrowings|284,402,094|216,611,046|\n| | | |20|Deposits and other accounts|1,993,953,802|1,805,387,294|\n| | | |21|Lease liabilities|8,752,494|8,686,003|\n|19| |Subordinated debt| |-|-| |\n| | | |15|Deferred tax liabilities|-|100,718|\n| | | |22|Other liabilities|129,492,204|140,590,915|\n| | |Total Liabilities| |2,431,179,814|2,196,471,887| |\n| | |NET ASSETS| |242,179,072|230,706,869| |\n| | |REPRESENTED BY| | | | |\n| | |Share capital| |11,850,600|11,850,600| |\n| | | |23|Reserves|102,040,612|98,723,536|\n| | | |24|Surplus on revaluation of assets|24,077,476|24,093,197|\n| | |Unappropriated profit| |104,210,384|96,039,536| |\n| | | | |242,179,072|230,706,869| |\n\n# CONTINGENCIES AND COMMITMENTS\n\nThe annexed notes 1 to 43 form an integral part of these unconsolidated condensed interim financial statements.\n\nA. F. Ferguson & Co.\n\nChartered Accountants\n\nLahore\n\nDated: August 27, 2024\n\nUDIN: RR202410092rW6MtsySz\n\n---",
+      "metadata": {
+        "chunk_number": 9,
+        "financial_data": "yes",
+        "financial_statement_scope": "unconsolidated",
+        "is_statement": "yes",
+        "statement_type": "balance_sheet",
+        "is_note": "no",
+        "note_link": "none",
+        "auditor_report": "no",
+        "director_report": "no",
+        "annual_report_discussion": "no",
+        "file_name": "MCB_Bank_Limited_Quarterly_2024-06-30_chunks.md",
+        "ticker": "MCB",
+        "entity_name": "MCB Bank Limited",
+        "filing_type": "quarterly",
+        "filing_period": [
+          "Q2-2024",
+          "Q2-2023"
+        ],
+        "source_file": "MCB_Bank_Limited_Quarterly_2024-06-30_chunks.md"
+      },
+      "score": 0.717772443623293
+    },
+    {
+      "node_id": "MCB_Bank_Limited_Quarterly_2024-09-30_chunks_chunk_84",
+      "text": "--- Metadata Context ---\nentity_name: MCB Bank Limited\nticker: MCB\nfiling_type: quarterly\nfiling_period: Q3-2024, Q3-2023\nfinancial_data: yes\nfinancial_statement_scope: consolidated\nis_statement: yes\nstatement_type: balance_sheet\nis_note: no\nauditor_report: no\ndirector_report: no\nannual_report_discussion: no\n--- End Context ---\n\n# LIABILITIES\n\n| |17|12,132,293|27,271,384| | | | | | |\n|---|---|---|---|---|---|---|---|---|---|\n| |18|306,548,237|235,664,480| | | | | | |\n| |19|2,303,822,433|2,009,828,619| | | | | | |\n| |20|11,292,721|11,429,243| | | | | | |\n| | |11,354,527|3,552,321| | | | | | |\n| |22|165,608,065|150,588,030| | | | | | |\n|Total Liabilities| |2,810,758,276|2,438,334,077| | | | | | |\n\n# NET ASSETS\n\n|Share capital| |11,850,600|11,850,600| | | | | |\n|---|---|---|---|---|---|---|---|---|\n| |23|106,898,190|101,129,809| | | | | |\n| |24|39,762,274|25,740,282| | | | | |\n|Unappropriated profit| |118,276,303|102,689,217| | | | | |\n| | | | |Total|277,202,079|241,751,102| | |\n\n---",
+      "metadata": {
+        "chunk_number": 84,
+        "financial_data": "yes",
+        "financial_statement_scope": "consolidated",
+        "is_statement": "yes",
+        "statement_type": "balance_sheet",
+        "is_note": "no",
+        "note_link": "none",
+        "auditor_report": "no",
+        "director_report": "no",
+        "annual_report_discussion": "no",
+        "file_name": "MCB_Bank_Limited_Quarterly_2024-09-30_chunks.md",
+        "ticker": "MCB",
+        "entity_name": "MCB Bank Limited",
+        "filing_type": "quarterly",
+        "filing_period": [
+          "Q3-2024",
+          "Q3-2023"
+        ],
+        "source_file": "MCB_Bank_Limited_Quarterly_2024-09-30_chunks.md"
+      },
+      "score": 0.7145569729978609
+    },
+    {
+      "node_id": "MCB_Bank_Limited_Quarterly_2024-03-31_chunks_chunk_7",
+      "text": "--- Metadata Context ---\nentity_name: MCB Bank Limited\nticker: MCB\nfiling_type: quarterly\nfiling_period: Q1-2024, Q1-2023\nfinancial_data: yes\nfinancial_statement_scope: unconsolidated\nis_statement: yes\nstatement_type: balance_sheet\nis_note: no\nauditor_report: no\ndirector_report: no\nannual_report_discussion: no\n--- End Context ---\n\n# Unconsolidated Condensed Interim Statement of Financial Position\n\n# As At March 31, 2024\n\n| |Note|Unaudited|Audited| | | | |\n|---|---|---|---|---|---|---|---|\n| | |March 31, 2024|December 31, 2023| | | | |\n| | |---------Rupees in '000---------| | | | | |\n|Cash and balances with treasury banks|7|189,658,456|170,716,648| | | | |\n|Balances with other banks|8|38,350,567|35,073,136| | | | |\n|Lendings to financial institutions|9|50,042,175|96,213,400| | | | |\n|Investments|10|1,288,592,435|1,249,439,347| | | | |\n|Advances|11|596,041,680|577,863,329| | | | |\n|Property and equipment|12|78,220,015|76,943,546| | | | |\n|Right-of-use assets|13|5,643,123|5,877,865| | | | |\n|Intangible assets|14|1,426,376|1,035,483| | | | |\n|Deferred tax assets|15|9,645,417|-| | | | |\n|Other assets|16|151,338,140|214,016,002| | | | |\n| | |2,408,958,384|2,427,178,756| | | | |\n\n---",
+      "metadata": {
+        "chunk_number": 7,
+        "financial_data": "yes",
+        "financial_statement_scope": "unconsolidated",
+        "is_statement": "yes",
+        "statement_type": "balance_sheet",
+        "is_note": "no",
+        "note_link": "none",
+        "auditor_report": "no",
+        "director_report": "no",
+        "annual_report_discussion": "no",
+        "file_name": "MCB_Bank_Limited_Quarterly_2024-03-31_chunks.md",
+        "ticker": "MCB",
+        "entity_name": "MCB Bank Limited",
+        "filing_type": "quarterly",
+        "filing_period": [
+          "Q1-2024",
+          "Q1-2023"
+        ],
+        "source_file": "MCB_Bank_Limited_Quarterly_2024-03-31_chunks.md"
+      },
+      "score": 0.706872227159972
+    },
+    {
+      "node_id": "MCB_Bank_Limited_Quarterly_2024-06-30_chunks_chunk_73",
+      "text": "--- Metadata Context ---\nentity_name: MCB Bank Limited\nticker: MCB\nfiling_type: quarterly\nfiling_period: Q2-2024, Q2-2023\nfinancial_data: yes\nfinancial_statement_scope: consolidated\nis_statement: yes\nstatement_type: balance_sheet\nis_note: no\nauditor_report: no\ndirector_report: no\nannual_report_discussion: no\n--- End Context ---\n\n# Consolidated Condensed Interim Statement of Financial Position\n\n# As At June 30, 2024\n\n| |Note|Unaudited|Audited| | | | | |\n|---|---|---|---|---|---|---|---|---|\n| |7|248,097,626|190,245,798| | | | | |\n| |8|51,486,099|37,806,854| | | | | |\n| |9|88,755,589|89,713,400| | | | | |\n| |10|1,600,542,788|1,372,343,715| | | | | |\n| |11|715,685,342|670,673,495| | | | | |\n| |12|84,112,365|80,736,669| | | | | |\n| |13|7,736,877|8,001,881| | | | | |\n| |14|2,746,605|1,859,032| | | | | |\n| |15|1,967,891|-| | | | | |\n| |16|164,710,600|228,704,335| | | | | |\n|Total Assets| |2,965,841,782|2,680,085,179| | | | | |\n\n---",
+      "metadata": {
+        "chunk_number": 73,
+        "financial_data": "yes",
+        "financial_statement_scope": "consolidated",
+        "is_statement": "yes",
+        "statement_type": "balance_sheet",
+        "is_note": "no",
+        "note_link": "none",
+        "auditor_report": "no",
+        "director_report": "no",
+        "annual_report_discussion": "no",
+        "file_name": "MCB_Bank_Limited_Quarterly_2024-06-30_chunks.md",
+        "ticker": "MCB",
+        "entity_name": "MCB Bank Limited",
+        "filing_type": "quarterly",
+        "filing_period": [
+          "Q2-2024",
+          "Q2-2023"
+        ],
+        "source_file": "MCB_Bank_Limited_Quarterly_2024-06-30_chunks.md"
+      },
+      "score": 0.7019148056648405
+    },
+    {
+      "node_id": "MCB_Bank_Limited_Quarterly_2024-03-31_chunks_chunk_61",
+      "text": "--- Metadata Context ---\nentity_name: MCB Bank Limited\nticker: MCB\nfiling_type: quarterly\nfiling_period: Q1-2024, Q1-2023\nfinancial_data: yes\nfinancial_statement_scope: consolidated\nis_statement: yes\nstatement_type: balance_sheet\nis_note: no\nauditor_report: no\ndirector_report: no\nannual_report_discussion: no\n--- End Context ---\n\n# Consolidated Condensed Interim Financial Statements for the Three Months Period Ended March 31, 2024\n\n# Consolidated Condensed Interim Statement of Financial Position\n\n# As At March 31, 2024\n\n|Note|Unaudited|Audited|\n|---|---|---|\n| |March 31, 2024|December 31, 2023|\n|---------Rupees in '000---------|---------Rupees in '000---------|---------Rupees in '000---------|\n|ASSETS| | |\n|Cash and balances with treasury banks|209,122,539|190,245,798|\n|Balances with other banks|40,338,667|37,806,854|\n|Lendings to financial institutions|49,224,581|89,713,400|\n|Investments|1,393,339,062|1,372,343,715|\n|Advances|707,512,085|670,673,495|\n|Property and equipment|82,342,736|80,736,669|\n|Right-of-use assets|7,659,149|8,001,881|\n|Intangible assets|2,411,909|1,859,032|\n|Deferred tax assets|6,362,899|-|\n|Other assets|169,165,130|228,704,335|\n|2,667,478,757|2,667,478,757|2,667,478,757|\n|2,680,085,179|2,680,085,179|2,680,085,179|\n|LIABILITIES| | |\n|Bills payable|13,044,026|27,271,384|\n|Borrowings|183,267,210|235,664,480|\n|Deposits and other accounts|2,054,114,663|2,009,828,619|\n|Lease liabilities|11,107,507|11,429,243|\n|Subordinated debt|-|-|\n|Deferred tax liabilities|-|3,552,321|\n|Other liabilities|161,898,936|150,588,030|\n|2,423,432,342|2,423,432,342|2,423,432,342|\n|2,438,334,077|2,438,334,077|2,438,334,077|\n|NET ASSETS|244,046,415|241,751,102|\n|REPRESENTED BY| | |\n|Share capital|11,850,600|11,850,600|\n|Reserves|103,199,143|101,129,809|\n|Surplus on revaluation of assets|20,139,296|25,740,282|\n|Unappropriated profit|108,528,553|102,689,217|\n|243,717,592|243,717,592|243,717,592|\n|241,409,908|241,409,908|241,409,908|\n|Non-controlling interest|328,823|341,194|\n|244,046,415|244,046,415|244,046,415|\n|241,751,102|241,751,102|241,751,102|\n|CONTINGENCIES AND COMMITMENTS|25| |\n|The annexed notes 1 to 43 form an integral part of these consolidated condensed interim financial statements.|The annexed notes 1 to 43 form an integral part of these consolidated condensed interim financial statements.|The annexed notes 1 to 43 form an integral part of these consolidated condensed interim financial statements.|\n\n---",
+      "metadata": {
+        "chunk_number": 61,
+        "financial_data": "yes",
+        "financial_statement_scope": "consolidated",
+        "is_statement": "yes",
+        "statement_type": "balance_sheet",
+        "is_note": "no",
+        "note_link": "none",
+        "auditor_report": "no",
+        "director_report": "no",
+        "annual_report_discussion": "no",
+        "file_name": "MCB_Bank_Limited_Quarterly_2024-03-31_chunks.md",
+        "ticker": "MCB",
+        "entity_name": "MCB Bank Limited",
+        "filing_type": "quarterly",
+        "filing_period": [
+          "Q1-2024",
+          "Q1-2023"
+        ],
+        "source_file": "MCB_Bank_Limited_Quarterly_2024-03-31_chunks.md"
+      },
+      "score": 0.7017799964123558
+    },
+    {
+      "node_id": "Habib_Metropolitan_Bank_Limited_Quarterly_2024-09-30_chunks_chunk_108",
+      "text": "--- Metadata Context ---\nentity_name: Habib Metropolitan Bank Limited\nticker: HMB\nfiling_type: quarterly\nfiling_period: Q3-2024, Q3-2023\nfinancial_data: yes\nfinancial_statement_scope: consolidated\nis_statement: yes\nstatement_type: balance_sheet\nis_note: no\nauditor_report: no\ndirector_report: no\nannual_report_discussion: no\n--- End Context ---\n\n# Habib Metropolitan Bank Ltd.\n\n# Subsidiary of Habib Bank AG Zurich\n\n# Consolidated Accounts for the nine months\n\n# ended 30 September 2024\n\n# (Un-audited)\n\n# CONSOLIDATED CONDENSED INTERIM STATEMENT OF FINANCIAL POSITION AS AT 30 SEPTEMBER 2024\n\n|Note|30 September 2024 (Un-Audited)|31 December 2023 (Audited)|\n|---|---|---|\n|ASSETS|Rupees in \u2018000|Rupees in \u2018000|\n|Cash and balances with treasury banks|100,587,433|91,467,062|\n|Balances with other banks|5,352,393|21,269,948|\n|Lendings to financial institutions|30,970,815|5,496,284|\n|Investments|918,041,169|920,634,761|\n|Advances|505,988,135|433,632,602|\n|Property and equipment|17,237,110|15,782,163|\n|Right-of-use assets|8,463,137|7,625,010|\n|Intangible assets|576,350|368,333|\n|Deferred tax assets|\u2013|5,265,313|\n|Other assets|101,283,076|72,121,302|\n|Total Assets|1,688,499,618|1,573,662,778|\n|LIABILITIES| | |\n|Bills payable|42,620,328|28,352,699|\n|Borrowings|370,406,126|335,270,858|\n|Deposits and other accounts|1,044,071,947|1,011,485,773|\n|Lease liabilities|10,215,409|9,086,176|\n|Sub-ordinated debts|\u2013|\u2013|\n|Deferred tax liabilities|2,377,653|\u2013|\n|Other liabilities|102,446,394|91,278,065|\n|Total Liabilities|1,572,137,857|1,475,473,571|\n|NET ASSETS|116,361,761|98,189,207|\n|REPRESENTED BY| | |\n|Share capital|10,478,315|10,478,315|\n|Reserves|35,238,086|31,432,768|\n|Surplus / (deficit) on revaluation of assets|13,554,195|4,829,814|\n|Unappropriated profit|52,527,516|47,254,919|\n| |111,798,112|93,995,816|\n|Non-controlling interest|4,563,649|4,193,391|\n| |116,361,761|98,189,207|\n\nCONTINGENCIES AND COMMITMENTS\n\nThe annexed notes 1 to 41 form an integral part of these consolidated condensed interim financial statements.\n\nFUZAIL ABBAS      KHURRAM SHAHZAD KHAN    RASHID AHMED JAFER   MOHOMED BASHIR    MOHAMEDALI R. HABIB\n\nChief Financial Officer President & Director             Director           Chairman Chief Executive Officer\n\n---",
+      "metadata": {
+        "chunk_number": 108,
+        "financial_data": "yes",
+        "financial_statement_scope": "consolidated",
+        "is_statement": "yes",
+        "statement_type": "balance_sheet",
+        "is_note": "no",
+        "note_link": "none",
+        "auditor_report": "no",
+        "director_report": "no",
+        "annual_report_discussion": "no",
+        "file_name": "Habib_Metropolitan_Bank_Limited_Quarterly_2024-09-30_chunks.md",
+        "ticker": "HMB",
+        "entity_name": "Habib Metropolitan Bank Limited",
+        "filing_type": "quarterly",
+        "filing_period": [
+          "Q3-2024",
+          "Q3-2023"
+        ],
+        "source_file": "Habib_Metropolitan_Bank_Limited_Quarterly_2024-09-30_chunks.md"
+      },
+      "score": 0.6665819637905175
+    },
+    {
+      "node_id": "Habib_Metropolitan_Bank_Limited_Quarterly_2024-09-30_chunks_chunk_3",
+      "text": "--- Metadata Context ---\nentity_name: Habib Metropolitan Bank Limited\nticker: HMB\nfiling_type: quarterly\nfiling_period: Q3-2024, Q3-2023\nfinancial_data: yes\nfinancial_statement_scope: unconsolidated\nis_statement: yes\nstatement_type: balance_sheet\nis_note: no\nauditor_report: no\ndirector_report: no\nannual_report_discussion: no\n--- End Context ---\n\n# UNCONSOLIDATED CONDENSED INTERIM STATEMENT OF FINANCIAL POSITION AS AT 30 SEPTEMBER 2024\n\n|Note|30 September 2024 (Un-Audited)|31 December 2023 (Audited)|\n|---|---|---|\n|ASSETS|Rupees in \u2018000|Rupees in \u2018000|\n|Cash and balances with treasury banks|100,530,004|91,466,596|\n|Balances with other banks|5,079,759|21,123,950|\n|Lendings to financial institutions|30,970,815|5,496,284|\n|Investments|924,186,832|925,411,965|\n|Advances|479,455,762|412,048,924|\n|Property and equipment|17,094,974|15,715,033|\n|Right-of-use assets|8,411,023|7,601,453|\n|Intangible assets|518,250|323,254|\n|Deferred tax assets|\u2013|5,164,164|\n|Other assets|101,178,989|72,065,464|\n|Total Assets|1,667,426,408|1,556,417,087|\n|LIABILITIES| | |\n|Bills payable|42,620,328|28,352,699|\n|Borrowings|354,610,406|323,269,590|\n|Deposits and other accounts|1,045,899,412|1,012,302,844|\n|Lease liabilities|10,151,860|9,051,378|\n|Subordinated debt|\u2013|\u2013|\n|Deferred tax liabilities|2,473,931|\u2013|\n|Other liabilities|100,792,509|90,165,243|\n|Total Liabilities|1,556,548,446|1,463,141,754|\n|NET ASSETS|110,877,962|93,275,333|\n|REPRESENTED BY| | |\n|Share capital|10,478,315|10,478,315|\n|Reserves|34,198,854|30,418,061|\n|Surplus on revaluation of assets - net of tax|13,537,713|4,818,771|\n|Unappropriated profit|52,663,080|47,560,186|\n| |110,877,962|93,275,333|\n\n---",
+      "metadata": {
+        "chunk_number": 3,
+        "financial_data": "yes",
+        "financial_statement_scope": "unconsolidated",
+        "is_statement": "yes",
+        "statement_type": "balance_sheet",
+        "is_note": "no",
+        "note_link": "none",
+        "auditor_report": "no",
+        "director_report": "no",
+        "annual_report_discussion": "no",
+        "file_name": "Habib_Metropolitan_Bank_Limited_Quarterly_2024-09-30_chunks.md",
+        "ticker": "HMB",
+        "entity_name": "Habib Metropolitan Bank Limited",
+        "filing_type": "quarterly",
+        "filing_period": [
+          "Q3-2024",
+          "Q3-2023"
+        ],
+        "source_file": "Habib_Metropolitan_Bank_Limited_Quarterly_2024-09-30_chunks.md"
+      },
+      "score": 0.6625098167023852
+    },
+    {
+      "node_id": "Habib_Metropolitan_Bank_Limited_Quarterly_2024-03-31_chunks_chunk_0",
+      "text": "--- Metadata Context ---\nentity_name: Habib Metropolitan Bank Limited\nticker: HMB\nfiling_type: quarterly\nfiling_period: Q1-2024, Q1-2023\nfinancial_data: yes\nfinancial_statement_scope: consolidated\nis_statement: yes\nstatement_type: balance_sheet\nis_note: no\nauditor_report: no\ndirector_report: no\nannual_report_discussion: no\n--- End Context ---\n\n# Habib Metropolitan Bank Ltd.\n\n# Subsidiary of Habib Bank AG Zurich\n\n# Consolidated Accounts for the quarter ended 31 March 2024\n\n# (Un-audited)\n\n# CONSOLIDATED CONDENSED INTERIM STATEMENT OF FINANCIAL POSITION AS AT 31 MARCH 2024\n\n|Note|31 March 2024 (Un-Audited)|31 December 2023 (Audited)|\n|---|---|---|\n|ASSETS| | |\n|Cash and balances with treasury banks|104,981,308|91,467,062|\n|Balances with other banks|10,918,562|21,269,948|\n|Lendings to financial institutions|5,177,650|5,496,284|\n|Investments|893,092,141|920,634,761|\n|Advances|457,420,450|433,632,602|\n|Property and equipment|16,335,417|15,782,163|\n|Right-of-use assets|7,984,977|7,625,010|\n|Intangible assets|382,295|368,333|\n|Deferred tax assets|4,677,464|5,265,313|\n|Other assets|77,402,015|72,121,302|\n|Total Assets|1,578,372,279|1,573,662,778|\n|LIABILITIES| | |\n|Bills payable|17,627,500|28,352,699|\n|Borrowings|287,824,012|335,270,858|\n|Deposits and other accounts|1,084,833,696|1,011,485,773|\n|Lease liabilities|9,623,087|9,086,176|\n|Sub-ordinated debts|\u2013|\u2013|\n|Deferred tax liabilities|\u2013|\u2013|\n|Other liabilities|79,970,824|91,278,065|\n|Total Liabilities|1,479,879,119|1,475,473,571|\n|NET ASSETS|98,493,160|98,189,207|\n|REPRESENTED BY| | |\n|Share capital|10,478,315|10,478,315|\n|Reserves|32,612,141|31,432,768|\n|Surplus / (deficit) on revaluation of assets|4,407,415|4,829,814|\n|Unappropriated profit|46,591,883|47,254,919|\n| |94,089,754|93,995,816|\n|Non-controlling interest|4,403,406|4,193,391|\n| |98,493,160|98,189,207|\n\nCONTINGENCIES AND COMMITMENTS\n\nThe annexed notes 1 to 40 form an integral part of these consolidated condensed interim financial statements.\n\nFUZAIL ABBAS      KHURRAM SHAHZAD KHAN   MOHSIN A. NATHANI  RASHID AHMED JAFER  MOHAMEDALI R. HABIB\n\nChief Financial Officer President & Chief Executive Officer Director Director Chairman\n\n---",
+      "metadata": {
+        "chunk_number": 0,
+        "financial_data": "yes",
+        "financial_statement_scope": "consolidated",
+        "is_statement": "yes",
+        "statement_type": "balance_sheet",
+        "is_note": "no",
+        "note_link": "none",
+        "auditor_report": "no",
+        "director_report": "no",
+        "annual_report_discussion": "no",
+        "file_name": "Habib_Metropolitan_Bank_Limited_Quarterly_2024-03-31_chunks.md",
+        "ticker": "HMB",
+        "entity_name": "Habib Metropolitan Bank Limited",
+        "filing_type": "quarterly",
+        "filing_period": [
+          "Q1-2024",
+          "Q1-2023"
+        ],
+        "source_file": "Habib_Metropolitan_Bank_Limited_Quarterly_2024-03-31_chunks.md"
+      },
+      "score": 0.6535364597008597
+    }
+  ],
+  "node_count": 10,
+  "server_version": "enhanced",
+  "save_time": "2025-06-04T13:08:54.562389"
+}

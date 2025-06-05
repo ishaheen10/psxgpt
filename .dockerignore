@@ -40,4 +40,7 @@ Thumbs.db
 *.pdf
 *.zip
 *.tar.gz
-uv.lock 
+uv.lock
+
+# Local config files that conflict with packages
+chainlit_config.py 

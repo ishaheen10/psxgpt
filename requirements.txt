@@ -1,19 +1,6 @@
-playwright
-llama-cloud-services
-llama-index-core
-llama-index-readers-file
-python-dotenv
-llama_index.llms.gemini
-llama_index.embeddings.google_genai
-llama_index.llms.google_genai
-mcp[cli,core]>=1.6.0
+# Minimal dependencies for Chainlit client only
 chainlit
 anthropic
-literalai
-asyncpg
-supabase>=2.0.0
-tqdm>=4.65.0
-numpy>=1.24.0
-fastapi
-uvicorn
-pydantic>=2.0.0 
+python-dotenv
+pydantic>=2.0.0
+llama_index.llms.google_genai 

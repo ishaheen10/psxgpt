@@ -64,6 +64,12 @@ edit_message = true
     # Please don't comment this line for now, we need it to parse the executable name.
     allowed_executables = [ "npx", "uvx", "python3" ]
 
+# MCP Server Configuration for Cloudflare Deployed PSX Server
+[[mcp.servers]]
+name = "psx-cloudflare-server"
+url = "https://psx-mcp-server-v2.isfandiyar-shaheen.workers.dev/sse"
+transport = "sse"
+
 [UI]
 # Name of the assistant.
 name = "Assistant"

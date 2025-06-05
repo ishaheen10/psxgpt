@@ -3,6 +3,10 @@ main = "src/index.ts"
 compatibility_date = "2024-12-01"
 compatibility_flags = ["nodejs_compat"]
 
+# Environment variables (non-sensitive) - None currently
+# [vars]
+# SUPABASE_URL moved to secrets for consistency
+
 # Durable Object binding required for MCP Agent
 [[durable_objects.bindings]]
 name = "MCP_OBJECT"

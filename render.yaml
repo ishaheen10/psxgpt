@@ -1,0 +1,33 @@
+services:
+  - type: web
+    name: psx-financial-assistant
+    runtime: docker
+    plan: starter  # You can upgrade to a higher plan if needed
+    region: oregon  # Choose your preferred region
+    dockerfilePath: ./Dockerfile
+    envVars:
+      - key: ANTHROPIC_API_KEY
+        sync: false  # Set this manually in Render dashboard
+      - key: GEMINI_API_KEY
+        sync: false  # Set this manually in Render dashboard
+      - key: GOOGLE_API_KEY
+        sync: false  # Set this manually in Render dashboard
+      - key: LLAMA_CLOUD_API_KEY
+        sync: false  # Set this manually in Render dashboard
+      - key: CHAINLIT_AUTH_SECRET
+        generateValue: true  # Render will generate a random secret
+      - key: PYTHONPATH
+        value: /app
+      - key: PYTHONUNBUFFERED
+        value: "1"
+    healthCheckPath: /
+    autoDeploy: true  # Automatically deploy on git push
+    buildFilter:
+      paths:
+      - "**/*.py"
+      - "requirements.txt"
+      - "Dockerfile"
+      - ".chainlit/**"
+      ignoredPaths:
+      - "**/*.md"
+      - "*.md" 

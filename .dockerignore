@@ -1,0 +1,43 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.venv/
+.env
+env.example
+
+# Development files
+.git/
+.gitignore
+.DS_Store
+.cursor/
+
+# Local data directories (these should not be included in production)
+psx_bank_reports/
+psx_bank_markdown/
+psx_markdown_clean/
+psx_bank_metadata/
+output_metadata/
+gemini_index_metadata/
+simplified_contexts/
+retrieved_contexts/
+enhanced_client_contexts/
+.files/
+
+# Documentation
+*.md
+!chainlit.md
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+Thumbs.db
+
+# Large files
+*.pdf
+*.zip
+*.tar.gz
+uv.lock 

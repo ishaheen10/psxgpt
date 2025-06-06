@@ -54,6 +54,7 @@ class EnhancedResourceManager {
   private tickerData: PSXCompany[] = [];
   private initialized: boolean = false;
   private initializationTime: string = "";
+  private geminiApiKey: string | null = null;
 
   constructor(private env: Env) {}
 
@@ -73,6 +74,13 @@ class EnhancedResourceManager {
         this.env.SUPABASE_SERVICE_ROLE_KEY
       );
       console.log('✅ Supabase client initialized successfully');
+
+      if (this.env.GEMINI_API_KEY) {
+        this.geminiApiKey = this.env.GEMINI_API_KEY;
+        console.log('✅ Gemini API key loaded');
+      } else {
+        console.warn('⚠️ GEMINI_API_KEY not provided - vector search may be unavailable');
+      }
 
       // Load ticker data for all 13 banks in our dataset
       this.tickerData = [
@@ -131,6 +139,10 @@ class EnhancedResourceManager {
     return this.supabase;
   }
 
+  get getGeminiApiKey(): string | null {
+    return this.geminiApiKey;
+  }
+
   get getTickers(): PSXCompany[] {
     return this.tickerData;
   }
@@ -140,8 +152,39 @@ class EnhancedResourceManager {
       initialized: this.initialized,
       supabase_connected: this.supabase !== null,
       companies_loaded: this.tickerData.length,
-      initialization_time: this.initializationTime
+      initialization_time: this.initializationTime,
+      gemini_configured: this.geminiApiKey !== null
     };
+  }
+}
+
+// ─────────────────────────── Enhanced Search Functions ───────────────────────
+
+async function getGeminiEmbedding(text: string, apiKey: string): Promise<number[] | null> {
+  try {
+    const response = await fetch(
+      `https://generativelanguage.googleapis.com/v1beta/models/text-embedding-004:embedText?key=${apiKey}`,
+      {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({ text })
+      }
+    );
+
+    if (!response.ok) {
+      console.error('Gemini embedding API error:', response.status, response.statusText);
+      return null;
+    }
+
+    const data = await response.json();
+    if (data && data.embedding && Array.isArray(data.embedding.values)) {
+      return data.embedding.values as number[];
+    }
+
+    return null;
+  } catch (err) {
+    console.error('Gemini embedding fetch failed:', err);
+    return null;
   }
 }
 
@@ -165,44 +208,40 @@ async function searchFinancialData(
       };
     }
 
-    const supabase = resourceManager.getSupabase;
-    
-    // Build base query for semantic search with vector similarity
-    let supabaseQuery = supabase
-      .from('psx_financial_chunks')
-      .select('text, metadata, embedding')
-      .limit(topK);
+  const supabase = resourceManager.getSupabase;
+  const geminiKey = resourceManager.getGeminiApiKey;
 
-    // Apply metadata filters with enhanced logic (similar to local server)
-    if (metadataFilters && Object.keys(metadataFilters).length > 0) {
-      for (const [key, value] of Object.entries(metadataFilters)) {
-        if (value !== null && value !== undefined && value !== "") {
-          // Handle filing_period array with OR logic
-          if (key === "filing_period" && Array.isArray(value)) {
-            // For filing_period arrays, create OR conditions
-            if (value.length > 0) {
-              const periodConditions = value.map(period => `metadata->>'filing_period' @> '["${period}"]'`);
-              supabaseQuery = supabaseQuery.or(periodConditions.join(','));
-              console.log(`Added filing_period OR filter: ${value.join(', ')}`);
-            }
-          } else {
-            // Standard metadata filtering
-            supabaseQuery = supabaseQuery.eq(`metadata->>${key}`, value);
-            console.log(`Added standard filter: ${key} = ${value}`);
-          }
-        }
-      }
-    }
+  if (!geminiKey) {
+    return {
+      nodes: [],
+      error: 'GEMINI_API_KEY not configured',
+      error_type: 'configuration_error'
+    };
+  }
 
-    // Execute the query
-    const { data: chunks, error } = await supabaseQuery;
+  const embedding = await getGeminiEmbedding(searchQuery, geminiKey);
+  if (!embedding) {
+    return {
+      nodes: [],
+      error: 'Failed to generate embedding',
+      error_type: 'embedding_error'
+    };
+  }
+
+  const matchCount = Math.min(100, topK * 5);
+  const { data: chunks, error } = await supabase
+    .rpc('match_financial_chunks', {
+      query_embedding: embedding,
+      match_threshold: 0.5,
+      match_count: matchCount
+    });
 
     if (error) {
       console.error('💥 Supabase query error:', error);
       return {
         nodes: [],
         error: `Search failed: ${error.message}`,
-        error_type: "search_error",
+        error_type: 'search_error',
         search_query: searchQuery,
         filters_applied: metadataFilters
       };
@@ -218,44 +257,43 @@ async function searchFinancialData(
       };
     }
 
-    // TODO: Implement actual vector similarity search with embeddings
-    // For now, use text-based relevance scoring
-    const scoredNodes: NodeResult[] = chunks.map((chunk: any, index: number) => {
-      // Simple relevance scoring based on text matching
-      const content = chunk.text || '';
-      const queryTerms = searchQuery.toLowerCase().split(' ');
-      const contentLower = content.toLowerCase();
-      
-      let score = 0.5; // Base score
-      for (const term of queryTerms) {
-        if (contentLower.includes(term)) {
-          score += 0.1;
+    let filtered = chunks as any[];
+    if (metadataFilters && Object.keys(metadataFilters).length > 0) {
+      filtered = chunks.filter((chunk: any) => {
+        const meta = chunk.metadata || {};
+        for (const [key, value] of Object.entries(metadataFilters)) {
+          if (value === undefined || value === null || value === '') continue;
+          if (key === 'filing_period' && Array.isArray(value)) {
+            const m = meta[key];
+            const periods = Array.isArray(m) ? m : [m];
+            if (!periods.some((p: any) => value.includes(p))) return false;
+          } else if (meta[key] != value) {
+            return false;
+          }
         }
-      }
-      
-      // Decay score based on position to simulate ranking
-      score = Math.max(0.1, score - (index * 0.02));
+        return true;
+      });
+    }
 
-      return {
-        node_id: `chunk_${index + 1}`,
-        text: content,
-        metadata: chunk.metadata || {},
-        score: Math.min(1.0, score)
-      };
-    });
+    filtered.sort((a, b) => (b.similarity || 0) - (a.similarity || 0));
+    const sliced = filtered.slice(0, topK);
 
-    // Sort by score descending
-    scoredNodes.sort((a, b) => (b.score || 0) - (a.score || 0));
+    const resultNodes: NodeResult[] = sliced.map((chunk: any) => ({
+      node_id: chunk.node_id,
+      text: chunk.text,
+      metadata: chunk.metadata || {},
+      score: chunk.similarity
+    }));
 
     const executionTime = Date.now() - startTime;
-    console.log(`✅ Search completed in ${executionTime}ms: ${scoredNodes.length} nodes found`);
+    console.log(`✅ Search completed in ${executionTime}ms: ${resultNodes.length} nodes found`);
 
     return {
-      nodes: scoredNodes,
-      total_found: scoredNodes.length,
+      nodes: resultNodes,
+      total_found: resultNodes.length,
       search_query: searchQuery,
       filters_applied: metadataFilters,
-      context_file: null // TODO: Implement context saving
+      context_file: null
     };
 
   } catch (error) {
